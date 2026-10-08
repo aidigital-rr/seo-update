@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-10-08T11:28:36.645956+00:00",
+  "updatedAt": "2026-10-08T11:55:07.178447+00:00",
   "items": [
+    {
+      "title": "Google Local Service Ads Expands How Leads Work Information",
+      "link": "https://www.seroundtable.com/google-local-service-ads-how-leads-work-42259.html",
+      "date": "2026-10-08T11:41:00+00:00",
+      "description": "Google has updated the how leads work help documentation within Local Service Ads with a lot more detail. The changes are meaningful, including what counts as a billable phone lead and how Google handles lead quality/credits.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Merchant Center May Disapprove Products That Change Frequently",
+      "link": "https://www.seroundtable.com/google-merchant-center-disapprove-products-chnage-fast-42251.html",
+      "date": "2026-10-08T11:31:00+00:00",
+      "description": "Google updated its help document in Merchant Center to say that if a product changes more than once per day, it may be \"disapproved instead of updated if we detect a mismatch.\"",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads AI Max Columns: Brand Inclusion, Commission, Locations Of Interest & Optimized Targeting",
+      "link": "https://www.seroundtable.com/google-ads-new-ai-max-columns-42256.html",
+      "date": "2026-10-08T11:21:00+00:00",
+      "description": "Google Ads is adding new AI Max related columns to the Google Ads reporting console. The columns include brand inclusions, locations of interest, commission and optimized targeting.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Self-Services Conversion Lift Measurement",
+      "link": "https://www.seroundtable.com/google-ads-conversion-lift-measurement-self-service-42250.html",
+      "date": "2026-10-08T11:11:00+00:00",
+      "description": "Google Ads now lets advertisers set up Conversion Lift measurement themselves. Google updated its help documentation to say that you no longer need a Google Ads representative to set up Conversion Lift measurement; you just need at least 1,000 observed conversions and a $5,000 budget.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google September 2026 Spam Update Has Finished Rolling Out",
       "link": "https://www.seroundtable.com/google-september-2026-spam-update-done-42235.html",
@@ -384,18 +432,6 @@
       ]
     },
     {
-      "title": "Google Email Shares Number Of Preferred Source Subscribers",
-      "link": "https://www.seroundtable.com/google-preferred-source-subscribers-email-42244.html",
-      "date": "2026-10-06T16:15:00+00:00",
-      "description": "Google Search Console is sending out emails informing site owners how many people are subscribing or following them as a preferred source on Google. It says \"people are choosing domain as a preferred source\" and then lists the number of \"Preferred source selections.\"",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Search Console Lets You Filter By Multiple Countries via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-search-console-multiple-countries-filter/592065/",
       "date": "2026-10-06T15:53:04+00:00",
@@ -427,18 +463,6 @@
       "tags": [
         "SEO",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Daily Search Forum Recap: October 6, 2026",
-      "link": "https://www.seroundtable.com/recap-10-06-2026-42240.html",
-      "date": "2026-10-06T14:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -486,30 +510,6 @@
         "SEO",
         "Google",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Final Phase Of Google September 2026 Spam Update Rollout Oct 4-6?",
-      "link": "https://www.seroundtable.com/google-september-2026-spam-update-phase-3-42239.html",
-      "date": "2026-10-06T11:55:00+00:00",
-      "description": "I believe we are seeing the final phase of the Google September 2026 Spam update rolling out between October 4th and October 6th, today. The update should be done any day now, so there may be another spike in volatility, but I suspect this is it - we are pretty much done with this spam update.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Updated Google Maps Policy: What Merchants Can't Post In Listings Or Posts",
-      "link": "https://www.seroundtable.com/google-maps-policy-listings-or-posts-42228.html",
-      "date": "2026-10-06T11:51:00+00:00",
-      "description": "Google has updated the Google Maps and Business Profiles Prohibited & restricted content policy's advertising and solicitation section to list what merchants and business owners cannot post on their listings and posts.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
