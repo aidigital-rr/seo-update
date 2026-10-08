@@ -11,6 +11,11 @@ SOURCES = [
     ("Search Engine Land", "https://searchengineland.com/feed", ["SEO", "Google", "AI Search", "Ads"]),
 ]
 
+# Keep fallback-heavy sources from dominating the combined feed.
+SOURCE_LIMITS = {
+    "Search Engine Land": 20,
+}
+
 SEL_FALLBACKS = [
     ("Legacy RSS", "https://feeds.searchengineland.com/searchengineland"),
     ("Google News RSS fallback", "https://news.google.com/rss/search?q=" + urllib.parse.quote("site:searchengineland.com") + "&hl=en-US&gl=US&ceid=US:en"),
@@ -245,6 +250,15 @@ all_items = []
 states = []
 for source in SOURCES:
     items, state = fetch_source(source)
+
+    # Search Engine Land may return a large Google News result set.
+    # Keep only the newest N items for that source before combining feeds.
+    limit = SOURCE_LIMITS.get(source[0])
+    if limit:
+        items = sorted(items, key=lambda x: x["date"], reverse=True)[:limit]
+        state["count"] = len(items)
+        state["limited_to"] = limit
+
     all_items.extend(items)
     states.append(state)
 
