@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-08T11:55:07.178447+00:00",
+  "updatedAt": "2026-10-08T12:35:23.297570+00:00",
   "items": [
+    {
+      "title": "Why Google Search Updates Cannot Be Judged During Early Rollout via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/why-google-search-updates-cannot-be-judged-during-early-rollout/591345/",
+      "date": "2026-10-08T12:00:19+00:00",
+      "description": "Avoid costly site changes during a Google spam update by separating early ranking volatility from lasting losses and setting clear milestones for leadership. The post Why Google Search Updates Cannot Be Judged During Early Rollout appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Google Local Service Ads Expands How Leads Work Information",
       "link": "https://www.seroundtable.com/google-local-service-ads-how-leads-work-42259.html",
@@ -47,6 +58,18 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "Google September 2026 spam update done rolling out - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHFUTE5rdlJwQ2U0aVVkTjc4X3RSR3JJeXN2MWI4TGphdkhvYTVGSkx6T0lqUDZfemVIQkZfSm1yWjJQbDZJSUdtNWtHSDVLWFJHdjNNSVI2UVJYdEhzSWN6cXdYZ00yeXNhT1hZRm9mb1VXSW5LVFRjRGMtYjRsMmo1U1dtZnJQOWhoSDVfUQ?oc=5",
+      "date": "2026-10-08T09:33:03+00:00",
+      "description": "Google September 2026 spam update done rolling out &nbsp;&nbsp; Search Engine Land",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
@@ -547,17 +570,6 @@
       ]
     },
     {
-      "title": "Google’s Mueller Says AI Crawlers Access Sitemaps & RSS In His Logs via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/",
-      "date": "2026-10-05T22:47:18+00:00",
-      "description": "Google's John Mueller says AI training crawlers usually don't offer sitemap submission and suggests default sitemap names or RSS feeds to help them find sites. The post Google&#8217;s Mueller Says AI Crawlers Access Sitemaps &#038; RSS In His Logs appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google changes view-through conversion reporting for Demand Gen Display ads - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTVN6SUV5aV9wTmpIS25ieVpXSXVWRWM0c1JRRWZtMzFhaGdKVG9rWFJESm9ZSHF0dnBKemVNa1JDNmhvNjVqTHVOeDlaWGQ2cHYxZmszWUxTSHJVZDBoWEVwRVE0SGNuXzJTcWRpWnZKLURnUGUwd0d2VXhaOUVHeENtV3NaOHNjQlpFY0QzMTBMdHJ5Q1FnaVVZODJTNVdCUm1UOTRnXzZ1dTI1Y1ZZRQ?oc=5",
       "date": "2026-10-05T16:19:30+00:00",
@@ -634,18 +646,6 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
       "date": "2026-10-02T16:16:10+00:00",
       "description": "The latest jobs in search marketing &nbsp;&nbsp; Search Engine Land",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads loosens business name rules for some advertisers - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOU1fSmtYcFhiNlR1LTcycThEbEFrUDRJYnN5YXJJZmk3Mml1ZUFRRGVRcUU0MHd0R0lWZ2RlbkJ3ajdrNkM4VElRM25MbGdNTkpST2txVzJ3TW5ESDl2ZnVEdzhwMGwxT0Y4THF5bUNwZUFZSmR3ZS16cU5rX0stWTdhWTNnT0VUaG40QVZhMGRLM2hmcnMwcG53cw?oc=5",
-      "date": "2026-10-02T16:09:40+00:00",
-      "description": "Google Ads loosens business name rules for some advertisers &nbsp;&nbsp; Search Engine Land",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
