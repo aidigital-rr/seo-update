@@ -5,10 +5,10 @@ from html.parser import HTMLParser
 from pathlib import Path
 
 SOURCES = [
-    ("Search Engine Journal", "https://www.searchenginejournal.com/feed/", ["SEO", "AI Search", "Ads"]),
+    ("Search Engine Journal", "https://www.searchenginejournal.com/feed/", ["SEO", "AI Search"]),
     ("Google Search Central", "https://developers.google.com/search/blog/feed.xml", ["Google", "SEO", "Technical"]),
     ("Search Engine Roundtable", "https://www.seroundtable.com/index.xml", ["Google", "SEO", "Technical"]),
-    ("Search Engine Land", "https://searchengineland.com/feed", ["SEO", "Google", "AI Search", "Ads"]),
+    ("Search Engine Land", "https://searchengineland.com/feed", ["SEO", "Google", "AI Search"]),
 ]
 
 # Keep fallback-heavy sources from dominating the combined feed.
@@ -175,7 +175,7 @@ def parse_sel_html(raw):
             "date": parse_date(x["date"]),
             "description": "",
             "source": "Search Engine Land",
-            "tags": ["SEO", "Google", "AI Search", "Ads"],
+            "tags": ["SEO", "Google", "AI Search"],
         })
     return items
 
