@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-08T12:35:23.297570+00:00",
+  "updatedAt": "2026-10-08T13:01:55.800689+00:00",
   "items": [
+    {
+      "title": "Google Completes September 2026 Spam Update After Nearly 14 Days via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-september-2026-spam-update-complete/592283/",
+      "date": "2026-10-08T12:58:07+00:00",
+      "description": "Google's latest spam update has finished rolling out after nearly two weeks, taking longer than any of the three spam updates it ran this year. The post Google Completes September 2026 Spam Update After Nearly 14 Days appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Why Google Search Updates Cannot Be Judged During Early Rollout via @sejournal, @TaylorDanRW",
       "link": "https://www.searchenginejournal.com/why-google-search-updates-cannot-be-judged-during-early-rollout/591345/",
@@ -540,17 +551,6 @@
       "link": "https://www.searchenginejournal.com/google-explains-couldnt-fetch-sitemap-errors/592040/",
       "date": "2026-10-06T09:52:43+00:00",
       "description": "Google admits a \"couldn't fetch\" sitemap error may have nothing to do with whether Google can actually fetch it. The post Google Explains The &#8220;Couldn&#8217;t Fetch&#8221; Sitemap Errors appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "OpenAI To Watermark ChatGPT Text In The EU, Opens API Opt-In via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/openai-to-watermark-chatgpt-text-in-the-eu-opens-api-opt-in/592014/",
-      "date": "2026-10-06T01:07:32+00:00",
-      "description": "OpenAI will add an invisible watermark to ChatGPT and Codex text in the EU. Its tests show editing can weaken it. The post OpenAI To Watermark ChatGPT Text In The EU, Opens API Opt-In appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
