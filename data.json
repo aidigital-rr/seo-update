@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-08T15:30:33.038387+00:00",
+  "updatedAt": "2026-10-08T15:57:02.419293+00:00",
   "items": [
+    {
+      "title": "Google Reveals The UGC Fresh Data Program",
+      "link": "https://www.seroundtable.com/google-ugc-fresh-data-program-42265.html",
+      "date": "2026-10-08T15:15:00+00:00",
+      "description": "Google has announced its UGC Fresh Data Program, which Google says \"is an initiative designed to help platforms display fresh, high quality, and authentic user-generated content (UGC) across various features on Search.\" Basically, it seems like an API UCG sites like Reddit can use to push content to Google Search faster.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google Now Has The Math To Rank Without An Index, And The Results Page Does Not Survive It via @sejournal, @DuaneForrester",
       "link": "https://www.searchenginejournal.com/google-now-has-the-math-to-rank-without-an-index-and-the-results-page-does-not-survive-it/591945/",
@@ -10,6 +22,18 @@
       "tags": [
         "SEO",
         "AI Search"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: October 8, 2026",
+      "link": "https://www.seroundtable.com/recap-10-08-2026-42260.html",
+      "date": "2026-10-08T14:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -407,22 +431,22 @@
       ]
     },
     {
-      "title": "Google Search Crawl Rate Doc Adds Retry-After HTTP & More",
-      "link": "https://www.seroundtable.com/google-crawl-rate-documentation-update-42247.html",
-      "date": "2026-10-06T18:59:00+00:00",
-      "description": "Google has just pushed some updates to the reduce the Google crawl rate documentation. Most of the changes are just organizational to the content on the page but under the \"Urgently reduce crawler traffic (for emergencies)\" section, Google added new information on how to use Retry-After HTTP header.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Ads tests Video Campaign Groups for cross-campaign reach and frequency - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORmRzVC1KWHFwSGdvN0d2YUp1ZGtiakY4YTdQdlczS3VEa1FZN09lVG4ydWdSNU9EdHBUNnI5S1FhdHRueDB0UmdDa0w0V1piaHR1azRzV0JFaXBld0R1WTZsbWlBUGpiVFJnc01HSjJOQzV0czJOU1JXdExzb1RFVzFMUlEzb0F3Q2dGcmg4Wm1wVnhxUzBXWWRhN2xaUlRZRWtJS0g4LXdZQnZNd1VxUlpWcw?oc=5",
       "date": "2026-10-06T18:02:28+00:00",
       "description": "Google Ads tests Video Campaign Groups for cross-campaign reach and frequency &nbsp;&nbsp; Search Engine Land",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google rolls out Merchant Center UCP integration hub in the U.S. - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeW92OGdTZkYxVGNhd3FqS29GVktPYzJ6UVlfUmxuLVlfZHlDaVliTTdBNExmMGdmR0ZvTnNFYS1RVm96S2hQYmt2U0FtSEUyUXZHa2d4S2I0dVBoSkd5S29adzF4SUxVMnR2RHlMcGZSWGVfbl9zNkpQenNNak5QbkoySzVyekxSNWlpQU44blRfVnBCV0lMdUdJWkkzS3BG?oc=5",
+      "date": "2026-10-06T17:35:03+00:00",
+      "description": "Google rolls out Merchant Center UCP integration hub in the U.S. &nbsp;&nbsp; Search Engine Land",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -450,18 +474,6 @@
       "tags": [
         "SEO",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Nano Banana 2.1 In Google AI Mode In Search",
-      "link": "https://www.seroundtable.com/nano-banana-21-google-ai-mode-42246.html",
-      "date": "2026-10-06T17:10:00+00:00",
-      "description": "Google released Nano Banana 2.1 today, and it is already working within AI Mode in Google Search. Nano Banana 2.1 is Google's latest image generation and editing model.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -634,18 +646,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOGlzYTdpbE8yRG9TR0xxLWNJa01GT2hIbktlSEIxSmpSS0xTZzhKUVphOXJRWXg4bFJQLWVCU0xMWXpGOXVxRkwyMWpRTHByNlp1MXZBeHlab3hSNFB0NlFWaVVlQk5XV01keS1ZMEhnNmRLZS1xaXczM0ZsRERPRlZxeWVkMnN6RVpfdWZTRGtSZndKTkJTbGFkU2pFcjRwWUVfcmtXd2s?oc=5",
       "date": "2026-10-05T11:00:00+00:00",
       "description": "AI usage surges 6X for local search, fragmenting the digital ecosystem &nbsp;&nbsp; Search Engine Land",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "The latest jobs in search marketing - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
-      "date": "2026-10-02T16:16:10+00:00",
-      "description": "The latest jobs in search marketing &nbsp;&nbsp; Search Engine Land",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
