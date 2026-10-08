@@ -12,8 +12,10 @@ SOURCES = [
 ]
 
 SEL_FALLBACKS = [
-    "https://searchengineland.com/latest-posts",
-    "https://news.google.com/rss/search?q=" + urllib.parse.quote("site:searchengineland.com") + "&hl=en-US&gl=US&ceid=US:en",
+    ("Legacy RSS", "https://feeds.searchengineland.com/searchengineland"),
+    ("Google News RSS fallback", "https://news.google.com/rss/search?q=" + urllib.parse.quote("site:searchengineland.com") + "&hl=en-US&gl=US&ceid=US:en"),
+    ("Google News RSS title fallback", "https://news.google.com/rss/search?q=" + urllib.parse.quote("Search Engine Land") + "&hl=en-US&gl=US&ceid=US:en"),
+    ("Bing News RSS fallback", "https://www.bing.com/news/search?q=" + urllib.parse.quote("site:searchengineland.com") + "&format=rss"),
 ]
 
 UA = "Mozilla/5.0 (compatible; SEO-Updates-GitHub/3.0; +https://github.com/)"
@@ -155,6 +157,30 @@ def parse_sel_html(raw):
     return items
 
 
+def resolve_url(url):
+    try:
+        request = urllib.request.Request(url, headers={"User-Agent": UA})
+        with urllib.request.urlopen(request, timeout=20) as response:
+            return response.geturl()
+    except Exception:
+        return url
+
+
+def is_sel_url(url):
+    return "searchengineland.com/" in (url or "").lower()
+
+
+def parse_news_fallback(raw, name, tags):
+    items = parse_xml(raw, name, tags)
+    resolved = []
+    for item in items:
+        final_url = resolve_url(item["link"])
+        if is_sel_url(final_url):
+            item["link"] = final_url
+            resolved.append(item)
+    return resolved
+
+
 def fetch_source(source):
     name, url, tags = source
     try:
@@ -167,25 +193,23 @@ def fetch_source(source):
         if name != "Search Engine Land":
             return [], {"name": name, "ok": False, "count": 0, "method": "RSS", "error": str(exc)}
 
-        # Search Engine Land's RSS endpoint can fail independently of the site itself.
-        # Fall back to its public latest-posts page, then Google News restricted to SEL.
+        # Search Engine Land can return 403 to GitHub Actions IPs even while its public site is healthy.
+        # Try a legacy feed first, then news aggregators and resolve redirects back to SEL.
         errors = [f"RSS: {exc}"]
-        for fallback in SEL_FALLBACKS:
+        for method, fallback in SEL_FALLBACKS:
             try:
                 raw, content_type = fetch_bytes(fallback)
-                if "news.google.com" in fallback:
-                    items = parse_xml(raw, name, tags)
-                    items = [x for x in items if "searchengineland.com/" in x["link"]]
-                    method = "Google News RSS fallback"
+                if "news.google.com" in fallback or "bing.com/news" in fallback:
+                    items = parse_news_fallback(raw, name, tags)
                 else:
-                    items = parse_sel_html(raw)
-                    method = "Search Engine Land latest-posts fallback"
+                    items = parse_xml(raw, name, tags)
+                    items = [x for x in items if is_sel_url(x["link"])]
                 if items:
                     return items, {"name": name, "ok": True, "count": len(items), "method": method, "fallback": True}
-                errors.append(f"{fallback}: no articles parsed")
+                errors.append(f"{fallback}: no Search Engine Land articles parsed")
             except Exception as fallback_exc:
                 errors.append(f"{fallback}: {fallback_exc}")
-        return [], {"name": name, "ok": False, "count": 0, "method": "RSS + fallback", "error": " | ".join(errors)}
+        return [], {"name": name, "ok": False, "count": 0, "method": "RSS + multi-source fallback", "error": " | ".join(errors)}
 
 
 all_items = []
