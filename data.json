@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T13:01:55.800689+00:00",
+  "updatedAt": "2026-10-08T13:32:12.897429+00:00",
   "items": [
     {
       "title": "Google Completes September 2026 Spam Update After Nearly 14 Days via @sejournal, @MattGSouthern",
@@ -21,6 +21,18 @@
       "tags": [
         "SEO",
         "AI Search"
+      ]
+    },
+    {
+      "title": "Google Search Issuing More Google Manual Action Penalties?",
+      "link": "https://www.seroundtable.com/google-search-manual-action-spike-42258.html",
+      "date": "2026-10-08T11:51:00+00:00",
+      "description": "Google may be issuing more manual action penalties over the past few weeks than it has over the weeks before that. The increase in manual actions seems to have started several weeks ago, but more so recently, according to some SEOs.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -439,18 +451,6 @@
       "tags": [
         "SEO",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Google Search Profiles Expand To India & Canada With Brazil Coming Soon",
-      "link": "https://www.seroundtable.com/google-search-profiles-india-canada-brazil-42245.html",
-      "date": "2026-10-06T16:36:00+00:00",
-      "description": "Google is expanding the Search profiles feature to more countries. Starting today, those in India and Canada are now eligible for a Search profile in Google Search. And soon, Google will also support users in Brazil.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
