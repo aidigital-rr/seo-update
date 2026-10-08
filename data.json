@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T21:28:09.973666+00:00",
+  "updatedAt": "2026-10-08T21:55:18.875167+00:00",
   "items": [
     {
       "title": "AI In Regulated Paid Media: The Default Settings That Put Compliance At Risk via @sejournal, @timothyjjensen",
@@ -523,18 +523,6 @@
       ]
     },
     {
-      "title": "Google shares preferred source follower data via email - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQXF5dVV4R3pENnZCaFNCOWRXSXBfS0ZzUzlscC1FUFBjVTQ0WGNraEpwR2RJRVZvUndVN1Y0djk4eEVMVmUzV3Rwc01YczlJZklrWEZaUWJCWjFXdWlEVjBrVWpFcHAzUU51ZjU2bEx6VHJHa3RmLTNhQjhqaTBMMXhUOE1ZSmVaVVEtTEZlZExSUzk5?oc=5",
-      "date": "2026-10-06T16:28:34+00:00",
-      "description": "Google shares preferred source follower data via email &nbsp;&nbsp; Search Engine Land",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google Search Console Lets You Filter By Multiple Countries via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-search-console-multiple-countries-filter/592065/",
       "date": "2026-10-06T15:53:04+00:00",
@@ -646,6 +634,18 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeVR0b1AtM2duTEdyLWMyNmVQVkx4VHExb3E2aUQ5THp5QV92OE14Z1c4T2Q0OFlDbTdxMms5TUJzZUtfV1hiVy1GdnluUWh0SlpKNlRiM0JQZG1rRUhxbVRnNTAzTzNBaUM5SHl0b19wZmRyOU14YUR2Q2dicmUwQw?oc=5",
       "date": "2026-10-05T12:00:00+00:00",
       "description": "Why Google is pushing advertisers toward demand-led budgeting &nbsp;&nbsp; Search Engine Land",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "AI usage surges 6X for local search, fragmenting the digital ecosystem - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOGlzYTdpbE8yRG9TR0xxLWNJa01GT2hIbktlSEIxSmpSS0xTZzhKUVphOXJRWXg4bFJQLWVCU0xMWXpGOXVxRkwyMWpRTHByNlp1MXZBeHlab3hSNFB0NlFWaVVlQk5XV01keS1ZMEhnNmRLZS1xaXczM0ZsRERPRlZxeWVkMnN6RVpfdWZTRGtSZndKTkJTbGFkU2pFcjRwWUVfcmtXd2s?oc=5",
+      "date": "2026-10-05T11:00:00+00:00",
+      "description": "AI usage surges 6X for local search, fragmenting the digital ecosystem &nbsp;&nbsp; Search Engine Land",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
