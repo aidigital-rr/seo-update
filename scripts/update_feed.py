@@ -56,6 +56,78 @@ def child_attr(node, wanted, attr):
     return ""
 
 
+def normalize_image_url(url, base_url=""):
+    """Return a usable absolute HTTP(S) image URL, or an empty string."""
+    url = (url or "").strip()
+    if not url:
+        return ""
+    url = url.replace("&amp;", "&")
+    if url.startswith("//"):
+        url = "https:" + url
+    elif base_url:
+        url = urllib.parse.urljoin(base_url, url)
+    parsed = urllib.parse.urlparse(url)
+    if parsed.scheme not in {"http", "https"} or not parsed.netloc:
+        return ""
+    return url
+
+
+def extract_image(node, article_url=""):
+    """Extract a thumbnail from common RSS/Atom media fields and embedded HTML."""
+    # RSS media:content / media:thumbnail, enclosure, and common image fields.
+    preferred_tags = {"thumbnail", "content", "enclosure", "image"}
+    for child in node.iter():
+        tag = local_name(child.tag)
+        if tag not in preferred_tags:
+            continue
+        mime = (child.attrib.get("type") or child.attrib.get("medium") or "").lower()
+        candidate = (
+            child.attrib.get("url")
+            or child.attrib.get("href")
+            or child.attrib.get("src")
+            or ""
+        )
+        if candidate and (tag in {"thumbnail", "image"} or "image" in mime or not mime):
+            candidate = normalize_image_url(candidate, article_url)
+            if candidate:
+                return candidate
+
+    # Some feeds put the thumbnail inside description/content HTML.
+    for child in node.iter():
+        if local_name(child.tag) not in {"description", "summary", "encoded", "content"}:
+            continue
+        fragment = "".join(child.itertext())
+        match = re.search(
+            r'<img\\b[^>]*(?:src|data-src|data-original)=["\\\']([^"\\\']+)["\\\']',
+            fragment,
+            flags=re.I,
+        )
+        if match:
+            candidate = normalize_image_url(match.group(1), article_url)
+            if candidate:
+                return candidate
+
+    return ""
+
+
+def extract_meta_image(raw, base_url):
+    """Find Open Graph/Twitter image URLs in a fetched article page."""
+    text = raw.decode("utf-8", errors="ignore") if isinstance(raw, bytes) else raw
+    patterns = [
+        r'<meta[^>]+property=["\\\']og:image(?::secure_url)?["\\\'][^>]+content=["\\\']([^"\\\']+)["\\\']',
+        r'<meta[^>]+content=["\\\']([^"\\\']+)["\\\'][^>]+property=["\\\']og:image(?::secure_url)?["\\\']',
+        r'<meta[^>]+name=["\\\']twitter:image(?::src)?["\\\'][^>]+content=["\\\']([^"\\\']+)["\\\']',
+        r'<meta[^>]+content=["\\\']([^"\\\']+)["\\\'][^>]+name=["\\\']twitter:image(?::src)?["\\\']',
+    ]
+    for pattern in patterns:
+        match = re.search(pattern, text, flags=re.I)
+        if match:
+            candidate = normalize_image_url(match.group(1), base_url)
+            if candidate:
+                return candidate
+    return ""
+
+
 def parse_date(value):
     value = clean(value)
     if not value:
@@ -103,6 +175,7 @@ def parse_xml(raw, name, tags):
                 "link": link,
                 "date": parse_date(date),
                 "description": description,
+                "image": extract_image(node, link),
                 "source": name,
                 "tags": tags,
                 "_source_url": source_url,
@@ -129,7 +202,7 @@ class LatestPostsParser(HTMLParser):
         if tag == "article" and not self.in_article:
             self.in_article = True
             self.article_depth = self.depth
-            self.current = {"title": "", "link": "", "date": "", "description": ""}
+            self.current = {"title": "", "link": "", "date": "", "description": "", "image": ""}
         if self.in_article:
             if tag in {"h1", "h2", "h3", "h4"}:
                 self.in_heading = True
@@ -138,6 +211,9 @@ class LatestPostsParser(HTMLParser):
                 href = attrs.get("href", "")
                 if href.startswith("https://searchengineland.com/"):
                     self.current["link"] = href
+            elif tag == "img" and not self.current.get("image"):
+                candidate = attrs.get("src") or attrs.get("data-src") or attrs.get("data-lazy-src") or ""
+                self.current["image"] = normalize_image_url(candidate, "https://searchengineland.com/")
             elif tag == "time":
                 self.in_time = True
                 self.current["date"] = attrs.get("datetime", "")
@@ -174,6 +250,7 @@ def parse_sel_html(raw):
             "link": x["link"],
             "date": parse_date(x["date"]),
             "description": "",
+            "image": x.get("image", ""),
             "source": "Search Engine Land",
             "tags": ["SEO", "Google", "AI Search"],
         })
@@ -269,10 +346,42 @@ for item in all_items:
     unique.setdefault(item["link"], item)
 items = sorted(unique.values(), key=lambda x: x["date"], reverse=True)[:250]
 
+# RSS image fields are preferred. If missing, try article Open Graph/Twitter metadata.
+# Use a short timeout so blocked article pages cannot stall the entire feed update.
+image_fallback_attempts = 0
+image_fallback_found = 0
+for item in items:
+    if item.get("image"):
+        continue
+    if image_fallback_attempts >= 40:
+        break
+    image_fallback_attempts += 1
+    try:
+        request = urllib.request.Request(
+            item["link"],
+            headers={"User-Agent": UA, "Accept": "text/html,application/xhtml+xml"},
+        )
+        with urllib.request.urlopen(request, timeout=7) as response:
+            page_url = response.geturl()
+            content_type = response.headers.get("content-type", "").lower()
+            if "html" not in content_type:
+                continue
+            raw_page = response.read(1_500_000)
+        image_url = extract_meta_image(raw_page, page_url)
+        if image_url:
+            item["image"] = image_url
+            image_fallback_found += 1
+    except Exception:
+        # Missing/blocked metadata is normal; preserve the article and continue.
+        continue
+
 data = {"updatedAt": datetime.now(timezone.utc).isoformat(), "items": items, "sources": states}
 Path("data.json").write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
 
 print(f"Collected {len(items)} unique articles.")
+image_count = sum(1 for item in items if item.get("image"))
+print(f"Articles with image URLs: {image_count}/{len(items)}")
+print(f"Article-page image fallback: {image_fallback_found} found from {image_fallback_attempts} attempts.")
 for state in states:
     status = "OK" if state["ok"] else "FAILED"
     print(f'{state["name"]}: {status} ({state["count"]}) via {state.get("method", "RSS")}')
