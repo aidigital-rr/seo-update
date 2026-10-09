@@ -96,14 +96,20 @@ def extract_image(node, article_url=""):
     for child in node.iter():
         if local_name(child.tag) not in {"description", "summary", "encoded", "content"}:
             continue
-        fragment = "".join(child.itertext())
+        # ElementTree.itertext() drops HTML tags/attributes, so inspect the
+        # serialized element as well as its text content for embedded <img> URLs.
+        fragment = ET.tostring(child, encoding="unicode", method="xml")
+        fragment = fragment.replace("&lt;", "<").replace("&gt;", ">").replace("&quot;", '"')
         match = re.search(
-            r'<img\\b[^>]*(?:src|data-src|data-original)=["\\\']([^"\\\']+)["\\\']',
+            r'<img\\b[^>]*(?:src|data-src|data-original|data-lazy-src|srcset)=["\\\']([^"\\\']+)["\\\']',
             fragment,
             flags=re.I,
         )
         if match:
-            candidate = normalize_image_url(match.group(1), article_url)
+            candidate = match.group(1)
+            if "srcset" in match.group(0).lower():
+                candidate = candidate.split(",")[0].strip().split(" ")[0]
+            candidate = normalize_image_url(candidate, article_url)
             if candidate:
                 return candidate
 
@@ -123,6 +129,19 @@ def extract_meta_image(raw, base_url):
         match = re.search(pattern, text, flags=re.I)
         if match:
             candidate = normalize_image_url(match.group(1), base_url)
+            if candidate:
+                return candidate
+
+    # Some publisher pages expose the main image in JSON-LD instead of OG tags.
+    jsonld_patterns = [
+        r'"image"\\s*:\\s*"([^"]+)"',
+        r'"image"\\s*:\\s*\\[\\s*"([^"]+)"',
+        r'"image"\\s*:\\s*\\{[^}]*"url"\\s*:\\s*"([^"]+)"',
+    ]
+    for pattern in jsonld_patterns:
+        match = re.search(pattern, text, flags=re.I | re.S)
+        if match:
+            candidate = normalize_image_url(match.group(1).replace("\\\\/", "/"), base_url)
             if candidate:
                 return candidate
     return ""
@@ -212,7 +231,15 @@ class LatestPostsParser(HTMLParser):
                 if href.startswith("https://searchengineland.com/"):
                     self.current["link"] = href
             elif tag == "img" and not self.current.get("image"):
-                candidate = attrs.get("src") or attrs.get("data-src") or attrs.get("data-lazy-src") or ""
+                candidate = (
+                    attrs.get("src")
+                    or attrs.get("data-src")
+                    or attrs.get("data-lazy-src")
+                    or attrs.get("data-original")
+                    or ""
+                )
+                if not candidate and attrs.get("srcset"):
+                    candidate = attrs["srcset"].split(",")[0].strip().split(" ")[0]
                 self.current["image"] = normalize_image_url(candidate, "https://searchengineland.com/")
             elif tag == "time":
                 self.in_time = True
