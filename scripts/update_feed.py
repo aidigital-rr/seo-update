@@ -101,7 +101,7 @@ def extract_image(node, article_url=""):
         fragment = ET.tostring(child, encoding="unicode", method="xml")
         fragment = fragment.replace("&lt;", "<").replace("&gt;", ">").replace("&quot;", '"')
         match = re.search(
-            r'<img\\b[^>]*(?:src|data-src|data-original|data-lazy-src|srcset)=["\\\']([^"\\\']+)["\\\']',
+            r'<img\b[^>]*(?:src|data-src|data-original|data-lazy-src|srcset)=["\\\']([^"\\\']+)["\\\']',
             fragment,
             flags=re.I,
         )
@@ -134,14 +134,14 @@ def extract_meta_image(raw, base_url):
 
     # Some publisher pages expose the main image in JSON-LD instead of OG tags.
     jsonld_patterns = [
-        r'"image"\\s*:\\s*"([^"]+)"',
-        r'"image"\\s*:\\s*\\[\\s*"([^"]+)"',
-        r'"image"\\s*:\\s*\\{[^}]*"url"\\s*:\\s*"([^"]+)"',
+        r'"image"\s*:\s*"([^"]+)"',
+        r'"image"\s*:\s*\[\s*"([^"]+)"',
+        r'"image"\s*:\s*\{[^}]*"url"\s*:\s*"([^"]+)"',
     ]
     for pattern in jsonld_patterns:
         match = re.search(pattern, text, flags=re.I | re.S)
         if match:
-            candidate = normalize_image_url(match.group(1).replace("\\\\/", "/"), base_url)
+            candidate = normalize_image_url(match.group(1).replace("\\/", "/"), base_url)
             if candidate:
                 return candidate
     return ""
@@ -310,6 +310,11 @@ def parse_news_fallback(raw, name, tags):
         source_url = (item.pop("_source_url", "") or "").lower()
         source_name = (item.pop("_source_name", "") or "").lower()
         if "searchengineland.com" in source_url or "search engine land" in source_name:
+            # Keep aggregator link if redirect resolution is blocked, but try to resolve
+            # it once here so image metadata can later be fetched from the publisher URL.
+            final_url = resolve_url(item["link"])
+            if is_sel_url(final_url):
+                item["link"] = final_url
             resolved.append(item)
             continue
         final_url = resolve_url(item["link"])
