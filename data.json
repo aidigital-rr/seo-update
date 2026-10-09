@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T09:56:09.180625+00:00",
+  "updatedAt": "2026-10-09T10:30:20.403715+00:00",
   "items": [
     {
       "title": "Claude’s New Rules Target Fake Sources Built To Sway AI Answers via @sejournal, @MattGSouthern",
@@ -42,6 +42,19 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSDQ5c0p3dmtuREk1OG5hTms0S2ptNHF4MVFzUDl1ZWxSMU04b1laX0p5QTVRVUtZRkh2SkI0RVVicWJBYVlPMkN2QmJrbWZKbDducW9uMWNCaFZGYVdvVjdYZkZFMDJ6MFp5aHBpRTM5TzBFejQtS1E0TnZKVzNnVUhubmxZbmdwWkdZM01Rd21zUGVJTWxoOUpfTjRuWng4cDR1NlBya3l4UEJkdUd6TG9Hcw?oc=5",
       "date": "2026-10-08T16:58:18+00:00",
       "description": "Google Ads lets advertisers preview AI Max-generated ad copy before opting in &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Ads introduces commerce audience sharing for retail media - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTThiaUtJU0ZMR09QemozdElKZmxXaDdtVlhvalNsNlVrOXBDcHppeTVHSk81aHg0UXFoV0xfdXJ1OTlhUHJ0RHZqWFM5MlFBZ01oaFpfenY1TEgwb2JhWS1ja0xBcklYRUg3dDEyQl8ybGdJeC1RTUZNQnVCSWZiUUdfeHZlRUpqSndUdDhteU9TUHBzVlJFNS1ndUpHdnhBdXc?oc=5",
+      "date": "2026-10-08T16:35:54+00:00",
+      "description": "Google Ads introduces commerce audience sharing for retail media &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -499,7 +512,7 @@
       "link": "https://www.searchenginejournal.com/wordpress-releases-canonical-mcp-adapter-plugin/592159/",
       "date": "2026-10-07T10:48:53+00:00",
       "description": "WordPress released a canonical MCP Adapter that connects AI with sites while maintaining compatibility across MCP versions. The post WordPress Releases Canonical MCP Adapter Plugin appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/wordpress-canonical-mcp-adapter-187.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -688,19 +701,6 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNanBDUWtlSTFvYkRIdm1nRk9uY05uVnRNeGZLZ2pUWEdLM0VZbExkTVVLUjRhOXRiQmxJd2QzNzdTYzhYWmZZYTVKRGRiUDNoYmFMQWExMmN6UE1VRTBXdUR5ODJ4d3VIYmlMYktPRnVyYzR1NmoxYktMLUQxN1g1NzhlbElRdDJRdTdwZ2FlNWY4d09DeXM3bzBXalQ?oc=5",
       "date": "2026-10-05T16:05:17+00:00",
       "description": "OpenAI brings visual ads and expanded measurement to ChatGPT &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Search shares data on how long crawling, indexing and serving takes - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTmNvQ25udnBkelFzVTRzc3F4NU1BbDNiVmRacEdpakNlWUpheUZGSFlJQ0hJZFBiR0J5YkZrczJzNnNMQTg4Q3U3aDBUSlBVNzRqX0M2NkNZYU5JZzBYMDZiRFJ5YzA5TEN5NmpuQU5ILTFRNzJEQzdyM2Y1ZG53ZXBHVmZHeGRfcmdpcDE0blY2RWdCSW9xcTBreW5Pa1E4eDQ0RHhVd0lSdko5Snc?oc=5",
-      "date": "2026-10-05T15:46:14+00:00",
-      "description": "Google Search shares data on how long crawling, indexing and serving takes &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
