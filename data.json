@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T04:21:14.390709+00:00",
+  "updatedAt": "2026-10-09T04:29:27.163355+00:00",
   "items": [
     {
       "title": "AI In Regulated Paid Media: The Default Settings That Put Compliance At Risk via @sejournal, @timothyjjensen",
@@ -73,6 +73,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Context engineering: How to prevent AI workflows from degrading - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV1RmQlIwaWZVLXdNSjNCUTJEUFFrVkRwVWpOVXFhWElNVHRaR2hSTkxjMHNKNFl1TUVWUHMzWWZiYmpocVYzUldXY1NJdlg2NjFRdXM1V1ZLQlFKd3RQSVk2eEVzYnctYnlLWVo3WUVXQ0czODUwbUx5b2VtVDlhVXdrQ3RYM2xkQUVnclloOA?oc=5",
+      "date": "2026-10-08T13:00:00+00:00",
+      "description": "Context engineering: How to prevent AI workflows from degrading &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -499,7 +512,7 @@
       "link": "https://www.searchenginejournal.com/wordpress-7-1-3-fixes-7-vulnerabilities-and-1-critical-flaw/592109/",
       "date": "2026-10-06T20:05:17+00:00",
       "description": "WordPress 7.1.3 fixes seven security vulnerabilities and a critical bug affecting image uploads that can result in a fatal error. The post WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/wordpress-vulnerability-476.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -688,19 +701,6 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9OQU1jLThlU3hEaF93YWxGOEc3Q2hTenVHdTlUcVlsX2g2cWdZUHR3SGlGNnMzLUQ1SVJvQ1k2TmVQOFhlclF1MVdEU2FSenRVLWo5SmM2M2lqVnRFN2N2MzZYY25ZT2RCZV9SaHJHV2RkUmF2YTlvR0thM09sUQ?oc=5",
       "date": "2026-10-05T14:00:00+00:00",
       "description": "Want lasting AI brand visibility? Stop looking for hacks &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Why Google is pushing advertisers toward demand-led budgeting - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeVR0b1AtM2duTEdyLWMyNmVQVkx4VHExb3E2aUQ5THp5QV92OE14Z1c4T2Q0OFlDbTdxMms5TUJzZUtfV1hiVy1GdnluUWh0SlpKNlRiM0JQZG1rRUhxbVRnNTAzTzNBaUM5SHl0b19wZmRyOU14YUR2Q2dicmUwQw?oc=5",
-      "date": "2026-10-05T12:00:00+00:00",
-      "description": "Why Google is pushing advertisers toward demand-led budgeting &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
