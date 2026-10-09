@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-09T07:56:23.516088+00:00",
+  "updatedAt": "2026-10-09T08:31:07.077147+00:00",
   "items": [
+    {
+      "title": "Claude’s New Rules Target Fake Sources Built To Sway AI Answers via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/claude-rules-fake-sources-ai-answers/592456/",
+      "date": "2026-10-09T08:00:16+00:00",
+      "description": "Anthropic's updated usage policy names seeding search and AI answer sources with misleading content, and drops automated publishing from its high-risk list. The post Claude&#8217;s New Rules Target Fake Sources Built To Sway AI Answers appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/claude-fake-sources-featured.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Jetpack 16.3 WordPress Plugin Update Is A Winner via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/jetpack-16-3-wordpress-plugin-update-is-a-winner/592452/",
@@ -499,7 +511,7 @@
       "link": "https://www.seroundtable.com/barry-schwartz-50000-stories-42234.html",
       "date": "2026-10-07T10:04:00+00:00",
       "description": "50,000 is a big number, so I figured I'd document it here by letting you all know that this \"story\" is my 50,000th published story for the search industry. Yes, I've written 50,000 stories on search and on the search industry over the past almost 23 years.",
-      "image": "https://images.seroundtable.com/posts-comments-page-tracked-changed-ser-6dqRPAXa.png",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -586,18 +598,6 @@
       "link": "https://www.searchenginejournal.com/google-search-profiles-india-canada-brazil/592092/",
       "date": "2026-10-06T17:12:37+00:00",
       "description": "Google is opening Search profiles to creators and publishers in India and Canada, with Brazil to follow soon. The post Google Opens Search Profiles In India &#038; Canada, Brazil Next appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Data Shows Which Negative Search Results Can Actually Be Removed via @sejournal, @EraseDotCom",
-      "link": "https://www.searchenginejournal.com/negative-search-result-removal-erase-spa/590856/",
-      "date": "2026-10-06T17:00:45+00:00",
-      "description": "Learn how to address negative search results and identify which links can be removed or hidden effectively. The post Data Shows Which Negative Search Results Can Actually Be Removed appeared first on Search Engine Journal .",
       "image": "",
       "source": "Search Engine Journal",
       "tags": [
