@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-09T21:27:33.131555+00:00",
+  "updatedAt": "2026-10-09T21:55:25.185884+00:00",
   "items": [
+    {
+      "title": "Google Explains How To Use HTML Sitemaps For SEO via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-explains-how-to-use-html-sitemaps-for-seo/592508/",
+      "date": "2026-10-09T21:31:30+00:00",
+      "description": "Google explains why HTML sitemaps may still be useful even though the XML standard has largely replaced it. The post Google Explains How To Use HTML Sitemaps For SEO appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/seo-google-sitemaps-211.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Daily Search Forum Recap: October 9, 2026",
       "link": "https://www.seroundtable.com/recap-10-09-2026-42266.html",
@@ -500,7 +512,7 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ib1NodUc5dnJvTWk3VzRaLUg3TmM4YVNVSng3NGNxRlE3WFZEeWtuaG9xMXlYUU5jYWN3UWhqalhiSWw5cGpTdWY1b1JKdWxIakVNblhSNVZIY2xZemRYV2RIOE5RLVItV1JOVmNqNlI?oc=5",
       "date": "2026-10-07T14:00:00+00:00",
       "description": "The top 10 tools for PPC management in 2027 &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -603,18 +615,6 @@
       "tags": [
         "SEO",
         "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "OpenAI To Test Visual Ads In ChatGPT Image Generation via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/openai-chatgpt-image-generation-visual-ads-test/591981/",
-      "date": "2026-10-06T17:21:56+00:00",
-      "description": "OpenAI plans a limited U.S. test of visual ads during image generation, alongside measurement updates that give advertisers more ways to assess results. The post OpenAI To Test Visual Ads In ChatGPT Image Generation appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
         "AI Search"
       ]
     },
