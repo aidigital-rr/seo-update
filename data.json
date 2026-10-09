@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T13:00:56.076847+00:00",
+  "updatedAt": "2026-10-09T13:31:39.742549+00:00",
   "items": [
     {
       "title": "Search News Buzz Video Recap: Google Spam Update Done, Penalties Rise, Factcheck AI, Content Quality, Fake Authors, Ads & So Much More",
@@ -533,19 +533,6 @@
       ]
     },
     {
-      "title": "Stop letting AI make your marketing decisions - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcmZFbHp2U2FpbjI1b3RsY2FodmFNTV9sam9qaE9zZUNzOEpTMWUyTU5RZUN1VXpGcm1IWTYycXUySjNVM01SNkVCSzBYM0tpeTE2N1NWendmR2FkMDNsTEtMNTJqLTRJVWRucGx3YjJoN0ZCT2UxUnZqQjcyUDdPRlZTZGl2V0d1?oc=5",
-      "date": "2026-10-07T11:00:00+00:00",
-      "description": "Stop letting AI make your marketing decisions &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "WordPress Releases Canonical MCP Adapter Plugin via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/wordpress-releases-canonical-mcp-adapter-plugin/592159/",
       "date": "2026-10-07T10:48:53+00:00",
@@ -701,6 +688,19 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNanBDUWtlSTFvYkRIdm1nRk9uY05uVnRNeGZLZ2pUWEdLM0VZbExkTVVLUjRhOXRiQmxJd2QzNzdTYzhYWmZZYTVKRGRiUDNoYmFMQWExMmN6UE1VRTBXdUR5ODJ4d3VIYmlMYktPRnVyYzR1NmoxYktMLUQxN1g1NzhlbElRdDJRdTdwZ2FlNWY4d09DeXM3bzBXalQ?oc=5",
       "date": "2026-10-05T16:05:17+00:00",
       "description": "OpenAI brings visual ads and expanded measurement to ChatGPT &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Search shares data on how long crawling, indexing and serving takes - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTmNvQ25udnBkelFzVTRzc3F4NU1BbDNiVmRacEdpakNlWUpheUZGSFlJQ0hJZFBiR0J5YkZrczJzNnNMQTg4Q3U3aDBUSlBVNzRqX0M2NkNZYU5JZzBYMDZiRFJ5YzA5TEN5NmpuQU5ILTFRNzJEQzdyM2Y1ZG53ZXBHVmZHeGRfcmdpcDE0blY2RWdCSW9xcTBreW5Pa1E4eDQ0RHhVd0lSdko5Snc?oc=5",
+      "date": "2026-10-05T15:46:14+00:00",
+      "description": "Google Search shares data on how long crawling, indexing and serving takes &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
