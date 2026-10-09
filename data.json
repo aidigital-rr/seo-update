@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T17:26:49.520222+00:00",
+  "updatedAt": "2026-10-09T17:55:18.968017+00:00",
   "items": [
     {
       "title": "Daily Search Forum Recap: October 9, 2026",
@@ -190,6 +190,19 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "Google Search disclosed its UGC Fresh Data Program - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeEpzb2JKVzR3dGtjZ1NUamZGNnpPc2FYUHNNOHRMMjJDNndOZmRpakRpdzRPTmZmN21BVTFtUkFjU2ppMkJMTkJCMEhEOFBwYi1zMzRSRUZkU1ZvcnJTYTQwT2xva2IycEswLWZ0MldqNlBvcXpEQWVXZTdrMjVWQlZwcndfczF1UGFSZk0tbw?oc=5",
+      "date": "2026-10-08T15:13:56+00:00",
+      "description": "Google Search disclosed its UGC Fresh Data Program &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
@@ -500,7 +513,7 @@
       "link": "https://www.searchenginejournal.com/ai-search-is-changing-the-websites-job-not-replacing-it/592134/",
       "date": "2026-10-07T13:30:50+00:00",
       "description": "Sachin Puri explains why AI discovery makes accurate business information, customer trust, and measurement beyond clicks more important for small businesses. The post AI Search Is Changing Your Website’s Job, Here’s How To Adapt appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/website-ai-352.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -529,19 +542,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Display migration to Demand Gen: How to protect your ad budget - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVmhraTNLQUdXQ24tTzViM2dLNE5YMzJjcmQtWWtQaU5ObXVZRGFsajQyRGNfYzJuQjBlZTdHMGNnZ0pEUGJQRDlnSEJoYUVhb3Q3MDJlQ3ZabVBySGVPbHRIS045c1QtZHR2TWg2LXJTRFJDdmRhb1J0UFNkUDliNGdWaEpnajk1QlpBNGF3SHI1bFU?oc=5",
-      "date": "2026-10-07T12:00:00+00:00",
-      "description": "Google Display migration to Demand Gen: How to protect your ad budget &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
