@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T12:57:16.804808+00:00",
+  "updatedAt": "2026-10-10T13:27:46.141409+00:00",
   "items": [
     {
       "title": "Google Ends Spam Update, Shares Crawl Timing Ranges – SEO Pulse via @sejournal, @MattGSouthern",
@@ -494,37 +494,11 @@
       ]
     },
     {
-      "title": "Google Ads adds new AI Max columns for deeper campaign analysis - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdnFkLWJwcXhRdkRpVjZPb000RTF5UGZ5eXlqTFNacTFVdnJLRjBMTElSXzRuRjc4RXNjcFFpSjhTTHpVa1hyU21ZdURDUUpXZUtDSGl5TDNtcWhMUjh4ZnViZnczbUZQbVZwVFp5VVVvaVZ4WVNoYzdiUGNKNUFFZWZqNi01b19DOE11b2h5TVFvNi1NNkJLLUZmUmt2RC00?oc=5",
-      "date": "2026-10-07T15:55:12+00:00",
-      "description": "Google Ads adds new AI Max columns for deeper campaign analysis &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads tests new Direct Offer asset for AI Mode promotions - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRThNMHphcE42a3pKcmN6b2NwVHcxektmZWhsYUVlY3NqZ1hQVUZlNzBiZV9PS3huR2VFMkhQWU1kanBfSTFyb1B2VDVHeVgtNnpTdGNHdnZaUkRVLXhtc1NRLUdxTVpiQXpmQXdSSjREaFYzX1ZXTC1IcEpZRWNRdS0wcWdfOWpZYkgzXzR3Sm1sNEpydzRRZE85LTN1UHM?oc=5",
-      "date": "2026-10-07T15:28:55+00:00",
-      "description": "Google Ads tests new Direct Offer asset for AI Mode promotions &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "57% of beauty consumers don’t start with Google Search - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sUnA5ZkUwOXZQM0QwZDlqd1UwYURyd0NuUU05b3RVUksydVQ0RUhWWC00cm5NMjdVTmxTWkNyb3dBLWFzaTV3X0NOcmlqb3VCdWRwRnhfM3BXRk1PRXdRREZRWUpDbUY5UFowU25KcklCd2M4?oc=5",
       "date": "2026-10-07T15:00:00+00:00",
       "description": "57% of beauty consumers don’t start with Google Search &nbsp;&nbsp; Search Engine Land",
-      "image": "",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -707,6 +681,32 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "Google changes view-through conversion reporting for Demand Gen Display ads - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTVN6SUV5aV9wTmpIS25ieVpXSXVWRWM0c1JRRWZtMzFhaGdKVG9rWFJESm9ZSHF0dnBKemVNa1JDNmhvNjVqTHVOeDlaWGQ2cHYxZmszWUxTSHJVZDBoWEVwRVE0SGNuXzJTcWRpWnZKLURnUGUwd0d2VXhaOUVHeENtV3NaOHNjQlpFY0QzMTBMdHJ5Q1FnaVVZODJTNVdCUm1UOTRnXzZ1dTI1Y1ZZRQ?oc=5",
+      "date": "2026-10-05T16:19:30+00:00",
+      "description": "Google changes view-through conversion reporting for Demand Gen Display ads &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "OpenAI brings visual ads and expanded measurement to ChatGPT - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNanBDUWtlSTFvYkRIdm1nRk9uY05uVnRNeGZLZ2pUWEdLM0VZbExkTVVLUjRhOXRiQmxJd2QzNzdTYzhYWmZZYTVKRGRiUDNoYmFMQWExMmN6UE1VRTBXdUR5ODJ4d3VIYmlMYktPRnVyYzR1NmoxYktMLUQxN1g1NzhlbElRdDJRdTdwZ2FlNWY4d09DeXM3bzBXalQ?oc=5",
+      "date": "2026-10-05T16:05:17+00:00",
+      "description": "OpenAI brings visual ads and expanded measurement to ChatGPT &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
