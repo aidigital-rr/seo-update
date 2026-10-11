@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-11T21:54:31.708388+00:00",
+  "updatedAt": "2026-10-11T22:27:07.410369+00:00",
   "items": [
+    {
+      "title": "Anthropic Says Claude Bypassed Site Limits During Internal Tests via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/anthropic-cuts-live-web-access-internal-tests/592534/",
+      "date": "2026-10-11T22:07:32+00:00",
+      "description": "Anthropic cut live web access for internal evaluations after Claude submitted real forms and worked around website restrictions. The post Anthropic Says Claude Bypassed Site Limits During Internal Tests appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/claude-featured-1600x840-1.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Google Search Console Performance Report Extremely Delayed",
       "link": "https://www.seroundtable.com/google-search-console-performance-report-delayed-42271.html",
@@ -213,6 +225,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Ads lets advertisers preview AI Max-generated ad copy before opting in - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSDQ5c0p3dmtuREk1OG5hTms0S2ptNHF4MVFzUDl1ZWxSMU04b1laX0p5QTVRVUtZRkh2SkI0RVVicWJBYVlPMkN2QmJrbWZKbDducW9uMWNCaFZGYVdvVjdYZkZFMDJ6MFp5aHBpRTM5TzBFejQtS1E0TnZKVzNnVUhubmxZbmdwWkdZM01Rd21zUGVJTWxoOUpfTjRuWng4cDR1NlBya3l4UEJkdUd6TG9Hcw?oc=5",
+      "date": "2026-10-08T16:58:18+00:00",
+      "description": "Google Ads lets advertisers preview AI Max-generated ad copy before opting in &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -486,7 +511,7 @@
       "link": "https://www.searchenginejournal.com/prediction-the-next-massive-google-update-is-around-the-corner/591952/",
       "date": "2026-10-07T17:30:46+00:00",
       "description": "Is another major Google update coming? The documentation changes, spam update pace, and Google's own statements all point the same way. The post Prediction: The Next Massive Google Update Is Around The Corner appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/search-prediction-299.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -498,7 +523,7 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb25ENEhLal81RkJKREViWjRaRmdjSUVYZUhHYzlSc2l2cUlsQWpuMXhyakx0Wml0MF9JNXZWUktnMHNNOGxhaEJRQzh2TUFKSVBaMl8wdXVzQW1KRVEteThWVXhNQ1lhU0ZGcVB5bm1BS3RhWmFMRlgyaE9pRFA1UEpJaDFXSFAwRjVZLTA3cHVrd19tSWhZUkZR?oc=5",
       "date": "2026-10-07T16:28:26+00:00",
       "description": "Google opens Conversion Lift to Search and Performance Max &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -633,18 +658,6 @@
       ]
     },
     {
-      "title": "WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-7-1-3-fixes-7-vulnerabilities-and-1-critical-flaw/592109/",
-      "date": "2026-10-06T20:05:17+00:00",
-      "description": "WordPress 7.1.3 fixes seven security vulnerabilities and a critical bug affecting image uploads that can result in a fatal error. The post WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google Ads tests Video Campaign Groups for cross-campaign reach and frequency - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORmRzVC1KWHFwSGdvN0d2YUp1ZGtiakY4YTdQdlczS3VEa1FZN09lVG4ydWdSNU9EdHBUNnI5S1FhdHRueDB0UmdDa0w0V1piaHR1azRzV0JFaXBld0R1WTZsbWlBUGpiVFJnc01HSjJOQzV0czJOU1JXdExzb1RFVzFMUlEzb0F3Q2dGcmg4Wm1wVnhxUzBXWWRhN2xaUlRZRWtJS0g4LXdZQnZNd1VxUlpWcw?oc=5",
       "date": "2026-10-06T18:02:28+00:00",
@@ -675,19 +688,6 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSG1pZmRBbG9EYXJabzFyUVVzcW5CSUNTaW5ieG1faFB1aWFoLWVzdWhhdzkyXy1pTlZhUTh6ZDA4MWVLT3prQ04yRkxUd3lHdkhuS2FnYS0wdTdKSFpjanRjTzlnZWF4aFVQMGk1UXFpLTNoak9wYXNSdFl2SHFhMzd6aw?oc=5",
       "date": "2026-10-06T12:00:00+00:00",
       "description": "Reddit for organic and AI search: 7 ways to build visibility &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Search Console performance report filter allows selection of multiple countries - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVlNyVDZ0cEc5SXdiTHNzb0xCckNiQ1cycW5TUlBnamJIWEVmZmVkeUkzMVpnNEZpanJtT0VocXFZZnotRGVWenhyRldxVDdubkJUSXVSSGx2WXFqbkpXcHlZckVEMVpXbUdsSFMxTXctVVR4QkNmbUhZN1FmRzJsVHMxaWZvSWZ2VVBpamdWeGstRGVNQ21fREY2aXZvUndxbUQ3bHdrRFNfUjNjalJsZTNwNlRkTXcyejN1UzRzcw?oc=5",
-      "date": "2026-10-06T11:40:28+00:00",
-      "description": "Google Search Console performance report filter allows selection of multiple countries &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
