@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-10-11T11:54:26.010848+00:00",
+  "updatedAt": "2026-10-11T12:32:18.520344+00:00",
   "items": [
+    {
+      "title": "Google Search Console Performance Report Extremely Delayed",
+      "link": "https://www.seroundtable.com/google-search-console-performance-report-delayed-42271.html",
+      "date": "2026-10-11T11:15:00+00:00",
+      "description": "The search performance reports in Google Search Console is now over 64 hours delayed, which is incredibly unusual for this report. Generally, we see this report updated within a few hours but over the past few days, post-spam update, the report has been lagging.",
+      "image": "https://images.seroundtable.com/google-performance-report-64-hours-gtv1HC2b.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google Ends Spam Update, Shares Crawl Timing Ranges – SEO Pulse via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/seo-pulse-google-spam-update-crawl-timing-ranges/592469/",
@@ -204,6 +217,19 @@
       ]
     },
     {
+      "title": "Google Ads adds AI-powered insights to experiment reporting - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS0tVMy1JcG9SS2lpX09Vd2hjaU9jdTZoLTRReVlMYTBWNG5oamQ1SWM0QTQtUXVYeHNqS0Nva3RqTzB3RGxxWmlHY2dyd3ZCNEJScU9uNkFjUmxYWEVmM3FZWDFXdEU0dEUzX2pNM1VBUmdzUWNDaDY2S0pNYjZGU1ZoekZfd05Ja3dqblRfYnhtTElVdldwREp6OA?oc=5",
+      "date": "2026-10-08T16:17:40+00:00",
+      "description": "Google Ads adds AI-powered insights to experiment reporting &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Google Ads adds video impressions and funnel reporting to Overview page - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNXB3eEFULVdRdkdEZ1BHZjRTYnE2blMyTWNhVC1URmNqWTBTSlBNY3lQX3U4YTNJLXZ3akJBZTVRVFoyeV9yaU1fdHkweU5zV24yQ0JIeTY0QlMySGxDWkpFZWxxVXRHUDRBMDl1d2lxcmRFQkw4SXhWVS1TajBkYXRxLXY1dFdPUm95aFRzd0RzNlpQaWdQRklqRnFnOW1sYzdEYW5wQjNiMUE?oc=5",
       "date": "2026-10-08T16:05:23+00:00",
@@ -395,19 +421,6 @@
       ]
     },
     {
-      "title": "Google September 2026 Spam Update Has Finished Rolling Out",
-      "link": "https://www.seroundtable.com/google-september-2026-spam-update-done-42235.html",
-      "date": "2026-10-08T09:20:00+00:00",
-      "description": "The Google September 2026 spam update is now done rolling out. It started on Thursday, September 28, 2026 at around 12:00 pm ET and completed on October 8, 2026 at 4:37 am ET. This was different from the previous few spam updates in that this one took two weeks to roll out whereas the others took only two days to roll out.",
-      "image": "https://images.seroundtable.com/volatility/mozcast-2026-09-30-lg.png?v=1790864330",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Link Building Strategies for 2027: What to Keep and Cut via @sejournal, @lorenbaker",
       "link": "https://www.searchenginejournal.com/link-building-strategies-for-2027-what-to-keep-and-cut/592119/",
       "date": "2026-10-08T07:45:34+00:00",
@@ -498,7 +511,7 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRThNMHphcE42a3pKcmN6b2NwVHcxektmZWhsYUVlY3NqZ1hQVUZlNzBiZV9PS3huR2VFMkhQWU1kanBfSTFyb1B2VDVHeVgtNnpTdGNHdnZaUkRVLXhtc1NRLUdxTVpiQXpmQXdSSjREaFYzX1ZXTC1IcEpZRWNRdS0wcWdfOWpZYkgzXzR3Sm1sNEpydzRRZE85LTN1UHM?oc=5",
       "date": "2026-10-07T15:28:55+00:00",
       "description": "Google Ads tests new Direct Offer asset for AI Mode promotions &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -688,19 +701,6 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85WFFrbkhWclM2bHNKd2pMR2xGeTVSUUNkRmNPRUtKOTYxSnllRXRpendMcjlweUVkZ1hZdjBDUVdpb25RNVR0YXozeFJ2ZmJveEtGcm1DU1UwME5hS1BPSkY4bnV4b0VLN1dyWVNmR3BYNVRfYnE5ZzV3?oc=5",
       "date": "2026-10-05T13:00:00+00:00",
       "description": "How to build topic clusters for SEO and AI search &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Why Google is pushing advertisers toward demand-led budgeting - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeVR0b1AtM2duTEdyLWMyNmVQVkx4VHExb3E2aUQ5THp5QV92OE14Z1c4T2Q0OFlDbTdxMms5TUJzZUtfV1hiVy1GdnluUWh0SlpKNlRiM0JQZG1rRUhxbVRnNTAzTzNBaUM5SHl0b19wZmRyOU14YUR2Q2dicmUwQw?oc=5",
-      "date": "2026-10-05T12:00:00+00:00",
-      "description": "Why Google is pushing advertisers toward demand-led budgeting &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
