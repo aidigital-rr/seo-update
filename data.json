@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T02:26:46.378639+00:00",
+  "updatedAt": "2026-10-11T02:55:08.545343+00:00",
   "items": [
     {
       "title": "Google Ends Spam Update, Shares Crawl Timing Ranges – SEO Pulse via @sejournal, @MattGSouthern",
@@ -214,19 +214,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "Google Search disclosed its UGC Fresh Data Program - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeEpzb2JKVzR3dGtjZ1NUamZGNnpPc2FYUHNNOHRMMjJDNndOZmRpakRpdzRPTmZmN21BVTFtUkFjU2ppMkJMTkJCMEhEOFBwYi1zMzRSRUZkU1ZvcnJTYTQwT2xva2IycEswLWZ0MldqNlBvcXpEQWVXZTdrMjVWQlZwcndfczF1UGFSZk0tbw?oc=5",
-      "date": "2026-10-08T15:13:56+00:00",
-      "description": "Google Search disclosed its UGC Fresh Data Program &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     },
     {
@@ -511,7 +498,7 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sUnA5ZkUwOXZQM0QwZDlqd1UwYURyd0NuUU05b3RVUksydVQ0RUhWWC00cm5NMjdVTmxTWkNyb3dBLWFzaTV3X0NOcmlqb3VCdWRwRnhfM3BXRk1PRXdRREZRWUpDbUY5UFowU25KcklCd2M4?oc=5",
       "date": "2026-10-07T15:00:00+00:00",
       "description": "57% of beauty consumers don’t start with Google Search &nbsp;&nbsp; Search Engine Land",
-      "image": "",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -541,19 +528,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Breaking into SEO starts with creating your own opportunities - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OTTkzQjgyMWx1RGRmc25YLU4wb2pqWGlyRkZHdUtfOWZnd3Q1RnBDWnZKZEdoaDRUZGQxNWNNQUZyclZqUXpWekw3TnN1c1dsTDFOUmJBV0M1MVZRQzhNal9iSzY3ckFicHBBbVljMEZROG9IeHQ4MFNkRTNBTlk?oc=5",
-      "date": "2026-10-07T13:00:00+00:00",
-      "description": "Breaking into SEO starts with creating your own opportunities &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
@@ -701,6 +675,32 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTmNvQ25udnBkelFzVTRzc3F4NU1BbDNiVmRacEdpakNlWUpheUZGSFlJQ0hJZFBiR0J5YkZrczJzNnNMQTg4Q3U3aDBUSlBVNzRqX0M2NkNZYU5JZzBYMDZiRFJ5YzA5TEN5NmpuQU5ILTFRNzJEQzdyM2Y1ZG53ZXBHVmZHeGRfcmdpcDE0blY2RWdCSW9xcTBreW5Pa1E4eDQ0RHhVd0lSdko5Snc?oc=5",
       "date": "2026-10-05T15:46:14+00:00",
       "description": "Google Search shares data on how long crawling, indexing and serving takes &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How to build topic clusters for SEO and AI search - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85WFFrbkhWclM2bHNKd2pMR2xGeTVSUUNkRmNPRUtKOTYxSnllRXRpendMcjlweUVkZ1hZdjBDUVdpb25RNVR0YXozeFJ2ZmJveEtGcm1DU1UwME5hS1BPSkY4bnV4b0VLN1dyWVNmR3BYNVRfYnE5ZzV3?oc=5",
+      "date": "2026-10-05T13:00:00+00:00",
+      "description": "How to build topic clusters for SEO and AI search &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Why Google is pushing advertisers toward demand-led budgeting - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeVR0b1AtM2duTEdyLWMyNmVQVkx4VHExb3E2aUQ5THp5QV92OE14Z1c4T2Q0OFlDbTdxMms5TUJzZUtfV1hiVy1GdnluUWh0SlpKNlRiM0JQZG1rRUhxbVRnNTAzTzNBaUM5SHl0b19wZmRyOU14YUR2Q2dicmUwQw?oc=5",
+      "date": "2026-10-05T12:00:00+00:00",
+      "description": "Why Google is pushing advertisers toward demand-led budgeting &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
