@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T06:38:31.175889+00:00",
+  "updatedAt": "2026-10-12T07:08:21.225143+00:00",
   "items": [
     {
       "title": "Google Is Hiring To Generate AI Content For Discover via @sejournal, @MattGSouthern",
@@ -106,6 +106,19 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbm16TjVtczkwSzA5dzljOG5ILTRGNEJ3M3IxR2JValpZMjlHeWZaNWQ5WmpMUTZoNzRUTUFfWFI5OVNLYjMwOE5oWUYtNHBqT3VVOW0xbm1mZGZaNlRSdzhzeVJlSUFVbi1nTWZ4RUM4bHNuaEhSd3JQMHI0Nk1rb3c0bHc?oc=5",
       "date": "2026-10-09T14:00:00+00:00",
       "description": "What Google AI Mode follow-up questions reveal about your content &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google AI Mode ads: Everything you need to know - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeU9HRjNyZW9HM0UwUENJbmVWbERqbEZsWGJnT1JzME9OZUJZY0g3dW85YUZlOFY1WTJKSzR5dll3Vk15WER2MGF3Y01IOFNyTWxDb2c3Y0tYNkJ4RmlYMDBzcG9OemRLLW5oYjlmb2FOU2ppdzJRZDdrMlJVN0l2S3ZPQTBZV0ltaGc?oc=5",
+      "date": "2026-10-09T13:00:00+00:00",
+      "description": "Google AI Mode ads: Everything you need to know &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -499,7 +512,7 @@
       "link": "https://www.searchenginejournal.com/google-opens-synthid-watermark-detector-to-public/592226/",
       "date": "2026-10-07T19:38:35+00:00",
       "description": "Google opened its SynthID Detector to everyone, allowing users to check images, video, and audio for watermarks from Google and partner AI tools. The post Google Opens Its SynthID Watermark Detector To The Public appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-synthid-featured.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -694,19 +707,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "Generative engine optimization (GEO): How to win AI mentions - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzVfRGlQSnVUV1N3cVc2Y1ZrOHkyWDhzT3RvdFlMSWxwbGg3S0dBX2ZvamVQb1NQZmFkei0wREJrUFV5OTNLWHhHaW5ZOU9VX1lobHhFbUJjOFRpQ1BvQTlxUUo2bUdGU3VkQlJpVVlWU09fR1RUbkppdkVnZVVUaUpITm0?oc=5",
-      "date": "2026-09-24T07:00:00+00:00",
-      "description": "Generative engine optimization (GEO): How to win AI mentions &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     },
     {
