@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-10-12T11:59:09.292706+00:00",
+  "updatedAt": "2026-10-12T12:49:19.868271+00:00",
   "items": [
+    {
+      "title": "Your First 30 Days As A Growth Leader – The Challenge From Day One",
+      "link": "https://www.searchenginejournal.com/your-first-30-days-as-a-growth-leader-the-challenge-from-day-one/591036/",
+      "date": "2026-10-12T12:00:07+00:00",
+      "description": "Use your first 30 days as a growth leader to identify where B2B buyers lose trust and rethink the channels meant to engage them. The post Your First 30 Days As A Growth Leader – The Challenge From Day One appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/growth-leader-565.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Third-Party Google Rank Tracking Struggling Now",
+      "link": "https://www.seroundtable.com/third-party-google-rank-tracking-broken-42272.html",
+      "date": "2026-10-12T11:51:00+00:00",
+      "description": "Google seems to be successfully blocking enough of the attempts of scrapers from trying to scrape data from its search results page over the past few weeks than it has in a long time. We reported this a few weeks ago, and I am surprised to see that many tools still struggle with Google Search reporting.",
+      "image": "https://images.seroundtable.com/google-data-toying-j1eptVPF.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Tests Using Google AI For Goals & Assets",
+      "link": "https://www.seroundtable.com/google-ai-ads-goals-and-assets-42269.html",
+      "date": "2026-10-12T11:41:00+00:00",
+      "description": "Google is testing using AI to come up with suggested goals and assets for your Google Ads campaigns. Google has confirmed this is a current test.",
+      "image": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Bing & Copilot Experimenting With Microsoft-Decision-1",
+      "link": "https://www.seroundtable.com/bing-microsoft-decision-1-42270.html",
+      "date": "2026-10-12T11:31:00+00:00",
+      "description": "Microsoft announced Microsoft-Decision-1 last week and it is already being experimented with in both Bing Search and Copilot. Microsoft-Decision-1 is a \"decision-scoring model delivers top performance in latency and quality on structured decision tasks to outperform both LLMs and other decision models,\" Microsoft said.",
+      "image": "https://images.seroundtable.com/microsoft-decision-1-p8W4WBzy.gif",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google AI Overviews For Typos & No Search Results",
+      "link": "https://www.seroundtable.com/google-ai-overviews-no-results-42275.html",
+      "date": "2026-10-12T11:21:00+00:00",
+      "description": "Yes, Google often shows AI Overviews when Google Search cannot match specific web pages or when it thinks your query is a typo. In fact, Google AI Overviews can respond by saying, \"It looks like your message might have been a typo or random keyboard input.\"",
+      "image": "https://images.seroundtable.com/google-ai-overview-typo-response-R3iBZ1L6.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google Discover To Undergo Dramatic Changes via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-discover-to-undergo-dramatic-changes/592626/",
@@ -11,6 +75,19 @@
       "tags": [
         "SEO",
         "AI Search"
+      ]
+    },
+    {
+      "title": "Google: Poor Image Quality Won't Stop Products From Showing In Search Or Ads",
+      "link": "https://www.seroundtable.com/google-merchant-center-poor-image-inclusion-42273.html",
+      "date": "2026-10-12T11:11:00+00:00",
+      "description": "Google has updated its Google Merchant Center low image quality help document to now say that poor image quality will not stop those products from showing in Google Search or Google Ads.",
+      "image": "https://images.seroundtable.com/google-merchant-center-image-quality-update-ChdOs3yy.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -434,77 +511,12 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMUFJV2tJcXB1ODBjMVBuTUowaGJwX0drZnRJUV82bW5nSllkb1FUX1FRZjRDSEhtS1h3RUt4bV9ZTmZ1OXBTYmNmSkFBLUF0bU9rNmVxTFVfdm5sZEVtMTFXSlBjdUk4NFlEZlVNU3BkamRYeDN6ZHpyeWVxZUdGV1lhUHhNenByWlpDX2pLZjl0ZmNuaERGMEZxTQ?oc=5",
       "date": "2026-10-08T12:00:00+00:00",
       "description": "How to plan 2027 when traffic is down and AI won’t attribute &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
         "Google",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Google Search Issuing More Google Manual Action Penalties?",
-      "link": "https://www.seroundtable.com/google-search-manual-action-spike-42258.html",
-      "date": "2026-10-08T11:51:00+00:00",
-      "description": "Google may be issuing more manual action penalties over the past few weeks than it has over the weeks before that. The increase in manual actions seems to have started several weeks ago, but more so recently, according to some SEOs.",
-      "image": "https://images.seroundtable.com/gemini-graph-LpKJHoD0.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Local Service Ads Expands How Leads Work Information",
-      "link": "https://www.seroundtable.com/google-local-service-ads-how-leads-work-42259.html",
-      "date": "2026-10-08T11:41:00+00:00",
-      "description": "Google has updated the how leads work help documentation within Local Service Ads with a lot more detail. The changes are meaningful, including what counts as a billable phone lead and how Google handles lead quality/credits.",
-      "image": "https://images.seroundtable.com/how-local-leads-work-doc-qFXtCwrm.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Merchant Center May Disapprove Products That Change Frequently",
-      "link": "https://www.seroundtable.com/google-merchant-center-disapprove-products-chnage-fast-42251.html",
-      "date": "2026-10-08T11:31:00+00:00",
-      "description": "Google updated its help document in Merchant Center to say that if a product changes more than once per day, it may be \"disapproved instead of updated if we detect a mismatch.\"",
-      "image": "https://images.seroundtable.com/google-merchant-center-auto-disapproval-kTvgp97w.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads AI Max Columns: Brand Inclusion, Commission, Locations Of Interest & Optimized Targeting",
-      "link": "https://www.seroundtable.com/google-ads-new-ai-max-columns-42256.html",
-      "date": "2026-10-08T11:21:00+00:00",
-      "description": "Google Ads is adding new AI Max related columns to the Google Ads reporting console. The columns include brand inclusions, locations of interest, commission and optimized targeting.",
-      "image": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads Self-Services Conversion Lift Measurement",
-      "link": "https://www.seroundtable.com/google-ads-conversion-lift-measurement-self-service-42250.html",
-      "date": "2026-10-08T11:11:00+00:00",
-      "description": "Google Ads now lets advertisers set up Conversion Lift measurement themselves. Google updated its help documentation to say that you no longer need a Google Ads representative to set up Conversion Lift measurement; you just need at least 1,000 observed conversions and a $5,000 budget.",
-      "image": "https://images.seroundtable.com/google-ads-conversion-lift-doc-wtSNzrew.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -629,18 +641,6 @@
       "tags": [
         "SEO",
         "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "AI Search Is Changing Your Website’s Job, Here’s How To Adapt via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/ai-search-is-changing-the-websites-job-not-replacing-it/592134/",
-      "date": "2026-10-07T13:30:50+00:00",
-      "description": "Sachin Puri explains why AI discovery makes accurate business information, customer trust, and measurement beyond clicks more important for small businesses. The post AI Search Is Changing Your Website’s Job, Here’s How To Adapt appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
         "AI Search"
       ]
     },
