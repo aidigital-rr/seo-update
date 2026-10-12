@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-12T10:58:10.349085+00:00",
+  "updatedAt": "2026-10-12T11:31:12.810461+00:00",
   "items": [
+    {
+      "title": "Google Discover To Undergo Dramatic Changes via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-discover-to-undergo-dramatic-changes/592626/",
+      "date": "2026-10-12T11:13:13+00:00",
+      "description": "Google is planning to reinvent Discover to become an AI Concierge with a tighter integration with YouTube. The post Google Discover To Undergo Dramatic Changes appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-discover-156.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Anthropic’s Thariq Shihipar Recommends Using Artifacts via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/anthropics-thariq-shihipar-recommends-using-artifacts/592550/",
@@ -500,7 +512,7 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHFUTE5rdlJwQ2U0aVVkTjc4X3RSR3JJeXN2MWI4TGphdkhvYTVGSkx6T0lqUDZfemVIQkZfSm1yWjJQbDZJSUdtNWtHSDVLWFJHdjNNSVI2UVJYdEhzSWN6cXdYZ00yeXNhT1hZRm9mb1VXSW5LVFRjRGMtYjRsMmo1U1dtZnJQOWhoSDVfUQ?oc=5",
       "date": "2026-10-08T09:33:03+00:00",
       "description": "Google September 2026 spam update done rolling out &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -629,18 +641,6 @@
       "tags": [
         "SEO",
         "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "The Business Case For SEO Is Changing; Budget Justifications Should Too via @sejournal, @cshel",
-      "link": "https://www.searchenginejournal.com/the-business-case-for-seo-is-changing-budget-justifications-should-too/590358/",
-      "date": "2026-10-07T12:00:32+00:00",
-      "description": "Learn how to justify SEO budgets in the AI era by aligning investments with revenue generation, risk reduction, infrastructure, and business value. The post The Business Case For SEO Is Changing; Budget Justifications Should Too appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
         "AI Search"
       ]
     },
