@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-12T21:27:17.877758+00:00",
+  "updatedAt": "2026-10-12T21:55:19.546296+00:00",
   "items": [
+    {
+      "title": "All In One SEO WordPress Plugin Vulnerable To Two Exploits via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/all-in-one-seo-wordpress-plugin-vulnerable-to-two-exploits/592719/",
+      "date": "2026-10-12T21:51:53+00:00",
+      "description": "AIOSEO WordPress Plugin has two medium-severity security flaws that enable unauthenticated attackers to compromise affected websites. The post All In One SEO WordPress Plugin Vulnerable To Two Exploits appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/aioseo-wordpress-plugin-871.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "ChatGPT’s Most-Cited Sites Tilt Toward Primary Sources, Data Shows via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/chatgpt-most-cited-sites-primary-sources-ahrefs/592682/",
@@ -73,6 +85,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "AI search is helping people ask bigger questions. Is your brand ready? - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbHdWa09iaVRGOXhaQi0yVGF4Nnp4dmhXaFVQdll1QjBZbkVTeWk4eTQzblhORTItWmNCbkJrQW5SZmtLRE5mcU9BeE1MUGVGX0c4OGRKcHBOQnJ6eHZrYVZ6eG1iUFplTWNvRXFPQVBIUTRkUnQxeU1vSHo1U0N2RlJHV3VUQnhPQmxoWFNn?oc=5",
+      "date": "2026-10-12T12:00:00+00:00",
+      "description": "AI search is helping people ask bigger questions. Is your brand ready? &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -486,7 +511,7 @@
       "link": "https://www.searchenginejournal.com/scale-ai-video-tiktok-leadzai-spa/591522/",
       "date": "2026-10-08T13:49:33+00:00",
       "description": "Explore how to scale AI video ads with a single storyline for TikTok, Reels, and AI search to maximize impact. The post How To Scale AI Video Ads For Small Business Clients: One Storyline For TikTok, Reels &amp; AI Search appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/thumbanail_sej-sponsored-article-378.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -498,7 +523,7 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV1RmQlIwaWZVLXdNSjNCUTJEUFFrVkRwVWpOVXFhWElNVHRaR2hSTkxjMHNKNFl1TUVWUHMzWWZiYmpocVYzUldXY1NJdlg2NjFRdXM1V1ZLQlFKd3RQSVk2eEVzYnctYnlLWVo3WUVXQ0czODUwbUx5b2VtVDlhVXdrQ3RYM2xkQUVnclloOA?oc=5",
       "date": "2026-10-08T13:00:00+00:00",
       "description": "Context engineering: How to prevent AI workflows from degrading &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -573,18 +598,6 @@
       "link": "https://www.searchenginejournal.com/chatgpt-gpt-6-intelligent-ui/592249/",
       "date": "2026-10-07T21:42:12+00:00",
       "description": "OpenAI is rolling out GPT-6 in ChatGPT with Intelligent UI, which can add visuals and interactive tools to answers. The post ChatGPT Gets GPT-6 And Intelligent UI For Interactive Answers appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Opens Its SynthID Watermark Detector To The Public via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-opens-synthid-watermark-detector-to-public/592226/",
-      "date": "2026-10-07T19:38:35+00:00",
-      "description": "Google opened its SynthID Detector to everyone, allowing users to check images, video, and audio for watermarks from Google and partner AI tools. The post Google Opens Its SynthID Watermark Detector To The Public appeared first on Search Engine Journal .",
       "image": "",
       "source": "Search Engine Journal",
       "tags": [
@@ -675,19 +688,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVmhraTNLQUdXQ24tTzViM2dLNE5YMzJjcmQtWWtQaU5ObXVZRGFsajQyRGNfYzJuQjBlZTdHMGNnZ0pEUGJQRDlnSEJoYUVhb3Q3MDJlQ3ZabVBySGVPbHRIS045c1QtZHR2TWg2LXJTRFJDdmRhb1J0UFNkUDliNGdWaEpnajk1QlpBNGF3SHI1bFU?oc=5",
       "date": "2026-10-07T12:00:00+00:00",
       "description": "Google Display migration to Demand Gen: How to protect your ad budget &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads can now calculate Target ROAS from profit margins - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVDlReVBTLU5tRjIzaE5fZVNqVFVxMm44ZjhJYUxieUdOek12S2ZsUEltNVJGeDJOSWFpa3dpS3JGWlktMS1kcm1FamphSm5iOTZ5Slp4R24zSUJqSmhJLVBRdTJ3Z3NBcVVkV3ExTy1oMTcxa0w1d1BRM3kyRHV3dGVDWm03UU9jZVFQajVtclBCdDR3NWNIWDloc00?oc=5",
-      "date": "2026-10-06T14:45:35+00:00",
-      "description": "Google Ads can now calculate Target ROAS from profit margins &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
