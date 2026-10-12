@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-12T08:59:45.816858+00:00",
+  "updatedAt": "2026-10-12T09:33:18.818491+00:00",
   "items": [
+    {
+      "title": "Anthropic’s Thariq Shihipar Recommends Using Artifacts via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/anthropics-thariq-shihipar-recommends-using-artifacts/592550/",
+      "date": "2026-10-12T09:31:25+00:00",
+      "description": "Anthropic's Thariq Shihipar says Artifacts brings project information and agent activity into one interface, giving users more oversight. The post Anthropic&#8217;s Thariq Shihipar Recommends Using Artifacts appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/antrhopic-thariq-shihipar-396.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Google Is Hiring To Generate AI Content For Discover via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-hiring-ai-content-discover/592543/",
@@ -80,6 +92,19 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
       "date": "2026-10-09T16:49:16+00:00",
       "description": "The latest jobs in search marketing &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Your boss is nervous about AI, too - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9POUkxbVhXbGo4aXEyTDlNQTdSUGtRZzBLZjViaU1XZENHUnowczIwTldEWElJYkhhTlpsWmJWTTg1NjhEd1h1TnRSTDAxU0RodUdwSlVzbXdCTEJVeFZMOQ?oc=5",
+      "date": "2026-10-09T15:00:00+00:00",
+      "description": "Your boss is nervous about AI, too &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -488,7 +513,7 @@
       "link": "https://www.searchenginejournal.com/link-building-strategies-for-2027-what-to-keep-and-cut/592119/",
       "date": "2026-10-08T07:45:34+00:00",
       "description": "Decide which link building tactics to keep or cut for 2027. Join Resolve for a free webinar on off-page SEO, rankings, and AI visibility. The post Link Building Strategies for 2027: What to Keep and Cut appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/link-building-graveyard-broken-chain-sej.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -500,7 +525,7 @@
       "link": "https://www.searchenginejournal.com/chatgpt-gpt-6-intelligent-ui/592249/",
       "date": "2026-10-07T21:42:12+00:00",
       "description": "OpenAI is rolling out GPT-6 in ChatGPT with Intelligent UI, which can add visuals and interactive tools to answers. The post ChatGPT Gets GPT-6 And Intelligent UI For Interactive Answers appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-gpt6-featured-1600x840-1.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -633,18 +658,6 @@
       ]
     },
     {
-      "title": "WordPress Releases Canonical MCP Adapter Plugin via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-releases-canonical-mcp-adapter-plugin/592159/",
-      "date": "2026-10-07T10:48:53+00:00",
-      "description": "WordPress released a canonical MCP Adapter that connects AI with sites while maintaining compatibility across MCP versions. The post WordPress Releases Canonical MCP Adapter Plugin appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google Ads tests Video Campaign Groups for cross-campaign reach and frequency - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORmRzVC1KWHFwSGdvN0d2YUp1ZGtiakY4YTdQdlczS3VEa1FZN09lVG4ydWdSNU9EdHBUNnI5S1FhdHRueDB0UmdDa0w0V1piaHR1azRzV0JFaXBld0R1WTZsbWlBUGpiVFJnc01HSjJOQzV0czJOU1JXdExzb1RFVzFMUlEzb0F3Q2dGcmg4Wm1wVnhxUzBXWWRhN2xaUlRZRWtJS0g4LXdZQnZNd1VxUlpWcw?oc=5",
       "date": "2026-10-06T18:02:28+00:00",
@@ -675,19 +688,6 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSG1pZmRBbG9EYXJabzFyUVVzcW5CSUNTaW5ieG1faFB1aWFoLWVzdWhhdzkyXy1pTlZhUTh6ZDA4MWVLT3prQ04yRkxUd3lHdkhuS2FnYS0wdTdKSFpjanRjTzlnZWF4aFVQMGk1UXFpLTNoak9wYXNSdFl2SHFhMzd6aw?oc=5",
       "date": "2026-10-06T12:00:00+00:00",
       "description": "Reddit for organic and AI search: 7 ways to build visibility &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Search Console performance report filter allows selection of multiple countries - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVlNyVDZ0cEc5SXdiTHNzb0xCckNiQ1cycW5TUlBnamJIWEVmZmVkeUkzMVpnNEZpanJtT0VocXFZZnotRGVWenhyRldxVDdubkJUSXVSSGx2WXFqbkpXcHlZckVEMVpXbUdsSFMxTXctVVR4QkNmbUhZN1FmRzJsVHMxaWZvSWZ2VVBpamdWeGstRGVNQ21fREY2aXZvUndxbUQ3bHdrRFNfUjNjalJsZTNwNlRkTXcyejN1UzRzcw?oc=5",
-      "date": "2026-10-06T11:40:28+00:00",
-      "description": "Google Search Console performance report filter allows selection of multiple countries &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
