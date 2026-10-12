@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-10-12T17:55:23.905302+00:00",
+  "updatedAt": "2026-10-12T18:32:50.008694+00:00",
   "items": [
+    {
+      "title": "The Industry Mourns The Loss Of Nick Wilsdon - Loved By Industry",
+      "link": "https://www.seroundtable.com/rip-nick-wilsdon-42280.html",
+      "date": "2026-10-12T18:00:00+00:00",
+      "description": "I am sad to report that Nick Wilsdon has passed away yesterday, October 11, 2026. Nick Wilsdon has been in the SEO industry for over two decades and was a close friend to many in the search marketing industry.",
+      "image": "https://images.seroundtable.com/nick-wilsdon-maSRwRVz.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Negative Signals, Positive Intent: PPC Leads Hiding In ‘Cancel’ Searches",
       "link": "https://www.searchenginejournal.com/negative-signals-positive-intent-ppc-leads-hiding-in-cancel-searches/590734/",
@@ -429,19 +442,6 @@
         "SEO",
         "Google",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Google Reveals The UGC Fresh Data Program",
-      "link": "https://www.seroundtable.com/google-ugc-fresh-data-program-42265.html",
-      "date": "2026-10-08T15:15:00+00:00",
-      "description": "Google has announced its UGC Fresh Data Program, which Google says \"is an initiative designed to help platforms display fresh, high quality, and authentic user-generated content (UGC) across various features on Search.\" Basically, it seems like an API UCG sites like Reddit can use to push content to Google Search faster.",
-      "image": "https://images.seroundtable.com/google-ugc-fresh-data-program-RK2VRiBC.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
