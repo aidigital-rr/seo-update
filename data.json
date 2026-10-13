@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T03:31:40.223651+00:00",
+  "updatedAt": "2026-10-13T03:58:28.503472+00:00",
   "items": [
     {
       "title": "YouTube To Test Ask YouTube Inside The Shorts Player via @sejournal, @MattGSouthern",
@@ -157,7 +157,7 @@
       "link": "https://www.seroundtable.com/google-ai-ads-goals-and-assets-42269.html",
       "date": "2026-10-12T11:41:00+00:00",
       "description": "Google is testing using AI to come up with suggested goals and assets for your Google Ads campaigns. Google has confirmed this is a current test.",
-      "image": "",
+      "image": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -170,7 +170,7 @@
       "link": "https://www.seroundtable.com/bing-microsoft-decision-1-42270.html",
       "date": "2026-10-12T11:31:00+00:00",
       "description": "Microsoft announced Microsoft-Decision-1 last week and it is already being experimented with in both Bing Search and Copilot. Microsoft-Decision-1 is a \"decision-scoring model delivers top performance in latency and quality on structured decision tasks to outperform both LLMs and other decision models,\" Microsoft said.",
-      "image": "",
+      "image": "https://images.seroundtable.com/microsoft-decision-1-p8W4WBzy.gif",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -436,7 +436,7 @@
       "link": "https://www.seroundtable.com/bing-no-favicons-snippets-42262.html",
       "date": "2026-10-09T11:11:00+00:00",
       "description": "Microsoft Bing is testing dropping favicons from Bing search result snippets. This makes the search results page look much less graphical.",
-      "image": "",
+      "image": "https://images.seroundtable.com/bing-no-favicons-hV2DvRWR.png",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
