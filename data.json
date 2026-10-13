@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-13T10:59:12.802679+00:00",
+  "updatedAt": "2026-10-13T11:31:31.092843+00:00",
   "items": [
+    {
+      "title": "Google Says Why Site Migrations Can Exceed 4 Months via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-says-why-site-migrations-can-exceed-4-months/592757/",
+      "date": "2026-10-13T11:23:58+00:00",
+      "description": "Google may process a site migration for months, then blow it and rank the old URLs anyway. Mueller says what to focus on. The post Google Says Why Site Migrations Can Exceed 4 Months appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-site-migration-seo-996.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "YouTube To Test Ask YouTube Inside The Shorts Player via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/youtube-test-ask-youtube-shorts-player/592723/",
@@ -500,7 +512,7 @@
       "link": "https://www.searchenginejournal.com/jetpack-16-3-wordpress-plugin-update-is-a-winner/592452/",
       "date": "2026-10-09T05:06:52+00:00",
       "description": "Jetpack announced the release of version 16.3, a major update that adds three new blocks, expands existing features, improves accessibility and security, and reorganizes settings to bring related controls together in the user interface. Three New Blocks That Add Useful Functionalities Jetpack 16.3 introduces three new blocks that make it easier to showcase video content, help visitors discover videos, and schedule appointments directly on a website. 1. Latest Videos Playlist Block Automatically keeps a playlist populated with a site’s newest VideoPress videos, removing the need to update it manually as new videos are published. The block can be added within […] The post Jetpack 16.3 WordPress Plugin Update Is A Winner appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/wordpress-jetpack-16-3-29.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -642,18 +654,6 @@
       "tags": [
         "SEO",
         "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Link Building Strategies for 2027: What to Keep and Cut via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/link-building-strategies-for-2027-what-to-keep-and-cut/592119/",
-      "date": "2026-10-08T07:45:34+00:00",
-      "description": "Decide which link building tactics to keep or cut for 2027. Join Resolve for a free webinar on off-page SEO, rankings, and AI visibility. The post Link Building Strategies for 2027: What to Keep and Cut appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
         "AI Search"
       ]
     },
