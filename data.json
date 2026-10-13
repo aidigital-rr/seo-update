@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T22:38:56.019237+00:00",
+  "updatedAt": "2026-10-13T23:04:36.984822+00:00",
   "items": [
     {
       "title": "Google Adds Experimental Soft Navigation Metrics To CrUX via @sejournal, @MattGSouthern",
@@ -35,6 +35,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Gemini 4 Argon rolling out in Google AI Mode & Gemini - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ0J2ZzVJTFFETkdVN00zSXZXMEd4WVI5ZVhQbGdFYXdXMmhZYWd3Wm9MMUxNVi1icngzeXhmSXNOUFFqdXk4bVVteEFCZkl6ak03ZkhtY253b0o0MXAtUi1iLXU2YXpSbHdCS3N4WVd4UkhiY2Ytd3JTQ0RFWlJaSTVUNkQ5bmZlTWF6ZW1NeUw?oc=5",
+      "date": "2026-10-13T16:33:55+00:00",
+      "description": "Gemini 4 Argon rolling out in Google AI Mode & Gemini &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -501,7 +514,7 @@
       "link": "https://www.searchenginejournal.com/google-hiring-ai-content-discover/592543/",
       "date": "2026-10-11T23:31:25+00:00",
       "description": "Open job listings describe teams that generate and recommend AI content for Discover, plus a design lead to turn it into a proactive concierge experience. The post Google Is Hiring To Generate AI Content For Discover appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-discover-ai-concierge.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -675,19 +688,6 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMUFJV2tJcXB1ODBjMVBuTUowaGJwX0drZnRJUV82bW5nSllkb1FUX1FRZjRDSEhtS1h3RUt4bV9ZTmZ1OXBTYmNmSkFBLUF0bU9rNmVxTFVfdm5sZEVtMTFXSlBjdUk4NFlEZlVNU3BkamRYeDN6ZHpyeWVxZUdGV1lhUHhNenByWlpDX2pLZjl0ZmNuaERGMEZxTQ?oc=5",
       "date": "2026-10-08T12:00:00+00:00",
       "description": "How to plan 2027 when traffic is down and AI won’t attribute &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google September 2026 spam update done rolling out - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHFUTE5rdlJwQ2U0aVVkTjc4X3RSR3JJeXN2MWI4TGphdkhvYTVGSkx6T0lqUDZfemVIQkZfSm1yWjJQbDZJSUdtNWtHSDVLWFJHdjNNSVI2UVJYdEhzSWN6cXdYZ00yeXNhT1hZRm9mb1VXSW5LVFRjRGMtYjRsMmo1U1dtZnJQOWhoSDVfUQ?oc=5",
-      "date": "2026-10-08T09:33:03+00:00",
-      "description": "Google September 2026 spam update done rolling out &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
