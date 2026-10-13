@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-10-13T15:59:08.188099+00:00",
+  "updatedAt": "2026-10-13T16:31:48.814806+00:00",
   "items": [
+    {
+      "title": "Topics Portfolio In Bing Webmaster Tools AI Reports",
+      "link": "https://www.seroundtable.com/topics-portfolio-bing-webmaster-tools-42288.html",
+      "date": "2026-10-13T15:59:00+00:00",
+      "description": "Microsoft Bing just announced a new addition to the AI performance reports in Bing Webmaster Tools named Topics Portfolio. Topics Portfolio shows you the \"presence is distributed across themes, how much demand each theme represents, how competitive each theme is and where your site has room to grow.\"",
+      "image": "https://images.seroundtable.com/bing-ai-performance-topic-portfolio-AeZObQ4c.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Test Like A Scientist: 6 Mistakes That Undermine Your SEO Experiments via @sejournal, @SequinsNsearch",
       "link": "https://www.searchenginejournal.com/test-like-a-scientist-mistakes-that-undermine-your-seo-experiments/591411/",
@@ -419,19 +432,6 @@
       "tags": [
         "SEO",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Google: Poor Image Quality Won't Stop Products From Showing In Search Or Ads",
-      "link": "https://www.seroundtable.com/google-merchant-center-poor-image-inclusion-42273.html",
-      "date": "2026-10-12T11:11:00+00:00",
-      "description": "Google has updated its Google Merchant Center low image quality help document to now say that poor image quality will not stop those products from showing in Google Search or Google Ads.",
-      "image": "https://images.seroundtable.com/google-merchant-center-image-quality-update-ChdOs3yy.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
