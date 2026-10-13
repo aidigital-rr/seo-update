@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T02:56:51.136380+00:00",
+  "updatedAt": "2026-10-13T03:31:40.223651+00:00",
   "items": [
     {
       "title": "YouTube To Test Ask YouTube Inside The Shorts Player via @sejournal, @MattGSouthern",
@@ -48,6 +48,19 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "Google Analytics launches User Groups Admin API for easier access management - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGliVFpNX3dzQ1RHRTFGMTRaRjFBNG4yRUJOalBkX0ZmM2VQeW5ROTFKWUtPaEZxbFpjeko3UXJ1UDNMU2xQV05ocTA3TkRzQVZfUHN3QzNBYkVHV0dFX1pGZDNKeEtPUWdnOExRcnJ1ZE1OYTJ0ay1UcHk0encweUJ6WnlnOVhGNE9qZmR0SjFiblBjdm82VmoxdzNUay1xekljU3RJX3dVTHhKZUE2enNR?oc=5",
+      "date": "2026-10-12T17:24:59+00:00",
+      "description": "Google Analytics launches User Groups Admin API for easier access management &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
@@ -144,7 +157,7 @@
       "link": "https://www.seroundtable.com/google-ai-ads-goals-and-assets-42269.html",
       "date": "2026-10-12T11:41:00+00:00",
       "description": "Google is testing using AI to come up with suggested goals and assets for your Google Ads campaigns. Google has confirmed this is a current test.",
-      "image": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -157,7 +170,7 @@
       "link": "https://www.seroundtable.com/bing-microsoft-decision-1-42270.html",
       "date": "2026-10-12T11:31:00+00:00",
       "description": "Microsoft announced Microsoft-Decision-1 last week and it is already being experimented with in both Bing Search and Copilot. Microsoft-Decision-1 is a \"decision-scoring model delivers top performance in latency and quality on structured decision tasks to outperform both LLMs and other decision models,\" Microsoft said.",
-      "image": "https://images.seroundtable.com/microsoft-decision-1-p8W4WBzy.gif",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -423,7 +436,7 @@
       "link": "https://www.seroundtable.com/bing-no-favicons-snippets-42262.html",
       "date": "2026-10-09T11:11:00+00:00",
       "description": "Microsoft Bing is testing dropping favicons from Bing search result snippets. This makes the search results page look much less graphical.",
-      "image": "https://images.seroundtable.com/bing-no-favicons-hV2DvRWR.png",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -498,7 +511,7 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS0tVMy1JcG9SS2lpX09Vd2hjaU9jdTZoLTRReVlMYTBWNG5oamQ1SWM0QTQtUXVYeHNqS0Nva3RqTzB3RGxxWmlHY2dyd3ZCNEJScU9uNkFjUmxYWEVmM3FZWDFXdEU0dEUzX2pNM1VBUmdzUWNDaDY2S0pNYjZGU1ZoekZfd05Ja3dqblRfYnhtTElVdldwREp6OA?oc=5",
       "date": "2026-10-08T16:17:40+00:00",
       "description": "Google Ads adds AI-powered insights to experiment reporting &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -675,19 +688,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVmhraTNLQUdXQ24tTzViM2dLNE5YMzJjcmQtWWtQaU5ObXVZRGFsajQyRGNfYzJuQjBlZTdHMGNnZ0pEUGJQRDlnSEJoYUVhb3Q3MDJlQ3ZabVBySGVPbHRIS045c1QtZHR2TWg2LXJTRFJDdmRhb1J0UFNkUDliNGdWaEpnajk1QlpBNGF3SHI1bFU?oc=5",
       "date": "2026-10-07T12:00:00+00:00",
       "description": "Google Display migration to Demand Gen: How to protect your ad budget &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads can now calculate Target ROAS from profit margins - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVDlReVBTLU5tRjIzaE5fZVNqVFVxMm44ZjhJYUxieUdOek12S2ZsUEltNVJGeDJOSWFpa3dpS3JGWlktMS1kcm1FamphSm5iOTZ5Slp4R24zSUJqSmhJLVBRdTJ3Z3NBcVVkV3ExTy1oMTcxa0w1d1BRM3kyRHV3dGVDWm03UU9jZVFQajVtclBCdDR3NWNIWDloc00?oc=5",
-      "date": "2026-10-06T14:45:35+00:00",
-      "description": "Google Ads can now calculate Target ROAS from profit margins &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
