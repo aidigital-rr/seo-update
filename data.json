@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-10-13T20:06:27.765448+00:00",
+  "updatedAt": "2026-10-13T20:42:30.229552+00:00",
   "items": [
+    {
+      "title": "Google Search On PDFs: Conversion, Links, HTML, Ranking, Limits, Crawling...",
+      "link": "https://www.seroundtable.com/google-search-on-pdfs-42291.html",
+      "date": "2026-10-13T19:27:00+00:00",
+      "description": "Google's Martin Splitt and John Mueller just posted a Search Off the Record podcast on the topic of PDFs, it is named PDFs in Search: Indexing, AI & Pitfalls. It goes over how PDFs are converted for crawling and indexing, how Google processes links, images, what are the file limits and do they rank in search and AI search.",
+      "image": "https://images.seroundtable.com/google-pdfs-hero-2Uf23ick.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google Adds Gemini 4 Argon To AI Mode For Pro & Ultra Subscribers via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-gemini-4-argon-ai-mode/592806/",
@@ -75,6 +88,19 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "Why gated content is the enemy of AI search - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85cVVwUFFPb3UwOEpobmtNT2lxc3FYT2hvYzQwQ3BQTXdteThSajFJX25jWWRJZFhTYjJwM0YwcUpqVC1uYXFjQWJVM0xfRzJ1bUNMUnVXSVRpMFE2Q0NXRHVKM2l0VGx2UmNYNDg1Sm50cEE?oc=5",
+      "date": "2026-10-13T14:00:00+00:00",
+      "description": "Why gated content is the enemy of AI search &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
@@ -307,19 +333,6 @@
       ]
     },
     {
-      "title": "Search engine positioning - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DZTRkNFAwR18yS3I1bHpEUXNiV2hINzAtdzM1d0lOYk9BRHpDdlhya2lJLTFkUERwRTBwc0R2UmpxUElhTVBNdDdSejZkR2lDVy1rSjFFVnNHOE1lUl9PcFpEODJrRGNtNFRUeQ?oc=5",
-      "date": "2026-10-12T17:50:30+00:00",
-      "description": "Search engine positioning &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google Analytics launches User Groups Admin API for easier access management - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGliVFpNX3dzQ1RHRTFGMTRaRjFBNG4yRUJOalBkX0ZmM2VQeW5ROTFKWUtPaEZxbFpjeko3UXJ1UDNMU2xQV05ocTA3TkRzQVZfUHN3QzNBYkVHV0dFX1pGZDNKeEtPUWdnOExRcnJ1ZE1OYTJ0ay1UcHk0encweUJ6WnlnOVhGNE9qZmR0SjFiblBjdm82VmoxdzNUay1xekljU3RJX3dVTHhKZUE2enNR?oc=5",
       "date": "2026-10-12T17:24:59+00:00",
@@ -440,19 +453,6 @@
       "date": "2026-10-12T11:41:00+00:00",
       "description": "Google is testing using AI to come up with suggested goals and assets for your Google Ads campaigns. Google has confirmed this is a current test.",
       "image": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Bing & Copilot Experimenting With Microsoft-Decision-1",
-      "link": "https://www.seroundtable.com/bing-microsoft-decision-1-42270.html",
-      "date": "2026-10-12T11:31:00+00:00",
-      "description": "Microsoft announced Microsoft-Decision-1 last week and it is already being experimented with in both Bing Search and Copilot. Microsoft-Decision-1 is a \"decision-scoring model delivers top performance in latency and quality on structured decision tasks to outperform both LLMs and other decision models,\" Microsoft said.",
-      "image": "https://images.seroundtable.com/microsoft-decision-1-p8W4WBzy.gif",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
