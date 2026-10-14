@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-14T18:47:51.563798+00:00",
+  "updatedAt": "2026-10-14T19:41:10.682624+00:00",
   "items": [
+    {
+      "title": "Google Launches A Video Series For Odd Technical SEO Questions via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-launches-a-video-series-for-odd-technical-seo-questions/592952/",
+      "date": "2026-10-14T18:51:41+00:00",
+      "description": "Google's new Search Central video series tackles unusual technical SEO questions, starting with emoji, non-English characters, and keywords in your URLs. The post Google Launches A Video Series For Odd Technical SEO Questions appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-non-canonical-cabinet-gary-www.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Google Ads Introduces Channel Prioritization And Budget Allocation via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/google-ads-introduces-channel-prioritization-and-budget-allocation/592833/",
@@ -85,6 +97,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Organic growth in ecommerce in 2027 - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JcjdIUWQtaEdyaXRQR0drS0Q2NDdnVXJDWkFlbkQ3bkZ3a0JySlBnOGY3akVkV2ZxQkdVZ0xsV2xOdVpnRFJvc1pXY0lqaFhaQlMwXzhWNENId0drb1hwWk9vUm9BRndUdVRCZkNqQkZsTk0?oc=5",
+      "date": "2026-10-14T12:00:00+00:00",
+      "description": "Organic growth in ecommerce in 2027 &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -487,7 +512,7 @@
       "link": "https://www.searchenginejournal.com/youtube-test-ask-youtube-shorts-player/592723/",
       "date": "2026-10-12T22:16:40+00:00",
       "description": "YouTube is planning a limited, English-only test of Ask YouTube on select Shorts and says the watch-page feature will soon reach Shorts and live streams. The post YouTube To Test Ask YouTube Inside The Shorts Player appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/youtube-shorts-featured-1.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -499,7 +524,7 @@
       "link": "https://www.searchenginejournal.com/all-in-one-seo-wordpress-plugin-vulnerable-to-two-exploits/592719/",
       "date": "2026-10-12T21:51:53+00:00",
       "description": "AIOSEO WordPress Plugin has two medium-severity security flaws that enable unauthenticated attackers to compromise affected websites. The post All In One SEO WordPress Plugin Vulnerable To Two Exploits appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/aioseo-wordpress-plugin-871.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -646,18 +671,6 @@
       ]
     },
     {
-      "title": "Anthropic’s Thariq Shihipar Recommends Using Artifacts via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/anthropics-thariq-shihipar-recommends-using-artifacts/592550/",
-      "date": "2026-10-12T09:31:25+00:00",
-      "description": "Anthropic's Thariq Shihipar says Artifacts brings project information and agent activity into one interface, giving users more oversight. The post Anthropic&#8217;s Thariq Shihipar Recommends Using Artifacts appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google AI Mode ads: Everything you need to know - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeU9HRjNyZW9HM0UwUENJbmVWbERqbEZsWGJnT1JzME9OZUJZY0g3dW85YUZlOFY1WTJKSzR5dll3Vk15WER2MGF3Y01IOFNyTWxDb2c3Y0tYNkJ4RmlYMDBzcG9OemRLLW5oYjlmb2FOU2ppdzJRZDdrMlJVN0l2S3ZPQTBZV0ltaGc?oc=5",
       "date": "2026-10-09T13:00:00+00:00",
@@ -675,19 +688,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSDQ5c0p3dmtuREk1OG5hTms0S2ptNHF4MVFzUDl1ZWxSMU04b1laX0p5QTVRVUtZRkh2SkI0RVVicWJBYVlPMkN2QmJrbWZKbDducW9uMWNCaFZGYVdvVjdYZkZFMDJ6MFp5aHBpRTM5TzBFejQtS1E0TnZKVzNnVUhubmxZbmdwWkdZM01Rd21zUGVJTWxoOUpfTjRuWng4cDR1NlBya3l4UEJkdUd6TG9Hcw?oc=5",
       "date": "2026-10-08T16:58:18+00:00",
       "description": "Google Ads lets advertisers preview AI Max-generated ad copy before opting in &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads adds AI-powered insights to experiment reporting - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS0tVMy1JcG9SS2lpX09Vd2hjaU9jdTZoLTRReVlMYTBWNG5oamQ1SWM0QTQtUXVYeHNqS0Nva3RqTzB3RGxxWmlHY2dyd3ZCNEJScU9uNkFjUmxYWEVmM3FZWDFXdEU0dEUzX2pNM1VBUmdzUWNDaDY2S0pNYjZGU1ZoekZfd05Ja3dqblRfYnhtTElVdldwREp6OA?oc=5",
-      "date": "2026-10-08T16:17:40+00:00",
-      "description": "Google Ads adds AI-powered insights to experiment reporting &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
