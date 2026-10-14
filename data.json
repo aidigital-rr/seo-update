@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T10:11:38.814470+00:00",
+  "updatedAt": "2026-10-14T10:41:37.772635+00:00",
   "items": [
     {
       "title": "Google Explains How They Rank PDFs And What It Means For SEO/GEO via @sejournal, @martinibuster",
@@ -87,6 +87,19 @@
       ]
     },
     {
+      "title": "Gemini 4 Argon rolling out in Google AI Mode & Gemini - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ0J2ZzVJTFFETkdVN00zSXZXMEd4WVI5ZVhQbGdFYXdXMmhZYWd3Wm9MMUxNVi1icngzeXhmSXNOUFFqdXk4bVVteEFCZkl6ak03ZkhtY253b0o0MXAtUi1iLXU2YXpSbHdCS3N4WVd4UkhiY2Ytd3JTQ0RFWlJaSTVUNkQ5bmZlTWF6ZW1NeUw?oc=5",
+      "date": "2026-10-13T16:33:55+00:00",
+      "description": "Gemini 4 Argon rolling out in Google AI Mode & Gemini &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Gemini 4 Argon In Google Search Via AI Mode",
       "link": "https://www.seroundtable.com/google-ai-mode-gemini-4-argon-42289.html",
       "date": "2026-10-13T16:13:00+00:00",
@@ -110,6 +123,45 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "Bing Webmaster Tools AI performance report new Topics Portfolio - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV2hDNm16NEo1Qm1nRWJkcUhZWHAtRVpkVUpVXzFMYzRUb1NGX1JYVHVkV1RsVFVsdTJxOHNTM0FrNEprdkJtTDMwU2NtRFJiRllocVViUjhyR1pSQmtVQTg2d252TGhmLTZEX3M1M3p3TlR1QnVpYnY2LTRqVkZZNHA5b2hSSnd4OUZNM3Q2cTlZOUFpZFJ5R3dxZlg1Z3FH?oc=5",
+      "date": "2026-10-13T15:50:25+00:00",
+      "description": "Bing Webmaster Tools AI performance report new Topics Portfolio &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Ads API moves to twice-monthly releases starting with v26 - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSHFGbVJYMEJULTdBUzgxN0JrUkNCMHFBRGl6UEp0akxtTTdqbEVpQThfQWJVZDVpUTFnYk93RVZtVkh1WlpqY25DTlRhWmExejBES2dfYU14YVZDbmQ5eHNKaVF5ZmtPd3VHUHh4N3pLeEROeTZqYjJMelhsZTNYRWQtTXMwemxJLWhqSHJZeC1iRHdNQlNOem13RkF6NmxEU1E?oc=5",
+      "date": "2026-10-13T14:25:34+00:00",
+      "description": "Google Ads API moves to twice-monthly releases starting with v26 &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Ads adds Search terms and ad combinations report for AI Max - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2pSRmZHQXEzRWx1VUFwTnQ2NEJQX3lsVEJxcHBHTXlSck83SllnZnh1RkdjLVNXQWRWWXJXbm9nZXN2ZjVtME9Ec0o4dFplRU5LRmhQRGlJQUduZDlvZ0R4WUR2XzlTVVRqQ3E4c2FyRTN1aFJyN2dMaVZaMGJROW1WMUg1Qk5HbDBQVXFrSUw3NnYtYlBVMDlFNjhMbzJHZGZ1ZA?oc=5",
+      "date": "2026-10-13T14:00:58+00:00",
+      "description": "Google Ads adds Search terms and ad combinations report for AI Max &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
@@ -138,6 +190,58 @@
       ]
     },
     {
+      "title": "Why gated content is the enemy of AI search - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85cVVwUFFPb3UwOEpobmtNT2lxc3FYT2hvYzQwQ3BQTXdteThSajFJX25jWWRJZFhTYjJwM0YwcUpqVC1uYXFjQWJVM0xfRzJ1bUNMUnVXSVRpMFE2Q0NXRHVKM2l0VGx2UmNYNDg1Sm50cEE?oc=5",
+      "date": "2026-10-13T14:00:00+00:00",
+      "description": "Why gated content is the enemy of AI search &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Tag Manager update promises faster websites and simpler tracking - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2lJU015aHZ2dDdWcmVscjZSdkZVbXNwTzVJWURoUnhyNHplMXYwb0JQd294QU02U21vSVlRT011bFFHa2hKcUNHLS1TbTc3ZTV4OF90MEVlR0UzR0U3bG15WXFqT0NqSFJVNVFlQ3Rab3E0aXA4MnR3bjM3UnE4OEYyZWk4QS16cXpFWUxnLXFfcDZ5X05GamhUUllCV3l0TkQwaXQ2WVR2V2M?oc=5",
+      "date": "2026-10-13T13:43:50+00:00",
+      "description": "Google Tag Manager update promises faster websites and simpler tracking &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Your SEO recommendations have an expiry date - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2OXFLSzltNjRIVDBwX3lSTG1fY256TmpuUzdRNUd3ZTc1Y255cWRYMURNcXcyVk96VXUxN3diVHNuMzk0YUN2ZktiQWRlY29PY180Tkd3aVItYnFJeTUyYWFXR0Y5RFVmbEgxYWFubExXZHNXT2c?oc=5",
+      "date": "2026-10-13T13:00:00+00:00",
+      "description": "Your SEO recommendations have an expiry date &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Discover to become a proactive, hyper-personalized concierge experience - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQTR0UzZpb3RSQWFwTVlkcGNIeThzeWlXcEJCVnZZRkxsRlFiZDBQSVQ5Q0lqOWdpdENudEZsNDZUOGlWQ19yWE9Cbks0MUl1ZDZ1WXdiU1ZmRkF1cHMxZE05Ry0tOUxLbXRacGlneXpLM2ZFbUoxUEZwSWlSU0hVOGtURm0zYTJ4QmJSNTNGWDA2LTNkdE9KSHlYSmlXN1ByOTdhdVlWT092MEdKUWhLU1RnQQ?oc=5",
+      "date": "2026-10-13T12:03:50+00:00",
+      "description": "Google Discover to become a proactive, hyper-personalized concierge experience &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Lost In Translation: How Language Changes Which Brand AI Recommends",
       "link": "https://www.searchenginejournal.com/lost-in-translation-how-language-changes-which-brand-ai-recommends/591585/",
       "date": "2026-10-13T12:00:05+00:00",
@@ -146,6 +250,32 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "The global consistency paradox: Building local E-E-A-T for AI search - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcWpiaklCV1U1NGtaUlM2cE1oNm9ZeFRPcG44TWlOQ0cxTVZxZzZTblQteW5ubGY1bjZXY1lDUG5hWXRTU1dBTWw4UzNMa09CZTJrMU5jbm9manhPclBpRV9RZ2VVUWJSMlN0TEJfZ1NfcHZEa1paaHg2VlhfbWtoX2l5azVBUmI1SWFJT3V6UQ?oc=5",
+      "date": "2026-10-13T12:00:00+00:00",
+      "description": "The global consistency paradox: Building local E-E-A-T for AI search &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Search Console reporting date selector is broken - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT3cwMUdsN0N0SVFQQmFNbkM0a0ZtRjF4c2dZR2tORjJQUFpRUlhibmQybTZPYS1RaTZOOFprNnVKbUVHVFBNMGNHazlNRWlxaXdNSG5wb0ZRS3lyTU9OcEN5SGRQNVJybzhwRXlKYXJ2NEgwOWxvdlJjMnc3V0dxNDQyVkF2OHNZODlQU1lYdzJJN19ONVE?oc=5",
+      "date": "2026-10-13T11:54:17+00:00",
+      "description": "Google Search Console reporting date selector is broken &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -253,32 +383,6 @@
       ]
     },
     {
-      "title": "Google Ads API moves to twice-monthly releases starting with v26",
-      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf55521288440dba2bf5d7da413353&url=https%3a%2f%2fsearchengineland.com%2fgoogle-ads-api-moves-to-twice-monthly-releases-starting-with-v26-495545&c=15848679343178799524&mkt=en-us",
-      "date": "2026-10-13T03:26:00+00:00",
-      "description": "Google Ads API is moving to twice-monthly releases, giving developers faster access to new features without increasing migration requirements.",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Tag Manager update promises faster websites and simpler tracking",
-      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf55521288440dba2bf5d7da413353&url=https%3a%2f%2fsearchengineland.com%2fgoogle-tag-manager-update-promises-faster-websites-and-simpler-tracking-495459&c=9466839680068554799&mkt=en-us",
-      "date": "2026-10-13T02:43:00+00:00",
-      "description": "Google Tag Manager now enables faster data collection, improved website performance and simpler tracking management.",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "YouTube To Test Ask YouTube Inside The Shorts Player via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/youtube-test-ask-youtube-shorts-player/592723/",
       "date": "2026-10-12T22:16:40+00:00",
@@ -303,6 +407,32 @@
       ]
     },
     {
+      "title": "Microsoft-Decision-1 being experimented with in Copilot and Bing - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckVQM2ZqN3dCbTF1RzFscDVyNTlSTFdVdDZyNXdQRm1lSmZnYWlidW91NW1FQ3oxdm5BbEYwWHlmVVhqWExvbEs0QlhsWXRaQkFnczFVUTZOaGdLQU1peG55M0g1NmUtOEVYWVRxLVprSi1PcFdBZV9GZms4SXFqVGlaVnRINkJiMTBRaE0xRTBMZXNfN0t5ZWVvZjF5NGxqZkE?oc=5",
+      "date": "2026-10-12T21:50:31+00:00",
+      "description": "Microsoft-Decision-1 being experimented with in Copilot and Bing &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Ads tests AI-powered campaign creation using natural language - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNTJJb21XdlVtSXFYN2g0dEVDSkx1VVZncmxhNXF1QVE5RnRYNW1FVW80MWVRV09pYjl1cG1xV041cEgzdjlhSzJRUWxWX1V4SThpMS1Kc0JYTV96MFJNVEFWQVd0djFqXzViWE9wMWFlOUJEY0hINmZQY0dVaXdyNGRIWEZXMDcxR1g0SzFUZ1hEVDN5OWNjUTBJQXRkRzcweEltMlRySQ?oc=5",
+      "date": "2026-10-12T18:55:15+00:00",
+      "description": "Google Ads tests AI-powered campaign creation using natural language &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "ChatGPT’s Most-Cited Sites Tilt Toward Primary Sources, Data Shows via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/chatgpt-most-cited-sites-primary-sources-ahrefs/592682/",
       "date": "2026-10-12T18:41:59+00:00",
@@ -311,6 +441,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Ads tests automated bidding for Video Reach campaigns - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUJyeHpndHNwOWh5amVNWkEzckRUellpM0RsWGNJci1FNjg2QXFGZE5OQ0FGR2p1dHNsR3ZLb2dBTVZmaEhsWm93NU51TEJZNG1vRlljSGswRFVmT0JmeTMtaFNPeXRrYWFXQ3FRWEtTT0tWQnhFUHRWTXNOSEQ1c3c5NWhNTm9lajhPNDRjdmYyX1kxUjRYQklIdXE?oc=5",
+      "date": "2026-10-12T18:39:52+00:00",
+      "description": "Google Ads tests automated bidding for Video Reach campaigns &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -325,6 +468,32 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "Google Analytics launches User Groups Admin API for easier access management - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGliVFpNX3dzQ1RHRTFGMTRaRjFBNG4yRUJOalBkX0ZmM2VQeW5ROTFKWUtPaEZxbFpjeko3UXJ1UDNMU2xQV05ocTA3TkRzQVZfUHN3QzNBYkVHV0dFX1pGZDNKeEtPUWdnOExRcnJ1ZE1OYTJ0ay1UcHk0encweUJ6WnlnOVhGNE9qZmR0SjFiblBjdm82VmoxdzNUay1xekljU3RJX3dVTHhKZUE2enNR?oc=5",
+      "date": "2026-10-12T17:24:59+00:00",
+      "description": "Google Analytics launches User Groups Admin API for easier access management &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Ads gives Demand Gen advertisers a way to keep Lookalike targeting restrictions - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeVdUYTlqTnE5N3g2X3h6UVlzMkR6WWp4S1BDd1VMOXVBUVZoNC1xNE9tYzV5bUJpNTVBbjZoMlNZcTZ3Q3NiNDlCTHplRi1xdmRrbDZLV1BVaVV1djJZV2FaM20tbnBIdHZMSXpYZVd0SlNBeS10ZE4tNXdlZUg4S3JZQk8weVlwTG5tNTE1WHc1eFdSYkNiSjBFYUhXdHctN3l3NTFPNUkxUEdBSUZsZEZhLTdaY0xpZmdkSldOYw?oc=5",
+      "date": "2026-10-12T17:11:35+00:00",
+      "description": "Google Ads gives Demand Gen advertisers a way to keep Lookalike targeting restrictions &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
@@ -344,7 +513,7 @@
       "link": "https://www.seroundtable.com/recap-10-12-2026-42274.html",
       "date": "2026-10-12T14:00:00+00:00",
       "description": "Here is a recap of what happened in the search forums today...",
-      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -353,14 +522,53 @@
       ]
     },
     {
+      "title": "Consolidate or segment? A Performance Max decision framework - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwbUhURXRmN21nS1dmWU94a3NjVmxJbHlsR1FMUXpYeHk1VTU5WV92M2FLSzN0OTJwSFcxd3EzVFMtQ1dRdE5nMWU2WFcxMmtTTDRnOWhaZG54bndfUEFYOEpHRzc1UXR4SmtRMU41TVBLQ2dvWmdTbUZR?oc=5",
+      "date": "2026-10-12T14:00:00+00:00",
+      "description": "Consolidate or segment? A Performance Max decision framework &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How to audit off-page AI search visibility and build a 90-day plan - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT0pQZUFDMDRuNkQtX3RRRlhyckpFUi1NSXF0RXhxSFBqWkhlS3FyQUhkbngtTzJRSmFNZnZ1Y2RQdzB2ZWFJT1VheE0xWWZYcFc4NEJCZmNLWUNEejlkXzN5VVFFVGZ0X1M1ck04Q3M1cGxXZFJRakJpOW9NUGJXckpVdVgybU1WSmN3?oc=5",
+      "date": "2026-10-12T13:00:00+00:00",
+      "description": "How to audit off-page AI search visibility and build a 90-day plan &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Your First 30 Days As A Growth Leader – The Challenge From Day One",
       "link": "https://www.searchenginejournal.com/your-first-30-days-as-a-growth-leader-the-challenge-from-day-one/591036/",
       "date": "2026-10-12T12:00:07+00:00",
       "description": "Use your first 30 days as a growth leader to identify where B2B buyers lose trust and rethink the channels meant to engage them. The post Your First 30 Days As A Growth Leader – The Challenge From Day One appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/growth-leader-565.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "AI search is helping people ask bigger questions. Is your brand ready? - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbHdWa09iaVRGOXhaQi0yVGF4Nnp4dmhXaFVQdll1QjBZbkVTeWk4eTQzblhORTItWmNCbkJrQW5SZmtLRE5mcU9BeE1MUGVGX0c4OGRKcHBOQnJ6eHZrYVZ6eG1iUFplTWNvRXFPQVBIUTRkUnQxeU1vSHo1U0N2RlJHV3VUQnhPQmxoWFNn?oc=5",
+      "date": "2026-10-12T12:00:00+00:00",
+      "description": "AI search is helping people ask bigger questions. Is your brand ready? &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -369,7 +577,7 @@
       "link": "https://www.seroundtable.com/third-party-google-rank-tracking-broken-42272.html",
       "date": "2026-10-12T11:51:00+00:00",
       "description": "Google seems to be successfully blocking enough of the attempts of scrapers from trying to scrape data from its search results page over the past few weeks than it has in a long time. We reported this a few weeks ago, and I am surprised to see that many tools still struggle with Google Search reporting.",
-      "image": "https://images.seroundtable.com/google-data-toying-j1eptVPF.jpg",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -382,7 +590,7 @@
       "link": "https://www.seroundtable.com/google-ai-ads-goals-and-assets-42269.html",
       "date": "2026-10-12T11:41:00+00:00",
       "description": "Google is testing using AI to come up with suggested goals and assets for your Google Ads campaigns. Google has confirmed this is a current test.",
-      "image": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -395,7 +603,7 @@
       "link": "https://www.searchenginejournal.com/google-discover-to-undergo-dramatic-changes/592626/",
       "date": "2026-10-12T11:13:13+00:00",
       "description": "Google is planning to reinvent Discover to become an AI Concierge with a tighter integration with YouTube. The post Google Discover To Undergo Dramatic Changes appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-discover-156.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -407,49 +615,10 @@
       "link": "https://www.searchenginejournal.com/anthropics-thariq-shihipar-recommends-using-artifacts/592550/",
       "date": "2026-10-12T09:31:25+00:00",
       "description": "Anthropic's Thariq Shihipar says Artifacts brings project information and agent activity into one interface, giving users more oversight. The post Anthropic&#8217;s Thariq Shihipar Recommends Using Artifacts appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/antrhopic-thariq-shihipar-396.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads tests AI-powered campaign creation using natural language",
-      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf55521288440dba2bf5d7da413353&url=https%3a%2f%2fsearchengineland.com%2fgoogle-ads-tests-ai-powered-campaign-creation-using-natural-language-495256&c=13853743443981584275&mkt=en-us",
-      "date": "2026-10-12T07:55:00+00:00",
-      "description": "Google Ads is testing an AI-powered campaign setup that lets advertisers describe their goals in natural language ...",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads tests automated bidding for Video Reach campaigns",
-      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf55521288440dba2bf5d7da413353&url=https%3a%2f%2fsearchengineland.com%2fgoogle-ads-tests-automated-bidding-for-video-reach-campaigns-495252&c=6583817914941768665&mkt=en-us",
-      "date": "2026-10-12T07:39:00+00:00",
-      "description": "Google Ads is testing automated bidding for Video Reach campaigns, allowing advertisers to maximize reach without manually setting a Target CPM.",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads gives Demand Gen advertisers a way to keep Lookalike targeting restrictions",
-      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf55521288440dba2bf5d7da413353&url=https%3a%2f%2fsearchengineland.com%2fgoogle-ads-gives-demand-gen-advertisers-a-way-to-keep-lookalike-targeting-restrictions-495177&c=256189099115955558&mkt=en-us",
-      "date": "2026-10-12T06:11:00+00:00",
-      "description": "Google Ads is shifting Demand Gen Lookalike audiences toward AI-driven targeting while preserving stricter controls as an option.",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
@@ -458,7 +627,7 @@
       "link": "https://www.searchenginejournal.com/google-hiring-ai-content-discover/592543/",
       "date": "2026-10-11T23:31:25+00:00",
       "description": "Open job listings describe teams that generate and recommend AI content for Discover, plus a design lead to turn it into a proactive concierge experience. The post Google Is Hiring To Generate AI Content For Discover appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-discover-ai-concierge.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -470,7 +639,7 @@
       "link": "https://www.searchenginejournal.com/anthropic-cuts-live-web-access-internal-tests/592534/",
       "date": "2026-10-11T22:07:32+00:00",
       "description": "Anthropic cut live web access for internal evaluations after Claude submitted real forms and worked around website restrictions. The post Anthropic Says Claude Bypassed Site Limits During Internal Tests appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/claude-featured-1600x840-1.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -482,7 +651,7 @@
       "link": "https://www.searchenginejournal.com/seo-pulse-google-spam-update-crawl-timing-ranges/592469/",
       "date": "2026-10-10T12:00:00+00:00",
       "description": "Google's spam update finishes, a talk recap puts site moves in months, Search Console combines countries, and new guidance targets fake author profiles. The post Google Ends Spam Update, Shares Crawl Timing Ranges – SEO Pulse appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/seo-pulse-october-8-2026.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -494,7 +663,7 @@
       "link": "https://www.searchenginejournal.com/google-explains-how-to-use-html-sitemaps-for-seo/592508/",
       "date": "2026-10-09T21:31:30+00:00",
       "description": "Google explains why HTML sitemaps may still be useful even though the XML standard has largely replaced it. The post Google Explains How To Use HTML Sitemaps For SEO appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/seo-google-sitemaps-211.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -502,10 +671,10 @@
       ]
     },
     {
-      "title": "Google opens Conversion Lift to Search and Performance Max",
-      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf55521288440dba2bf5d7da413353&url=https%3a%2f%2fsearchengineland.com%2fgoogle-opens-conversion-lift-to-search-and-performance-max-494195&c=3232374983886283305&mkt=en-us",
-      "date": "2026-10-07T05:27:00+00:00",
-      "description": "Google is making incrementality testing more accessible by opening self-serve Conversion Lift measurement to eligible Search and PMax campaigns.",
+      "title": "Google Ads adds automatic text overlays to Demand Gen video ads - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR0puQlhkMFBMZi1vdHVfdDR0RUQ2Q3pjU0gtUEl2Ui1DcjdOdTN3NTBmcHV2RWhsRTZmaFpMbUNHM3VNWWpxcC1GeTNXTHk2cmZBNndWRWdSMWNTYW02WEc2OG1PQTJTNVFXUmVFU0NHTW4xOGxkb0o4bDlPOWxpRWNEVm9odTg3amxJQXRDX1JTNTlQOEFwZktZNllYVno4?oc=5",
+      "date": "2026-10-09T18:47:30+00:00",
+      "description": "Google Ads adds automatic text overlays to Demand Gen video ads &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -515,23 +684,10 @@
       ]
     },
     {
-      "title": "Google Ads adds new AI Max columns for deeper campaign analysis",
-      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf55521288440dba2bf5d7da413353&url=https%3a%2f%2fsearchengineland.com%2fgoogle-ads-adds-new-ai-max-columns-for-deeper-campaign-analysis-494170&c=4973481641832283960&mkt=en-us",
-      "date": "2026-10-07T04:55:00+00:00",
-      "description": "New AI Max reporting columns give advertisers more visibility into targeting, location and brand settings across their campaigns.",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google warns against using fake author information on your content",
-      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf55521288440dba2bf5d7da413353&url=https%3a%2f%2fsearchengineland.com%2fgoogle-warns-against-using-fake-author-information-on-your-content-493701&c=18226530320331584337&mkt=en-us",
-      "date": "2026-10-06T01:11:00+00:00",
-      "description": "“Fabricating creator profiles (such as by using AI-generated headshots, made-up names, or false credentials to make content appear as if it was written by human experts) is a form of deception.” “Any ...",
+      "title": "Google AI Mode ads: Everything you need to know - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeU9HRjNyZW9HM0UwUENJbmVWbERqbEZsWGJnT1JzME9OZUJZY0g3dW85YUZlOFY1WTJKSzR5dll3Vk15WER2MGF3Y01IOFNyTWxDb2c3Y0tYNkJ4RmlYMDBzcG9OemRLLW5oYjlmb2FOU2ppdzJRZDdrMlJVN0l2S3ZPQTBZV0ltaGc?oc=5",
+      "date": "2026-10-09T13:00:00+00:00",
+      "description": "Google AI Mode ads: Everything you need to know &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -551,45 +707,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "AI usage surges 6X for local search, fragmenting the digital ecosystem",
-      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf55521288440dba2bf5d7da413353&url=https%3a%2f%2fsearchengineland.com%2fai-usage-surges-6x-for-local-search-fragmenting-the-digital-ecosystem-492614&c=10154963664456655862&mkt=en-us",
-      "date": "2026-10-04T23:59:00+00:00",
-      "description": "Local search behavior now straddles multiple platforms, with consumers traversing a 'verification loop' to find actionable information.",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Search now says it’s critical to manually factcheck and review all AI-generated content for accuracy and trustworthiness",
-      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf55521288440dba2bf5d7da413353&url=https%3a%2f%2fsearchengineland.com%2fgoogle-search-now-says-its-critical-to-manually-factcheck-and-review-all-ai-generated-content-for-accuracy-and-trustworthiness-493070&c=4556228525518637028&mkt=en-us",
-      "date": "2026-10-01T17:28:00+00:00",
-      "description": "Google updated its Google Search’s guidance on using generative AI content on your website help document to say it is “critical” to manually review and fact-check all AI-gen ...",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "ChatGPT and Google AI favor large retailers in shopping answers",
-      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf55521288440dba2bf5d7da413353&url=https%3a%2f%2fsearchengineland.com%2fchatgpt-google-ai-favor-large-retailers-shopping-answers-492590&c=16203809307459600085&mkt=en-us",
-      "date": "2026-09-30T04:44:00+00:00",
-      "description": "Adding 'independent' to shopping prompts more than doubled small-store recommendations, while 'local' and 'near me' made far less difference.",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     },
     {
@@ -629,19 +746,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads AI Dashboards start appearing in advertiser accounts",
-      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf55521288440dba2bf5d7da413353&url=https%3a%2f%2fsearchengineland.com%2fgoogle-ads-ai-dashboards-start-appearing-in-advertiser-accounts-487457&c=9518339312641838819&mkt=en-us",
-      "date": "2026-09-08T06:29:00+00:00",
-      "description": "The big picture. Google is increasingly putting AI between advertisers and their campaign data. It has also introduced AI-powered insights on the Google Ads homepage and Ask Advisor, its in-product AI ...",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     },
     {
@@ -745,8 +849,8 @@
     {
       "name": "Search Engine Land",
       "ok": true,
-      "count": 12,
-      "method": "Bing News RSS fallback",
+      "count": 20,
+      "method": "Google News RSS fallback",
       "fallback": true,
       "limited_to": 20
     }
