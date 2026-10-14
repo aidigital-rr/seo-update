@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T16:46:15.632393+00:00",
+  "updatedAt": "2026-10-14T17:13:55.044221+00:00",
   "items": [
     {
       "title": "Google Ads Introduces Channel Prioritization And Budget Allocation via @sejournal, @brookeosmundson",
@@ -11,6 +11,32 @@
       "tags": [
         "SEO",
         "AI Search"
+      ]
+    },
+    {
+      "title": "New Google Ads Controls: Channel Prioritization & Budget Allocation",
+      "link": "https://www.seroundtable.com/google-ads-channel-prioritization-budget-allocation-42297.html",
+      "date": "2026-10-14T15:00:00+00:00",
+      "description": "Google Ads is rolling out two new \"controls\" in the advertising platform named channel prioritization and budget allocation. These are rolling out globally across Google Search, Google Shopping, Performance Max, and soon Demand Gen.",
+      "image": "https://images.seroundtable.com/google-ads-channel-prioritization-budget-allocation-jV4mkmgn.gif",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Search On URLs: Ranking Factor, Hyphens vs Underscores & Emojis",
+      "link": "https://www.seroundtable.com/google-search-urls-42305.html",
+      "date": "2026-10-14T14:57:00+00:00",
+      "description": "Google posted its first video in a series of what they are calling The Non-Canonical Cabinet. In this video, Cherry Prommawin and Gary Illyes discussed how Google Search deals with URLs. They discuss URLs as a ranking signal, hyphens versus underscores, emojis and much more.",
+      "image": "https://images.seroundtable.com/gary-cherry-google-EqhEw6h5.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -445,19 +471,6 @@
       ]
     },
     {
-      "title": "Google Discover To Transform Into Hyper-Personalized Concierge",
-      "link": "https://www.seroundtable.com/google-discover-hyper-personalized-concierge-experience-42276.html",
-      "date": "2026-10-13T11:31:00+00:00",
-      "description": "Google posted a new job posting to hire a Principal, UX, Search Discover who will lead efforts to transform Google Discover into a \"proactive, hyper-personalized concierge experience.\"",
-      "image": "https://images.seroundtable.com/google-discover-job-posting-5sgYUYmf.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Says Why Site Migrations Can Exceed 4 Months via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-says-why-site-migrations-can-exceed-4-months/592757/",
       "date": "2026-10-13T11:23:58+00:00",
@@ -467,19 +480,6 @@
       "tags": [
         "SEO",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Google Merchant Center Videos Stuck In Preview Processing",
-      "link": "https://www.seroundtable.com/google-merchant-center-videos-in-preview-processing-42285.html",
-      "date": "2026-10-13T11:21:00+00:00",
-      "description": "There are reports of an error in Google Merchant Center with video uploads getting stuck in the \"preview processing\" status. This causes the videos to look static both in your product listings in Google Search and other surfaces.",
-      "image": "https://images.seroundtable.com/video-processing-in-google-merchant-center-XNnRICNa.webp",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
