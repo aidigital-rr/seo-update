@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-14T07:45:47.234000+00:00",
+  "updatedAt": "2026-10-14T08:14:11.917006+00:00",
   "items": [
+    {
+      "title": "How To Help AI Shopping Agents Find Your Products via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/how-to-help-ai-shopping-agents-find-your-products/592677/",
+      "date": "2026-10-14T07:45:07+00:00",
+      "description": "Join seoClarity on October 28 at 2 p.m. ET to learn how product-page language, competitor recommendations, and readable product data affect AI shopping discovery. The post How To Help AI Shopping Agents Find Your Products appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-shopping-smartphone-golden-cart-sej.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Bing Webmaster Tools Sorts AI Search Queries Into Topics via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/bing-webmaster-tools-topics-portfolio-ai-performance/592874/",
@@ -503,7 +515,7 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT0pQZUFDMDRuNkQtX3RRRlhyckpFUi1NSXF0RXhxSFBqWkhlS3FyQUhkbngtTzJRSmFNZnZ1Y2RQdzB2ZWFJT1VheE0xWWZYcFc4NEJCZmNLWUNEejlkXzN5VVFFVGZ0X1M1ck04Q3M1cGxXZFJRakJpOW9NUGJXckpVdVgybU1WSmN3?oc=5",
       "date": "2026-10-12T13:00:00+00:00",
       "description": "How to audit off-page AI search visibility and build a 90-day plan &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -677,18 +689,6 @@
       "link": "https://www.searchenginejournal.com/claude-rules-fake-sources-ai-answers/592456/",
       "date": "2026-10-09T08:00:16+00:00",
       "description": "Anthropic's updated usage policy names seeding search and AI answer sources with misleading content, and drops automated publishing from its high-risk list. The post Claude&#8217;s New Rules Target Fake Sources Built To Sway AI Answers appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Jetpack 16.3 WordPress Plugin Update Is A Winner via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/jetpack-16-3-wordpress-plugin-update-is-a-winner/592452/",
-      "date": "2026-10-09T05:06:52+00:00",
-      "description": "Jetpack announced the release of version 16.3, a major update that adds three new blocks, expands existing features, improves accessibility and security, and reorganizes settings to bring related controls together in the user interface. Three New Blocks That Add Useful Functionalities Jetpack 16.3 introduces three new blocks that make it easier to showcase video content, help visitors discover videos, and schedule appointments directly on a website. 1. Latest Videos Playlist Block Automatically keeps a playlist populated with a site’s newest VideoPress videos, removing the need to update it manually as new videos are published. The block can be added within […] The post Jetpack 16.3 WordPress Plugin Update Is A Winner appeared first on Search Engine Journal .",
       "image": "",
       "source": "Search Engine Journal",
       "tags": [
