@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T05:09:39.513913+00:00",
+  "updatedAt": "2026-10-14T05:39:22.251205+00:00",
   "items": [
     {
       "title": "Bing Webmaster Tools Sorts AI Search Queries Into Topics via @sejournal, @MattGSouthern",
@@ -87,6 +87,19 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads API moves to twice-monthly releases starting with v26 - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSHFGbVJYMEJULTdBUzgxN0JrUkNCMHFBRGl6UEp0akxtTTdqbEVpQThfQWJVZDVpUTFnYk93RVZtVkh1WlpqY25DTlRhWmExejBES2dfYU14YVZDbmQ5eHNKaVF5ZmtPd3VHUHh4N3pLeEROeTZqYjJMelhsZTNYRWQtTXMwemxJLWhqSHJZeC1iRHdNQlNOem13RkF6NmxEU1E?oc=5",
+      "date": "2026-10-13T14:25:34+00:00",
+      "description": "Google Ads API moves to twice-monthly releases starting with v26 &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
@@ -502,7 +515,7 @@
       "link": "https://www.seroundtable.com/third-party-google-rank-tracking-broken-42272.html",
       "date": "2026-10-12T11:51:00+00:00",
       "description": "Google seems to be successfully blocking enough of the attempts of scrapers from trying to scrape data from its search results page over the past few weeks than it has in a long time. We reported this a few weeks ago, and I am surprised to see that many tools still struggle with Google Search reporting.",
-      "image": "https://images.seroundtable.com/google-data-toying-j1eptVPF.jpg",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -675,19 +688,6 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS0tVMy1JcG9SS2lpX09Vd2hjaU9jdTZoLTRReVlMYTBWNG5oamQ1SWM0QTQtUXVYeHNqS0Nva3RqTzB3RGxxWmlHY2dyd3ZCNEJScU9uNkFjUmxYWEVmM3FZWDFXdEU0dEUzX2pNM1VBUmdzUWNDaDY2S0pNYjZGU1ZoekZfd05Ja3dqblRfYnhtTElVdldwREp6OA?oc=5",
       "date": "2026-10-08T16:17:40+00:00",
       "description": "Google Ads adds AI-powered insights to experiment reporting &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to plan 2027 when traffic is down and AI won’t attribute - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMUFJV2tJcXB1ODBjMVBuTUowaGJwX0drZnRJUV82bW5nSllkb1FUX1FRZjRDSEhtS1h3RUt4bV9ZTmZ1OXBTYmNmSkFBLUF0bU9rNmVxTFVfdm5sZEVtMTFXSlBjdUk4NFlEZlVNU3BkamRYeDN6ZHpyeWVxZUdGV1lhUHhNenByWlpDX2pLZjl0ZmNuaERGMEZxTQ?oc=5",
-      "date": "2026-10-08T12:00:00+00:00",
-      "description": "How to plan 2027 when traffic is down and AI won’t attribute &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
