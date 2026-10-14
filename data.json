@@ -1,6 +1,45 @@
 {
-  "updatedAt": "2026-10-14T11:10:04.059683+00:00",
+  "updatedAt": "2026-10-14T11:41:20.408285+00:00",
   "items": [
+    {
+      "title": "OpenAI ChatGPT Ads Account Manager Representatives",
+      "link": "https://www.seroundtable.com/openai-chatgpt-ads-account-manager-42278.html",
+      "date": "2026-10-14T11:21:00+00:00",
+      "description": "OpenAI has humans who are reaching out to advertisers to help them manage their ChatGPT Ads. These ad representatives are called ChatGPT Ads Account Managers and I guess are real humans who help agencies manage ads for their customers?",
+      "image": "https://images.seroundtable.com/openai-chatgpt-ads-account-manager-email-fF84z3n4.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Policies Adds Prediction Markets Section",
+      "link": "https://www.seroundtable.com/google-ads-policies-prediction-markets-section-42268.html",
+      "date": "2026-10-14T11:11:00+00:00",
+      "description": "Google added a section for prediction markets to the main Google Ads policies documentation last week. Google has posted updates and policies on advertising for prediction markets on Google Ads numerous times before, but now it has been added to the main policy document.",
+      "image": "https://images.seroundtable.com/google-ads-policy-doc-prediction-markets-DQ5h2vLv.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "OpenAI Drops UTM Parameters From ChatGPT Results (GPT-6)",
+      "link": "https://www.seroundtable.com/utm-parameters-missing-chatgpt-42299.html",
+      "date": "2026-10-14T11:05:00+00:00",
+      "description": "OpenAI seems to have removed or replaced the UTM parameters it placed on links within the ChatGPT results. This makes it harder to know if a click came from ChatGPT versus some other platform. This seems to have started with the release of GPT''6, which was a week ago.",
+      "image": "https://images.seroundtable.com/chatgpt-adobe-track-DvkGXAft.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google Explains How They Rank PDFs And What It Means For SEO/GEO via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-explains-how-they-rank-pdfs-and-what-it-means-for-seo-geo/592902/",
@@ -475,7 +514,7 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGliVFpNX3dzQ1RHRTFGMTRaRjFBNG4yRUJOalBkX0ZmM2VQeW5ROTFKWUtPaEZxbFpjeko3UXJ1UDNMU2xQV05ocTA3TkRzQVZfUHN3QzNBYkVHV0dFX1pGZDNKeEtPUWdnOExRcnJ1ZE1OYTJ0ay1UcHk0encweUJ6WnlnOVhGNE9qZmR0SjFiblBjdm82VmoxdzNUay1xekljU3RJX3dVTHhKZUE2enNR?oc=5",
       "date": "2026-10-12T17:24:59+00:00",
       "description": "Google Analytics launches User Groups Admin API for easier access management &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -488,7 +527,7 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeVdUYTlqTnE5N3g2X3h6UVlzMkR6WWp4S1BDd1VMOXVBUVZoNC1xNE9tYzV5bUJpNTVBbjZoMlNZcTZ3Q3NiNDlCTHplRi1xdmRrbDZLV1BVaVV1djJZV2FaM20tbnBIdHZMSXpYZVd0SlNBeS10ZE4tNXdlZUg4S3JZQk8weVlwTG5tNTE1WHc1eFdSYkNiSjBFYUhXdHctN3l3NTFPNUkxUEdBSUZsZEZhLTdaY0xpZmdkSldOYw?oc=5",
       "date": "2026-10-12T17:11:35+00:00",
       "description": "Google Ads gives Demand Gen advertisers a way to keep Lookalike targeting restrictions &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -501,24 +540,11 @@
       "link": "https://www.searchenginejournal.com/negative-signals-positive-intent-ppc-leads-hiding-in-cancel-searches/590734/",
       "date": "2026-10-12T14:30:17+00:00",
       "description": "Turn competitor complaints and cancellation searches into PPC leads with tailored offers that address customer frustrations and make switching easier. The post Negative Signals, Positive Intent: PPC Leads Hiding In &#8216;Cancel&#8217; Searches appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/ppc-leads-902.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Daily Search Forum Recap: October 12, 2026",
-      "link": "https://www.seroundtable.com/recap-10-12-2026-42274.html",
-      "date": "2026-10-12T14:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today...",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -570,32 +596,6 @@
         "SEO",
         "Google",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Third-Party Google Rank Tracking Struggling Now",
-      "link": "https://www.seroundtable.com/third-party-google-rank-tracking-broken-42272.html",
-      "date": "2026-10-12T11:51:00+00:00",
-      "description": "Google seems to be successfully blocking enough of the attempts of scrapers from trying to scrape data from its search results page over the past few weeks than it has in a long time. We reported this a few weeks ago, and I am surprised to see that many tools still struggle with Google Search reporting.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads Tests Using Google AI For Goals & Assets",
-      "link": "https://www.seroundtable.com/google-ai-ads-goals-and-assets-42269.html",
-      "date": "2026-10-12T11:41:00+00:00",
-      "description": "Google is testing using AI to come up with suggested goals and assets for your Google Ads campaigns. Google has confirmed this is a current test.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
