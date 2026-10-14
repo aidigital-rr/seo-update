@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T12:09:14.936955+00:00",
+  "updatedAt": "2026-10-14T12:49:37.442065+00:00",
   "items": [
     {
       "title": "Your Store Is ‘Agent-Ready’ By Default, We Tested 122 Shopify Stores To See What That Actually Means via @sejournal, @billhunt",
@@ -11,6 +11,45 @@
       "tags": [
         "SEO",
         "AI Search"
+      ]
+    },
+    {
+      "title": "Google Ads Search Terms & Ad Combinations As One Report",
+      "link": "https://www.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-42287.html",
+      "date": "2026-10-14T11:51:00+00:00",
+      "description": "Google Ads seems to be testing a new report named the Search terms and ad combinations report. This report shows how search queries, ad creatives, and landing pages work together.",
+      "image": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Tests AI Mode Left Sidebar On Main Google Search Results Page",
+      "link": "https://www.seroundtable.com/google-ai-mode-left-sidebar-42298.html",
+      "date": "2026-10-14T11:41:00+00:00",
+      "description": "Google is testing placing the left vertical sidebar you see in AI Mode results on the main Google web search results page. This places the small super G Google logo on the left, with the chat history lines, a way to start a chat with AI Mode and the settings icon all on the left side.",
+      "image": "https://images.seroundtable.com/google-ai-mode-left-sidebar-cbgKNVGm.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Bing Tests Large Single Sponsored Ad Unit At Top Of Search Results",
+      "link": "https://www.seroundtable.com/bing-large-single-sponsored-ad-42283.html",
+      "date": "2026-10-14T11:31:00+00:00",
+      "description": "Microsoft Bing is testing placing a large single ad unit at the top of the Bing Search results page. The sponsored ad has a gray background, with an image and call to action button, and of course, the url, title and ad description.",
+      "image": "https://images.seroundtable.com/bing-single-ad-unit-top-bXcq388Z.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -408,32 +447,6 @@
       ]
     },
     {
-      "title": "New Google Local Dietary Attributes: Gluten-Free, Dairy-Free, Halal & Kosher",
-      "link": "https://www.seroundtable.com/google-business-profiles-dietary-attributes-42281.html",
-      "date": "2026-10-13T11:11:00+00:00",
-      "description": "Google is rolling out new dietary attributes for local restaurants within Google Business Profiles. Google added gluten-free, dairy-free, halal and kosher attributes, in addition to vegetarian and vegan attributes that were already there.",
-      "image": "https://images.seroundtable.com/dietary-attributes-google-business-profiles-hb650cen.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads Data Strength Best Practices Updated",
-      "link": "https://www.seroundtable.com/google-ads-data-strength-best-practices-42282.html",
-      "date": "2026-10-13T11:05:00+00:00",
-      "description": "Google has revamped its Data Strength Best Practices help document with much greater emphasis on sending more first-party data and identifiers, using Data Manager correctly, adopting AI-powered campaigns, and supporting its recommendations with performance statistics. It is a big update to the document.",
-      "image": "https://images.seroundtable.com/google-data-strength-hero-LlNxExKe.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "YouTube To Test Ask YouTube Inside The Shorts Player via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/youtube-test-ask-youtube-shorts-player/592723/",
       "date": "2026-10-12T22:16:40+00:00",
@@ -500,25 +513,12 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUJyeHpndHNwOWh5amVNWkEzckRUellpM0RsWGNJci1FNjg2QXFGZE5OQ0FGR2p1dHNsR3ZLb2dBTVZmaEhsWm93NU51TEJZNG1vRlljSGswRFVmT0JmeTMtaFNPeXRrYWFXQ3FRWEtTT0tWQnhFUHRWTXNOSEQ1c3c5NWhNTm9lajhPNDRjdmYyX1kxUjRYQklIdXE?oc=5",
       "date": "2026-10-12T18:39:52+00:00",
       "description": "Google Ads tests automated bidding for Video Reach campaigns &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
         "Google",
         "AI Search"
-      ]
-    },
-    {
-      "title": "The Industry Mourns The Loss Of Nick Wilsdon - Loved By Industry",
-      "link": "https://www.seroundtable.com/rip-nick-wilsdon-42280.html",
-      "date": "2026-10-12T18:00:00+00:00",
-      "description": "I am sad to report that Nick Wilsdon has passed away yesterday, October 11, 2026. Nick Wilsdon has been in the SEO industry for over two decades and was a close friend to many in the search marketing industry.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
