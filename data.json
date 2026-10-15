@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T16:12:48.770996+00:00",
+  "updatedAt": "2026-10-15T16:42:44.861496+00:00",
   "items": [
     {
       "title": "Google Puts Inline Links Higher In More AI Search Responses via @sejournal, @MattGSouthern",
@@ -11,6 +11,19 @@
       "tags": [
         "SEO",
         "AI Search"
+      ]
+    },
+    {
+      "title": "Google Updates Links In AI Mode & AI Overviews Again, Won't Show Click Data",
+      "link": "https://www.seroundtable.com/google-updates-links-in-ai-mode-and-ai-overviews-again-42308.html",
+      "date": "2026-10-15T16:00:00+00:00",
+      "description": "Google, for the umpteenth time, has updated how it shows links and carousel link cards in AI Mode and AI Overviews. Google always says this is to encourage searchers to click from the AI response to the publisher or creator, but it feels as if those efforts to drive clicks from AI search continue to fail.",
+      "image": "https://images.seroundtable.com/google-ai-mode-airline-refund-EZwNMlgU.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -362,19 +375,6 @@
       "date": "2026-10-14T11:21:00+00:00",
       "description": "OpenAI has humans who are reaching out to advertisers to help them manage their ChatGPT Ads. These ad representatives are called ChatGPT Ads Account Managers and I guess are real humans who help agencies manage ads for their customers?",
       "image": "https://images.seroundtable.com/openai-chatgpt-ads-account-manager-email-fF84z3n4.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads Policies Adds Prediction Markets Section",
-      "link": "https://www.seroundtable.com/google-ads-policies-prediction-markets-section-42268.html",
-      "date": "2026-10-14T11:11:00+00:00",
-      "description": "Google added a section for prediction markets to the main Google Ads policies documentation last week. Google has posted updates and policies on advertising for prediction markets on Google Ads numerous times before, but now it has been added to the main policy document.",
-      "image": "https://images.seroundtable.com/google-ads-policy-doc-prediction-markets-DQ5h2vLv.png",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
