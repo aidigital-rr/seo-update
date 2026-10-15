@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-15T13:48:38.687727+00:00",
+  "updatedAt": "2026-10-15T14:42:45.745605+00:00",
   "items": [
+    {
+      "title": "SERPs Stop Being The Default Between 2028 & 2030 via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/serps-stop-being-the-default-between-2028-2030/592619/",
+      "date": "2026-10-15T14:00:33+00:00",
+      "description": "Google flips its default from ranked results to AI answers when answer-layer ad yield matches the SERP. That crossover lands between 2028 and 2030. The post SERPs Stop Being The Default Between 2028 &#038; 2030 appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/duane-forrester-decodes-serps-808.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Universal Cart Launches In Google Search (U.S.)",
       "link": "https://www.seroundtable.com/universal-cart-google-search-42312.html",
@@ -500,7 +512,7 @@
       "link": "https://www.searchenginejournal.com/test-like-a-scientist-mistakes-that-undermine-your-seo-experiments/591411/",
       "date": "2026-10-13T14:00:21+00:00",
       "description": "Learn six common SEO testing mistakes and how scientific thinking can help you design better experiments, interpret results, and make more reliable decisions. The post Test Like A Scientist: 6 Mistakes That Undermine Your SEO Experiments appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/seo-experiment-500.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -681,18 +693,6 @@
       "tags": [
         "SEO",
         "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Negative Signals, Positive Intent: PPC Leads Hiding In ‘Cancel’ Searches",
-      "link": "https://www.searchenginejournal.com/negative-signals-positive-intent-ppc-leads-hiding-in-cancel-searches/590734/",
-      "date": "2026-10-12T14:30:17+00:00",
-      "description": "Turn competitor complaints and cancellation searches into PPC leads with tailored offers that address customer frustrations and make switching easier. The post Negative Signals, Positive Intent: PPC Leads Hiding In &#8216;Cancel&#8217; Searches appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
         "AI Search"
       ]
     },
