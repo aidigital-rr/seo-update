@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-15T15:46:03.368122+00:00",
+  "updatedAt": "2026-10-15T16:12:48.770996+00:00",
   "items": [
+    {
+      "title": "Google Puts Inline Links Higher In More AI Search Responses via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-inline-links-higher-ai-search-responses/593089/",
+      "date": "2026-10-15T16:00:00+00:00",
+      "description": "Google is changing how links appear in AI Mode and AI Overviews, moving inline links higher and expanding the carousels that highlight Preferred Sources. The post Google Puts Inline Links Higher In More AI Search Responses appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-ai-search-dive-deeper-1600x840-1.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "SERPs Stop Being The Default Between 2028 & 2030 via @sejournal, @DuaneForrester",
       "link": "https://www.searchenginejournal.com/serps-stop-being-the-default-between-2028-2030/592619/",
@@ -499,7 +511,7 @@
       "link": "https://www.searchenginejournal.com/test-like-a-scientist-mistakes-that-undermine-your-seo-experiments/591411/",
       "date": "2026-10-13T14:00:21+00:00",
       "description": "Learn six common SEO testing mistakes and how scientific thinking can help you design better experiments, interpret results, and make more reliable decisions. The post Test Like A Scientist: 6 Mistakes That Undermine Your SEO Experiments appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/seo-experiment-500.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -633,31 +645,6 @@
       ]
     },
     {
-      "title": "Google Ads tests AI-powered campaign creation using natural language - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNTJJb21XdlVtSXFYN2g0dEVDSkx1VVZncmxhNXF1QVE5RnRYNW1FVW80MWVRV09pYjl1cG1xV041cEgzdjlhSzJRUWxWX1V4SThpMS1Kc0JYTV96MFJNVEFWQVd0djFqXzViWE9wMWFlOUJEY0hINmZQY0dVaXdyNGRIWEZXMDcxR1g0SzFUZ1hEVDN5OWNjUTBJQXRkRzcweEltMlRySQ?oc=5",
-      "date": "2026-10-12T18:55:15+00:00",
-      "description": "Google Ads tests AI-powered campaign creation using natural language &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "ChatGPT’s Most-Cited Sites Tilt Toward Primary Sources, Data Shows via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-most-cited-sites-primary-sources-ahrefs/592682/",
-      "date": "2026-10-12T18:41:59+00:00",
-      "description": "Government health, research, and regulator sites climbed ChatGPT's U.S. citation ranks while explainers fell. The post ChatGPT&#8217;s Most-Cited Sites Tilt Toward Primary Sources, Data Shows appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google Ads tests automated bidding for Video Reach campaigns - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUJyeHpndHNwOWh5amVNWkEzckRUellpM0RsWGNJci1FNjg2QXFGZE5OQ0FGR2p1dHNsR3ZLb2dBTVZmaEhsWm93NU51TEJZNG1vRlljSGswRFVmT0JmeTMtaFNPeXRrYWFXQ3FRWEtTT0tWQnhFUHRWTXNOSEQ1c3c5NWhNTm9lajhPNDRjdmYyX1kxUjRYQklIdXE?oc=5",
       "date": "2026-10-12T18:39:52+00:00",
@@ -688,6 +675,19 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwbUhURXRmN21nS1dmWU94a3NjVmxJbHlsR1FMUXpYeHk1VTU5WV92M2FLSzN0OTJwSFcxd3EzVFMtQ1dRdE5nMWU2WFcxMmtTTDRnOWhaZG54bndfUEFYOEpHRzc1UXR4SmtRMU41TVBLQ2dvWmdTbUZR?oc=5",
       "date": "2026-10-12T14:00:00+00:00",
       "description": "Consolidate or segment? A Performance Max decision framework &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How to audit off-page AI search visibility and build a 90-day plan - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT0pQZUFDMDRuNkQtX3RRRlhyckpFUi1NSXF0RXhxSFBqWkhlS3FyQUhkbngtTzJRSmFNZnZ1Y2RQdzB2ZWFJT1VheE0xWWZYcFc4NEJCZmNLWUNEejlkXzN5VVFFVGZ0X1M1ck04Q3M1cGxXZFJRakJpOW9NUGJXckpVdVgybU1WSmN3?oc=5",
+      "date": "2026-10-12T13:00:00+00:00",
+      "description": "How to audit off-page AI search visibility and build a 90-day plan &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
