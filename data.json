@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-10-15T12:50:51.584926+00:00",
+  "updatedAt": "2026-10-15T13:48:38.687727+00:00",
   "items": [
+    {
+      "title": "Universal Cart Launches In Google Search (U.S.)",
+      "link": "https://www.seroundtable.com/universal-cart-google-search-42312.html",
+      "date": "2026-10-15T13:40:00+00:00",
+      "description": "Google has launched its Universal Cart today in Google Search and Gemini within the United States. This is powered by the Universal Commerce Protocol (UCP) and it was launched right before the big holiday shopping season.",
+      "image": "https://images.seroundtable.com/google-universal-cart-LNXcAib0.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals via @sejournal, @TaylorDanRW",
       "link": "https://www.searchenginejournal.com/a-panda-style-update-within-a-month-according-to-prediction-model-signals/591955/",
@@ -416,19 +429,6 @@
       "tags": [
         "SEO",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Google Search On PDFs: Conversion, Links, HTML, Ranking, Limits, Crawling...",
-      "link": "https://www.seroundtable.com/google-search-on-pdfs-42291.html",
-      "date": "2026-10-13T19:27:00+00:00",
-      "description": "Google's Martin Splitt and John Mueller just posted a Search Off the Record podcast on the topic of PDFs, it is named PDFs in Search: Indexing, AI & Pitfalls. It goes over how PDFs are converted for crawling and indexing, how Google processes links, images, what are the file limits and do they rank in search and AI search.",
-      "image": "https://images.seroundtable.com/google-pdfs-hero-2Uf23ick.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
