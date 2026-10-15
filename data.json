@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T14:42:45.745605+00:00",
+  "updatedAt": "2026-10-15T15:14:13.448694+00:00",
   "items": [
     {
       "title": "SERPs Stop Being The Default Between 2028 & 2030 via @sejournal, @DuaneForrester",
@@ -11,6 +11,19 @@
       "tags": [
         "SEO",
         "AI Search"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: October 15, 2026",
+      "link": "https://www.seroundtable.com/recap-10-15-2026-42309.html",
+      "date": "2026-10-15T14:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today...",
+      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -112,19 +125,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to do SEO for your new website [10-step guide] - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hX1ZPXzNTcW53cWZibjJ2WTZLT0czVEdySU9DSGFhSWtrZDhjN3ZOOTIxRjZDYmZHbEdfNkZyeFZSd19DT2hqQUdhUmQzbHQ5N0p0MmcwRmxJMUo1NWJXRDc3dU4?oc=5",
-      "date": "2026-10-14T21:36:34+00:00",
-      "description": "How to do SEO for your new website [10-step guide] &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
@@ -371,19 +371,6 @@
       ]
     },
     {
-      "title": "OpenAI Drops UTM Parameters From ChatGPT Results (GPT-6)",
-      "link": "https://www.seroundtable.com/utm-parameters-missing-chatgpt-42299.html",
-      "date": "2026-10-14T11:05:00+00:00",
-      "description": "OpenAI seems to have removed or replaced the UTM parameters it placed on links within the ChatGPT results. This makes it harder to know if a click came from ChatGPT versus some other platform. This seems to have started with the release of GPT''6, which was a week ago.",
-      "image": "https://images.seroundtable.com/chatgpt-adobe-track-DvkGXAft.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Explains How They Rank PDFs And What It Means For SEO/GEO via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-explains-how-they-rank-pdfs-and-what-it-means-for-seo-geo/592902/",
       "date": "2026-10-14T09:50:10+00:00",
@@ -512,7 +499,7 @@
       "link": "https://www.searchenginejournal.com/test-like-a-scientist-mistakes-that-undermine-your-seo-experiments/591411/",
       "date": "2026-10-13T14:00:21+00:00",
       "description": "Learn six common SEO testing mistakes and how scientific thinking can help you design better experiments, interpret results, and make more reliable decisions. The post Test Like A Scientist: 6 Mistakes That Undermine Your SEO Experiments appeared first on Search Engine Journal .",
-      "image": "",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/seo-experiment-500.png",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -688,6 +675,19 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUJyeHpndHNwOWh5amVNWkEzckRUellpM0RsWGNJci1FNjg2QXFGZE5OQ0FGR2p1dHNsR3ZLb2dBTVZmaEhsWm93NU51TEJZNG1vRlljSGswRFVmT0JmeTMtaFNPeXRrYWFXQ3FRWEtTT0tWQnhFUHRWTXNOSEQ1c3c5NWhNTm9lajhPNDRjdmYyX1kxUjRYQklIdXE?oc=5",
       "date": "2026-10-12T18:39:52+00:00",
       "description": "Google Ads tests automated bidding for Video Reach campaigns &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Does your website need an llms.txt file? + How to create one - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00emREbjVwakJrOWF4WlR5QnJteGk3SEMtVE9DVF9MMm4tM0VmXzVZUlpkbWhGMXNEQy1sdGNkOTNhalkzM2ZqR3dNN2NobENrVkJDTTZn?oc=5",
+      "date": "2026-10-12T17:08:42+00:00",
+      "description": "Does your website need an llms.txt file? + How to create one &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
