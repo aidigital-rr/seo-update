@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-15T21:45:45.277540+00:00",
+  "updatedAt": "2026-10-15T22:06:13.021237+00:00",
   "items": [
+    {
+      "title": "ChatGPT Traffic Drop Appears To Be A Tracking Problem via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-traffic-drop-appears-to-be-a-tracking-problem/593157/",
+      "date": "2026-10-15T21:48:30+00:00",
+      "description": "ChatGPT-attributed traffic fell sharply in several analytics datasets this month, and analysts tie the drop to ChatGPT links that open without tracking tags. The post ChatGPT Traffic Drop Appears To Be A Tracking Problem appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-traffic-tracking-1600x840-1.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Google’s Universal Cart Is Live: How Carts Get To Your Store via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-universal-cart-store-handoff/593145/",
@@ -498,7 +510,7 @@
       "link": "https://www.searchenginejournal.com/google-experimental-soft-navigation-metrics-crux/592820/",
       "date": "2026-10-13T21:31:39+00:00",
       "description": "Experimental Core Web Vitals that count in-app page changes are now in the Chrome UX Report, with Search Console set to follow. The post Google Adds Experimental Soft Navigation Metrics To CrUX appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/crux-diagnostic-halftone-4204892985.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -642,18 +654,6 @@
       "tags": [
         "SEO",
         "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Says Why Site Migrations Can Exceed 4 Months via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-says-why-site-migrations-can-exceed-4-months/592757/",
-      "date": "2026-10-13T11:23:58+00:00",
-      "description": "Google may process a site migration for months, then blow it and rank the old URLs anyway. Mueller says what to focus on. The post Google Says Why Site Migrations Can Exceed 4 Months appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
         "AI Search"
       ]
     },
