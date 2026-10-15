@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T12:09:09.007332+00:00",
+  "updatedAt": "2026-10-15T12:50:51.584926+00:00",
   "items": [
     {
       "title": "96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals via @sejournal, @TaylorDanRW",
@@ -11,6 +11,71 @@
       "tags": [
         "SEO",
         "AI Search"
+      ]
+    },
+    {
+      "title": "Google Automotive Model Feeds On Search Ads (Vehicle Top Ads)",
+      "link": "https://www.seroundtable.com/google-vehicle-top-ads-42301.html",
+      "date": "2026-10-15T11:51:00+00:00",
+      "description": "Google has a new Google Ads beta format named automotive model feeds on search ads, also known as Vehicle Top Ads (Beta). This is a new search ad format designed specifically for vehicle manufacturers to showcase vehicles with rich visuals and key details in the search results.",
+      "image": "https://images.seroundtable.com/google-vehicle-top-ads-mOOrCGBF.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Tests New Search Bar In Google App",
+      "link": "https://www.seroundtable.com/google-app-new-search-bar-42267.html",
+      "date": "2026-10-15T11:41:00+00:00",
+      "description": "Google is testing a redesigned search bar within the Google mobile app. The new search bar is now has the + sign in it, and instead of saying \"Search,\" it says \"Ask Google.\" The search bar is also white, as opposed to gray and is thinner and higher up on the page.",
+      "image": "https://images.seroundtable.com/google-search-bar-app-update-VXT1tApQ.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads API Version 26 Now Out Available",
+      "link": "https://www.seroundtable.com/google-ads-api-version-26-42307.html",
+      "date": "2026-10-15T11:31:00+00:00",
+      "description": "Google Ads has released version 26 of the Google Ads API. This is a major release of the Google Ads API updates including SMS messaging, local services, hotel center accounts, lift measurements, EU political items, conversion features, and so much more.",
+      "image": "https://images.seroundtable.com/google-ads-api-v26-vSHDUOqw.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Updates Sexual Content Policy With More Examples",
+      "link": "https://www.seroundtable.com/google-ads-updates-sexual-content-policy-42306.html",
+      "date": "2026-10-15T11:21:00+00:00",
+      "description": "Google Ads has updated the sexual content policies to \"provide additional examples and clearer information to advertisers,\" the company wrote. The main section that was updated was the \"Sexually suggestive elements and themes\" section.",
+      "image": "https://images.seroundtable.com/google-ads-sexual-content-policy-update-XNlAXbwv.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Bing Tests Related Searches Based On Your Browsing",
+      "link": "https://www.seroundtable.com/bing-related-searches-based-on-your-browsing-42302.html",
+      "date": "2026-10-15T11:11:00+00:00",
+      "description": "Bing is testing showing \"Related searches based on your browsing\" similar to how Google is/was showing this a few months ago. In Bing's test, this is below the Microsoft Ads in the search results.",
+      "image": "https://images.seroundtable.com/bing-related-searches-based-on-your-browsing-Bf5ZjkQo.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -392,32 +457,6 @@
       ]
     },
     {
-      "title": "Gemini 4 Argon In Google Search Via AI Mode",
-      "link": "https://www.seroundtable.com/google-ai-mode-gemini-4-argon-42289.html",
-      "date": "2026-10-13T16:13:00+00:00",
-      "description": "Google announced Gemini 4 Argon a couple of weeks ago and today announced that it is now an option in Google Search via AI Mode for Google AI Pro and Ultra subscribers globally.",
-      "image": "https://images.seroundtable.com/google-ai-mode-argon-4-EhJSNWio.gif",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Topics Portfolio In Bing Webmaster Tools AI Reports",
-      "link": "https://www.seroundtable.com/topics-portfolio-bing-webmaster-tools-42288.html",
-      "date": "2026-10-13T15:59:00+00:00",
-      "description": "Microsoft Bing just announced a new addition to the AI performance reports in Bing Webmaster Tools named Topics Portfolio. Topics Portfolio shows you the \"presence is distributed across themes, how much demand each theme represents, how competitive each theme is and where your site has room to grow.\"",
-      "image": "https://images.seroundtable.com/bing-ai-performance-topic-portfolio-AeZObQ4c.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Bing Webmaster Tools AI performance report new Topics Portfolio - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV2hDNm16NEo1Qm1nRWJkcUhZWHAtRVpkVUpVXzFMYzRUb1NGX1JYVHVkV1RsVFVsdTJxOHNTM0FrNEprdkJtTDMwU2NtRFJiRllocVViUjhyR1pSQmtVQTg2d252TGhmLTZEX3M1M3p3TlR1QnVpYnY2LTRqVkZZNHA5b2hSSnd4OUZNM3Q2cTlZOUFpZFJ5R3dxZlg1Z3FH?oc=5",
       "date": "2026-10-13T15:50:25+00:00",
@@ -469,24 +508,11 @@
       ]
     },
     {
-      "title": "Daily Search Forum Recap: October 13, 2026",
-      "link": "https://www.seroundtable.com/recap-10-13-2026-42284.html",
-      "date": "2026-10-13T14:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today...",
-      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Why gated content is the enemy of AI search - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85cVVwUFFPb3UwOEpobmtNT2lxc3FYT2hvYzQwQ3BQTXdteThSajFJX25jWWRJZFhTYjJwM0YwcUpqVC1uYXFjQWJVM0xfRzJ1bUNMUnVXSVRpMFE2Q0NXRHVKM2l0VGx2UmNYNDg1Sm50cEE?oc=5",
       "date": "2026-10-13T14:00:00+00:00",
       "description": "Why gated content is the enemy of AI search &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -499,7 +525,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2lJU015aHZ2dDdWcmVscjZSdkZVbXNwTzVJWURoUnhyNHplMXYwb0JQd294QU02U21vSVlRT011bFFHa2hKcUNHLS1TbTc3ZTV4OF90MEVlR0UzR0U3bG15WXFqT0NqSFJVNVFlQ3Rab3E0aXA4MnR3bjM3UnE4OEYyZWk4QS16cXpFWUxnLXFfcDZ5X05GamhUUllCV3l0TkQwaXQ2WVR2V2M?oc=5",
       "date": "2026-10-13T13:43:50+00:00",
       "description": "Google Tag Manager update promises faster websites and simpler tracking &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -556,32 +582,6 @@
         "SEO",
         "Google",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Google Search Showing Sites Old Domain Fourth Months After Domain Move?",
-      "link": "https://www.seroundtable.com/google-search-old-domain-42279.html",
-      "date": "2026-10-13T11:43:00+00:00",
-      "description": "I spotted a thread on Reddit that seemed off from an SEO perspective. A site owner said he switched to a new domain four months ago, Google indexed and served the new domain but then all of a sudden, Google started to show the old domain again four months after the migration.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google May Show Pharmaceutical & Drug Ads In AI Mode & AI Overviews",
-      "link": "https://www.seroundtable.com/google-ads-drugs-ai-mode-ai-overviews-42277.html",
-      "date": "2026-10-13T11:41:00+00:00",
-      "description": "Google may show \"certain pharmaceutical products\" and pharmaceutical drugs within ads in AI Mode and AI Overviews. A Google spokesperson told Adweek it has \"recently expanded to include certain pharmaceutical products\" within these surfaces.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
