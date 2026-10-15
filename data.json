@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-15T20:38:56.443489+00:00",
+  "updatedAt": "2026-10-15T21:10:17.669739+00:00",
   "items": [
+    {
+      "title": "Google’s Universal Cart Is Live: How Carts Get To Your Store via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-universal-cart-store-handoff/593145/",
+      "date": "2026-10-15T20:43:38+00:00",
+      "description": "Universal Cart is rolling out across Search and the Gemini app, with checkout inside the cart or a one-way handoff to the store's own site. The post Google&#8217;s Universal Cart Is Live: How Carts Get To Your Store appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-universal-cart-featured.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "How Do I Measure And Attribute When Clicks Only Tell Part Of The Story? – Ask A PPC via @sejournal, @navahf",
       "link": "https://www.searchenginejournal.com/ask-a-ppc-how-do-i-measure-and-attribute-when-clicks-are-no-longer-the-whole-story/591521/",
@@ -36,6 +48,19 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "Google updates AI Mode and AI Overview with more links, context, carousels, and information on creators - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSXBSeFFvZEdEZ2M3WXJKODJEN3pVWU4tR1NiaWFLMDVTNVRBaU1jS2tGR0JmcDRCOU9uWHhBakJDUzdsUmRzMFd0a1FiTWNNcDVlUDNCdWhhRFhocUdjQmh4ZXVLX0VTdkp2NzRyVXRtQUNvQ2RKajc3cDhxb2R0WlJMbWxTbkx6ZmpHSnFMWkZ4YUgxRUdqQWR0Z0QtbEFranlTbHBYTmJKbFVmYmc1Z2o3WXZHTk1sS0F5NU1Wc0g3M2xLczdBTGx2MjBtaVpIb2c?oc=5",
+      "date": "2026-10-15T16:00:00+00:00",
+      "description": "Google updates AI Mode and AI Overview with more links, context, carousels, and information on creators &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
@@ -486,7 +511,7 @@
       "link": "https://www.searchenginejournal.com/google-experimental-soft-navigation-metrics-crux/592820/",
       "date": "2026-10-13T21:31:39+00:00",
       "description": "Experimental Core Web Vitals that count in-app page changes are now in the Chrome UX Report, with Search Console set to follow. The post Google Adds Experimental Soft Navigation Metrics To CrUX appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/crux-diagnostic-halftone-4204892985.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -498,7 +523,7 @@
       "link": "https://www.searchenginejournal.com/google-gemini-4-argon-ai-mode/592806/",
       "date": "2026-10-13T17:18:44+00:00",
       "description": "Google added Gemini 4 Argon to AI Mode for paid subscribers and opened the model to developers, enterprises, and the Gemini app. The post Google Adds Gemini 4 Argon To AI Mode For Pro &#038; Ultra Subscribers appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-gemini-argon-featured.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -646,18 +671,6 @@
       ]
     },
     {
-      "title": "YouTube To Test Ask YouTube Inside The Shorts Player via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/youtube-test-ask-youtube-shorts-player/592723/",
-      "date": "2026-10-12T22:16:40+00:00",
-      "description": "YouTube is planning a limited, English-only test of Ask YouTube on select Shorts and says the watch-page feature will soon reach Shorts and live streams. The post YouTube To Test Ask YouTube Inside The Shorts Player appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Microsoft-Decision-1 being experimented with in Copilot and Bing - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckVQM2ZqN3dCbTF1RzFscDVyNTlSTFdVdDZyNXdQRm1lSmZnYWlidW91NW1FQ3oxdm5BbEYwWHlmVVhqWExvbEs0QlhsWXRaQkFnczFVUTZOaGdLQU1peG55M0g1NmUtOEVYWVRxLVprSi1PcFdBZV9GZms4SXFqVGlaVnRINkJiMTBRaE0xRTBMZXNfN0t5ZWVvZjF5NGxqZkE?oc=5",
       "date": "2026-10-12T21:50:31+00:00",
@@ -671,23 +684,10 @@
       ]
     },
     {
-      "title": "Google Ads tests automated bidding for Video Reach campaigns - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONUJyeHpndHNwOWh5amVNWkEzckRUellpM0RsWGNJci1FNjg2QXFGZE5OQ0FGR2p1dHNsR3ZLb2dBTVZmaEhsWm93NU51TEJZNG1vRlljSGswRFVmT0JmeTMtaFNPeXRrYWFXQ3FRWEtTT0tWQnhFUHRWTXNOSEQ1c3c5NWhNTm9lajhPNDRjdmYyX1kxUjRYQklIdXE?oc=5",
-      "date": "2026-10-12T18:39:52+00:00",
-      "description": "Google Ads tests automated bidding for Video Reach campaigns &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Does your website need an llms.txt file? + How to create one - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00emREbjVwakJrOWF4WlR5QnJteGk3SEMtVE9DVF9MMm4tM0VmXzVZUlpkbWhGMXNEQy1sdGNkOTNhalkzM2ZqR3dNN2NobENrVkJDTTZn?oc=5",
-      "date": "2026-10-12T17:08:42+00:00",
-      "description": "Does your website need an llms.txt file? + How to create one &nbsp;&nbsp; Search Engine Land",
+      "title": "Google Ads tests AI-powered campaign creation using natural language - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNTJJb21XdlVtSXFYN2g0dEVDSkx1VVZncmxhNXF1QVE5RnRYNW1FVW80MWVRV09pYjl1cG1xV041cEgzdjlhSzJRUWxWX1V4SThpMS1Kc0JYTV96MFJNVEFWQVd0djFqXzViWE9wMWFlOUJEY0hINmZQY0dVaXdyNGRIWEZXMDcxR1g0SzFUZ1hEVDN5OWNjUTBJQXRkRzcweEltMlRySQ?oc=5",
+      "date": "2026-10-12T18:55:15+00:00",
+      "description": "Google Ads tests AI-powered campaign creation using natural language &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
