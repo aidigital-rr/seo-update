@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T04:11:17.779664+00:00",
+  "updatedAt": "2026-10-15T04:39:11.440729+00:00",
   "items": [
     {
       "title": "Google Launches A Video Series For Odd Technical SEO Questions via @sejournal, @MattGSouthern",
@@ -444,19 +444,6 @@
       ]
     },
     {
-      "title": "The global consistency paradox: Building local E-E-A-T for AI search - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcWpiaklCV1U1NGtaUlM2cE1oNm9ZeFRPcG44TWlOQ0cxTVZxZzZTblQteW5ubGY1bjZXY1lDUG5hWXRTU1dBTWw4UzNMa09CZTJrMU5jbm9manhPclBpRV9RZ2VVUWJSMlN0TEJfZ1NfcHZEa1paaHg2VlhfbWtoX2l5azVBUmI1SWFJT3V6UQ?oc=5",
-      "date": "2026-10-13T12:00:00+00:00",
-      "description": "The global consistency paradox: Building local E-E-A-T for AI search &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google Search Console reporting date selector is broken - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT3cwMUdsN0N0SVFQQmFNbkM0a0ZtRjF4c2dZR2tORjJQUFpRUlhibmQybTZPYS1RaTZOOFprNnVKbUVHVFBNMGNHazlNRWlxaXdNSG5wb0ZRS3lyTU9OcEN5SGRQNVJybzhwRXlKYXJ2NEgwOWxvdlJjMnc3V0dxNDQyVkF2OHNZODlQU1lYdzJJN19ONVE?oc=5",
       "date": "2026-10-13T11:54:17+00:00",
@@ -512,7 +499,7 @@
       "link": "https://www.searchenginejournal.com/youtube-test-ask-youtube-shorts-player/592723/",
       "date": "2026-10-12T22:16:40+00:00",
       "description": "YouTube is planning a limited, English-only test of Ask YouTube on select Shorts and says the watch-page feature will soon reach Shorts and live streams. The post YouTube To Test Ask YouTube Inside The Shorts Player appeared first on Search Engine Journal .",
-      "image": "",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/youtube-shorts-featured-1.jpg",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -688,6 +675,19 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMUFJV2tJcXB1ODBjMVBuTUowaGJwX0drZnRJUV82bW5nSllkb1FUX1FRZjRDSEhtS1h3RUt4bV9ZTmZ1OXBTYmNmSkFBLUF0bU9rNmVxTFVfdm5sZEVtMTFXSlBjdUk4NFlEZlVNU3BkamRYeDN6ZHpyeWVxZUdGV1lhUHhNenByWlpDX2pLZjl0ZmNuaERGMEZxTQ?oc=5",
       "date": "2026-10-08T12:00:00+00:00",
       "description": "How to plan 2027 when traffic is down and AI won’t attribute &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google September 2026 spam update done rolling out - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHFUTE5rdlJwQ2U0aVVkTjc4X3RSR3JJeXN2MWI4TGphdkhvYTVGSkx6T0lqUDZfemVIQkZfSm1yWjJQbDZJSUdtNWtHSDVLWFJHdjNNSVI2UVJYdEhzSWN6cXdYZ00yeXNhT1hZRm9mb1VXSW5LVFRjRGMtYjRsMmo1U1dtZnJQOWhoSDVfUQ?oc=5",
+      "date": "2026-10-08T09:33:03+00:00",
+      "description": "Google September 2026 spam update done rolling out &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
