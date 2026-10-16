@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T16:11:15.606995+00:00",
+  "updatedAt": "2026-10-16T16:40:04.951832+00:00",
   "items": [
     {
       "title": "It’s Possible Your Migration Issues May Be Due To Site Quality via @sejournal, @marie_haynes",
@@ -446,19 +446,6 @@
       ]
     },
     {
-      "title": "Your brand can win the mention and lose the citation - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNlY5c2Y4enE0a1phRFpBN3llb0ItbzFuWUlreFNmdEJTbjNIY1pYYnRFbS1KZGNiZFZrV2hUdW0wWmVaU3AzcjZtc3Y4ZDdLX185emwybVpha3dkc3pPTXRydEZXTFJoSDRoT0xXLWVjTU5JUk1WQUw1QkZadHY4OFNhRzBFSnUxWTFUN2VRZXExQQ?oc=5",
-      "date": "2026-10-14T14:33:37+00:00",
-      "description": "Your brand can win the mention and lose the citation &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "What language should you track AI prompts in? - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GNHdlSVNOby1HcHlBS1lpV2ZjU0U4aUV3WG1jM2JhQ2Y2Qnl3N3hMUWx3a0RhTnlEakNrV0NxN1diSEZYdWFtWXFNeUNqdENUcDB0UXhnWUN6M0h6WDFtcDUwUGsyckR1NzdWdkpka2w?oc=5",
       "date": "2026-10-14T14:03:08+00:00",
@@ -513,7 +500,7 @@
       "link": "https://www.searchenginejournal.com/your-store-is-agent-ready-by-default-we-tested-122-shopify-stores/591767/",
       "date": "2026-10-14T12:00:06+00:00",
       "description": "A store can look agent-ready by default and still fail the moment a buyer asks about shipping, pickup, or cancellation. Here's what to verify. The post Your Store Is &#8216;Agent-Ready&#8217; By Default, We Tested 122 Shopify Stores To See What That Actually Means appeared first on Search Engine Journal .",
-      "image": "",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -688,6 +675,19 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeVdUYTlqTnE5N3g2X3h6UVlzMkR6WWp4S1BDd1VMOXVBUVZoNC1xNE9tYzV5bUJpNTVBbjZoMlNZcTZ3Q3NiNDlCTHplRi1xdmRrbDZLV1BVaVV1djJZV2FaM20tbnBIdHZMSXpYZVd0SlNBeS10ZE4tNXdlZUg4S3JZQk8weVlwTG5tNTE1WHc1eFdSYkNiSjBFYUhXdHctN3l3NTFPNUkxUEdBSUZsZEZhLTdaY0xpZmdkSldOYw?oc=5",
       "date": "2026-10-12T17:11:35+00:00",
       "description": "Google Ads gives Demand Gen advertisers a way to keep Lookalike targeting restrictions &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Does your website need an llms.txt file? + How to create one - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00emREbjVwakJrOWF4WlR5QnJteGk3SEMtVE9DVF9MMm4tM0VmXzVZUlpkbWhGMXNEQy1sdGNkOTNhalkzM2ZqR3dNN2NobENrVkJDTTZn?oc=5",
+      "date": "2026-10-12T17:08:42+00:00",
+      "description": "Does your website need an llms.txt file? + How to create one &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
