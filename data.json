@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-16T11:39:59.916415+00:00",
+  "updatedAt": "2026-10-16T12:08:31.290418+00:00",
   "items": [
+    {
+      "title": "Google Takes Applications For A UGC Pipeline Separate From Crawling via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ugc-fresh-data-program-applications/593113/",
+      "date": "2026-10-16T12:00:00+00:00",
+      "description": "Google is accepting applications from forums and social platforms for a UGC pipeline separate from crawling. The post Google Takes Applications For A UGC Pipeline Separate From Crawling appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-ugc-fresh-data-program-checklist.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Bing Search Testing Popular Links On Snippets",
       "link": "https://www.seroundtable.com/bing-testing-popular-links-42304.html",
@@ -501,7 +513,7 @@
       "link": "https://www.searchenginejournal.com/google-explains-how-they-rank-pdfs-and-what-it-means-for-seo-geo/592902/",
       "date": "2026-10-14T09:50:10+00:00",
       "description": "Google explains how it ranks PDFs in Search and AI Mode and how to check if a PDF is SEO friendly. The post Google Explains How They Rank PDFs And What It Means For SEO/GEO appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-pdf-seo-552.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -629,18 +641,6 @@
       "tags": [
         "SEO",
         "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Lost In Translation: How Language Changes Which Brand AI Recommends",
-      "link": "https://www.searchenginejournal.com/lost-in-translation-how-language-changes-which-brand-ai-recommends/591585/",
-      "date": "2026-10-13T12:00:05+00:00",
-      "description": "Your AI visibility check was probably in English. However, new research across 1,650 responses shows AI recommends different brands in different languages. The post Lost In Translation: How Language Changes Which Brand AI Recommends appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
         "AI Search"
       ]
     },
