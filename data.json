@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-10-16T12:08:31.290418+00:00",
+  "updatedAt": "2026-10-16T12:49:36.143088+00:00",
   "items": [
+    {
+      "title": "Google Poisoning Tracking Tools, Google AI Results Updates, Discover To Change, Google Ads, ChatGPT & SEO",
+      "link": "https://www.seroundtable.com/video-09-16-2026-42313.html",
+      "date": "2026-10-16T12:01:00+00:00",
+      "description": "Google seems to be poisoning the third-party tracking tools with fake data and paywalls; this is wreaking havoc on keyword tracking. Google launched Gemini 4 Argon and it is in AI Mode. Google made several...",
+      "image": "https://img.youtube.com/vi/OvCdu0Uiil8/maxresdefault.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google Takes Applications For A UGC Pipeline Separate From Crawling via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-ugc-fresh-data-program-applications/593113/",
@@ -11,6 +24,58 @@
       "tags": [
         "SEO",
         "AI Search"
+      ]
+    },
+    {
+      "title": "Google Search Ranking Volatility & Chatter Spikes Today",
+      "link": "https://www.seroundtable.com/google-search-ranking-volatility-chatter-42317.html",
+      "date": "2026-10-16T11:55:00+00:00",
+      "description": "It has been a while since I reported on a Google Search ranking update. I blame the tools, but in all seriousness, I am seeing a spike in volatility and, now probably more importantly, a spike in chatter over the past 24 hours, related to Google Search ranking changes, referral traffic changes and overall disruption in the Google Search results.",
+      "image": "https://images.seroundtable.com/volatility/wincher-2026-10-16-lg.png?v=1792144843",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads To Allow Certification For Online Gambling Advertisers",
+      "link": "https://www.seroundtable.com/google-ads-online-gambling-certification-42314.html",
+      "date": "2026-10-16T11:51:00+00:00",
+      "description": "Google Ads will allow some advertisers to apply for certification for the category of online gambling. This started this month, October 2026, and will gradually be available to some advertisers in Google Ads.",
+      "image": "https://images.seroundtable.com/google-ads-certification-gambling-doc-cruYTeV2.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Bing Tests Read More Links In Search Result Snippets",
+      "link": "https://www.seroundtable.com/bing-read-more-links-42311.html",
+      "date": "2026-10-16T11:41:00+00:00",
+      "description": "Microsoft is testing placing \"read more\" links within the Bing Search result snippets, like Google officially did a year or so ago. I am able to replicate this on some browsers, where Bing adds a \"Read more\" link at the end of the search result snippet that links to the same place the main title links to.",
+      "image": "https://images.seroundtable.com/bing-read-more-link-5c4cQMRQ.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Lead Form Adds Lead Scoring For Lead Qualification",
+      "link": "https://www.seroundtable.com/google-ads-lead-form-scoring-42310.html",
+      "date": "2026-10-16T11:31:00+00:00",
+      "description": "Google added the ability to add lead scoring by indicating answers that qualify a lead for your business to get higher-quality leads. You can add up to 12 answers per question and check off whether they qualify under the lead scoring section.",
+      "image": "https://images.seroundtable.com/google-ads-lead-form-qualified-check-xPfmstAn.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -307,32 +372,6 @@
       ]
     },
     {
-      "title": "Google Ads Updates Sexual Content Policy With More Examples",
-      "link": "https://www.seroundtable.com/google-ads-updates-sexual-content-policy-42306.html",
-      "date": "2026-10-15T11:21:00+00:00",
-      "description": "Google Ads has updated the sexual content policies to \"provide additional examples and clearer information to advertisers,\" the company wrote. The main section that was updated was the \"Sexually suggestive elements and themes\" section.",
-      "image": "https://images.seroundtable.com/google-ads-sexual-content-policy-update-XNlAXbwv.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Bing Tests Related Searches Based On Your Browsing",
-      "link": "https://www.seroundtable.com/bing-related-searches-based-on-your-browsing-42302.html",
-      "date": "2026-10-15T11:11:00+00:00",
-      "description": "Bing is testing showing \"Related searches based on your browsing\" similar to how Google is/was showing this a few months ago. In Bing's test, this is below the Microsoft Ads in the search results.",
-      "image": "https://images.seroundtable.com/bing-related-searches-based-on-your-browsing-Bf5ZjkQo.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Coywolf Pack EmDash SEO Plugin Makes Sites Absurdly Fast via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/coywolf-pack-emdash-seo-plugin-makes-sites-absurdly-fast/593026/",
       "date": "2026-10-15T10:32:28+00:00",
@@ -395,32 +434,6 @@
       ]
     },
     {
-      "title": "New Google Ads Controls: Channel Prioritization & Budget Allocation",
-      "link": "https://www.seroundtable.com/google-ads-channel-prioritization-budget-allocation-42297.html",
-      "date": "2026-10-14T15:00:00+00:00",
-      "description": "Google Ads is rolling out two new \"controls\" in the advertising platform named channel prioritization and budget allocation. These are rolling out globally across Google Search, Google Shopping, Performance Max, and soon Demand Gen.",
-      "image": "https://images.seroundtable.com/google-ads-channel-prioritization-budget-allocation-jV4mkmgn.gif",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Search On URLs: Ranking Factor, Hyphens vs Underscores & Emojis",
-      "link": "https://www.seroundtable.com/google-search-urls-42305.html",
-      "date": "2026-10-14T14:57:00+00:00",
-      "description": "Google posted its first video in a series of what they are calling The Non-Canonical Cabinet. In this video, Cherry Prommawin and Gary Illyes discussed how Google Search deals with URLs. They discuss URLs as a ranking signal, hyphens versus underscores, emojis and much more.",
-      "image": "https://images.seroundtable.com/gary-cherry-google-EqhEw6h5.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Your brand can win the mention and lose the citation - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNlY5c2Y4enE0a1phRFpBN3llb0ItbzFuWUlreFNmdEJTbjNIY1pYYnRFbS1KZGNiZFZrV2hUdW0wWmVaU3AzcjZtc3Y4ZDdLX185emwybVpha3dkc3pPTXRydEZXTFJoSDRoT0xXLWVjTU5JUk1WQUw1QkZadHY4OFNhRzBFSnUxWTFUN2VRZXExQQ?oc=5",
       "date": "2026-10-14T14:33:37+00:00",
@@ -456,19 +469,6 @@
       "tags": [
         "SEO",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Daily Search Forum Recap: October 14, 2026",
-      "link": "https://www.seroundtable.com/recap-10-14-2026-42300.html",
-      "date": "2026-10-14T14:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google has rolled out its latest Gemini model, Argon 4...",
-      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -581,19 +581,6 @@
       ]
     },
     {
-      "title": "Gemini 4 Argon rolling out in Google AI Mode & Gemini - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ0J2ZzVJTFFETkdVN00zSXZXMEd4WVI5ZVhQbGdFYXdXMmhZYWd3Wm9MMUxNVi1icngzeXhmSXNOUFFqdXk4bVVteEFCZkl6ak03ZkhtY253b0o0MXAtUi1iLXU2YXpSbHdCS3N4WVd4UkhiY2Ytd3JTQ0RFWlJaSTVUNkQ5bmZlTWF6ZW1NeUw?oc=5",
-      "date": "2026-10-13T16:33:55+00:00",
-      "description": "Gemini 4 Argon rolling out in Google AI Mode & Gemini &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google Ads API moves to twice-monthly releases starting with v26 - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSHFGbVJYMEJULTdBUzgxN0JrUkNCMHFBRGl6UEp0akxtTTdqbEVpQThfQWJVZDVpUTFnYk93RVZtVkh1WlpqY25DTlRhWmExejBES2dfYU14YVZDbmQ5eHNKaVF5ZmtPd3VHUHh4N3pLeEROeTZqYjJMelhsZTNYRWQtTXMwemxJLWhqSHJZeC1iRHdNQlNOem13RkF6NmxEU1E?oc=5",
       "date": "2026-10-13T14:25:34+00:00",
@@ -688,6 +675,19 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4eUxqUWhDWFdhX1VsbHpfaER1TXVaRjFDeEllekpYVEx0YmpUaUx5MzRPU0l5X1hSV0dRZkRHNFltN0FPZi1iTkZISGp4cEx0RFJwNVBYNU9iVTNqd014NWN0emJ5VkN2LU9oREltbVlZMWpSNDUxUlFmamljM0U?oc=5",
       "date": "2026-10-12T20:51:43+00:00",
       "description": "Impact of bad responses in Google Reviews &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Ads tests AI-powered campaign creation using natural language - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNTJJb21XdlVtSXFYN2g0dEVDSkx1VVZncmxhNXF1QVE5RnRYNW1FVW80MWVRV09pYjl1cG1xV041cEgzdjlhSzJRUWxWX1V4SThpMS1Kc0JYTV96MFJNVEFWQVd0djFqXzViWE9wMWFlOUJEY0hINmZQY0dVaXdyNGRIWEZXMDcxR1g0SzFUZ1hEVDN5OWNjUTBJQXRkRzcweEltMlRySQ?oc=5",
+      "date": "2026-10-12T18:55:15+00:00",
+      "description": "Google Ads tests AI-powered campaign creation using natural language &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
