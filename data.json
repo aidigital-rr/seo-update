@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T06:08:21.694858+00:00",
+  "updatedAt": "2026-10-16T06:48:30.104622+00:00",
   "items": [
     {
       "title": "Google Dataset Search Currently Not Returning Search Results",
@@ -200,6 +200,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Why every SEO needs to become a Challenger - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fQ0JHeExvaC1qdlhEdDlHcG5lVm8za1ZZU0RtMDdRMktyLWhDNHlaOVFvb3NwcDFJLWRNV2locWVoMW14d0RXakpJaF82eFN2dUhrNE5ncVNyTFctRjRV?oc=5",
+      "date": "2026-10-15T12:00:00+00:00",
+      "description": "Why every SEO needs to become a Challenger &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -500,7 +513,7 @@
       "link": "https://www.searchenginejournal.com/analysis-google-is-poisoning-search-results-for-rank-trackers/592873/",
       "date": "2026-10-14T09:17:05+00:00",
       "description": "Google’s reported search results poisoning undermines confidence in SEO data that businesses use to make decisions. The post Analysis: Google Is Poisoning Search Results For Rank Trackers appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-search-poisoning-875.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -675,19 +688,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcWpiaklCV1U1NGtaUlM2cE1oNm9ZeFRPcG44TWlOQ0cxTVZxZzZTblQteW5ubGY1bjZXY1lDUG5hWXRTU1dBTWw4UzNMa09CZTJrMU5jbm9manhPclBpRV9RZ2VVUWJSMlN0TEJfZ1NfcHZEa1paaHg2VlhfbWtoX2l5azVBUmI1SWFJT3V6UQ?oc=5",
       "date": "2026-10-13T12:00:00+00:00",
       "description": "The global consistency paradox: Building local E-E-A-T for AI search &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Search Console reporting date selector is broken - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT3cwMUdsN0N0SVFQQmFNbkM0a0ZtRjF4c2dZR2tORjJQUFpRUlhibmQybTZPYS1RaTZOOFprNnVKbUVHVFBNMGNHazlNRWlxaXdNSG5wb0ZRS3lyTU9OcEN5SGRQNVJybzhwRXlKYXJ2NEgwOWxvdlJjMnc3V0dxNDQyVkF2OHNZODlQU1lYdzJJN19ONVE?oc=5",
-      "date": "2026-10-13T11:54:17+00:00",
-      "description": "Google Search Console reporting date selector is broken &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
