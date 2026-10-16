@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-10-16T02:38:49.105593+00:00",
+  "updatedAt": "2026-10-16T03:08:03.109431+00:00",
   "items": [
+    {
+      "title": "Google Dataset Search Currently Not Returning Search Results",
+      "link": "https://www.seroundtable.com/google-dataset-search-broken-42315.html",
+      "date": "2026-10-16T01:37:00+00:00",
+      "description": "For the past several hours, Google Dataset Search has not been able to return any search results or matches. Google Dataset Search returns a response that says \"Your search - [keyword phrase here] - did not match any datasets.\"",
+      "image": "https://images.seroundtable.com/google-datatset-search-no-matches-JWEJlMoV.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "ChatGPT Traffic Drop Appears To Be A Tracking Problem via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/chatgpt-traffic-drop-appears-to-be-a-tracking-problem/593157/",
@@ -463,19 +476,6 @@
       "date": "2026-10-14T11:31:00+00:00",
       "description": "Microsoft Bing is testing placing a large single ad unit at the top of the Bing Search results page. The sponsored ad has a gray background, with an image and call to action button, and of course, the url, title and ad description.",
       "image": "https://images.seroundtable.com/bing-single-ad-unit-top-bXcq388Z.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "OpenAI ChatGPT Ads Account Manager Representatives",
-      "link": "https://www.seroundtable.com/openai-chatgpt-ads-account-manager-42278.html",
-      "date": "2026-10-14T11:21:00+00:00",
-      "description": "OpenAI has humans who are reaching out to advertisers to help them manage their ChatGPT Ads. These ad representatives are called ChatGPT Ads Account Managers and I guess are real humans who help agencies manage ads for their customers?",
-      "image": "https://images.seroundtable.com/openai-chatgpt-ads-account-manager-email-fF84z3n4.jpg",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
