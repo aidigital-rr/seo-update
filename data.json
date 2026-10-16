@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T19:12:25.767709+00:00",
+  "updatedAt": "2026-10-16T19:38:15.611096+00:00",
   "items": [
     {
       "title": "Why The New York Times Puts Free Content First",
@@ -73,6 +73,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Human experience is your content’s biggest differentiator - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFlOdUIwZXdiRThXZDNuV2N0bWFYekUwMEpQZEhHQjZwX2ZEWm1Sa09Pd3NCYTFSSUthUmNld2ZTNldnRVpRWGo1N1BJcjJFRDR3UHhuQlBkM0FCR29tQ2t3aFR5QUtWS1FjOFRfRVUtNmpjNV95YnBUc0VFdFltSA?oc=5",
+      "date": "2026-10-16T12:00:00+00:00",
+      "description": "Human experience is your content’s biggest differentiator &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -501,7 +514,7 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GNHdlSVNOby1HcHlBS1lpV2ZjU0U4aUV3WG1jM2JhQ2Y2Qnl3N3hMUWx3a0RhTnlEakNrV0NxN1diSEZYdWFtWXFNeUNqdENUcDB0UXhnWUN6M0h6WDFtcDUwUGsyckR1NzdWdkpka2w?oc=5",
       "date": "2026-10-14T14:03:08+00:00",
       "description": "What language should you track AI prompts in? &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -530,19 +543,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "What the PPC agency of 2027 will look like - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uXzB1aUd5WGFZczZRcFczWXc1TDBOV3g0cTFKZ1p6QUVDcUR6RjNIRXF5VXhobldFa1lGdV82Q05ScDcxemF2bVU3LVJTdFQ5R180QV94a3cweGd4T0l5QjQ0RmZEUQ?oc=5",
-      "date": "2026-10-14T13:00:00+00:00",
-      "description": "What the PPC agency of 2027 will look like &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
