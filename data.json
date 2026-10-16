@@ -1,8 +1,33 @@
 {
-  "updatedAt": "2026-10-16T13:47:21.110017+00:00",
+  "updatedAt": "2026-10-16T14:16:14.910945+00:00",
   "items": [
     {
-      "title": "Google Poisoning Tracking Tools, Google AI Results Updates, Discover To Change, Google Ads, ChatGPT & SEO",
+      "title": "It’s Possible Your Migration Issues May Be Due To Site Quality via @sejournal, @marie_haynes",
+      "link": "https://www.searchenginejournal.com/its-possible-your-migration-issues-may-be-due-to-site-quality/592899/",
+      "date": "2026-10-16T14:00:20+00:00",
+      "description": "If your new domain won’t index and there’s no technical fix, the problem may be originality. Read Marie Haynes’ theory and what to do next. The post It&#8217;s Possible Your Migration Issues May Be Due To Site Quality appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/migration-issues-235.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: October 16, 2026",
+      "link": "https://www.seroundtable.com/recap-10-16-2026-42318.html",
+      "date": "2026-10-16T14:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today...",
+      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Search News Buzz Video Recap: Google Poisoning Tracking Tools, Google AI Results Updates, Discover To Change, Google Ads, ChatGPT & SEO",
       "link": "https://www.seroundtable.com/video-09-16-2026-42313.html",
       "date": "2026-10-16T12:01:00+00:00",
       "description": "Google seems to be poisoning the third-party tracking tools with fake data and paywalls; this is wreaking havoc on keyword tracking. Google launched Gemini 4 Argon and it is in AI Mode. Google made several...",
@@ -27,7 +52,7 @@
       ]
     },
     {
-      "title": "Google Search Ranking Volatility & Chatter Spikes Today",
+      "title": "Google Search Ranking Volatility & Chatter Spike Today",
       "link": "https://www.seroundtable.com/google-search-ranking-volatility-chatter-42317.html",
       "date": "2026-10-16T11:55:00+00:00",
       "description": "It has been a while since I reported on a Google Search ranking update. I blame the tools, but in all seriousness, I am seeing a spike in volatility and, now probably more importantly, a spike in chatter over the past 24 hours, related to Google Search ranking changes, referral traffic changes and overall disruption in the Google Search results.",
@@ -359,19 +384,6 @@
       ]
     },
     {
-      "title": "Google Ads API Version 26 Now Out Available",
-      "link": "https://www.seroundtable.com/google-ads-api-version-26-42307.html",
-      "date": "2026-10-15T11:31:00+00:00",
-      "description": "Google Ads has released version 26 of the Google Ads API. This is a major release of the Google Ads API updates including SMS messaging, local services, hotel center accounts, lift measurements, EU political items, conversion features, and so much more.",
-      "image": "https://images.seroundtable.com/google-ads-api-v26-vSHDUOqw.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Coywolf Pack EmDash SEO Plugin Makes Sites Absurdly Fast via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/coywolf-pack-emdash-seo-plugin-makes-sites-absurdly-fast/593026/",
       "date": "2026-10-15T10:32:28+00:00",
@@ -501,7 +513,7 @@
       "link": "https://www.searchenginejournal.com/your-store-is-agent-ready-by-default-we-tested-122-shopify-stores/591767/",
       "date": "2026-10-14T12:00:06+00:00",
       "description": "A store can look agent-ready by default and still fail the moment a buyer asks about shipping, pickup, or cancellation. Here's what to verify. The post Your Store Is &#8216;Agent-Ready&#8217; By Default, We Tested 122 Shopify Stores To See What That Actually Means appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -603,18 +615,6 @@
       "tags": [
         "SEO",
         "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Test Like A Scientist: 6 Mistakes That Undermine Your SEO Experiments via @sejournal, @SequinsNsearch",
-      "link": "https://www.searchenginejournal.com/test-like-a-scientist-mistakes-that-undermine-your-seo-experiments/591411/",
-      "date": "2026-10-13T14:00:21+00:00",
-      "description": "Learn six common SEO testing mistakes and how scientific thinking can help you design better experiments, interpret results, and make more reliable decisions. The post Test Like A Scientist: 6 Mistakes That Undermine Your SEO Experiments appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
         "AI Search"
       ]
     },
