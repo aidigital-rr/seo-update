@@ -1,6 +1,45 @@
 {
-  "updatedAt": "2026-10-16T11:09:11.116692+00:00",
+  "updatedAt": "2026-10-16T11:39:59.916415+00:00",
   "items": [
+    {
+      "title": "Bing Search Testing Popular Links On Snippets",
+      "link": "https://www.seroundtable.com/bing-testing-popular-links-42304.html",
+      "date": "2026-10-16T11:21:00+00:00",
+      "description": "Microsoft is testing adding the label \"Popular Links\" to the Bing search results sitelinks. This reminds me of the Google top pages test and variations of that.",
+      "image": "https://images.seroundtable.com/bing-snippets-popular-links-2aGOYQDg.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads API Releases Twice Per Month Going Forward",
+      "link": "https://www.seroundtable.com/google-ads-api-twice-a-month-42303.html",
+      "date": "2026-10-16T11:11:00+00:00",
+      "description": "Google Ads is planning on pushing twice as many Google Ads API updates for the remainder of this year and into 2027 compared to its previous schedule. Last year, Google said it would release an Ads API update monthly and now Google is switching that to two updates per month.",
+      "image": "https://images.seroundtable.com/google-ads-api-release-schedule-awvfNzDq.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Updated Indexing API Quota Details & More",
+      "link": "https://www.seroundtable.com/google-updates-indexing-api-quota-information-42316.html",
+      "date": "2026-10-16T10:05:00+00:00",
+      "description": "Google has updated the indexing API documentation; this includes three different pages within the documentation. I think the big takeaway is that Google removed the old approval process and initial testing explanation, the sitemap recommendation, and, most importantly, the default quota details.",
+      "image": "https://images.seroundtable.com/diff-SUIoQpC5.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google Dataset Search Currently Not Returning Search Results",
       "link": "https://www.seroundtable.com/google-dataset-search-broken-42315.html",
@@ -455,45 +494,6 @@
       "tags": [
         "SEO",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads Search Terms & Ad Combinations As One Report",
-      "link": "https://www.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-42287.html",
-      "date": "2026-10-14T11:51:00+00:00",
-      "description": "Google Ads seems to be testing a new report named the Search terms and ad combinations report. This report shows how search queries, ad creatives, and landing pages work together.",
-      "image": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Tests AI Mode Left Sidebar On Main Google Search Results Page",
-      "link": "https://www.seroundtable.com/google-ai-mode-left-sidebar-42298.html",
-      "date": "2026-10-14T11:41:00+00:00",
-      "description": "Google is testing placing the left vertical sidebar you see in AI Mode results on the main Google web search results page. This places the small super G Google logo on the left, with the chat history lines, a way to start a chat with AI Mode and the settings icon all on the left side.",
-      "image": "https://images.seroundtable.com/google-ai-mode-left-sidebar-cbgKNVGm.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Bing Tests Large Single Sponsored Ad Unit At Top Of Search Results",
-      "link": "https://www.seroundtable.com/bing-large-single-sponsored-ad-42283.html",
-      "date": "2026-10-14T11:31:00+00:00",
-      "description": "Microsoft Bing is testing placing a large single ad unit at the top of the Bing Search results page. The sponsored ad has a gray background, with an image and call to action button, and of course, the url, title and ad description.",
-      "image": "https://images.seroundtable.com/bing-single-ad-unit-top-bXcq388Z.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
