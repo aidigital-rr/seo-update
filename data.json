@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-16T18:43:55.123025+00:00",
+  "updatedAt": "2026-10-16T19:12:25.767709+00:00",
   "items": [
+    {
+      "title": "Why The New York Times Puts Free Content First",
+      "link": "https://www.searchenginejournal.com/why-the-new-york-times-puts-free-content-first/593021/",
+      "date": "2026-10-16T19:00:23+00:00",
+      "description": "The New York Times gives prime homepage space to free articles and tells readers they’re free. Here’s why that works. The post Why The New York Times Puts Free Content First appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/free-content-853.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXo3LWU0bVdLN05oVUtJeGZzaUVGclFmS2lRcnNsdWg2SWpsSHV4Y250WGh0d2FtYUY2WlRMR21TaUoybG9CQlVQUnZNMk5TRVNpQURldEhJZWVOWDlIT3Y1RjhRLXVqcHZSSDVOckJtOHZENlVoVkN3VDRkLVoyT3ZPZWFOa1ZxWWZOaExuRE1tVE5QSk5fdGFBSDZVenRNU25ldVB5OFZWUWt3MFBmRGc5QzB1TEZ6?oc=5",
+      "date": "2026-10-16T16:11:59+00:00",
+      "description": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
     {
       "title": "It’s Possible Your Migration Issues May Be Due To Site Quality via @sejournal, @marie_haynes",
       "link": "https://www.searchenginejournal.com/its-possible-your-migration-issues-may-be-due-to-site-quality/592899/",
@@ -489,7 +514,7 @@
       "link": "https://www.searchenginejournal.com/why-seo-isnt-enough-anymore-and-why-thats-a-good-thing/592601/",
       "date": "2026-10-14T14:00:20+00:00",
       "description": "If search is your only presence, you’re exposed. Google has been purging SEO-first sites since the Helpful Content Update. Here’s what replaces them. The post Why SEO Isn’t Enough Anymore – And Why That’s A Good Thing appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/seo-319.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -501,7 +526,7 @@
       "link": "https://www.searchenginejournal.com/negative-search-result-removal-erase-spa/590856/",
       "date": "2026-10-14T13:50:53+00:00",
       "description": "Learn how to address negative search results and identify which links can be removed or hidden effectively. The post How To Remove Negative Search Results: What 22,620 Links Reveal appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/featured-copy-899.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -594,18 +619,6 @@
       ]
     },
     {
-      "title": "Google Adds Gemini 4 Argon To AI Mode For Pro & Ultra Subscribers via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-gemini-4-argon-ai-mode/592806/",
-      "date": "2026-10-13T17:18:44+00:00",
-      "description": "Google added Gemini 4 Argon to AI Mode for paid subscribers and opened the model to developers, enterprises, and the Gemini app. The post Google Adds Gemini 4 Argon To AI Mode For Pro &#038; Ultra Subscribers appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Gemini 4 Argon rolling out in Google AI Mode & Gemini - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ0J2ZzVJTFFETkdVN00zSXZXMEd4WVI5ZVhQbGdFYXdXMmhZYWd3Wm9MMUxNVi1icngzeXhmSXNOUFFqdXk4bVVteEFCZkl6ak03ZkhtY253b0o0MXAtUi1iLXU2YXpSbHdCS3N4WVd4UkhiY2Ytd3JTQ0RFWlJaSTVUNkQ5bmZlTWF6ZW1NeUw?oc=5",
       "date": "2026-10-13T16:33:55+00:00",
@@ -675,19 +688,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4eUxqUWhDWFdhX1VsbHpfaER1TXVaRjFDeEllekpYVEx0YmpUaUx5MzRPU0l5X1hSV0dRZkRHNFltN0FPZi1iTkZISGp4cEx0RFJwNVBYNU9iVTNqd014NWN0emJ5VkN2LU9oREltbVlZMWpSNDUxUlFmamljM0U?oc=5",
       "date": "2026-10-12T20:51:43+00:00",
       "description": "Impact of bad responses in Google Reviews &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads gives Demand Gen advertisers a way to keep Lookalike targeting restrictions - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeVdUYTlqTnE5N3g2X3h6UVlzMkR6WWp4S1BDd1VMOXVBUVZoNC1xNE9tYzV5bUJpNTVBbjZoMlNZcTZ3Q3NiNDlCTHplRi1xdmRrbDZLV1BVaVV1djJZV2FaM20tbnBIdHZMSXpYZVd0SlNBeS10ZE4tNXdlZUg4S3JZQk8weVlwTG5tNTE1WHc1eFdSYkNiSjBFYUhXdHctN3l3NTFPNUkxUEdBSUZsZEZhLTdaY0xpZmdkSldOYw?oc=5",
-      "date": "2026-10-12T17:11:35+00:00",
-      "description": "Google Ads gives Demand Gen advertisers a way to keep Lookalike targeting restrictions &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
