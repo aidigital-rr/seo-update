@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T07:17:47.214582+00:00",
+  "updatedAt": "2026-10-17T08:03:31.688470+00:00",
   "items": [
     {
       "title": "Meta’s New Terms Expand Crawling Rights Beyond Advertisers via @sejournal, @MattGSouthern",
@@ -383,19 +383,6 @@
       ]
     },
     {
-      "title": "Make every page count before publishing more for SEO - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hNE5GWlEtTjBkdUQxOXFsYzdOMmNGZFBIaW1sVFdmNmtMQ21adWlINmp4N1hhenNJajlIWjNmSHdPWU1xUENRZHd3LXBZLUtyaFlzNGVYSkhLTUhWNXJUSC12X0Y2TFFqUGlKRWZDZ1o?oc=5",
-      "date": "2026-10-15T13:00:00+00:00",
-      "description": "Make every page count before publishing more for SEO &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals via @sejournal, @TaylorDanRW",
       "link": "https://www.searchenginejournal.com/a-panda-style-update-within-a-month-according-to-prediction-model-signals/591955/",
       "date": "2026-10-15T12:00:21+00:00",
@@ -514,7 +501,7 @@
       "link": "https://www.searchenginejournal.com/google-ads-introduces-channel-prioritization-and-budget-allocation/592833/",
       "date": "2026-10-14T15:00:33+00:00",
       "description": "Google Ads introduces channel prioritization and budget allocation controls, giving advertisers more flexibility over spending across Search, Performance Max, and other campaigns. The post Google Ads Introduces Channel Prioritization And Budget Allocation appeared first on Search Engine Journal .",
-      "image": "",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-ads-shutterstock_1828800776-575.jpg",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -688,6 +675,19 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85cVVwUFFPb3UwOEpobmtNT2lxc3FYT2hvYzQwQ3BQTXdteThSajFJX25jWWRJZFhTYjJwM0YwcUpqVC1uYXFjQWJVM0xfRzJ1bUNMUnVXSVRpMFE2Q0NXRHVKM2l0VGx2UmNYNDg1Sm50cEE?oc=5",
       "date": "2026-10-13T14:00:00+00:00",
       "description": "Why gated content is the enemy of AI search &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Search Console reporting date selector is broken - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT3cwMUdsN0N0SVFQQmFNbkM0a0ZtRjF4c2dZR2tORjJQUFpRUlhibmQybTZPYS1RaTZOOFprNnVKbUVHVFBNMGNHazlNRWlxaXdNSG5wb0ZRS3lyTU9OcEN5SGRQNVJybzhwRXlKYXJ2NEgwOWxvdlJjMnc3V0dxNDQyVkF2OHNZODlQU1lYdzJJN19ONVE?oc=5",
+      "date": "2026-10-13T11:54:17+00:00",
+      "description": "Google Search Console reporting date selector is broken &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
