@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T22:58:49.824846+00:00",
+  "updatedAt": "2026-10-17T23:30:23.976552+00:00",
   "items": [
     {
       "title": "Google’s Indexing API Docs No Longer Explain How To Get Approval via @sejournal, @MattGSouthern",
@@ -394,19 +394,6 @@
       ]
     },
     {
-      "title": "Google Ads API v26 launches with Search Lift measurement and new campaign controls - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWm5jWUJfZWNKLW1fRlc1cWE1OHBGdUFFUFJuTWtLZGRtMjNBZFlmc3VJcjRPUjVfOWdVZkp3b0R3cG9PQ090N1lLdnBLRDBESnNEVmZCLVBOVUR0QlZOX2NGaVBvZTlQY3dXbWpucUM2cDhLQ21wLXVtMXhGWG5sU2dET21mT2x0OGlnY2lBamJ3UDdsbWlYMk13eFhkanVPZFRLcEpyN3Rfb2ZNVFUwdjAzR0tNUjd1dmc?oc=5",
-      "date": "2026-10-15T13:09:40+00:00",
-      "description": "Google Ads API v26 launches with Search Lift measurement and new campaign controls &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals via @sejournal, @TaylorDanRW",
       "link": "https://www.searchenginejournal.com/a-panda-style-update-within-a-month-according-to-prediction-model-signals/591955/",
       "date": "2026-10-15T12:00:21+00:00",
@@ -512,7 +499,7 @@
       "link": "https://www.searchenginejournal.com/google-ads-introduces-channel-prioritization-and-budget-allocation/592833/",
       "date": "2026-10-14T15:00:33+00:00",
       "description": "Google Ads introduces channel prioritization and budget allocation controls, giving advertisers more flexibility over spending across Search, Performance Max, and other campaigns. The post Google Ads Introduces Channel Prioritization And Budget Allocation appeared first on Search Engine Journal .",
-      "image": "",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-ads-shutterstock_1828800776-575.jpg",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -688,6 +675,19 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4eUxqUWhDWFdhX1VsbHpfaER1TXVaRjFDeEllekpYVEx0YmpUaUx5MzRPU0l5X1hSV0dRZkRHNFltN0FPZi1iTkZISGp4cEx0RFJwNVBYNU9iVTNqd014NWN0emJ5VkN2LU9oREltbVlZMWpSNDUxUlFmamljM0U?oc=5",
       "date": "2026-10-12T20:51:43+00:00",
       "description": "Impact of bad responses in Google Reviews &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How to audit off-page AI search visibility and build a 90-day plan - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT0pQZUFDMDRuNkQtX3RRRlhyckpFUi1NSXF0RXhxSFBqWkhlS3FyQUhkbngtTzJRSmFNZnZ1Y2RQdzB2ZWFJT1VheE0xWWZYcFc4NEJCZmNLWUNEejlkXzN5VVFFVGZ0X1M1ck04Q3M1cGxXZFJRakJpOW9NUGJXckpVdVgybU1WSmN3?oc=5",
+      "date": "2026-10-12T13:00:00+00:00",
+      "description": "How to audit off-page AI search visibility and build a 90-day plan &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
