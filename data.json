@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T20:35:58.812744+00:00",
+  "updatedAt": "2026-10-18T21:02:31.533822+00:00",
   "items": [
     {
       "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds via @sejournal, @MattGSouthern",
@@ -406,6 +406,19 @@
       ]
     },
     {
+      "title": "Make every page count before publishing more for SEO - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hNE5GWlEtTjBkdUQxOXFsYzdOMmNGZFBIaW1sVFdmNmtMQ21adWlINmp4N1hhenNJajlIWjNmSHdPWU1xUENRZHd3LXBZLUtyaFlzNGVYSkhLTUhWNXJUSC12X0Y2TFFqUGlKRWZDZ1o?oc=5",
+      "date": "2026-10-15T13:00:00+00:00",
+      "description": "Make every page count before publishing more for SEO &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals via @sejournal, @TaylorDanRW",
       "link": "https://www.searchenginejournal.com/a-panda-style-update-within-a-month-according-to-prediction-model-signals/591955/",
       "date": "2026-10-15T12:00:21+00:00",
@@ -497,7 +510,7 @@
       "link": "https://www.searchenginejournal.com/why-seo-isnt-enough-anymore-and-why-thats-a-good-thing/592601/",
       "date": "2026-10-14T14:00:20+00:00",
       "description": "If search is your only presence, you’re exposed. Google has been purging SEO-first sites since the Helpful Content Update. Here’s what replaces them. The post Why SEO Isn’t Enough Anymore – And Why That’s A Good Thing appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/seo-319.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -537,6 +550,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Bing Webmaster Tools AI performance report new Topics Portfolio - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV2hDNm16NEo1Qm1nRWJkcUhZWHAtRVpkVUpVXzFMYzRUb1NGX1JYVHVkV1RsVFVsdTJxOHNTM0FrNEprdkJtTDMwU2NtRFJiRllocVViUjhyR1pSQmtVQTg2d252TGhmLTZEX3M1M3p3TlR1QnVpYnY2LTRqVkZZNHA5b2hSSnd4OUZNM3Q2cTlZOUFpZFJ5R3dxZlg1Z3FH?oc=5",
+      "date": "2026-10-13T15:50:25+00:00",
+      "description": "Bing Webmaster Tools AI performance report new Topics Portfolio &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -762,19 +788,6 @@
       ]
     },
     {
-      "title": "AI visibility tools: How to track and grow your presence in AI search - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXQXV3blhiYWRoVnV3RUdieFJnc3VpNEN0U1pQRTRJZmtQLTM4MVNsS29KWVZlSklCczFoYkRScjJOaVNxTFNEZWdoNVZ3RlVvOHBxTHRncDVndTFDRW9WYkFYbjl4LXM?oc=5",
-      "date": "2026-07-17T07:00:00+00:00",
-      "description": "AI visibility tools: How to track and grow your presence in AI search &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "See how content from social and video platforms performs on Google Search",
       "link": "https://developers.google.com/search/blog/2026/07/search-console-social-video-platforms",
       "date": "2026-07-07T00:00:00+00:00",
@@ -785,19 +798,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "ChatGPT commands 92% of AI referral traffic. Here’s what 6.77 million sessions reveal. - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdnQyNl9wUHdpb2xVdWVLMmxoREcwMkpHY1lqMW5TUkJFd19ObHlTWWFZT3FkVWx4Z25ZUmpGR2J6OEI0MTQzN1BVa18zM3VGWFNza0RoTFZEcldmVFlFVGplZFFTUnFicHhaYVE2eEFWS2dZd2tNSUlwd2tUMkpEa29yMA?oc=5",
-      "date": "2026-07-06T07:00:00+00:00",
-      "description": "ChatGPT commands 92% of AI referral traffic. Here’s what 6.77 million sessions reveal. &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     },
     {
