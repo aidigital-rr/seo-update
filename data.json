@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-18T07:43:20.217102+00:00",
+  "updatedAt": "2026-10-18T08:04:31.041089+00:00",
   "items": [
+    {
+      "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304/",
+      "date": "2026-10-18T08:00:00+00:00",
+      "description": "A paper tested whether Google results and OpenAI's API can stand in for ChatGPT's citations. They matched cited sites more often than the exact pages. The post OpenAI&#8217;s API Only Partly Matched ChatGPT&#8217;s Citations, Paper Finds appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/openai-citation-matching-featured.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Google’s Indexing API Docs No Longer Explain How To Get Approval via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-indexing-api-docs-approval-form-removed/593292/",
@@ -46,6 +58,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "ChatGPT Ads introduces new measurement tools and visual ad formats - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTEFsSFBwWE1UcUtnWmpoS25EY2p2aFNZVlJ3VjM5ajA5a3lyVHNrZlhIb3BIN2NsSGoxTjVpbTFFeVdWdzNYcnlxdTBOUlNIbFZZVURBREhMbmxwa2NIYUJIQTJGc0tzbXBjYUVUazdWMnVfOGl0aFVqYUp0RnhhaTdnWEZBSDdQMUtOclBKYWlFQVZjNHZQMk5lV096SGxScllHOA?oc=5",
+      "date": "2026-10-16T16:30:09+00:00",
+      "description": "ChatGPT Ads introduces new measurement tools and visual ad formats &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -485,7 +510,7 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNlY5c2Y4enE0a1phRFpBN3llb0ItbzFuWUlreFNmdEJTbjNIY1pYYnRFbS1KZGNiZFZrV2hUdW0wWmVaU3AzcjZtc3Y4ZDdLX185emwybVpha3dkc3pPTXRydEZXTFJoSDRoT0xXLWVjTU5JUk1WQUw1QkZadHY4OFNhRzBFSnUxWTFUN2VRZXExQQ?oc=5",
       "date": "2026-10-14T14:33:37+00:00",
       "description": "Your brand can win the mention and lose the citation &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -498,7 +523,7 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GNHdlSVNOby1HcHlBS1lpV2ZjU0U4aUV3WG1jM2JhQ2Y2Qnl3N3hMUWx3a0RhTnlEakNrV0NxN1diSEZYdWFtWXFNeUNqdENUcDB0UXhnWUN6M0h6WDFtcDUwUGsyckR1NzdWdkpka2w?oc=5",
       "date": "2026-10-14T14:03:08+00:00",
       "description": "What language should you track AI prompts in? &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -555,18 +580,6 @@
       ]
     },
     {
-      "title": "Analysis: Google Is Poisoning Search Results For Rank Trackers via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/analysis-google-is-poisoning-search-results-for-rank-trackers/592873/",
-      "date": "2026-10-14T09:17:05+00:00",
-      "description": "Google’s reported search results poisoning undermines confidence in SEO data that businesses use to make decisions. The post Analysis: Google Is Poisoning Search Results For Rank Trackers appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google Ads adds Search terms and ad combinations report for AI Max - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2pSRmZHQXEzRWx1VUFwTnQ2NEJQX3lsVEJxcHBHTXlSck83SllnZnh1RkdjLVNXQWRWWXJXbm9nZXN2ZjVtME9Ec0o4dFplRU5LRmhQRGlJQUduZDlvZ0R4WUR2XzlTVVRqQ3E4c2FyRTN1aFJyN2dMaVZaMGJROW1WMUg1Qk5HbDBQVXFrSUw3NnYtYlBVMDlFNjhMbzJHZGZ1ZA?oc=5",
       "date": "2026-10-13T14:00:58+00:00",
@@ -606,19 +619,6 @@
       ]
     },
     {
-      "title": "Google Search Console reporting date selector is broken - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT3cwMUdsN0N0SVFQQmFNbkM0a0ZtRjF4c2dZR2tORjJQUFpRUlhibmQybTZPYS1RaTZOOFprNnVKbUVHVFBNMGNHazlNRWlxaXdNSG5wb0ZRS3lyTU9OcEN5SGRQNVJybzhwRXlKYXJ2NEgwOWxvdlJjMnc3V0dxNDQyVkF2OHNZODlQU1lYdzJJN19ONVE?oc=5",
-      "date": "2026-10-13T11:54:17+00:00",
-      "description": "Google Search Console reporting date selector is broken &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Microsoft-Decision-1 being experimented with in Copilot and Bing - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckVQM2ZqN3dCbTF1RzFscDVyNTlSTFdVdDZyNXdQRm1lSmZnYWlidW91NW1FQ3oxdm5BbEYwWHlmVVhqWExvbEs0QlhsWXRaQkFnczFVUTZOaGdLQU1peG55M0g1NmUtOEVYWVRxLVprSi1PcFdBZV9GZms4SXFqVGlaVnRINkJiMTBRaE0xRTBMZXNfN0t5ZWVvZjF5NGxqZkE?oc=5",
       "date": "2026-10-12T21:50:31+00:00",
@@ -636,19 +636,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4eUxqUWhDWFdhX1VsbHpfaER1TXVaRjFDeEllekpYVEx0YmpUaUx5MzRPU0l5X1hSV0dRZkRHNFltN0FPZi1iTkZISGp4cEx0RFJwNVBYNU9iVTNqd014NWN0emJ5VkN2LU9oREltbVlZMWpSNDUxUlFmamljM0U?oc=5",
       "date": "2026-10-12T20:51:43+00:00",
       "description": "Impact of bad responses in Google Reviews &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to audit off-page AI search visibility and build a 90-day plan - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT0pQZUFDMDRuNkQtX3RRRlhyckpFUi1NSXF0RXhxSFBqWkhlS3FyQUhkbngtTzJRSmFNZnZ1Y2RQdzB2ZWFJT1VheE0xWWZYcFc4NEJCZmNLWUNEejlkXzN5VVFFVGZ0X1M1ck04Q3M1cGxXZFJRakJpOW9NUGJXckpVdVgybU1WSmN3?oc=5",
-      "date": "2026-10-12T13:00:00+00:00",
-      "description": "How to audit off-page AI search visibility and build a 90-day plan &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -746,6 +733,19 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "Google Analytics launches customizable Dashboards - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWNHUkRGaDZtaE1Wa1dFQkZYcGJGZHpneW56LTBycXFjV3hPVUhnVU1Yc2IzUUJWSDZvUWNZV3Y0WGVYcU1Qc25oQnRXcF9yZGJSZzd3ejRjNmxyVG5odjVyNmwycWN6QlVKb2xqS0hTdGxpMGw2alpMcEtMaW1xV1REUDFseWFPYlowWmhR?oc=5",
+      "date": "2026-09-11T07:00:00+00:00",
+      "description": "Google Analytics launches customizable Dashboards &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
