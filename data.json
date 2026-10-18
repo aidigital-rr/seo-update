@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T06:03:20.695367+00:00",
+  "updatedAt": "2026-10-18T06:43:34.751098+00:00",
   "items": [
     {
       "title": "Google’s Indexing API Docs No Longer Explain How To Get Approval via @sejournal, @MattGSouthern",
@@ -658,6 +658,19 @@
       ]
     },
     {
+      "title": "Google September 2026 spam update done rolling out - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHFUTE5rdlJwQ2U0aVVkTjc4X3RSR3JJeXN2MWI4TGphdkhvYTVGSkx6T0lqUDZfemVIQkZfSm1yWjJQbDZJSUdtNWtHSDVLWFJHdjNNSVI2UVJYdEhzSWN6cXdYZ00yeXNhT1hZRm9mb1VXSW5LVFRjRGMtYjRsMmo1U1dtZnJQOWhoSDVfUQ?oc=5",
+      "date": "2026-10-08T07:00:00+00:00",
+      "description": "Google September 2026 spam update done rolling out &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "New learning paths: curated YouTube playlists for Search fundamentals and Technical SEO",
       "link": "https://developers.google.com/search/blog/2026/10/seo-learning-paths",
       "date": "2026-10-06T00:00:00+00:00",
@@ -671,10 +684,10 @@
       ]
     },
     {
-      "title": "Generative engine optimization (GEO): How to win AI mentions - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzVfRGlQSnVUV1N3cVc2Y1ZrOHkyWDhzT3RvdFlMSWxwbGg3S0dBX2ZvamVQb1NQZmFkei0wREJrUFV5OTNLWHhHaW5ZOU9VX1lobHhFbUJjOFRpQ1BvQTlxUUo2bUdGU3VkQlJpVVlWU09fR1RUbkppdkVnZVVUaUpITm0?oc=5",
-      "date": "2026-09-24T07:00:00+00:00",
-      "description": "Generative engine optimization (GEO): How to win AI mentions &nbsp;&nbsp; Search Engine Land",
+      "title": "Google AI Overviews jump from 26% to 80% of branded queries - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0ltM3IzUnoxR2RYMkpoYXl3S05pWjYzajJXd0hFcXptY1l6OGdHQS1udWRhWXgxOC1mdTE4S0JHM2hidG11cGZ2dkZCZHNGVy04ZTRtdTV5d3hTcjJtWXYwNEZ6MnVGUDgtT2Q2Q1JUMEJNNXN2UWRUWWY4VjdaN3dQUy1mMU1DQndSMmEwaw?oc=5",
+      "date": "2026-10-01T07:00:00+00:00",
+      "description": "Google AI Overviews jump from 26% to 80% of branded queries &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -694,6 +707,19 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "OpenAI is turning ChatGPT ads into conversations - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVEVQZFp6V0ZFUHk2TmdLc21SWXY5b0U4V3R2WlpxdGQyRURQNWJ0azRsVVE5YWZGaDBHdTdlOW4tbi05SzJzTXZsWkRCbEVnYVRMRFdYWnNZV2pabjd1OGZrWjRyaE9PTTBiTEtTcUcxMlhiQUVlWWp4cWtQRC1zUmR4bGxwd0RUdmt0Mw?oc=5",
+      "date": "2026-09-16T07:00:00+00:00",
+      "description": "OpenAI is turning ChatGPT ads into conversations &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
@@ -723,19 +749,6 @@
       ]
     },
     {
-      "title": "Google Ads data shows query length shift post-AI Mode - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOHdYUzlya1U2Q3hCcHI1OUpxQ0Jxd1Ita3ZqOHhicl8wMDltX0Z5UkVkdHNCdEhIWTdxMi1TMV9rV29hRzZlY2RBMmVPTXRpVmNGQ09QMHhQcHlyT1BsaGdHQTRfSzZpQ0FlLWxGVEVneV81QjhGalZJaEJTRWNVRmNZanllQ1lTYjdYcC0xVlBNM1E?oc=5",
-      "date": "2026-09-11T07:00:00+00:00",
-      "description": "Google Ads data shows query length shift post-AI Mode &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Search Central Live is coming to Bogota and Ciudad de México",
       "link": "https://developers.google.com/search/blog/2026/09/search-central-live-mexico-and-colombia",
       "date": "2026-09-08T00:00:00+00:00",
@@ -759,19 +772,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "Multi-location SEO: How to structure geographic pages at scale - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSFhhMVJyUno1am5YdmlPRllMaEVlMnFzUE9KOVZvNHhFU2k2NEtJMzZMR1piMXd6RHV2MEV0dUJNYm9GUWN0NjV0NkR1WGUwME9Xd3luTkNlSjROWFE5aldIcVhkNTBjZlhKUG5mUVVnRUlLaFFtbmduLW1GdllvYXgxSlB6RHF0?oc=5",
-      "date": "2026-07-30T07:00:00+00:00",
-      "description": "Multi-location SEO: How to structure geographic pages at scale &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     },
     {
