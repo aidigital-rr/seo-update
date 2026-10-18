@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T12:00:42.291425+00:00",
+  "updatedAt": "2026-10-18T12:42:01.243423+00:00",
   "items": [
     {
       "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds via @sejournal, @MattGSouthern",
@@ -66,6 +66,19 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTEFsSFBwWE1UcUtnWmpoS25EY2p2aFNZVlJ3VjM5ajA5a3lyVHNrZlhIb3BIN2NsSGoxTjVpbTFFeVdWdzNYcnlxdTBOUlNIbFZZVURBREhMbmxwa2NIYUJIQTJGc0tzbXBjYUVUazdWMnVfOGl0aFVqYUp0RnhhaTdnWEZBSDdQMUtOclBKYWlFQVZjNHZQMk5lV096SGxScllHOA?oc=5",
       "date": "2026-10-16T16:30:09+00:00",
       "description": "ChatGPT Ads introduces new measurement tools and visual ad formats &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXo3LWU0bVdLN05oVUtJeGZzaUVGclFmS2lRcnNsdWg2SWpsSHV4Y250WGh0d2FtYUY2WlRMR21TaUoybG9CQlVQUnZNMk5TRVNpQURldEhJZWVOWDlIT3Y1RjhRLXVqcHZSSDVOckJtOHZENlVoVkN3VDRkLVoyT3ZPZWFOa1ZxWWZOaExuRE1tVE5QSk5fdGFBSDZVenRNU25ldVB5OFZWUWt3MFBmRGc5QzB1TEZ6?oc=5",
+      "date": "2026-10-16T16:11:59+00:00",
+      "description": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -496,7 +509,7 @@
       "link": "https://www.searchenginejournal.com/negative-search-result-removal-erase-spa/590856/",
       "date": "2026-10-14T13:50:53+00:00",
       "description": "Learn how to address negative search results and identify which links can be removed or hidden effectively. The post How To Remove Negative Search Results: What 22,620 Links Reveal appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/featured-copy-899.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -753,19 +766,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeE1GQzhWcDQtNlFqRFdzUHpQeVlFalpUM3A3S3pRTjdtaWZITjQ2NVdwWnJNNGJRcDF2eUVyaEFyYWoxRGQ0bVFCUXhPNUtaWTg1czJMUm12NFRUdXRNUklwc0lUdGxtM2I1U1doYVNLemtzb2ZwVHhwWlFBc29KVTN0YW1BM1RuMm9R?oc=5",
       "date": "2026-08-25T07:00:00+00:00",
       "description": "What 1.8 million Google Business Profiles tell us about local SEO success &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Inside ChatGPT’s retrieval stack: The index, cache, and pages it actually reads - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdTFLekQ2eWI1blQzWFg2TjF2SF91UlNWczk2ZExqS3dHa0lpTTJLeEhlcERsWGRoVmZlbDh6bmZ3MTlzMWxfTEtRLTNNM3ZyT1BpT0dRTEtaYlRxUlNJbXpfRENfNUE1SDNtODQ5NnhRa3VEUFRWT2NfX2NtVkN0Y3YxMA?oc=5",
-      "date": "2026-08-17T07:00:00+00:00",
-      "description": "Inside ChatGPT’s retrieval stack: The index, cache, and pages it actually reads &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
