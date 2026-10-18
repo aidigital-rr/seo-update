@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T11:35:05.411501+00:00",
+  "updatedAt": "2026-10-18T12:00:42.291425+00:00",
   "items": [
     {
       "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds via @sejournal, @MattGSouthern",
@@ -619,19 +619,6 @@
       ]
     },
     {
-      "title": "Google AI Overviews jump from 26% to 80% of branded queries - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0ltM3IzUnoxR2RYMkpoYXl3S05pWjYzajJXd0hFcXptY1l6OGdHQS1udWRhWXgxOC1mdTE4S0JHM2hidG11cGZ2dkZCZHNGVy04ZTRtdTV5d3hTcjJtWXYwNEZ6MnVGUDgtT2Q2Q1JUMEJNNXN2UWRUWWY4VjdaN3dQUy1mMU1DQndSMmEwaw?oc=5",
-      "date": "2026-10-01T07:00:00+00:00",
-      "description": "Google AI Overviews jump from 26% to 80% of branded queries &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Announcing web multimodal Search performance reporting in Search Console",
       "link": "https://developers.google.com/search/blog/2026/09/web-multimodal-in-sc",
       "date": "2026-09-24T00:00:00+00:00",
@@ -766,6 +753,19 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeE1GQzhWcDQtNlFqRFdzUHpQeVlFalpUM3A3S3pRTjdtaWZITjQ2NVdwWnJNNGJRcDF2eUVyaEFyYWoxRGQ0bVFCUXhPNUtaWTg1czJMUm12NFRUdXRNUklwc0lUdGxtM2I1U1doYVNLemtzb2ZwVHhwWlFBc29KVTN0YW1BM1RuMm9R?oc=5",
       "date": "2026-08-25T07:00:00+00:00",
       "description": "What 1.8 million Google Business Profiles tell us about local SEO success &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Inside ChatGPT’s retrieval stack: The index, cache, and pages it actually reads - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdTFLekQ2eWI1blQzWFg2TjF2SF91UlNWczk2ZExqS3dHa0lpTTJLeEhlcERsWGRoVmZlbDh6bmZ3MTlzMWxfTEtRLTNNM3ZyT1BpT0dRTEtaYlRxUlNJbXpfRENfNUE1SDNtODQ5NnhRa3VEUFRWT2NfX2NtVkN0Y3YxMA?oc=5",
+      "date": "2026-08-17T07:00:00+00:00",
+      "description": "Inside ChatGPT’s retrieval stack: The index, cache, and pages it actually reads &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
