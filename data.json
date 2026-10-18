@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T10:04:29.396316+00:00",
+  "updatedAt": "2026-10-18T10:36:38.595629+00:00",
   "items": [
     {
       "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds via @sejournal, @MattGSouthern",
@@ -66,19 +66,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTEFsSFBwWE1UcUtnWmpoS25EY2p2aFNZVlJ3VjM5ajA5a3lyVHNrZlhIb3BIN2NsSGoxTjVpbTFFeVdWdzNYcnlxdTBOUlNIbFZZVURBREhMbmxwa2NIYUJIQTJGc0tzbXBjYUVUazdWMnVfOGl0aFVqYUp0RnhhaTdnWEZBSDdQMUtOclBKYWlFQVZjNHZQMk5lV096SGxScllHOA?oc=5",
       "date": "2026-10-16T16:30:09+00:00",
       "description": "ChatGPT Ads introduces new measurement tools and visual ad formats &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "10 ways to create helpful content + examples and checklist - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GeUctZnJ3TVpGa1lNMHRfdHpUQ1RMbklXdUFoajUwTzMtMFl5REpjMGpLU0hmS0VNRFhCYm9PS0JsMTc3R2R4TFUzX1hEaGJPR19IUWVUMWM3Uko1c0hr?oc=5",
-      "date": "2026-10-16T15:52:47+00:00",
-      "description": "10 ways to create helpful content + examples and checklist &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -509,7 +496,7 @@
       "link": "https://www.searchenginejournal.com/negative-search-result-removal-erase-spa/590856/",
       "date": "2026-10-14T13:50:53+00:00",
       "description": "Learn how to address negative search results and identify which links can be removed or hidden effectively. The post How To Remove Negative Search Results: What 22,620 Links Reveal appeared first on Search Engine Journal .",
-      "image": "",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/featured-copy-899.png",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -629,6 +616,19 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "Google AI Overviews jump from 26% to 80% of branded queries - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0ltM3IzUnoxR2RYMkpoYXl3S05pWjYzajJXd0hFcXptY1l6OGdHQS1udWRhWXgxOC1mdTE4S0JHM2hidG11cGZ2dkZCZHNGVy04ZTRtdTV5d3hTcjJtWXYwNEZ6MnVGUDgtT2Q2Q1JUMEJNNXN2UWRUWWY4VjdaN3dQUy1mMU1DQndSMmEwaw?oc=5",
+      "date": "2026-10-01T07:00:00+00:00",
+      "description": "Google AI Overviews jump from 26% to 80% of branded queries &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
