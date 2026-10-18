@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T03:37:19.799689+00:00",
+  "updatedAt": "2026-10-18T04:09:06.944808+00:00",
   "items": [
     {
       "title": "Google’s Indexing API Docs No Longer Explain How To Get Approval via @sejournal, @MattGSouthern",
@@ -456,19 +456,6 @@
       ]
     },
     {
-      "title": "Google Ads introduces automotive model feeds for vehicle manufacturers - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObTJXQzI3TG1fVTdTeXd1MWFqcTFmMVh3X2psTjFMR012czJJQzB2QTczVVNkSlFxSE42Ql9NYk10ZXFORGtlQTdLQ0NfQlJKVmhqNzVJWTVzVm1RRHB5cGlBWWxRa1NFQzZyTmwtQnlwWXpOWFZuUVBNdE11VkhydGNBTFVqeS1wR1F6VkFEdlpqQTNDQ3JIcmFxdFZ3dlo5YUJXQlRZOEhlZw?oc=5",
-      "date": "2026-10-14T16:39:58+00:00",
-      "description": "Google Ads introduces automotive model feeds for vehicle manufacturers &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google Ads introduces channel prioritization and budget allocation controls - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDBoYWQ4TUhTX21Qek1PcjlPOXNraXp2V1cycTRMdjZOOXhRVmZ2S3dHMGxwR1RLaGJFclpFU0NyODZ3SGVDRlFfTDFIM25LU2RKY0poaGNvTVJkUVRVbTFqZUZXVkdFaDU3MkI2djUzd1kwQmJFVU42ZGRWRkJZbnVmR1dPWjdhUVVzVnpBLTgwLWtkWC1yVG9xVFRVcWljOGViMGVpdVBtSlB0cko3Xw?oc=5",
       "date": "2026-10-14T15:03:40+00:00",
@@ -511,7 +498,7 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GNHdlSVNOby1HcHlBS1lpV2ZjU0U4aUV3WG1jM2JhQ2Y2Qnl3N3hMUWx3a0RhTnlEakNrV0NxN1diSEZYdWFtWXFNeUNqdENUcDB0UXhnWUN6M0h6WDFtcDUwUGsyckR1NzdWdkpka2w?oc=5",
       "date": "2026-10-14T14:03:08+00:00",
       "description": "What language should you track AI prompts in? &nbsp;&nbsp; Search Engine Land",
-      "image": "",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -720,6 +707,19 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "OpenAI is turning ChatGPT ads into conversations - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVEVQZFp6V0ZFUHk2TmdLc21SWXY5b0U4V3R2WlpxdGQyRURQNWJ0azRsVVE5YWZGaDBHdTdlOW4tbi05SzJzTXZsWkRCbEVnYVRMRFdYWnNZV2pabjd1OGZrWjRyaE9PTTBiTEtTcUcxMlhiQUVlWWp4cWtQRC1zUmR4bGxwd0RUdmt0Mw?oc=5",
+      "date": "2026-09-16T07:00:00+00:00",
+      "description": "OpenAI is turning ChatGPT ads into conversations &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
