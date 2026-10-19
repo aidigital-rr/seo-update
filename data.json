@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T16:12:56.017249+00:00",
+  "updatedAt": "2026-10-19T16:43:31.379275+00:00",
   "items": [
     {
       "title": "DeepSeek Opens Its In-House Search Engine To Developers via @sejournal, @MattGSouthern",
@@ -47,6 +47,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Why the For You Page deserves SEO attention - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIS0NmOVk2YUN0MUQwNV9aZmE3enBwbGEtZFJrWTZGamFLOVVsZFFBUzNOOFJ2NGUyaURONGdSd3E4c0xXZWF4clBua3VDLUxpbmhod0ZmWFp1VmFhTzB0eFRybFN2SmJIRE9jQjFMbEdGTjNuc2Vtc0tHdw?oc=5",
+      "date": "2026-10-19T13:00:00+00:00",
+      "description": "Why the For You Page deserves SEO attention &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -498,7 +511,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2E4Zmdia2xzMzNkdjVuS1hFU2pfdWFianUwbjFKTTBXOTVNN29PYnd2eDRDUjJQbEhuUHRXRU1yWmZCN3Etdl8ta0RWTmRCTDJjWGlIRXJvSUtaVUw2Y2twRS1Tcm9zRXQwelZ6OWVvZ0htcVI2MkhNTnhSaTlyMnNqSng1b0g1eE9zTmhKbjcweEhUOUZkTlN2Znp4WDhaM3h5amxBZXlfMWJGOVk5VmRQdFlGTlhw?oc=5",
       "date": "2026-10-15T14:30:52+00:00",
       "description": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -675,19 +688,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4eUxqUWhDWFdhX1VsbHpfaER1TXVaRjFDeEllekpYVEx0YmpUaUx5MzRPU0l5X1hSV0dRZkRHNFltN0FPZi1iTkZISGp4cEx0RFJwNVBYNU9iVTNqd014NWN0emJ5VkN2LU9oREltbVlZMWpSNDUxUlFmamljM0U?oc=5",
       "date": "2026-10-12T20:51:43+00:00",
       "description": "Impact of bad responses in Google Reviews &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Does your website need an llms.txt file? + How to create one - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00emREbjVwakJrOWF4WlR5QnJteGk3SEMtVE9DVF9MMm4tM0VmXzVZUlpkbWhGMXNEQy1sdGNkOTNhalkzM2ZqR3dNN2NobENrVkJDTTZn?oc=5",
-      "date": "2026-10-12T17:08:42+00:00",
-      "description": "Does your website need an llms.txt file? + How to create one &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
