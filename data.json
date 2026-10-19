@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T06:11:41.375408+00:00",
+  "updatedAt": "2026-10-19T06:52:17.379839+00:00",
   "items": [
     {
       "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds via @sejournal, @MattGSouthern",
@@ -593,6 +593,19 @@
       ]
     },
     {
+      "title": "Does your website need an llms.txt file? + How to create one - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00emREbjVwakJrOWF4WlR5QnJteGk3SEMtVE9DVF9MMm4tM0VmXzVZUlpkbWhGMXNEQy1sdGNkOTNhalkzM2ZqR3dNN2NobENrVkJDTTZn?oc=5",
+      "date": "2026-10-12T17:08:42+00:00",
+      "description": "Does your website need an llms.txt file? + How to create one &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "New learning paths: curated YouTube playlists for Search fundamentals and Technical SEO",
       "link": "https://developers.google.com/search/blog/2026/10/seo-learning-paths",
       "date": "2026-10-06T00:00:00+00:00",
@@ -772,19 +785,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "AI visibility tools: How to track and grow your presence in AI search - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXQXV3blhiYWRoVnV3RUdieFJnc3VpNEN0U1pQRTRJZmtQLTM4MVNsS29KWVZlSklCczFoYkRScjJOaVNxTFNEZWdoNVZ3RlVvOHBxTHRncDVndTFDRW9WYkFYbjl4LXM?oc=5",
-      "date": "2026-07-17T07:00:00+00:00",
-      "description": "AI visibility tools: How to track and grow your presence in AI search &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     },
     {
