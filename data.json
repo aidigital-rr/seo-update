@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-19T12:52:00.923498+00:00",
+  "updatedAt": "2026-10-19T13:53:20.986052+00:00",
   "items": [
+    {
+      "title": "AI Search Tools Cited A Made-Up Concept Within A Week, Paper Finds via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ai-search-tools-cited-a-made-up-concept-within-a-week-paper-finds/593472/",
+      "date": "2026-10-19T13:34:28+00:00",
+      "description": "Researchers posted about a made-up concept on sites AI search tools cite. Four English-web tools cited it within a week. Other topics mostly didn't land. The post AI Search Tools Cited A Made-Up Concept Within A Week, Paper Finds appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-search-chatgpt-grok-2609462005.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "The New Rules Of Journalist Outreach, Based On Millions Of Emails",
       "link": "https://www.searchenginejournal.com/the-new-rules-of-journalist-outreach-based-on-millions-of-emails/592060/",
@@ -11,6 +23,58 @@
       "tags": [
         "SEO",
         "AI Search"
+      ]
+    },
+    {
+      "title": "Is It New? AI Scan Tool",
+      "link": "https://www.seroundtable.com/is-it-new-ai-scan-tool-42322.html",
+      "date": "2026-10-19T11:51:00+00:00",
+      "description": "Here is something new for you - the Is it new? AI scan tool. It is a feature I thought would be neat to build, where instead of you reaching out to me to see if this or that is a new Google, Bing, etc search feature, you can upload a screenshot, add some descriptive text and then have the AI figure out if it is new.",
+      "image": "https://images.seroundtable.com/is-it-new-screenshot-1-TnZ8aA0Z.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Moves Google Posts Higher Up On Local Panel",
+      "link": "https://www.seroundtable.com/google-posts-higher-42319.html",
+      "date": "2026-10-19T11:41:00+00:00",
+      "description": "Google seems to have moved the Google Posts section of a local knowledge panel higher up on the page. In 2018, Google moved the Google Posts section to the bottom of the local panel. Now it seems Google is moving it back up.",
+      "image": "https://images.seroundtable.com/google-posts-arrow-0FHFHak6.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Now In AI Mode With Personal Intelligence",
+      "link": "https://www.seroundtable.com/google-ads-ai-mode-personal-intelligence-42320.html",
+      "date": "2026-10-19T11:31:00+00:00",
+      "description": "Google confirmed it will now show ads in AI Mode results with Personal Intelligence enabled. Back in March, Google said AI Mode with Personal Intelligence turned on would be ad-free, but that is now changing.",
+      "image": "https://images.seroundtable.com/google-ads-personal-intelligence-help-doc-MgMTgNAc.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google AI Mode Citations With Preferred Source Preferences",
+      "link": "https://www.seroundtable.com/google-ai-mode-citations-preferred-sources-42323.html",
+      "date": "2026-10-19T11:21:00+00:00",
+      "description": "Google is testing letting users view and modify their preferred sources list directly from within the AI Mode citations sidebar. There is a new button named \"Source preferences\" and when you click on it, it opens up your preferred sources list where you can add or remove preferred sources.",
+      "image": "https://images.seroundtable.com/google-ai-mode-source-preferences-o7ByKDhG.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -130,6 +194,19 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXo3LWU0bVdLN05oVUtJeGZzaUVGclFmS2lRcnNsdWg2SWpsSHV4Y250WGh0d2FtYUY2WlRMR21TaUoybG9CQlVQUnZNMk5TRVNpQURldEhJZWVOWDlIT3Y1RjhRLXVqcHZSSDVOckJtOHZENlVoVkN3VDRkLVoyT3ZPZWFOa1ZxWWZOaExuRE1tVE5QSk5fdGFBSDZVenRNU25ldVB5OFZWUWt3MFBmRGc5QzB1TEZ6?oc=5",
       "date": "2026-10-16T16:11:59+00:00",
       "description": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How to create SEO-friendly URLs - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZU09kVmszMXJGenE0R2thQ0ZRdWF6dmVQTmpUTW0yc1F6bVJkdlNDN1kwSW1VcTAzZGkySlpRcjg4ZkxnSEtOTjRCVHdEUW1jRFRiTnBBMWhTTmhsOFpEUGdR?oc=5",
+      "date": "2026-10-16T14:18:33+00:00",
+      "description": "How to create SEO-friendly URLs &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -293,19 +370,6 @@
       ]
     },
     {
-      "title": "Google Dataset Search Currently Not Returning Search Results",
-      "link": "https://www.seroundtable.com/google-dataset-search-broken-42315.html",
-      "date": "2026-10-16T01:37:00+00:00",
-      "description": "For the past several hours, Google Dataset Search has not been able to return any search results or matches. Google Dataset Search returns a response that says \"Your search - [keyword phrase here] - did not match any datasets.\"",
-      "image": "https://images.seroundtable.com/google-datatset-search-no-matches-JWEJlMoV.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "ChatGPT Traffic Drop Appears To Be A Tracking Problem via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/chatgpt-traffic-drop-appears-to-be-a-tracking-problem/593157/",
       "date": "2026-10-15T21:48:30+00:00",
@@ -351,19 +415,6 @@
       "tags": [
         "SEO",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Google Updates Links In AI Mode & AI Overviews Again, Won't Show Click Data",
-      "link": "https://www.seroundtable.com/google-updates-links-in-ai-mode-and-ai-overviews-again-42308.html",
-      "date": "2026-10-15T16:00:00+00:00",
-      "description": "Google, for the umpteenth time, has updated how it shows links and carousel link cards in AI Mode and AI Overviews. Google always says this is to encourage searchers to click from the AI response to the publisher or creator, but it feels as if those efforts to drive clicks from AI search continue to fail.",
-      "image": "https://images.seroundtable.com/google-ai-mode-airline-refund-EZwNMlgU.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -431,32 +482,6 @@
       ]
     },
     {
-      "title": "Daily Search Forum Recap: October 15, 2026",
-      "link": "https://www.seroundtable.com/recap-10-15-2026-42309.html",
-      "date": "2026-10-15T14:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today...",
-      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Universal Cart Launches In Google Search (U.S.)",
-      "link": "https://www.seroundtable.com/universal-cart-google-search-42312.html",
-      "date": "2026-10-15T13:40:00+00:00",
-      "description": "Google has launched its Universal Cart today in Google Search and Gemini within the United States. This is powered by the Universal Commerce Protocol (UCP) and it was launched right before the big holiday shopping season.",
-      "image": "https://images.seroundtable.com/google-universal-cart-LNXcAib0.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Ads API v26 launches with Search Lift measurement and new campaign controls - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWm5jWUJfZWNKLW1fRlc1cWE1OHBGdUFFUFJuTWtLZGRtMjNBZFlmc3VJcjRPUjVfOWdVZkp3b0R3cG9PQ090N1lLdnBLRDBESnNEVmZCLVBOVUR0QlZOX2NGaVBvZTlQY3dXbWpucUM2cDhLQ21wLXVtMXhGWG5sU2dET21mT2x0OGlnY2lBamJ3UDdsbWlYMk13eFhkanVPZFRLcEpyN3Rfb2ZNVFUwdjAzR0tNUjd1dmc?oc=5",
       "date": "2026-10-15T13:09:40+00:00",
@@ -487,7 +512,7 @@
       "link": "https://www.searchenginejournal.com/a-panda-style-update-within-a-month-according-to-prediction-model-signals/591955/",
       "date": "2026-10-15T12:00:21+00:00",
       "description": "Prepare for a potential Panda-style Google update by addressing scaled AI content and fake authors that could threaten rankings across your site. The post 96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/panda-update-912.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -499,7 +524,7 @@
       "link": "https://www.searchenginejournal.com/coywolf-pack-emdash-seo-plugin-makes-sites-absurdly-fast/593026/",
       "date": "2026-10-15T10:32:28+00:00",
       "description": "Coywolf Pack makes EmDash-based websites absurdly fast, adds more SEO functionality, and improves WordPress to EmDash migrations. The post Coywolf Pack EmDash SEO Plugin Makes Sites Absurdly Fast appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/coywolf-pack-emdash-705.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -568,18 +593,6 @@
       ]
     },
     {
-      "title": "Your Store Is ‘Agent-Ready’ By Default, We Tested 122 Shopify Stores To See What That Actually Means via @sejournal, @billhunt",
-      "link": "https://www.searchenginejournal.com/your-store-is-agent-ready-by-default-we-tested-122-shopify-stores/591767/",
-      "date": "2026-10-14T12:00:06+00:00",
-      "description": "A store can look agent-ready by default and still fail the moment a buyer asks about shipping, pickup, or cancellation. Here's what to verify. The post Your Store Is &#8216;Agent-Ready&#8217; By Default, We Tested 122 Shopify Stores To See What That Actually Means appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Organic growth in ecommerce in 2027 - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JcjdIUWQtaEdyaXRQR0drS0Q2NDdnVXJDWkFlbkQ3bkZ3a0JySlBnOGY3akVkV2ZxQkdVZ0xsV2xOdVpnRFJvc1pXY0lqaFhaQlMwXzhWNENId0drb1hwWk9vUm9BRndUdVRCZkNqQkZsTk0?oc=5",
       "date": "2026-10-14T12:00:00+00:00",
@@ -606,6 +619,19 @@
       ]
     },
     {
+      "title": "Google Ads adds Search terms and ad combinations report for AI Max - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2pSRmZHQXEzRWx1VUFwTnQ2NEJQX3lsVEJxcHBHTXlSck83SllnZnh1RkdjLVNXQWRWWXJXbm9nZXN2ZjVtME9Ec0o4dFplRU5LRmhQRGlJQUduZDlvZ0R4WUR2XzlTVVRqQ3E4c2FyRTN1aFJyN2dMaVZaMGJROW1WMUg1Qk5HbDBQVXFrSUw3NnYtYlBVMDlFNjhMbzJHZGZ1ZA?oc=5",
+      "date": "2026-10-13T14:00:58+00:00",
+      "description": "Google Ads adds Search terms and ad combinations report for AI Max &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Google Tag Manager update promises faster websites and simpler tracking - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2lJU015aHZ2dDdWcmVscjZSdkZVbXNwTzVJWURoUnhyNHplMXYwb0JQd294QU02U21vSVlRT011bFFHa2hKcUNHLS1TbTc3ZTV4OF90MEVlR0UzR0U3bG15WXFqT0NqSFJVNVFlQ3Rab3E0aXA4MnR3bjM3UnE4OEYyZWk4QS16cXpFWUxnLXFfcDZ5X05GamhUUllCV3l0TkQwaXQ2WVR2V2M?oc=5",
       "date": "2026-10-13T13:43:50+00:00",
@@ -623,6 +649,19 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00emREbjVwakJrOWF4WlR5QnJteGk3SEMtVE9DVF9MMm4tM0VmXzVZUlpkbWhGMXNEQy1sdGNkOTNhalkzM2ZqR3dNN2NobENrVkJDTTZn?oc=5",
       "date": "2026-10-12T17:08:42+00:00",
       "description": "Does your website need an llms.txt file? + How to create one &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google September 2026 spam update done rolling out - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHFUTE5rdlJwQ2U0aVVkTjc4X3RSR3JJeXN2MWI4TGphdkhvYTVGSkx6T0lqUDZfemVIQkZfSm1yWjJQbDZJSUdtNWtHSDVLWFJHdjNNSVI2UVJYdEhzSWN6cXdYZ00yeXNhT1hZRm9mb1VXSW5LVFRjRGMtYjRsMmo1U1dtZnJQOWhoSDVfUQ?oc=5",
+      "date": "2026-10-08T07:00:00+00:00",
+      "description": "Google September 2026 spam update done rolling out &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -710,19 +749,6 @@
       ]
     },
     {
-      "title": "Google says DMA changes in EU resulted in worse degradation of search quality ever - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaXdrTHE0Y2J3YnVLTHVDUkdnUXpUQnBnOURKQXJkNGlPVGZyZVB1ZXRlS2xUMy1NSnF3SHlxRjZVR1NxN2NBSXJScUFzbk9BdVp2TDExU25UalRDYmt2MGl3WkxtWU9USUtIM2xORGdWdi0zRng4M3p2d1B1RjhxOC1WMHJySHhkWHF1cHc0anZtZjBXQ3JHd0pFRXY2ODVDMHZEQmVPTWJKMmw4dVNmQ0lSdDNaRFlVWXc?oc=5",
-      "date": "2026-09-08T07:00:00+00:00",
-      "description": "Google says DMA changes in EU resulted in worse degradation of search quality ever &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Search Central Live is coming to Bogota and Ciudad de México",
       "link": "https://developers.google.com/search/blog/2026/09/search-central-live-mexico-and-colombia",
       "date": "2026-09-08T00:00:00+00:00",
@@ -736,19 +762,6 @@
       ]
     },
     {
-      "title": "Semrush is bringing AI visibility under the Spotlight - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaUY2Mzl6VFBZOERQRzZXVUphR1NJbGFfN2VPbng0eFl5TlZUWnFYdFJ0MVRCbGlfRGdtd2FRSU9mRmFjS0NpbGtieG9hcDBScFplVjhjU0hMUlZ1dXJ4RXFod0k4MHo0T3RJVU1RTEpGeFpQWGw0c1lBZG52VWNSd2dUNUlVcEVVVFBnUnk0a1hrWEU?oc=5",
-      "date": "2026-09-04T07:00:00+00:00",
-      "description": "Semrush is bringing AI visibility under the Spotlight &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Update to the Site Reputation Policy",
       "link": "https://developers.google.com/search/blog/2026/08/update-site-reputation-policy",
       "date": "2026-08-28T00:00:00+00:00",
@@ -759,19 +772,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "Google’s August 2026 spam update hit rankings harder than normal - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWW1LYUN4WHNldDJISWdvUFZ6bUhlMTZINVJ1dVBqaVZYQ2ZCRmkxU0pnNDgxZENnQTNUTEs1UnhtaURvVWE2SnZHeHlCcVZCMjRiQl9qQTNZSnRzNWl4V25DaW1rTUQxbGlXLUZjakJzR3IyeVppT1U4MEpWT2ZUcmtJXzJRQXpT?oc=5",
-      "date": "2026-08-27T07:00:00+00:00",
-      "description": "Google’s August 2026 spam update hit rankings harder than normal &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     },
     {
