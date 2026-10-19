@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-19T14:44:32.708956+00:00",
+  "updatedAt": "2026-10-19T15:18:41.015313+00:00",
   "items": [
+    {
+      "title": "DeepSeek Opens Its In-House Search Engine To Developers via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/deepseek-opens-its-in-house-search-engine-to-developers/593526/",
+      "date": "2026-10-19T15:02:15+00:00",
+      "description": "A Chinese AI lab opened its search engine to developers. Each result carries a page-level authority tier, and DeepSeek says it filters GEO manipulation. The post DeepSeek Opens Its In-House Search Engine To Developers appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/deepseek-search-api-featured.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "It Knew Every Word via @sejournal, @pedrodias",
       "link": "https://www.searchenginejournal.com/it-knew-every-word/592680/",
@@ -499,7 +511,7 @@
       "link": "https://www.searchenginejournal.com/serps-stop-being-the-default-between-2028-2030/592619/",
       "date": "2026-10-15T14:00:33+00:00",
       "description": "Google flips its default from ranked results to AI answers when answer-layer ad yield matches the SERP. That crossover lands between 2028 and 2030. The post SERPs Stop Being The Default Between 2028 &#038; 2030 appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/duane-forrester-decodes-serps-808.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -594,18 +606,6 @@
       ]
     },
     {
-      "title": "Why SEO Isn’t Enough Anymore – And Why That’s A Good Thing",
-      "link": "https://www.searchenginejournal.com/why-seo-isnt-enough-anymore-and-why-thats-a-good-thing/592601/",
-      "date": "2026-10-14T14:00:20+00:00",
-      "description": "If search is your only presence, you’re exposed. Google has been purging SEO-first sites since the Helpful Content Update. Here’s what replaces them. The post Why SEO Isn’t Enough Anymore – And Why That’s A Good Thing appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Organic growth in ecommerce in 2027 - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JcjdIUWQtaEdyaXRQR0drS0Q2NDdnVXJDWkFlbkQ3bkZ3a0JySlBnOGY3akVkV2ZxQkdVZ0xsV2xOdVpnRFJvc1pXY0lqaFhaQlMwXzhWNENId0drb1hwWk9vUm9BRndUdVRCZkNqQkZsTk0?oc=5",
       "date": "2026-10-14T12:00:00+00:00",
@@ -649,6 +649,19 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2lJU015aHZ2dDdWcmVscjZSdkZVbXNwTzVJWURoUnhyNHplMXYwb0JQd294QU02U21vSVlRT011bFFHa2hKcUNHLS1TbTc3ZTV4OF90MEVlR0UzR0U3bG15WXFqT0NqSFJVNVFlQ3Rab3E0aXA4MnR3bjM3UnE4OEYyZWk4QS16cXpFWUxnLXFfcDZ5X05GamhUUllCV3l0TkQwaXQ2WVR2V2M?oc=5",
       "date": "2026-10-13T13:43:50+00:00",
       "description": "Google Tag Manager update promises faster websites and simpler tracking &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Impact of bad responses in Google Reviews - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4eUxqUWhDWFdhX1VsbHpfaER1TXVaRjFDeEllekpYVEx0YmpUaUx5MzRPU0l5X1hSV0dRZkRHNFltN0FPZi1iTkZISGp4cEx0RFJwNVBYNU9iVTNqd014NWN0emJ5VkN2LU9oREltbVlZMWpSNDUxUlFmamljM0U?oc=5",
+      "date": "2026-10-12T20:51:43+00:00",
+      "description": "Impact of bad responses in Google Reviews &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -707,19 +720,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "OpenAI is turning ChatGPT ads into conversations - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVEVQZFp6V0ZFUHk2TmdLc21SWXY5b0U4V3R2WlpxdGQyRURQNWJ0azRsVVE5YWZGaDBHdTdlOW4tbi05SzJzTXZsWkRCbEVnYVRMRFdYWnNZV2pabjd1OGZrWjRyaE9PTTBiTEtTcUcxMlhiQUVlWWp4cWtQRC1zUmR4bGxwd0RUdmt0Mw?oc=5",
-      "date": "2026-09-16T07:00:00+00:00",
-      "description": "OpenAI is turning ChatGPT ads into conversations &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     },
     {
