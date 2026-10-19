@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T04:45:58.499319+00:00",
+  "updatedAt": "2026-10-19T05:18:08.748365+00:00",
   "items": [
     {
       "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds via @sejournal, @MattGSouthern",
@@ -593,32 +593,6 @@
       ]
     },
     {
-      "title": "Google Discover to become a proactive, hyper-personalized concierge experience - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQTR0UzZpb3RSQWFwTVlkcGNIeThzeWlXcEJCVnZZRkxsRlFiZDBQSVQ5Q0lqOWdpdENudEZsNDZUOGlWQ19yWE9Cbks0MUl1ZDZ1WXdiU1ZmRkF1cHMxZE05Ry0tOUxLbXRacGlneXpLM2ZFbUoxUEZwSWlSU0hVOGtURm0zYTJ4QmJSNTNGWDA2LTNkdE9KSHlYSmlXN1ByOTdhdVlWT092MEdKUWhLU1RnQQ?oc=5",
-      "date": "2026-10-13T12:03:50+00:00",
-      "description": "Google Discover to become a proactive, hyper-personalized concierge experience &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google September 2026 spam update done rolling out - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHFUTE5rdlJwQ2U0aVVkTjc4X3RSR3JJeXN2MWI4TGphdkhvYTVGSkx6T0lqUDZfemVIQkZfSm1yWjJQbDZJSUdtNWtHSDVLWFJHdjNNSVI2UVJYdEhzSWN6cXdYZ00yeXNhT1hZRm9mb1VXSW5LVFRjRGMtYjRsMmo1U1dtZnJQOWhoSDVfUQ?oc=5",
-      "date": "2026-10-08T07:00:00+00:00",
-      "description": "Google September 2026 spam update done rolling out &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "New learning paths: curated YouTube playlists for Search fundamentals and Technical SEO",
       "link": "https://developers.google.com/search/blog/2026/10/seo-learning-paths",
       "date": "2026-10-06T00:00:00+00:00",
@@ -775,6 +749,19 @@
       ]
     },
     {
+      "title": "Inside ChatGPT’s retrieval stack: The index, cache, and pages it actually reads - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdTFLekQ2eWI1blQzWFg2TjF2SF91UlNWczk2ZExqS3dHa0lpTTJLeEhlcERsWGRoVmZlbDh6bmZ3MTlzMWxfTEtRLTNNM3ZyT1BpT0dRTEtaYlRxUlNJbXpfRENfNUE1SDNtODQ5NnhRa3VEUFRWT2NfX2NtVkN0Y3YxMA?oc=5",
+      "date": "2026-08-17T07:00:00+00:00",
+      "description": "Inside ChatGPT’s retrieval stack: The index, cache, and pages it actually reads &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Platform properties roll out globally, plus a new social and video performance guide",
       "link": "https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide",
       "date": "2026-07-29T00:00:00+00:00",
@@ -785,6 +772,19 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "AI visibility tools: How to track and grow your presence in AI search - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXQXV3blhiYWRoVnV3RUdieFJnc3VpNEN0U1pQRTRJZmtQLTM4MVNsS29KWVZlSklCczFoYkRScjJOaVNxTFNEZWdoNVZ3RlVvOHBxTHRncDVndTFDRW9WYkFYbjl4LXM?oc=5",
+      "date": "2026-07-17T07:00:00+00:00",
+      "description": "AI visibility tools: How to track and grow your presence in AI search &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
