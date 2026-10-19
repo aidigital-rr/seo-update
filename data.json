@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T04:15:32.317097+00:00",
+  "updatedAt": "2026-10-19T04:45:58.499319+00:00",
   "items": [
     {
       "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds via @sejournal, @MattGSouthern",
@@ -580,6 +580,19 @@
       ]
     },
     {
+      "title": "Google Tag Manager update promises faster websites and simpler tracking - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2lJU015aHZ2dDdWcmVscjZSdkZVbXNwTzVJWURoUnhyNHplMXYwb0JQd294QU02U21vSVlRT011bFFHa2hKcUNHLS1TbTc3ZTV4OF90MEVlR0UzR0U3bG15WXFqT0NqSFJVNVFlQ3Rab3E0aXA4MnR3bjM3UnE4OEYyZWk4QS16cXpFWUxnLXFfcDZ5X05GamhUUllCV3l0TkQwaXQ2WVR2V2M?oc=5",
+      "date": "2026-10-13T13:43:50+00:00",
+      "description": "Google Tag Manager update promises faster websites and simpler tracking &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Google Discover to become a proactive, hyper-personalized concierge experience - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQTR0UzZpb3RSQWFwTVlkcGNIeThzeWlXcEJCVnZZRkxsRlFiZDBQSVQ5Q0lqOWdpdENudEZsNDZUOGlWQ19yWE9Cbks0MUl1ZDZ1WXdiU1ZmRkF1cHMxZE05Ry0tOUxLbXRacGlneXpLM2ZFbUoxUEZwSWlSU0hVOGtURm0zYTJ4QmJSNTNGWDA2LTNkdE9KSHlYSmlXN1ByOTdhdVlWT092MEdKUWhLU1RnQQ?oc=5",
       "date": "2026-10-13T12:03:50+00:00",
@@ -753,19 +766,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeE1GQzhWcDQtNlFqRFdzUHpQeVlFalpUM3A3S3pRTjdtaWZITjQ2NVdwWnJNNGJRcDF2eUVyaEFyYWoxRGQ0bVFCUXhPNUtaWTg1czJMUm12NFRUdXRNUklwc0lUdGxtM2I1U1doYVNLemtzb2ZwVHhwWlFBc29KVTN0YW1BM1RuMm9R?oc=5",
       "date": "2026-08-25T07:00:00+00:00",
       "description": "What 1.8 million Google Business Profiles tell us about local SEO success &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Inside ChatGPT’s retrieval stack: The index, cache, and pages it actually reads - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdTFLekQ2eWI1blQzWFg2TjF2SF91UlNWczk2ZExqS3dHa0lpTTJLeEhlcERsWGRoVmZlbDh6bmZ3MTlzMWxfTEtRLTNNM3ZyT1BpT0dRTEtaYlRxUlNJbXpfRENfNUE1SDNtODQ5NnhRa3VEUFRWT2NfX2NtVkN0Y3YxMA?oc=5",
-      "date": "2026-08-17T07:00:00+00:00",
-      "description": "Inside ChatGPT’s retrieval stack: The index, cache, and pages it actually reads &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
