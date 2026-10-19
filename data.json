@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T03:40:49.347020+00:00",
+  "updatedAt": "2026-10-19T04:15:32.317097+00:00",
   "items": [
     {
       "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds via @sejournal, @MattGSouthern",
@@ -593,6 +593,19 @@
       ]
     },
     {
+      "title": "Google September 2026 spam update done rolling out - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHFUTE5rdlJwQ2U0aVVkTjc4X3RSR3JJeXN2MWI4TGphdkhvYTVGSkx6T0lqUDZfemVIQkZfSm1yWjJQbDZJSUdtNWtHSDVLWFJHdjNNSVI2UVJYdEhzSWN6cXdYZ00yeXNhT1hZRm9mb1VXSW5LVFRjRGMtYjRsMmo1U1dtZnJQOWhoSDVfUQ?oc=5",
+      "date": "2026-10-08T07:00:00+00:00",
+      "description": "Google September 2026 spam update done rolling out &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "New learning paths: curated YouTube playlists for Search fundamentals and Technical SEO",
       "link": "https://developers.google.com/search/blog/2026/10/seo-learning-paths",
       "date": "2026-10-06T00:00:00+00:00",
@@ -772,19 +785,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "AI visibility tools: How to track and grow your presence in AI search - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXQXV3blhiYWRoVnV3RUdieFJnc3VpNEN0U1pQRTRJZmtQLTM4MVNsS29KWVZlSklCczFoYkRScjJOaVNxTFNEZWdoNVZ3RlVvOHBxTHRncDVndTFDRW9WYkFYbjl4LXM?oc=5",
-      "date": "2026-07-17T07:00:00+00:00",
-      "description": "AI visibility tools: How to track and grow your presence in AI search &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     },
     {
