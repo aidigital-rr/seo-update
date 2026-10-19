@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T20:39:56.787880+00:00",
+  "updatedAt": "2026-10-19T21:07:42.384959+00:00",
   "items": [
     {
       "title": "Meta Drops Training From Its Crawl Clause And Keeps The Crawl via @sejournal, @MattGSouthern",
@@ -26,19 +26,6 @@
       ]
     },
     {
-      "title": "Google Local Services Ads removes featured professionals - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMXNZQkVONXgwYkxuT2cxUEI0VDQwek1HVGoyRHVSaTU5dE1fSWRzUy1fMjNqdG5tazQyZU9kRmI2clJUdU11NnF1N2tDeEc0aXIzTEwtWDgxcEV4Q0NTS0FyOHlJemhnZGs2dENGbFdjTnBvTzhEOUNhOHNBS3BXZVhlcnhoaFlOOGZCdWsteXllVFdTLS1V?oc=5",
-      "date": "2026-10-19T15:07:09+00:00",
-      "description": "Google Local Services Ads removes featured professionals &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "DeepSeek Opens Its In-House Search Engine To Developers via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/deepseek-opens-its-in-house-search-engine-to-developers/593526/",
       "date": "2026-10-19T15:02:15+00:00",
@@ -47,6 +34,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Content pruning case study: Cutting 33% of pages that drove just 3% of clicks - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kQ1hneFFJYklZYUNvdnF6X3VyX3E2SGttLVhtaGxDYUhIbjBSeTNPWmR3Zk95bkNnUjBuRFcyTjUwOFhkaTRrWDVER2JiNFg1S1dITTZwcDNHdGJVMXd0SmNHRjZFQnpqUVVBdGw2UQ?oc=5",
+      "date": "2026-10-19T15:00:00+00:00",
+      "description": "Content pruning case study: Cutting 33% of pages that drove just 3% of clicks &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
