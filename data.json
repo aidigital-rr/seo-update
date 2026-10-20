@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-10-20T13:48:49.852267+00:00",
+  "updatedAt": "2026-10-20T14:42:03.291784+00:00",
   "items": [
+    {
+      "title": "Regain Control Of Google Ads: Better Tracking, Clearer Proof Of ROI via @sejournal, @CallRail",
+      "link": "https://www.searchenginejournal.com/rundowns/regain-control-of-google-ads-better-tracking-clearer-proof-of-roi/",
+      "date": "2026-10-20T14:17:07+00:00",
+      "description": "Regain control of Google Ads with a curated article stack on lead quality, Local Services Ads migration, Smart Bidding goals, and proving PPC business value. The post Regain Control Of Google Ads: Better Tracking, Clearer Proof Of ROI appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/callrail-rundown-google-ads-hero-1600x840-sej.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "I Tested DeepSeek’s New Search Api, Here’s How It Ranks And Scores Websites via @sejournal, @suganthan",
+      "link": "https://www.searchenginejournal.com/i-tested-deepseeks-new-search-api-heres-how-it-ranks-and-scores-websites/593408/",
+      "date": "2026-10-20T14:00:13+00:00",
+      "description": "DeepSeek’s date filters dropped every undated page, 11% of results. Six practical checks for SEOs testing the new Search API, from localization to logs. The post I Tested DeepSeek’s New Search Api, Here’s How It Ranks And Scores Websites appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/new-search-api-538.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Removes AI Overviews Labels On Some AI Overviews",
+      "link": "https://www.seroundtable.com/google-ai-overviews-label-missing-42337.html",
+      "date": "2026-10-20T13:03:00+00:00",
+      "description": "Google seems to be removing the AI Overviews label from some of the search results that are AI Overviews. The desktop version is missing the AI Overview label, while the mobile version has the AI Overview label.",
+      "image": "https://images.seroundtable.com/google-ai-overview-label-missing-desktop-qe5HZ01t.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "What Personal AI Agents Like Meta Muse And OpenAI Dots Mean For SEO via @sejournal, @slobodanmanic",
       "link": "https://www.searchenginejournal.com/personal-ai-agents-meta-muse-openai-dots-seo/592530/",
@@ -166,6 +203,19 @@
       ]
     },
     {
+      "title": "Google Local Services Ads removes featured professionals - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMXNZQkVONXgwYkxuT2cxUEI0VDQwek1HVGoyRHVSaTU5dE1fSWRzUy1fMjNqdG5tazQyZU9kRmI2clJUdU11NnF1N2tDeEc0aXIzTEwtWDgxcEV4Q0NTS0FyOHlJemhnZGs2dENGbFdjTnBvTzhEOUNhOHNBS3BXZVhlcnhoaFlOOGZCdWsteXllVFdTLS1V?oc=5",
+      "date": "2026-10-19T15:07:09+00:00",
+      "description": "Google Local Services Ads removes featured professionals &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "DeepSeek Opens Its In-House Search Engine To Developers via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/deepseek-opens-its-in-house-search-engine-to-developers/593526/",
       "date": "2026-10-19T15:02:15+00:00",
@@ -213,6 +263,19 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "How to measure Google Demand Gen against the right goals - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xS1FBX05McDFWaUd6LTk3Mlkzd2IxaUlSeExBN0JVd2pQeUpaQWRZdzc1LVdzZVMwNE5aMHRYT1BWaUtoMk5mUWtINU9zT0RxSEIxQ1JUYWRrcFFSdVlwS2J5MXNvUkJ2NGhiS041N3ZIV1hFVjFhUWdqZUJ6QQ?oc=5",
+      "date": "2026-10-19T14:00:00+00:00",
+      "description": "How to measure Google Demand Gen against the right goals &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
@@ -446,7 +509,7 @@
       "link": "https://www.seroundtable.com/recap-10-16-2026-42318.html",
       "date": "2026-10-16T14:00:00+00:00",
       "description": "Here is a recap of what happened in the search forums today...",
-      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -459,7 +522,7 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUm9rUm1TclRlV2I5d2ExcTFtaTVTY0lkUnZZMDRWTHdrMXV6YUY3dnd1cG9FbHE2WUNONVl4VjJjUk9RYnplXzdoUjNSOEV5OVdacUxTYWYzY2d5U1FWMlpEay1Oa0NrQTIwclBSSGQtc0FWQkVrMDhhM21kRVV4VGh1RXhvbkxsOHNKQldrR0JuaE1C?oc=5",
       "date": "2026-10-16T14:00:00+00:00",
       "description": "Google Ask Maps: How to make your business easier to recommend &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -468,24 +531,11 @@
       ]
     },
     {
-      "title": "Search News Buzz Video Recap: Google Poisoning Tracking Tools, Google AI Results Updates, Discover To Change, Google Ads, ChatGPT & SEO",
-      "link": "https://www.seroundtable.com/video-09-16-2026-42313.html",
-      "date": "2026-10-16T12:01:00+00:00",
-      "description": "Google seems to be poisoning the third-party tracking tools with fake data and paywalls; this is wreaking havoc on keyword tracking. Google launched Gemini 4 Argon and it is in AI Mode. Google made several...",
-      "image": "https://img.youtube.com/vi/OvCdu0Uiil8/maxresdefault.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Takes Applications For A UGC Pipeline Separate From Crawling via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-ugc-fresh-data-program-applications/593113/",
       "date": "2026-10-16T12:00:00+00:00",
       "description": "Google is accepting applications from forums and social platforms for a UGC pipeline separate from crawling. The post Google Takes Applications For A UGC Pipeline Separate From Crawling appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-ugc-fresh-data-program-checklist.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -497,7 +547,7 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFlOdUIwZXdiRThXZDNuV2N0bWFYekUwMEpQZEhHQjZwX2ZEWm1Sa09Pd3NCYTFSSUthUmNld2ZTNldnRVpRWGo1N1BJcjJFRDR3UHhuQlBkM0FCR29tQ2t3aFR5QUtWS1FjOFRfRVUtNmpjNV95YnBUc0VFdFltSA?oc=5",
       "date": "2026-10-16T12:00:00+00:00",
       "description": "Human experience is your content’s biggest differentiator &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -522,30 +572,6 @@
       "link": "https://www.searchenginejournal.com/google-universal-cart-store-handoff/593145/",
       "date": "2026-10-15T20:43:38+00:00",
       "description": "Universal Cart is rolling out across Search and the Gemini app, with checkout inside the cart or a one-way handoff to the store's own site. The post Google&#8217;s Universal Cart Is Live: How Carts Get To Your Store appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How Do I Measure And Attribute When Clicks Only Tell Part Of The Story? – Ask A PPC via @sejournal, @navahf",
-      "link": "https://www.searchenginejournal.com/ask-a-ppc-how-do-i-measure-and-attribute-when-clicks-are-no-longer-the-whole-story/591521/",
-      "date": "2026-10-15T19:00:58+00:00",
-      "description": "Measure PPC value beyond clicks with conversion tracking, impression signals, and business records that help validate attribution as buying journeys move into AI. The post How Do I Measure And Attribute When Clicks Only Tell Part Of The Story? – Ask A PPC appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Puts Inline Links Higher In More AI Search Responses via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-inline-links-higher-ai-search-responses/593089/",
-      "date": "2026-10-15T16:00:00+00:00",
-      "description": "Google is changing how links appear in AI Mode and AI Overviews, moving inline links higher and expanding the carousels that highlight Preferred Sources. The post Google Puts Inline Links Higher In More AI Search Responses appeared first on Search Engine Journal .",
       "image": "",
       "source": "Search Engine Journal",
       "tags": [
@@ -632,6 +658,19 @@
       ]
     },
     {
+      "title": "Google Merchant Center introduces new store address attribute for local inventory - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONTI3U0E1ZzRvZ2RxaHNILUd3NmVyZ29kOEN4Sk5kWS05UmNfLUpqc0JQVHhweU1IQWFOMlhnYlBzbUZKNTBOWnBZczZQRVlSdXdLdmkzTWdYMmg1RzJGRjhCMmJrRElTcWNTTExPSFBHek8tV2ZXTHV2UjdvbVd5cm1raTRmV0ZnSlQxNGtOR2lXY21tX1RsNm1qQXRwSlpuUzl2MmIxZ1ZJNFNKSmVKRzRWb3VxMk05?oc=5",
+      "date": "2026-10-14T16:47:39+00:00",
+      "description": "Google Merchant Center introduces new store address attribute for local inventory &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Google Ads introduces channel prioritization and budget allocation controls - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDBoYWQ4TUhTX21Qek1PcjlPOXNraXp2V1cycTRMdjZOOXhRVmZ2S3dHMGxwR1RLaGJFclpFU0NyODZ3SGVDRlFfTDFIM25LU2RKY0poaGNvTVJkUVRVbTFqZUZXVkdFaDU3MkI2djUzd1kwQmJFVU42ZGRWRkJZbnVmR1dPWjdhUVVzVnpBLTgwLWtkWC1yVG9xVFRVcWljOGViMGVpdVBtSlB0cko3Xw?oc=5",
       "date": "2026-10-14T15:03:40+00:00",
@@ -649,45 +688,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNlY5c2Y4enE0a1phRFpBN3llb0ItbzFuWUlreFNmdEJTbjNIY1pYYnRFbS1KZGNiZFZrV2hUdW0wWmVaU3AzcjZtc3Y4ZDdLX185emwybVpha3dkc3pPTXRydEZXTFJoSDRoT0xXLWVjTU5JUk1WQUw1QkZadHY4OFNhRzBFSnUxWTFUN2VRZXExQQ?oc=5",
       "date": "2026-10-14T14:33:37+00:00",
       "description": "Your brand can win the mention and lose the citation &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "What language should you track AI prompts in? - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GNHdlSVNOby1HcHlBS1lpV2ZjU0U4aUV3WG1jM2JhQ2Y2Qnl3N3hMUWx3a0RhTnlEakNrV0NxN1diSEZYdWFtWXFNeUNqdENUcDB0UXhnWUN6M0h6WDFtcDUwUGsyckR1NzdWdkpka2w?oc=5",
-      "date": "2026-10-14T14:03:08+00:00",
-      "description": "What language should you track AI prompts in? &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "What the PPC agency of 2027 will look like - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uXzB1aUd5WGFZczZRcFczWXc1TDBOV3g0cTFKZ1p6QUVDcUR6RjNIRXF5VXhobldFa1lGdV82Q05ScDcxemF2bVU3LVJTdFQ5R180QV94a3cweGd4T0l5QjQ0RmZEUQ?oc=5",
-      "date": "2026-10-14T13:00:00+00:00",
-      "description": "What the PPC agency of 2027 will look like &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Organic growth in ecommerce in 2027 - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JcjdIUWQtaEdyaXRQR0drS0Q2NDdnVXJDWkFlbkQ3bkZ3a0JySlBnOGY3akVkV2ZxQkdVZ0xsV2xOdVpnRFJvc1pXY0lqaFhaQlMwXzhWNENId0drb1hwWk9vUm9BRndUdVRCZkNqQkZsTk0?oc=5",
-      "date": "2026-10-14T12:00:00+00:00",
-      "description": "Organic growth in ecommerce in 2027 &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
