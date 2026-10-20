@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T08:44:51.399895+00:00",
+  "updatedAt": "2026-10-20T09:15:17.325063+00:00",
   "items": [
     {
       "title": "Search Share Fell To 12% For North American Publishers: Chartbeat via @sejournal, @MattGSouthern",
@@ -288,19 +288,6 @@
       ]
     },
     {
-      "title": "The latest jobs in search marketing - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
-      "date": "2026-10-16T18:35:50+00:00",
-      "description": "The latest jobs in search marketing &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google Merchant Center adds warranty attribute for product listings - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdWwxRjZMU01PSDhBdnU0SU43VGZFNzNkWnk4WGUxSDRVRi1ITng4MW4tMXJBTFJvMHlCRXR5ZEpsejJWWG0zYVdCUEtyUVdwZGwwaEtpMUNFdDBsLW9DbDBjekFsMkNjejRwczJselpaNTd1d201SFZFVW5xazlNQ3ctWGhaWTlZTWRRX2VnUXBJaUp6SWVLMXNpWGJPcEtrRXJ0UVVB?oc=5",
       "date": "2026-10-16T17:42:24+00:00",
@@ -510,7 +497,7 @@
       "link": "https://www.searchenginejournal.com/google-universal-cart-store-handoff/593145/",
       "date": "2026-10-15T20:43:38+00:00",
       "description": "Universal Cart is rolling out across Search and the Gemini app, with checkout inside the cart or a one-way handoff to the store's own site. The post Google&#8217;s Universal Cart Is Live: How Carts Get To Your Store appeared first on Search Engine Journal .",
-      "image": "",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-universal-cart-featured.jpg",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -610,6 +597,19 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWm5jWUJfZWNKLW1fRlc1cWE1OHBGdUFFUFJuTWtLZGRtMjNBZFlmc3VJcjRPUjVfOWdVZkp3b0R3cG9PQ090N1lLdnBLRDBESnNEVmZCLVBOVUR0QlZOX2NGaVBvZTlQY3dXbWpucUM2cDhLQ21wLXVtMXhGWG5sU2dET21mT2x0OGlnY2lBamJ3UDdsbWlYMk13eFhkanVPZFRLcEpyN3Rfb2ZNVFUwdjAzR0tNUjd1dmc?oc=5",
       "date": "2026-10-15T13:09:40+00:00",
       "description": "Google Ads API v26 launches with Search Lift measurement and new campaign controls &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Why every SEO needs to become a Challenger - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fQ0JHeExvaC1qdlhEdDlHcG5lVm8za1ZZU0RtMDdRMktyLWhDNHlaOVFvb3NwcDFJLWRNV2locWVoMW14d0RXakpJaF82eFN2dUhrNE5ncVNyTFctRjRV?oc=5",
+      "date": "2026-10-15T12:00:00+00:00",
+      "description": "Why every SEO needs to become a Challenger &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
