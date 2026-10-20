@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-10-20T16:16:22.037106+00:00",
+  "updatedAt": "2026-10-20T16:46:31.593240+00:00",
   "items": [
+    {
+      "title": "Google Ads Expands Financial Services Verification To US & Canada",
+      "link": "https://www.seroundtable.com/google-ads-financial-services-verification-expand-42338.html",
+      "date": "2026-10-20T15:20:00+00:00",
+      "description": "Google has announced it is expanding its Google Ads Financial Services Verification requirements to the United States and Canada. Google is working with the American Bankers Association and Canadian Bankers Association for this.",
+      "image": "https://images.seroundtable.com/google-ads-bank-MCT2Qlqm.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "ChatGPT Search Can Draw On More Pages After A Cloudflare Pilot via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/chatgpt-search-can-draw-on-more-pages-after-a-cloudflare-pilot/593720/",
@@ -406,19 +419,6 @@
       ]
     },
     {
-      "title": "Google Ads To No Longer Show Featured Professionals, Headshots Are Optional",
-      "link": "https://www.seroundtable.com/google-ads-featured-professionals-headshots-42325.html",
-      "date": "2026-10-19T11:05:00+00:00",
-      "description": "Google Ads posted a message to Local Service Ads advertisers saying that featured professionals will no longer show on your ads, and headshots will be optional and won't impact ad serving.",
-      "image": "https://images.seroundtable.com/google-ads-featured-professionals-69Bf7ACT.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304/",
       "date": "2026-10-18T08:00:00+00:00",
@@ -632,19 +632,6 @@
       ]
     },
     {
-      "title": "Google Ads API v26 launches with Search Lift measurement and new campaign controls - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWm5jWUJfZWNKLW1fRlc1cWE1OHBGdUFFUFJuTWtLZGRtMjNBZFlmc3VJcjRPUjVfOWdVZkp3b0R3cG9PQ090N1lLdnBLRDBESnNEVmZCLVBOVUR0QlZOX2NGaVBvZTlQY3dXbWpucUM2cDhLQ21wLXVtMXhGWG5sU2dET21mT2x0OGlnY2lBamJ3UDdsbWlYMk13eFhkanVPZFRLcEpyN3Rfb2ZNVFUwdjAzR0tNUjd1dmc?oc=5",
-      "date": "2026-10-15T13:09:40+00:00",
-      "description": "Google Ads API v26 launches with Search Lift measurement and new campaign controls &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Why every SEO needs to become a Challenger - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fQ0JHeExvaC1qdlhEdDlHcG5lVm8za1ZZU0RtMDdRMktyLWhDNHlaOVFvb3NwcDFJLWRNV2locWVoMW14d0RXakpJaF82eFN2dUhrNE5ncVNyTFctRjRV?oc=5",
       "date": "2026-10-15T12:00:00+00:00",
@@ -688,6 +675,19 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNlY5c2Y4enE0a1phRFpBN3llb0ItbzFuWUlreFNmdEJTbjNIY1pYYnRFbS1KZGNiZFZrV2hUdW0wWmVaU3AzcjZtc3Y4ZDdLX185emwybVpha3dkc3pPTXRydEZXTFJoSDRoT0xXLWVjTU5JUk1WQUw1QkZadHY4OFNhRzBFSnUxWTFUN2VRZXExQQ?oc=5",
       "date": "2026-10-14T14:33:37+00:00",
       "description": "Your brand can win the mention and lose the citation &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "What language should you track AI prompts in? - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GNHdlSVNOby1HcHlBS1lpV2ZjU0U4aUV3WG1jM2JhQ2Y2Qnl3N3hMUWx3a0RhTnlEakNrV0NxN1diSEZYdWFtWXFNeUNqdENUcDB0UXhnWUN6M0h6WDFtcDUwUGsyckR1NzdWdkpka2w?oc=5",
+      "date": "2026-10-14T14:03:08+00:00",
+      "description": "What language should you track AI prompts in? &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
