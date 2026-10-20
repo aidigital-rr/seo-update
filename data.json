@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-10-20T11:10:44.101271+00:00",
+  "updatedAt": "2026-10-20T11:40:05.025193+00:00",
   "items": [
+    {
+      "title": "Google Business Profiles Review Appeals Are Delayed Again",
+      "link": "https://www.seroundtable.com/google-business-profiles-review-appeals-delays-42331.html",
+      "date": "2026-10-20T11:11:00+00:00",
+      "description": "Google Business Profiles review appeals are delayed again. Dan Boguslavsky from the Google team posted about the delay last Friday saying, \"Due to high volume of review related appeals, processing times are currently extended.\"",
+      "image": "https://images.seroundtable.com/google-review-stars-tAZ0xHOS.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Search Tests Removing Horizontal Rule Line Under Tabs",
+      "link": "https://www.seroundtable.com/google-search-horizontal-rule-line-removed-42333.html",
+      "date": "2026-10-20T11:05:00+00:00",
+      "description": "Google is testing removing the HR, thematic line break or horizontal rule line, that is found under the search tabs under the search box in the search results page.",
+      "image": "https://images.seroundtable.com/google-without-hr-line-zMQgo4cM.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Search Share Fell To 12% For North American Publishers: Chartbeat via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/chartbeat-search-share-north-american-publishers-q3-2026/593673/",
@@ -460,32 +486,6 @@
       "date": "2026-10-16T11:31:00+00:00",
       "description": "Google added the ability to add lead scoring by indicating answers that qualify a lead for your business to get higher-quality leads. You can add up to 12 answers per question and check off whether they qualify under the lead scoring section.",
       "image": "https://images.seroundtable.com/google-ads-lead-form-qualified-check-xPfmstAn.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Bing Search Testing Popular Links On Snippets",
-      "link": "https://www.seroundtable.com/bing-testing-popular-links-42304.html",
-      "date": "2026-10-16T11:21:00+00:00",
-      "description": "Microsoft is testing adding the label \"Popular Links\" to the Bing search results sitelinks. This reminds me of the Google top pages test and variations of that.",
-      "image": "https://images.seroundtable.com/bing-snippets-popular-links-2aGOYQDg.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads API Releases Twice Per Month Going Forward",
-      "link": "https://www.seroundtable.com/google-ads-api-twice-a-month-42303.html",
-      "date": "2026-10-16T11:11:00+00:00",
-      "description": "Google Ads is planning on pushing twice as many Google Ads API updates for the remainder of this year and into 2027 compared to its previous schedule. Last year, Google said it would release an Ads API update monthly and now Google is switching that to two updates per month.",
-      "image": "https://images.seroundtable.com/google-ads-api-release-schedule-awvfNzDq.png",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
