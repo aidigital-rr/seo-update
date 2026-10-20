@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T12:09:48.817279+00:00",
+  "updatedAt": "2026-10-20T12:49:07.531129+00:00",
   "items": [
     {
       "title": "What Personal AI Agents Like Meta Muse And OpenAI Dots Mean For SEO via @sejournal, @slobodanmanic",
@@ -11,6 +11,58 @@
       "tags": [
         "SEO",
         "AI Search"
+      ]
+    },
+    {
+      "title": "Google Business Profiles Verification With Government ID",
+      "link": "https://www.seroundtable.com/google-business-profiles-verification-government-id-42329.html",
+      "date": "2026-10-20T11:51:00+00:00",
+      "description": "Google is testing a new way to verify your Google Business Profiles, the method is by uploading a photo of your government ID. This is in addition ot the phone/text, email, live video call or snail mail verification methods.",
+      "image": "https://images.seroundtable.com/google-business-profile-verification-government-id-1ZXVWGDx.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Hotel Ads Legacy Length Of Booking Bid Adjustment Doc",
+      "link": "https://www.seroundtable.com/google-hotel-ads-length-of-booking-bid-legacy-42330.html",
+      "date": "2026-10-20T11:41:00+00:00",
+      "description": "The Google Ads team posted a new help document that talks about the length of booking bid adjustment in legacy Hotel campaigns versus Search campaigns for travel. Hotel campaigns multiply your base bid by the traveler's itinerary length of stay (LoS) but Search campaigns for travel (SCT) don't.",
+      "image": "https://images.seroundtable.com/google-hotel-length-of-booking-BEezyp2j.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Search Internal Issues With Square Brackets [] Punctuations In URLs",
+      "link": "https://www.seroundtable.com/google-square-brackets-urls-42332.html",
+      "date": "2026-10-20T11:31:00+00:00",
+      "description": "Google Search had some issues handling square brackets punctuation marks (i.e. [ ]) within URLs. John Mueller from Google responded to former Googler, Vanessa Fox, saying that he is \"seeing some of the issues internally that came up with these kinds of characters in the URL.\"",
+      "image": "https://images.seroundtable.com/google-brackets-pEb3lrhW.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Bing Tests Not Showing Sitelinks",
+      "link": "https://www.seroundtable.com/bing-no-sitelinks-42327.html",
+      "date": "2026-10-20T11:21:00+00:00",
+      "description": "Microsoft seems to be testing not showing sitelinks under the main Bing search result snippets. I am honestly not sure if this is new but I was able to replicate Bing showing sitelinks for the first search result snippet in one browser and for the same query, it not showing the sitelinks.",
+      "image": "https://images.seroundtable.com/bing-no-sitelinks-comparison-5rmLR83t.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -451,58 +503,6 @@
         "SEO",
         "Google",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Google Search Ranking Volatility & Chatter Spike Today",
-      "link": "https://www.seroundtable.com/google-search-ranking-volatility-chatter-42317.html",
-      "date": "2026-10-16T11:55:00+00:00",
-      "description": "It has been a while since I reported on a Google Search ranking update. I blame the tools, but in all seriousness, I am seeing a spike in volatility and, now probably more importantly, a spike in chatter over the past 24 hours, related to Google Search ranking changes, referral traffic changes and overall disruption in the Google Search results.",
-      "image": "https://images.seroundtable.com/volatility/wincher-2026-10-16-lg.png?v=1792144843",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads To Allow Certification For Online Gambling Advertisers",
-      "link": "https://www.seroundtable.com/google-ads-online-gambling-certification-42314.html",
-      "date": "2026-10-16T11:51:00+00:00",
-      "description": "Google Ads will allow some advertisers to apply for certification for the category of online gambling. This started this month, October 2026, and will gradually be available to some advertisers in Google Ads.",
-      "image": "https://images.seroundtable.com/google-ads-certification-gambling-doc-cruYTeV2.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Bing Tests Read More Links In Search Result Snippets",
-      "link": "https://www.seroundtable.com/bing-read-more-links-42311.html",
-      "date": "2026-10-16T11:41:00+00:00",
-      "description": "Microsoft is testing placing \"read more\" links within the Bing Search result snippets, like Google officially did a year or so ago. I am able to replicate this on some browsers, where Bing adds a \"Read more\" link at the end of the search result snippet that links to the same place the main title links to.",
-      "image": "https://images.seroundtable.com/bing-read-more-link-5c4cQMRQ.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads Lead Form Adds Lead Scoring For Lead Qualification",
-      "link": "https://www.seroundtable.com/google-ads-lead-form-scoring-42310.html",
-      "date": "2026-10-16T11:31:00+00:00",
-      "description": "Google added the ability to add lead scoring by indicating answers that qualify a lead for your business to get higher-quality leads. You can add up to 12 answers per question and check off whether they qualify under the lead scoring section.",
-      "image": "https://images.seroundtable.com/google-ads-lead-form-qualified-check-xPfmstAn.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
