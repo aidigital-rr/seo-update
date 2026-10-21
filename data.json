@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-21T11:41:08.351746+00:00",
+  "updatedAt": "2026-10-21T12:11:32.387231+00:00",
   "items": [
+    {
+      "title": "Google Crawls Raw And Encoded Bracket URLs Separately via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-crawls-raw-and-encoded-bracket-urls-separately/593765/",
+      "date": "2026-10-21T12:06:29+00:00",
+      "description": "Google's John Mueller says raw and percent-encoded brackets are different URLs and recommends using one form across links, canonical tags, and sitemaps. The post Google Crawls Raw And Encoded Bracket URLs Separately appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-bracket-urls-code-2459907273.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "China Wrote The First GEO Rulebook After A TV Scandal – Western SEOs Should Take Notes via @sejournal, @MPentzek",
+      "link": "https://www.searchenginejournal.com/china-wrote-the-first-geo-rulebook-after-a-tv-scandal-western-seos-should-take-notes/593199/",
+      "date": "2026-10-21T12:00:37+00:00",
+      "description": "China's five-part GEO standard offers Western SEOs a practical framework for measuring AI visibility, evaluating vendors, and separating optimization from manipulation. The post China Wrote The First GEO Rulebook After A TV Scandal – Western SEOs Should Take Notes appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/china-geo-rulebook-780.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Details Emerge About Google Discover’s SDF Freshness Algorithm via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/details-emerge-about-google-discovers-sdf-freshness-algorithm/593774/",
@@ -150,6 +174,19 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "Generative Engine Optimization (GEO): What It Is & How to Do It in 2026 - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzVfRGlQSnVUV1N3cVc2Y1ZrOHkyWDhzT3RvdFlMSWxwbGg3S0dBX2ZvamVQb1NQZmFkei0wREJrUFV5OTNLWHhHaW5ZOU9VX1lobHhFbUJjOFRpQ1BvQTlxUUo2bUdGU3VkQlJpVVlWU09fR1RUbkppdkVnZVVUaUpITm0?oc=5",
+      "date": "2026-10-20T12:30:00+00:00",
+      "description": "Generative Engine Optimization (GEO): What It Is & How to Do It in 2026 &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
@@ -393,6 +430,19 @@
       ]
     },
     {
+      "title": "How to measure Google Demand Gen against the right goals - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xS1FBX05McDFWaUd6LTk3Mlkzd2IxaUlSeExBN0JVd2pQeUpaQWRZdzc1LVdzZVMwNE5aMHRYT1BWaUtoMk5mUWtINU9zT0RxSEIxQ1JUYWRrcFFSdVlwS2J5MXNvUkJ2NGhiS041N3ZIV1hFVjFhUWdqZUJ6QQ?oc=5",
+      "date": "2026-10-19T14:00:00+00:00",
+      "description": "How to measure Google Demand Gen against the right goals &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "AI Search Tools Cited A Made-Up Concept Within A Week, Paper Finds via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/ai-search-tools-cited-a-made-up-concept-within-a-week-paper-finds/593472/",
       "date": "2026-10-19T13:34:28+00:00",
@@ -460,7 +510,7 @@
       "link": "https://www.seroundtable.com/google-ads-ai-mode-personal-intelligence-42320.html",
       "date": "2026-10-19T11:31:00+00:00",
       "description": "Google confirmed it will now show ads in AI Mode results with Personal Intelligence enabled. Back in March, Google said AI Mode with Personal Intelligence turned on would be ad-free, but that is now changing.",
-      "image": "https://images.seroundtable.com/google-ads-personal-intelligence-help-doc-MgMTgNAc.png",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -473,7 +523,7 @@
       "link": "https://www.seroundtable.com/google-ai-mode-citations-preferred-sources-42323.html",
       "date": "2026-10-19T11:21:00+00:00",
       "description": "Google is testing letting users view and modify their preferred sources list directly from within the AI Mode citations sidebar. There is a new button named \"Source preferences\" and when you click on it, it opens up your preferred sources list where you can add or remove preferred sources.",
-      "image": "https://images.seroundtable.com/google-ai-mode-source-preferences-o7ByKDhG.png",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -486,7 +536,7 @@
       "link": "https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304/",
       "date": "2026-10-18T08:00:00+00:00",
       "description": "A paper tested whether Google results and OpenAI's API can stand in for ChatGPT's citations. They matched cited sites more often than the exact pages. The post OpenAI&#8217;s API Only Partly Matched ChatGPT&#8217;s Citations, Paper Finds appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/openai-citation-matching-featured.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -498,7 +548,7 @@
       "link": "https://www.searchenginejournal.com/google-indexing-api-docs-approval-form-removed/593292/",
       "date": "2026-10-17T18:15:44+00:00",
       "description": "Google removed the Indexing API approval form and steps from its docs. Default quotas are listed, but the pages don't say how to request more. The post Google&#8217;s Indexing API Docs No Longer Explain How To Get Approval appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-indexing-api-docs-approval-v2.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -530,14 +580,15 @@
       ]
     },
     {
-      "title": "Why The New York Times Puts Free Content First",
-      "link": "https://www.searchenginejournal.com/why-the-new-york-times-puts-free-content-first/593021/",
-      "date": "2026-10-16T19:00:23+00:00",
-      "description": "The New York Times gives prime homepage space to free articles and tells readers they’re free. Here’s why that works. The post Why The New York Times Puts Free Content First appeared first on Search Engine Journal .",
+      "title": "The latest jobs in search marketing - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
+      "date": "2026-10-16T18:35:50+00:00",
+      "description": "The latest jobs in search marketing &nbsp;&nbsp; Search Engine Land",
       "image": "",
-      "source": "Search Engine Journal",
+      "source": "Search Engine Land",
       "tags": [
         "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -564,18 +615,6 @@
       "tags": [
         "SEO",
         "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "It’s Possible Your Migration Issues May Be Due To Site Quality via @sejournal, @marie_haynes",
-      "link": "https://www.searchenginejournal.com/its-possible-your-migration-issues-may-be-due-to-site-quality/592899/",
-      "date": "2026-10-16T14:00:20+00:00",
-      "description": "If your new domain won’t index and there’s no technical fix, the problem may be originality. Read Marie Haynes’ theory and what to do next. The post It&#8217;s Possible Your Migration Issues May Be Due To Site Quality appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
         "AI Search"
       ]
     },
@@ -658,23 +697,10 @@
       ]
     },
     {
-      "title": "Google AI Overviews now appear in 39% of U.S. desktop searches - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GY3pIenNxY21IdGhRc1RNdDJydmZ0UXUzWjBJeVB0c2tkYl9FMjFOem5EeGdMZGV3TlVlMzl5Vk4zdUU2TGhUZEEtTHlfa2tOS0V4dXUzZzFCR3F4c25ONFVfUXJRSVR1V2xvRzNfZUdidkJvRUV5SXVqT0Rjdw?oc=5",
-      "date": "2026-09-22T07:00:00+00:00",
-      "description": "Google AI Overviews now appear in 39% of U.S. desktop searches &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "OpenAI is turning ChatGPT ads into conversations - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVEVQZFp6V0ZFUHk2TmdLc21SWXY5b0U4V3R2WlpxdGQyRURQNWJ0azRsVVE5YWZGaDBHdTdlOW4tbi05SzJzTXZsWkRCbEVnYVRMRFdYWnNZV2pabjd1OGZrWjRyaE9PTTBiTEtTcUcxMlhiQUVlWWp4cWtQRC1zUmR4bGxwd0RUdmt0Mw?oc=5",
+      "title": "3 GEO pillars: LLM readability, brand context, agentic commerce - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UUWVvMGVwcHZJOW01dWhGOGlPRUxqa3pXTHZSTmJmbGNZOWwzenlVZmlWUGJOOHNydUNHU3VkbW41N2luVHdsbGdXcHp2T3NVUHlTaGloWUxuZ0U?oc=5",
       "date": "2026-09-16T07:00:00+00:00",
-      "description": "OpenAI is turning ChatGPT ads into conversations &nbsp;&nbsp; Search Engine Land",
+      "description": "3 GEO pillars: LLM readability, brand context, agentic commerce &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -710,32 +736,6 @@
       ]
     },
     {
-      "title": "Google Analytics launches customizable Dashboards - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWNHUkRGaDZtaE1Wa1dFQkZYcGJGZHpneW56LTBycXFjV3hPVUhnVU1Yc2IzUUJWSDZvUWNZV3Y0WGVYcU1Qc25oQnRXcF9yZGJSZzd3ejRjNmxyVG5odjVyNmwycWN6QlVKb2xqS0hTdGxpMGw2alpMcEtMaW1xV1REUDFseWFPYlowWmhR?oc=5",
-      "date": "2026-09-11T07:00:00+00:00",
-      "description": "Google Analytics launches customizable Dashboards &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google says DMA changes in EU resulted in worse degradation of search quality ever - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaXdrTHE0Y2J3YnVLTHVDUkdnUXpUQnBnOURKQXJkNGlPVGZyZVB1ZXRlS2xUMy1NSnF3SHlxRjZVR1NxN2NBSXJScUFzbk9BdVp2TDExU25UalRDYmt2MGl3WkxtWU9USUtIM2xORGdWdi0zRng4M3p2d1B1RjhxOC1WMHJySHhkWHF1cHc0anZtZjBXQ3JHd0pFRXY2ODVDMHZEQmVPTWJKMmw4dVNmQ0lSdDNaRFlVWXc?oc=5",
-      "date": "2026-09-08T07:00:00+00:00",
-      "description": "Google says DMA changes in EU resulted in worse degradation of search quality ever &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Search Central Live is coming to Bogota and Ciudad de México",
       "link": "https://developers.google.com/search/blog/2026/09/search-central-live-mexico-and-colombia",
       "date": "2026-09-08T00:00:00+00:00",
@@ -749,10 +749,10 @@
       ]
     },
     {
-      "title": "Semrush is bringing AI visibility under the Spotlight - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaUY2Mzl6VFBZOERQRzZXVUphR1NJbGFfN2VPbng0eFl5TlZUWnFYdFJ0MVRCbGlfRGdtd2FRSU9mRmFjS0NpbGtieG9hcDBScFplVjhjU0hMUlZ1dXJ4RXFod0k4MHo0T3RJVU1RTEpGeFpQWGw0c1lBZG52VWNSd2dUNUlVcEVVVFBnUnk0a1hrWEU?oc=5",
+      "title": "The big winners and losers in U.S. website traffic over the past year - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSnZkQ3JXWFFqZmhKWk9fTTRIdVItWlBRa014NVlYQl9ZVWcxdEljeHVDSlRpMnFQTUd5dG0xa2N4QWlVcERKSndmSW5NeEdrRjdKTlBGRnZUdG5RVVlSbW55cWREYWR1aVpwcHhPdXpfUjc2dllGNEs3VG9XdVZhRDY1Q3JnZw?oc=5",
       "date": "2026-09-04T07:00:00+00:00",
-      "description": "Semrush is bringing AI visibility under the Spotlight &nbsp;&nbsp; Search Engine Land",
+      "description": "The big winners and losers in U.S. website traffic over the past year &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
