@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T02:39:12.959543+00:00",
+  "updatedAt": "2026-10-21T03:11:23.168077+00:00",
   "items": [
     {
       "title": "OpenAI Auto Enabling Creative Enhancements In ChatGPT Ads",
@@ -61,6 +61,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google’s clutterScore: The hidden SEO risk bloggers can’t afford to ignore - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMVFMwQ3paQkJCX3RQUmFqZTJuMFdiQWhPVnZFeTc4LWgxTUp2QkNONmt1dGlEQ3dJajczOUJLUGROOXEtcl9OdmZIZEhYLVRDLTA0WVVqSlp5OG1zZnN6eFQ0aFJlUUZjWTlR?oc=5",
+      "date": "2026-10-20T15:00:00+00:00",
+      "description": "Google’s clutterScore: The hidden SEO risk bloggers can’t afford to ignore &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -497,7 +510,7 @@
       "link": "https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/",
       "date": "2026-10-16T21:38:49+00:00",
       "description": "New terms let Meta crawl sites tied to business users and use the content to train its products, widening rights ad buyers had already granted. The post Meta&#8217;s New Terms Expand Crawling Rights Beyond Advertisers appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/meta-commercial-terms-featured.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -513,19 +526,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "The latest jobs in search marketing - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
-      "date": "2026-10-16T18:35:50+00:00",
-      "description": "The latest jobs in search marketing &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
