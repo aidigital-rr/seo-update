@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-10-21T18:09:33.467103+00:00",
+  "updatedAt": "2026-10-21T18:45:13.463490+00:00",
   "items": [
+    {
+      "title": "Google On robots.txt Rules For AI Crawlers, Emojis, International URLs & More",
+      "link": "https://www.seroundtable.com/google-video-robots-txt-rules-42355.html",
+      "date": "2026-10-21T17:25:00+00:00",
+      "description": "Gary Illyes and Chery Prommawin released their second video in the Non-Canonical Cabinet series; this one is named What can you actually put in a robots.txt? Here they discuss what is, and is not, supported by robots.txt files. And while Google may support features or directives, other search engines or AI crawlers might not.",
+      "image": "https://images.seroundtable.com/gary-cherry-john-photoframe-Q3Izjh3p.gif",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google On Taking Sites Down When Fixing The Emergency PHP Exploit - PHP2Shell",
       "link": "https://www.seroundtable.com/google-php2shell-42353.html",
@@ -417,19 +430,6 @@
         "SEO",
         "Google",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Google Search Internal Issues With Square Brackets [] Punctuations In URLs",
-      "link": "https://www.seroundtable.com/google-square-brackets-urls-42332.html",
-      "date": "2026-10-20T11:31:00+00:00",
-      "description": "Google Search had some issues handling square brackets punctuation marks (i.e. [ ]) within URLs. John Mueller from Google responded to former Googler, Vanessa Fox, saying that he is \"seeing some of the issues internally that came up with these kinds of characters in the URL.\"",
-      "image": "https://images.seroundtable.com/google-brackets-pEb3lrhW.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
