@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-21T20:08:10.518379+00:00",
+  "updatedAt": "2026-10-21T20:40:24.732558+00:00",
   "items": [
+    {
+      "title": "Google Reminds Sites To Serve A 503 During PHP Patch Downtime via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-reminds-sites-to-serve-503s-during-server-downtime/593873/",
+      "date": "2026-10-21T20:19:40+00:00",
+      "description": "Taking a site offline to patch PHP? Serve a 503 from outside PHP and keep robots.txt reachable. Days of server errors may get URLs dropped. The post Google Reminds Sites To Serve A 503 During PHP Patch Downtime appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/php-maintenance-503-593873-final.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Rank Tracking Broke In September – The Future Is Measured By Brand & Revenue via @sejournal, @TaylorDanRW",
       "link": "https://www.searchenginejournal.com/rank-tracking-broke-in-september-the-future-is-measured-by-brand-revenue/592783/",
@@ -499,7 +511,7 @@
       "link": "https://www.searchenginejournal.com/meta-removes-training-crawl-clause-commercial-terms/593584/",
       "date": "2026-10-19T18:30:50+00:00",
       "description": "Meta removed training from the crawling clause in its upcoming Commercial Terms. The permission to crawl sites tied to business users is still in place. The post Meta Drops Training From Its Crawl Clause And Keeps The Crawl appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/crux-diagnostic-halftone-2710636555.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -586,18 +598,6 @@
       "link": "https://www.searchenginejournal.com/ai-search-tools-cited-a-made-up-concept-within-a-week-paper-finds/593472/",
       "date": "2026-10-19T13:34:28+00:00",
       "description": "Researchers posted about a made-up concept on sites AI search tools cite. Four English-web tools cited it within a week. Other topics mostly didn't land. The post AI Search Tools Cited A Made-Up Concept Within A Week, Paper Finds appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "The New Rules Of Journalist Outreach, Based On Millions Of Emails",
-      "link": "https://www.searchenginejournal.com/the-new-rules-of-journalist-outreach-based-on-millions-of-emails/592060/",
-      "date": "2026-10-19T12:00:45+00:00",
-      "description": "Get journalist outreach pitches seen and understood with relevant targeting, authenticated domains, concrete subject lines, and clear openings that shape AI inbox summaries. The post The New Rules Of Journalist Outreach, Based On Millions Of Emails appeared first on Search Engine Journal .",
       "image": "",
       "source": "Search Engine Journal",
       "tags": [
