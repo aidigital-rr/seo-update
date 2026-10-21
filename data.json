@@ -1,16 +1,41 @@
 {
-  "updatedAt": "2026-10-21T13:47:04.217140+00:00",
+  "updatedAt": "2026-10-21T14:19:40.780743+00:00",
   "items": [
+    {
+      "title": "Wiretapping The SERP: Reverse Engineering Network Data",
+      "link": "https://www.searchenginejournal.com/wiretapping-the-serp-reverse-engineering-network-data/593419/",
+      "date": "2026-10-21T14:00:14+00:00",
+      "description": "A beginner’s guide to exploring browser network data, how it uncovered a $13,337 Google exploit, and what it reveals about Google and ChatGPT. The post Wiretapping The SERP: Reverse Engineering Network Data appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/data-network-377.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Critical PHP Core Security Flaws Affect Websites, Including WordPress via @sejournal, @vahandev",
       "link": "https://www.searchenginejournal.com/critical-php-core-security-flaws-affect-websites-including-wordpress/593812/",
       "date": "2026-10-21T13:46:10+00:00",
-      "description": "An emergency PHP update is due today. Website owners need their hosts to install the fix, and older PHP versions may need an upgrade first. The post Critical PHP Core Security Flaws Affect Websites, Including WordPress appeared first on Search Engine Journal .",
+      "description": "PHP's emergency security fixes are available today, October 21, and website owners should ask their hosts to install them immediately. The post Critical PHP Core Security Flaws Affect Websites, Including WordPress appeared first on Search Engine Journal .",
       "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-bracket-urls-code-2459907273.jpg",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
         "AI Search"
+      ]
+    },
+    {
+      "title": "Google Updates Control What You Share With Google Search With Existing Options",
+      "link": "https://www.seroundtable.com/google-updates-control-what-you-share-42350.html",
+      "date": "2026-10-21T13:14:00+00:00",
+      "description": "Google updated its Control what you share with Google Search help document to add \"include existing options such as the robots meta tag, data-nosnippet, X-Robots-Tag, and the Search generative AI control,\" Google said. In addition to Google updating its URL structure best practices for Google Search help document this morning.",
+      "image": "https://images.seroundtable.com/addition-OLo1rScs.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -266,6 +291,19 @@
       ]
     },
     {
+      "title": "How to prioritize SEO content updates and new opportunities - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdFh5dXJVZmZabFhYSC1ZTktxZmpKUnFQOVRaMVdBaHotY0l0NTdWWXlmOVFFN0tRbjd5U28ya0RHeGV6bkNYRXoyelNwTXo0QS1qWjc1clFIcndvTTJVUGlXVlZsTjNEOEg1Q0c1VUJiZDFLcUdvRlRrbEhNZGYtSFlQS0M1YWMycUVrckpUNktXMjFFQmtmUkhQdw?oc=5",
+      "date": "2026-10-20T13:00:00+00:00",
+      "description": "How to prioritize SEO content updates and new opportunities &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "What Personal AI Agents Like Meta Muse And OpenAI Dots Mean For SEO via @sejournal, @slobodanmanic",
       "link": "https://www.searchenginejournal.com/personal-ai-agents-meta-muse-openai-dots-seo/592530/",
       "date": "2026-10-20T12:00:04+00:00",
@@ -348,19 +386,6 @@
       "date": "2026-10-20T11:11:00+00:00",
       "description": "Google Business Profiles review appeals are delayed again. Dan Boguslavsky from the Google team posted about the delay last Friday saying, \"Due to high volume of review related appeals, processing times are currently extended.\"",
       "image": "https://images.seroundtable.com/google-review-stars-tAZ0xHOS.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Search Tests Removing Horizontal Rule Line Under Tabs",
-      "link": "https://www.seroundtable.com/google-search-horizontal-rule-line-removed-42333.html",
-      "date": "2026-10-20T11:05:00+00:00",
-      "description": "Google is testing removing the HR, thematic line break or horizontal rule line, that is found under the search tabs under the search box in the search results page.",
-      "image": "https://images.seroundtable.com/google-without-hr-line-zMQgo4cM.png",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -485,7 +510,7 @@
       "link": "https://www.searchenginejournal.com/it-knew-every-word/592680/",
       "date": "2026-10-19T14:00:20+00:00",
       "description": "A model can recite your brand’s description and still fail the buyer’s question. Research on training data shows why “knowing” is the hard part. The post It Knew Every Word appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-learning-29.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -497,7 +522,7 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xS1FBX05McDFWaUd6LTk3Mlkzd2IxaUlSeExBN0JVd2pQeUpaQWRZdzc1LVdzZVMwNE5aMHRYT1BWaUtoMk5mUWtINU9zT0RxSEIxQ1JUYWRrcFFSdVlwS2J5MXNvUkJ2NGhiS041N3ZIV1hFVjFhUWdqZUJ6QQ?oc=5",
       "date": "2026-10-19T14:00:00+00:00",
       "description": "How to measure Google Demand Gen against the right goals &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -547,18 +572,6 @@
       "link": "https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304/",
       "date": "2026-10-18T08:00:00+00:00",
       "description": "A paper tested whether Google results and OpenAI's API can stand in for ChatGPT's citations. They matched cited sites more often than the exact pages. The post OpenAI&#8217;s API Only Partly Matched ChatGPT&#8217;s Citations, Paper Finds appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google’s Indexing API Docs No Longer Explain How To Get Approval via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-indexing-api-docs-approval-form-removed/593292/",
-      "date": "2026-10-17T18:15:44+00:00",
-      "description": "Google removed the Indexing API approval form and steps from its docs. Default quotas are listed, but the pages don't say how to request more. The post Google&#8217;s Indexing API Docs No Longer Explain How To Get Approval appeared first on Search Engine Journal .",
       "image": "",
       "source": "Search Engine Journal",
       "tags": [
@@ -727,19 +740,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWNHUkRGaDZtaE1Wa1dFQkZYcGJGZHpneW56LTBycXFjV3hPVUhnVU1Yc2IzUUJWSDZvUWNZV3Y0WGVYcU1Qc25oQnRXcF9yZGJSZzd3ejRjNmxyVG5odjVyNmwycWN6QlVKb2xqS0hTdGxpMGw2alpMcEtMaW1xV1REUDFseWFPYlowWmhR?oc=5",
       "date": "2026-09-11T07:00:00+00:00",
       "description": "Google Analytics launches customizable Dashboards &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google says DMA changes in EU resulted in worse degradation of search quality ever - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaXdrTHE0Y2J3YnVLTHVDUkdnUXpUQnBnOURKQXJkNGlPVGZyZVB1ZXRlS2xUMy1NSnF3SHlxRjZVR1NxN2NBSXJScUFzbk9BdVp2TDExU25UalRDYmt2MGl3WkxtWU9USUtIM2xORGdWdi0zRng4M3p2d1B1RjhxOC1WMHJySHhkWHF1cHc0anZtZjBXQ3JHd0pFRXY2ODVDMHZEQmVPTWJKMmw4dVNmQ0lSdDNaRFlVWXc?oc=5",
-      "date": "2026-09-08T07:00:00+00:00",
-      "description": "Google says DMA changes in EU resulted in worse degradation of search quality ever &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
