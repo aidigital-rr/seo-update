@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-10-21T17:15:31.752787+00:00",
+  "updatedAt": "2026-10-21T17:42:27.545084+00:00",
   "items": [
+    {
+      "title": "Google On Taking Sites Down When Fixing The Emergency PHP Exploit - PHP2Shell",
+      "link": "https://www.seroundtable.com/google-php2shell-42353.html",
+      "date": "2026-10-21T15:35:00+00:00",
+      "description": "The World Wide Web is rushing now to fix and patch its servers for the critical PHP exploit known as PHP2Shell. Most are able to patch these without downtime but many sites are going offline until the patch is implemented, just to be super safe. Google's John Mueller offered advice on how to handle Google Search if you decide to take down your site while patching it for the PHP security vulnerability.",
+      "image": "https://images.seroundtable.com/php-logo-explode-e90r4rJj.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Wiretapping The SERP: Reverse Engineering Network Data",
       "link": "https://www.searchenginejournal.com/wiretapping-the-serp-reverse-engineering-network-data/593419/",
@@ -420,19 +433,6 @@
       ]
     },
     {
-      "title": "Bing Tests Not Showing Sitelinks",
-      "link": "https://www.seroundtable.com/bing-no-sitelinks-42327.html",
-      "date": "2026-10-20T11:21:00+00:00",
-      "description": "Microsoft seems to be testing not showing sitelinks under the main Bing search result snippets. I am honestly not sure if this is new but I was able to replicate Bing showing sitelinks for the first search result snippet in one browser and for the same query, it not showing the sitelinks.",
-      "image": "https://images.seroundtable.com/bing-no-sitelinks-comparison-5rmLR83t.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Search Share Fell To 12% For North American Publishers: Chartbeat via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/chartbeat-search-share-north-american-publishers-q3-2026/593673/",
       "date": "2026-10-20T08:00:00+00:00",
@@ -619,6 +619,19 @@
       ]
     },
     {
+      "title": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXo3LWU0bVdLN05oVUtJeGZzaUVGclFmS2lRcnNsdWg2SWpsSHV4Y250WGh0d2FtYUY2WlRMR21TaUoybG9CQlVQUnZNMk5TRVNpQURldEhJZWVOWDlIT3Y1RjhRLXVqcHZSSDVOckJtOHZENlVoVkN3VDRkLVoyT3ZPZWFOa1ZxWWZOaExuRE1tVE5QSk5fdGFBSDZVenRNU25ldVB5OFZWUWt3MFBmRGc5QzB1TEZ6?oc=5",
+      "date": "2026-10-16T16:11:59+00:00",
+      "description": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Human experience is your content’s biggest differentiator - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFlOdUIwZXdiRThXZDNuV2N0bWFYekUwMEpQZEhHQjZwX2ZEWm1Sa09Pd3NCYTFSSUthUmNld2ZTNldnRVpRWGo1N1BJcjJFRDR3UHhuQlBkM0FCR29tQ2t3aFR5QUtWS1FjOFRfRVUtNmpjNV95YnBUc0VFdFltSA?oc=5",
       "date": "2026-10-16T12:00:00+00:00",
@@ -675,19 +688,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDBoYWQ4TUhTX21Qek1PcjlPOXNraXp2V1cycTRMdjZOOXhRVmZ2S3dHMGxwR1RLaGJFclpFU0NyODZ3SGVDRlFfTDFIM25LU2RKY0poaGNvTVJkUVRVbTFqZUZXVkdFaDU3MkI2djUzd1kwQmJFVU42ZGRWRkJZbnVmR1dPWjdhUVVzVnpBLTgwLWtkWC1yVG9xVFRVcWljOGViMGVpdVBtSlB0cko3Xw?oc=5",
       "date": "2026-10-14T15:03:40+00:00",
       "description": "Google Ads introduces channel prioritization and budget allocation controls &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to audit off-page AI search visibility and build a 90-day plan - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT0pQZUFDMDRuNkQtX3RRRlhyckpFUi1NSXF0RXhxSFBqWkhlS3FyQUhkbngtTzJRSmFNZnZ1Y2RQdzB2ZWFJT1VheE0xWWZYcFc4NEJCZmNLWUNEejlkXzN5VVFFVGZ0X1M1ck04Q3M1cGxXZFJRakJpOW9NUGJXckpVdVgybU1WSmN3?oc=5",
-      "date": "2026-10-12T13:00:00+00:00",
-      "description": "How to audit off-page AI search visibility and build a 90-day plan &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
