@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T15:13:21.462978+00:00",
+  "updatedAt": "2026-10-21T15:44:14.501200+00:00",
   "items": [
     {
       "title": "Wiretapping The SERP: Reverse Engineering Network Data",
@@ -11,6 +11,19 @@
       "tags": [
         "SEO",
         "AI Search"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: October 21, 2026",
+      "link": "https://www.seroundtable.com/recap-10-21-2026-42348.html",
+      "date": "2026-10-21T14:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google Search ranking volatility and chatter seem to have spiked big time in the past 24 hours. Google updated its URL best practices document...",
+      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -190,6 +203,19 @@
       ]
     },
     {
+      "title": "Google expands financial services ad verification to the US and Canada - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWR5dWp2bnMwNkFBRkRCM3RWajNvZnBIYURpNnpQQ0trenJyMDNWczF3cndXNWEwRGx2UDcyUkJjdHFGVmFlem93eUZkTkhwYWk5SWRVM01xU28zRHZIb21Nb29CclhoNDdsbE9zb3AxS2dJUlMyaWlWcVRsc2FsM1U3Qy1NWDRGaFFQZzdHSE1rR3FCcmk4TE9uT2tEcXY3Z0FHdno2dTVsUQ?oc=5",
+      "date": "2026-10-20T15:31:59+00:00",
+      "description": "Google expands financial services ad verification to the US and Canada &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "ChatGPT drop in UTM tracking was a bug - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2E4Zmdia2xzMzNkdjVuS1hFU2pfdWFianUwbjFKTTBXOTVNN29PYnd2eDRDUjJQbEhuUHRXRU1yWmZCN3Etdl8ta0RWTmRCTDJjWGlIRXJvSUtaVUw2Y2twRS1Tcm9zRXQwelZ6OWVvZ0htcVI2MkhNTnhSaTlyMnNqSng1b0g1eE9zTmhKbjcweEhUOUZkTlN2Znp4WDhaM3h5amxBZXlfMWJGOVk5VmRQdFlGTlhw?oc=5",
       "date": "2026-10-20T15:22:36+00:00",
@@ -329,6 +355,19 @@
       ]
     },
     {
+      "title": "5 underrated tools to boost your B2B PPC performance in 2027 - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS1M3anRrRVh2N3hQY011MmNXTFZaTTV6aV9ocmtFS2RIVVlUekg5X2xzS25HMkRRM3laNzE3V2JqaWt4NVNPaTBNWmRlRWVVR0k0SUY3a3dpclJrMmxMVWdkeExLRkZFMVF0dWNRRzNpYm1yeTJOVTZoeFU4OVhyUW94eVg?oc=5",
+      "date": "2026-10-20T12:00:00+00:00",
+      "description": "5 underrated tools to boost your B2B PPC performance in 2027 &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Google Business Profiles Verification With Government ID",
       "link": "https://www.seroundtable.com/google-business-profiles-verification-government-id-42329.html",
       "date": "2026-10-20T11:51:00+00:00",
@@ -386,19 +425,6 @@
       "date": "2026-10-20T11:21:00+00:00",
       "description": "Microsoft seems to be testing not showing sitelinks under the main Bing search result snippets. I am honestly not sure if this is new but I was able to replicate Bing showing sitelinks for the first search result snippet in one browser and for the same query, it not showing the sitelinks.",
       "image": "https://images.seroundtable.com/bing-no-sitelinks-comparison-5rmLR83t.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Business Profiles Review Appeals Are Delayed Again",
-      "link": "https://www.seroundtable.com/google-business-profiles-review-appeals-delays-42331.html",
-      "date": "2026-10-20T11:11:00+00:00",
-      "description": "Google Business Profiles review appeals are delayed again. Dan Boguslavsky from the Google team posted about the delay last Friday saying, \"Due to high volume of review related appeals, processing times are currently extended.\"",
-      "image": "https://images.seroundtable.com/google-review-stars-tAZ0xHOS.jpg",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -485,7 +511,7 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMXNZQkVONXgwYkxuT2cxUEI0VDQwek1HVGoyRHVSaTU5dE1fSWRzUy1fMjNqdG5tazQyZU9kRmI2clJUdU11NnF1N2tDeEc0aXIzTEwtWDgxcEV4Q0NTS0FyOHlJemhnZGs2dENGbFdjTnBvTzhEOUNhOHNBS3BXZVhlcnhoaFlOOGZCdWsteXllVFdTLS1V?oc=5",
       "date": "2026-10-19T15:07:09+00:00",
       "description": "Google Local Services Ads removes featured professionals &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -498,7 +524,7 @@
       "link": "https://www.searchenginejournal.com/deepseek-opens-its-in-house-search-engine-to-developers/593526/",
       "date": "2026-10-19T15:02:15+00:00",
       "description": "A Chinese AI lab opened its search engine to developers. Each result carries a page-level authority tier, and DeepSeek says it filters GEO manipulation. The post DeepSeek Opens Its In-House Search Engine To Developers appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/deepseek-search-api-featured.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -694,32 +720,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "Google AI Overviews now appear in 39% of U.S. desktop searches - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GY3pIenNxY21IdGhRc1RNdDJydmZ0UXUzWjBJeVB0c2tkYl9FMjFOem5EeGdMZGV3TlVlMzl5Vk4zdUU2TGhUZEEtTHlfa2tOS0V4dXUzZzFCR3F4c25ONFVfUXJRSVR1V2xvRzNfZUdidkJvRUV5SXVqT0Rjdw?oc=5",
-      "date": "2026-09-22T07:00:00+00:00",
-      "description": "Google AI Overviews now appear in 39% of U.S. desktop searches &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "OpenAI is turning ChatGPT ads into conversations - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVEVQZFp6V0ZFUHk2TmdLc21SWXY5b0U4V3R2WlpxdGQyRURQNWJ0azRsVVE5YWZGaDBHdTdlOW4tbi05SzJzTXZsWkRCbEVnYVRMRFdYWnNZV2pabjd1OGZrWjRyaE9PTTBiTEtTcUcxMlhiQUVlWWp4cWtQRC1zUmR4bGxwd0RUdmt0Mw?oc=5",
-      "date": "2026-09-16T07:00:00+00:00",
-      "description": "OpenAI is turning ChatGPT ads into conversations &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     },
     {
