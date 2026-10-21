@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T12:11:32.387231+00:00",
+  "updatedAt": "2026-10-21T12:49:00.702142+00:00",
   "items": [
     {
       "title": "Google Crawls Raw And Encoded Bracket URLs Separately via @sejournal, @MattGSouthern",
@@ -23,6 +23,71 @@
       "tags": [
         "SEO",
         "AI Search"
+      ]
+    },
+    {
+      "title": "Google Search Ranking Volatility & Chatter Heats Up October 20 & 21",
+      "link": "https://www.seroundtable.com/google-search-ranking-volatility-42347.html",
+      "date": "2026-10-21T11:51:00+00:00",
+      "description": "Google Search rankings seem to be getting super volatile again, this is alongside the search industry chatter that has been spiking to unusual levels over the past 24 hours. As a reminder, the third-party tracking tools may still be struggling to track the volatility, but when I look at that, coupled with the industry chatter, I think we have an unconfirmed Google update going on.",
+      "image": "https://images.seroundtable.com/volatility/wincher-2026-10-21-lg.png?v=1792576847",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads New: Save & Test Asset Group Changes",
+      "link": "https://www.seroundtable.com/google-ads-save-test-asset-group-changes-42336.html",
+      "date": "2026-10-21T11:41:00+00:00",
+      "description": "Google Ads is possibly rolling out a new asset group A/B test toggle named \"Save and test asset group changes.\" This lets you measure the impact of changing headlines, descriptions, images and videos.",
+      "image": "https://images.seroundtable.com/google-ads-save-test-asset-group-changes-8sYDuV7K.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Updates Smart Bidding Learning Doc With 7-Day Limit & Best Practices",
+      "link": "https://www.seroundtable.com/google-ads-updates-smart-bidding-learning-doc-42345.html",
+      "date": "2026-10-21T11:31:00+00:00",
+      "description": "Google Ads has updated the old \"Duration of the learning period for campaigns and what affects it\" to be renamed to \"About Smart Bidding learning.\" This is a major help document rewrite, not just a headline change. It mentions a new seven-day limit, a different explanation of what triggers and does not trigger learning and more operational advice.",
+      "image": "https://images.seroundtable.com/google-ads-about-smart-bidding-xUs48wUN.gif",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Merchant Center Specifies Fast Shipping Days By Country",
+      "link": "https://www.seroundtable.com/google-merchant-center-fast-shipping-days-per-country-42335.html",
+      "date": "2026-10-21T11:21:00+00:00",
+      "description": "Google has updated its about fast shipping in Merchant Center help document to detail the days Google expects for you to qualify for fast shipping in Merchant Center. This is specific for listings in the AU, CA, IN, JP, GB, US.",
+      "image": "https://images.seroundtable.com/google-merchant-center-deliverytime-chart-gHqykyQb.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Updated Its URL Structure Best Practices For Hyphens In URLs",
+      "link": "https://www.seroundtable.com/google-hyphens-in-urls-doc-42346.html",
+      "date": "2026-10-21T11:11:00+00:00",
+      "description": "Google has made a minor change to its URL structure best practices for Google Search help document. Specifically, the \"Use hyphens to separate words\" section. The overall meaning of the section really did not change but Google did update it, so I wanted to point out the update.",
+      "image": "https://images.seroundtable.com/google-hyphen-separate-new-AlqfHZbX.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -174,19 +239,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "Generative Engine Optimization (GEO): What It Is & How to Do It in 2026 - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzVfRGlQSnVUV1N3cVc2Y1ZrOHkyWDhzT3RvdFlMSWxwbGg3S0dBX2ZvamVQb1NQZmFkei0wREJrUFV5OTNLWHhHaW5ZOU9VX1lobHhFbUJjOFRpQ1BvQTlxUUo2bUdGU3VkQlJpVVlWU09fR1RUbkppdkVnZVVUaUpITm0?oc=5",
-      "date": "2026-10-20T12:30:00+00:00",
-      "description": "Generative Engine Optimization (GEO): What It Is & How to Do It in 2026 &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     },
     {
@@ -417,19 +469,6 @@
       ]
     },
     {
-      "title": "Daily Search Forum Recap: October 19, 2026",
-      "link": "https://www.seroundtable.com/recap-10-19-2026-42326.html",
-      "date": "2026-10-19T14:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today...",
-      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "How to measure Google Demand Gen against the right goals - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xS1FBX05McDFWaUd6LTk3Mlkzd2IxaUlSeExBN0JVd2pQeUpaQWRZdzc1LVdzZVMwNE5aMHRYT1BWaUtoMk5mUWtINU9zT0RxSEIxQ1JUYWRrcFFSdVlwS2J5MXNvUkJ2NGhiS041N3ZIV1hFVjFhUWdqZUJ6QQ?oc=5",
       "date": "2026-10-19T14:00:00+00:00",
@@ -472,63 +511,11 @@
       "link": "https://www.searchenginejournal.com/the-new-rules-of-journalist-outreach-based-on-millions-of-emails/592060/",
       "date": "2026-10-19T12:00:45+00:00",
       "description": "Get journalist outreach pitches seen and understood with relevant targeting, authenticated domains, concrete subject lines, and clear openings that shape AI inbox summaries. The post The New Rules Of Journalist Outreach, Based On Millions Of Emails appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/journalist-outreach-744.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Is It New? AI Scan Tool",
-      "link": "https://www.seroundtable.com/is-it-new-ai-scan-tool-42322.html",
-      "date": "2026-10-19T11:51:00+00:00",
-      "description": "Here is something new for you - the Is it new? AI scan tool. It is a feature I thought would be neat to build, where instead of you reaching out to me to see if this or that is a new Google, Bing, etc search feature, you can upload a screenshot, add some descriptive text and then have the AI figure out if it is new.",
-      "image": "https://images.seroundtable.com/is-it-new-screenshot-1-TnZ8aA0Z.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Moves Google Posts Higher Up On Local Panel",
-      "link": "https://www.seroundtable.com/google-posts-higher-42319.html",
-      "date": "2026-10-19T11:41:00+00:00",
-      "description": "Google seems to have moved the Google Posts section of a local knowledge panel higher up on the page. In 2018, Google moved the Google Posts section to the bottom of the local panel. Now it seems Google is moving it back up.",
-      "image": "https://images.seroundtable.com/google-posts-arrow-0FHFHak6.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads Now In AI Mode With Personal Intelligence",
-      "link": "https://www.seroundtable.com/google-ads-ai-mode-personal-intelligence-42320.html",
-      "date": "2026-10-19T11:31:00+00:00",
-      "description": "Google confirmed it will now show ads in AI Mode results with Personal Intelligence enabled. Back in March, Google said AI Mode with Personal Intelligence turned on would be ad-free, but that is now changing.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google AI Mode Citations With Preferred Source Preferences",
-      "link": "https://www.seroundtable.com/google-ai-mode-citations-preferred-sources-42323.html",
-      "date": "2026-10-19T11:21:00+00:00",
-      "description": "Google is testing letting users view and modify their preferred sources list directly from within the AI Mode citations sidebar. There is a new button named \"Source preferences\" and when you click on it, it opens up your preferred sources list where you can add or remove preferred sources.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -576,19 +563,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "The latest jobs in search marketing - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
-      "date": "2026-10-16T18:35:50+00:00",
-      "description": "The latest jobs in search marketing &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
@@ -697,10 +671,23 @@
       ]
     },
     {
-      "title": "3 GEO pillars: LLM readability, brand context, agentic commerce - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UUWVvMGVwcHZJOW01dWhGOGlPRUxqa3pXTHZSTmJmbGNZOWwzenlVZmlWUGJOOHNydUNHU3VkbW41N2luVHdsbGdXcHp2T3NVUHlTaGloWUxuZ0U?oc=5",
+      "title": "Google AI Overviews now appear in 39% of U.S. desktop searches - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GY3pIenNxY21IdGhRc1RNdDJydmZ0UXUzWjBJeVB0c2tkYl9FMjFOem5EeGdMZGV3TlVlMzl5Vk4zdUU2TGhUZEEtTHlfa2tOS0V4dXUzZzFCR3F4c25ONFVfUXJRSVR1V2xvRzNfZUdidkJvRUV5SXVqT0Rjdw?oc=5",
+      "date": "2026-09-22T07:00:00+00:00",
+      "description": "Google AI Overviews now appear in 39% of U.S. desktop searches &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "OpenAI is turning ChatGPT ads into conversations - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVEVQZFp6V0ZFUHk2TmdLc21SWXY5b0U4V3R2WlpxdGQyRURQNWJ0azRsVVE5YWZGaDBHdTdlOW4tbi05SzJzTXZsWkRCbEVnYVRMRFdYWnNZV2pabjd1OGZrWjRyaE9PTTBiTEtTcUcxMlhiQUVlWWp4cWtQRC1zUmR4bGxwd0RUdmt0Mw?oc=5",
       "date": "2026-09-16T07:00:00+00:00",
-      "description": "3 GEO pillars: LLM readability, brand context, agentic commerce &nbsp;&nbsp; Search Engine Land",
+      "description": "OpenAI is turning ChatGPT ads into conversations &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -736,6 +723,32 @@
       ]
     },
     {
+      "title": "Google Analytics launches customizable Dashboards - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWNHUkRGaDZtaE1Wa1dFQkZYcGJGZHpneW56LTBycXFjV3hPVUhnVU1Yc2IzUUJWSDZvUWNZV3Y0WGVYcU1Qc25oQnRXcF9yZGJSZzd3ejRjNmxyVG5odjVyNmwycWN6QlVKb2xqS0hTdGxpMGw2alpMcEtMaW1xV1REUDFseWFPYlowWmhR?oc=5",
+      "date": "2026-09-11T07:00:00+00:00",
+      "description": "Google Analytics launches customizable Dashboards &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google says DMA changes in EU resulted in worse degradation of search quality ever - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaXdrTHE0Y2J3YnVLTHVDUkdnUXpUQnBnOURKQXJkNGlPVGZyZVB1ZXRlS2xUMy1NSnF3SHlxRjZVR1NxN2NBSXJScUFzbk9BdVp2TDExU25UalRDYmt2MGl3WkxtWU9USUtIM2xORGdWdi0zRng4M3p2d1B1RjhxOC1WMHJySHhkWHF1cHc0anZtZjBXQ3JHd0pFRXY2ODVDMHZEQmVPTWJKMmw4dVNmQ0lSdDNaRFlVWXc?oc=5",
+      "date": "2026-09-08T07:00:00+00:00",
+      "description": "Google says DMA changes in EU resulted in worse degradation of search quality ever &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Search Central Live is coming to Bogota and Ciudad de México",
       "link": "https://developers.google.com/search/blog/2026/09/search-central-live-mexico-and-colombia",
       "date": "2026-09-08T00:00:00+00:00",
@@ -746,19 +759,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "The big winners and losers in U.S. website traffic over the past year - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSnZkQ3JXWFFqZmhKWk9fTTRIdVItWlBRa014NVlYQl9ZVWcxdEljeHVDSlRpMnFQTUd5dG0xa2N4QWlVcERKSndmSW5NeEdrRjdKTlBGRnZUdG5RVVlSbW55cWREYWR1aVpwcHhPdXpfUjc2dllGNEs3VG9XdVZhRDY1Q3JnZw?oc=5",
-      "date": "2026-09-04T07:00:00+00:00",
-      "description": "The big winners and losers in U.S. website traffic over the past year &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     },
     {
