@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-21T09:47:36.388299+00:00",
+  "updatedAt": "2026-10-21T10:41:02.969802+00:00",
   "items": [
+    {
+      "title": "Details Emerge About Google Discover’s SDF Freshness Algorithm via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/details-emerge-about-google-discovers-sdf-freshness-algorithm/593774/",
+      "date": "2026-10-21T10:38:54+00:00",
+      "description": "New details on Google Discover's SDF gives publishers insights into planning the right mix of content that will rank better. The post Details Emerge About Google Discover&#8217;s SDF Freshness Algorithm appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/supersession-decay-filtering-926.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "OpenAI Auto Enabling Creative Enhancements In ChatGPT Ads",
       "link": "https://www.seroundtable.com/openai-chatgpt-ads-enabling-creative-enhancements-42344.html",
@@ -498,7 +510,7 @@
       "link": "https://www.searchenginejournal.com/seo-pulse-rank-tracker-data-chatgpt-tags-ai-search-links/593171/",
       "date": "2026-10-17T12:00:00+00:00",
       "description": "A rank tracker logged Google pages missing their usual sites, some ChatGPT links lost tracking tags, and Google and Bing changed AI search links. The post Rank Tracker Data, ChatGPT Tags &#038; AI Search Links – SEO Pulse appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/seo-pulse-october-16-2026.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -568,18 +580,6 @@
       ]
     },
     {
-      "title": "Google Takes Applications For A UGC Pipeline Separate From Crawling via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ugc-fresh-data-program-applications/593113/",
-      "date": "2026-10-16T12:00:00+00:00",
-      "description": "Google is accepting applications from forums and social platforms for a UGC pipeline separate from crawling. The post Google Takes Applications For A UGC Pipeline Separate From Crawling appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Human experience is your content’s biggest differentiator - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFlOdUIwZXdiRThXZDNuV2N0bWFYekUwMEpQZEhHQjZwX2ZEWm1Sa09Pd3NCYTFSSUthUmNld2ZTNldnRVpRWGo1N1BJcjJFRDR3UHhuQlBkM0FCR29tQ2t3aFR5QUtWS1FjOFRfRVUtNmpjNV95YnBUc0VFdFltSA?oc=5",
       "date": "2026-10-16T12:00:00+00:00",
@@ -623,19 +623,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDBoYWQ4TUhTX21Qek1PcjlPOXNraXp2V1cycTRMdjZOOXhRVmZ2S3dHMGxwR1RLaGJFclpFU0NyODZ3SGVDRlFfTDFIM25LU2RKY0poaGNvTVJkUVRVbTFqZUZXVkdFaDU3MkI2djUzd1kwQmJFVU42ZGRWRkJZbnVmR1dPWjdhUVVzVnpBLTgwLWtkWC1yVG9xVFRVcWljOGViMGVpdVBtSlB0cko3Xw?oc=5",
       "date": "2026-10-14T15:03:40+00:00",
       "description": "Google Ads introduces channel prioritization and budget allocation controls &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Your brand can win the mention and lose the citation - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNlY5c2Y4enE0a1phRFpBN3llb0ItbzFuWUlreFNmdEJTbjNIY1pYYnRFbS1KZGNiZFZrV2hUdW0wWmVaU3AzcjZtc3Y4ZDdLX185emwybVpha3dkc3pPTXRydEZXTFJoSDRoT0xXLWVjTU5JUk1WQUw1QkZadHY4OFNhRzBFSnUxWTFUN2VRZXExQQ?oc=5",
-      "date": "2026-10-14T14:33:37+00:00",
-      "description": "Your brand can win the mention and lose the citation &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -759,6 +746,19 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "Semrush is bringing AI visibility under the Spotlight - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaUY2Mzl6VFBZOERQRzZXVUphR1NJbGFfN2VPbng0eFl5TlZUWnFYdFJ0MVRCbGlfRGdtd2FRSU9mRmFjS0NpbGtieG9hcDBScFplVjhjU0hMUlZ1dXJ4RXFod0k4MHo0T3RJVU1RTEpGeFpQWGw0c1lBZG52VWNSd2dUNUlVcEVVVFBnUnk0a1hrWEU?oc=5",
+      "date": "2026-09-04T07:00:00+00:00",
+      "description": "Semrush is bringing AI visibility under the Spotlight &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
