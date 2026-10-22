@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-22T09:17:37.034953+00:00",
+  "updatedAt": "2026-10-22T10:16:32.618910+00:00",
   "items": [
+    {
+      "title": "Google CEO Sundar Pichai Views Search Absorbed Into Agentic Layer via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-ceo-sundar-pichai-views-search-absorbed-into-agentic-layer/593923/",
+      "date": "2026-10-22T09:17:18+00:00",
+      "description": "Google CEO Sundar Pichai says the future of Search is an agentic layer that unifies Google's Search and AI experiences. The post Google CEO Sundar Pichai Views Search Absorbed Into Agentic Layer appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-sundar-pichai-931.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "UpdraftPlus WordPress Plugin Security Breach Enables Backdoor Attacks via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/updraftplus-wordpress-plugin-security-breach-enables-backdoor-attacks/593909/",
@@ -498,7 +510,7 @@
       "link": "https://www.searchenginejournal.com/where-your-next-ai-citations-clicks-come-from/592892/",
       "date": "2026-10-20T07:45:18+00:00",
       "description": "CTM’s Lisa Salvatore and Brian Barranger show how to mine customer conversations for useful content, qualified-lead criteria, conversion feedback, and product-demand signals. The post A New Place To Look: Where Your Next AI Citations &#038; Clicks Come From appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ctm-ai-citations-and-clicks-on-demand-sej.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -590,18 +602,6 @@
       "tags": [
         "SEO",
         "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "It Knew Every Word via @sejournal, @pedrodias",
-      "link": "https://www.searchenginejournal.com/it-knew-every-word/592680/",
-      "date": "2026-10-19T14:00:20+00:00",
-      "description": "A model can recite your brand’s description and still fail the buyer’s question. Research on training data shows why “knowing” is the hard part. The post It Knew Every Word appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
         "AI Search"
       ]
     },
