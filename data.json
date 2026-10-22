@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T12:52:05.622846+00:00",
+  "updatedAt": "2026-10-22T13:50:22.058919+00:00",
   "items": [
     {
       "title": "Why Reddit Belongs In Your PR Strategy via @sejournal, @brentcsutoras",
@@ -11,6 +11,32 @@
       "tags": [
         "SEO",
         "AI Search"
+      ]
+    },
+    {
+      "title": "Google Search Tests Layout Change For Local Knowledge Panel",
+      "link": "https://www.seroundtable.com/google-local-panel-layout-42356.html",
+      "date": "2026-10-22T11:51:00+00:00",
+      "description": "Google is testing moving things around in the local knowledge panels in Search by swapping the position of the company name, ratings, description and action button with the business photos. It is a subtle change and it matches the current mobile design on Google Search more but it is a change.",
+      "image": "https://images.seroundtable.com/new-y9hYxlNI.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads New Translation Tool",
+      "link": "https://www.seroundtable.com/google-ads-translation-tool-42351.html",
+      "date": "2026-10-22T11:41:00+00:00",
+      "description": "Google Ads is now rolling out the Translation tool within the advertiser console. This allows advertisers to \"Translate your campaigns to reach global customers and boost your conversions,\" Google wrote.",
+      "image": "https://images.seroundtable.com/google-ads-translation-tool-aROMU2sm.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -354,19 +380,6 @@
       ]
     },
     {
-      "title": "OpenAI Auto Enabling Creative Enhancements In ChatGPT Ads",
-      "link": "https://www.seroundtable.com/openai-chatgpt-ads-enabling-creative-enhancements-42344.html",
-      "date": "2026-10-20T19:35:00+00:00",
-      "description": "OpenAI sent out emails to advertisers, including me, telling me they have automatically enabled creative enhancements for my ChatGPT Ads. The email says this is starting on October 30, 2026 and I can opt out of creative enhancements or change your settings at any time in Ads Manager.",
-      "image": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Your Audience Uses AI But Doesn’t Trust It – Build Content For The Gap via @sejournal, @gregjarboe",
       "link": "https://www.searchenginejournal.com/your-audience-uses-ai-but-doesnt-trust-it-build-content-for-the-gap/592818/",
       "date": "2026-10-20T19:00:30+00:00",
@@ -415,19 +428,6 @@
         "SEO",
         "Google",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads Expands Financial Services Verification To US & Canada",
-      "link": "https://www.seroundtable.com/google-ads-financial-services-verification-expand-42338.html",
-      "date": "2026-10-20T15:20:00+00:00",
-      "description": "Google has announced it is expanding its Google Ads Financial Services Verification requirements to the United States and Canada. Google is working with the American Bankers Association and Canadian Bankers Association for this.",
-      "image": "https://images.seroundtable.com/google-ads-bank-MCT2Qlqm.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
