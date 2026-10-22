@@ -1,6 +1,58 @@
 {
-  "updatedAt": "2026-10-22T11:15:09.927337+00:00",
+  "updatedAt": "2026-10-22T11:43:56.959168+00:00",
   "items": [
+    {
+      "title": "Google Ads Customer Lifecycle Goals: Value Mode, Retention Goals & Percentage Multipliers",
+      "link": "https://www.seroundtable.com/google-ads-customer-lifecycle-goals-update-42358.html",
+      "date": "2026-10-22T11:30:00+00:00",
+      "description": "Google Ads is rolling out three updates to customer lifecycle goals to help advertisers before the holidays. These three updates include (1) expanding high value mode to Shopping Campaigns, (2) expanding customer retention goals and (3) new percentage multipliers.",
+      "image": "https://images.seroundtable.com/google-ads-ui-for-multipliers-pifBTTxZ.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "3 New Studies Suggest AI Visibility & Search Not Worth Investing In",
+      "link": "https://www.seroundtable.com/ai-search-studies-42359.html",
+      "date": "2026-10-22T11:21:00+00:00",
+      "description": "There are three new studies out over the past week that suggest that spending time, money and resources on AI visibility and AI search may not be worth it. In short, the studies all show that AI Search or AI services send a tiny fraction of traffic (and conversions) when compared to Google Search.",
+      "image": "https://images.seroundtable.com/marie-google-organic-vs-ai-llm-traffic-ga4-comparison-rsCJbGcL.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Sponsored Products Expand To Include Product Attributes",
+      "link": "https://www.seroundtable.com/google-ads-product-attributes-42354.html",
+      "date": "2026-10-22T11:11:00+00:00",
+      "description": "Google Ads is testing showing Sponsored Products results that dynamically expand to show product attributes at the bottom of the ad units in a gray background color.",
+      "image": "https://images.seroundtable.com/google-ads-sponsored-products-attributes-load-gray-pIrEjApR.gif",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Pauses Ads For Russian Advertisers & Serving Ads To Russians",
+      "link": "https://www.seroundtable.com/google-ads-russia-ukraine-42357.html",
+      "date": "2026-10-22T11:05:00+00:00",
+      "description": "Back in 2022, Google paused showing ads to users in Russia. That still seems to be active, but Google just posted a new message in the Google Ads and Merchant Center help documentation that it has \"also paused ads on Google properties and networks globally for advertisers based in Russia.\"",
+      "image": "https://images.seroundtable.com/google-merchant-russia-notice-OiHwWogP.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google’s Illyes: Robots.txt Covers Crawling, Not AI Training via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-illyes-robots-txt-crawling-ai-training/593957/",
@@ -416,19 +468,6 @@
       ]
     },
     {
-      "title": "Daily Search Forum Recap: October 20, 2026",
-      "link": "https://www.seroundtable.com/recap-10-20-2026-42334.html",
-      "date": "2026-10-20T14:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today...",
-      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "How to build an AI-powered SEO outreach workflow - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWmo5dFp3VG8zcEUzTlV4X19CWUtNYW1Rc1RkYVJoQlhSNGszN0pMWXRpU1NLSl8zUC1lNmg5VFBxT19RTktKM1Ruemc2dC0xX1NrcDVZSTBrTmNTYmVNLWNZcDRIaEVWRGw2US1FX2tPdTVuUnROU0VlZEF0SVNDb3duR1hFZHRIcmZiWA?oc=5",
       "date": "2026-10-20T14:00:00+00:00",
@@ -442,36 +481,10 @@
       ]
     },
     {
-      "title": "Google Removes AI Overviews Labels On Some AI Overviews",
-      "link": "https://www.seroundtable.com/google-ai-overviews-label-missing-42337.html",
-      "date": "2026-10-20T13:03:00+00:00",
-      "description": "Google seems to be removing the AI Overviews label from some of the search results that are AI Overviews. The desktop version is missing the AI Overview label, while the mobile version has the AI Overview label.",
-      "image": "https://images.seroundtable.com/google-ai-overview-label-missing-desktop-qe5HZ01t.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "How to prioritize SEO content updates and new opportunities - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdFh5dXJVZmZabFhYSC1ZTktxZmpKUnFQOVRaMVdBaHotY0l0NTdWWXlmOVFFN0tRbjd5U28ya0RHeGV6bkNYRXoyelNwTXo0QS1qWjc1clFIcndvTTJVUGlXVlZsTjNEOEg1Q0c1VUJiZDFLcUdvRlRrbEhNZGYtSFlQS0M1YWMycUVrckpUNktXMjFFQmtmUkhQdw?oc=5",
       "date": "2026-10-20T13:00:00+00:00",
       "description": "How to prioritize SEO content updates and new opportunities &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Generative Engine Optimization (GEO): What It Is & How to Do It in 2026 - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzVfRGlQSnVUV1N3cVc2Y1ZrOHkyWDhzT3RvdFlMSWxwbGg3S0dBX2ZvamVQb1NQZmFkei0wREJrUFV5OTNLWHhHaW5ZOU9VX1lobHhFbUJjOFRpQ1BvQTlxUUo2bUdGU3VkQlJpVVlWU09fR1RUbkppdkVnZVVUaUpITm0?oc=5",
-      "date": "2026-10-20T12:30:00+00:00",
-      "description": "Generative Engine Optimization (GEO): What It Is & How to Do It in 2026 &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -497,38 +510,12 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS1M3anRrRVh2N3hQY011MmNXTFZaTTV6aV9ocmtFS2RIVVlUekg5X2xzS25HMkRRM3laNzE3V2JqaWt4NVNPaTBNWmRlRWVVR0k0SUY3a3dpclJrMmxMVWdkeExLRkZFMVF0dWNRRzNpYm1yeTJOVTZoeFU4OVhyUW94eVg?oc=5",
       "date": "2026-10-20T12:00:00+00:00",
       "description": "5 underrated tools to boost your B2B PPC performance in 2027 &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
         "Google",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Google Business Profiles Verification With Government ID",
-      "link": "https://www.seroundtable.com/google-business-profiles-verification-government-id-42329.html",
-      "date": "2026-10-20T11:51:00+00:00",
-      "description": "Google is testing a new way to verify your Google Business Profiles, the method is by uploading a photo of your government ID. This is in addition ot the phone/text, email, live video call or snail mail verification methods.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Hotel Ads Legacy Length Of Booking Bid Adjustment Doc",
-      "link": "https://www.seroundtable.com/google-hotel-ads-length-of-booking-bid-legacy-42330.html",
-      "date": "2026-10-20T11:41:00+00:00",
-      "description": "The Google Ads team posted a new help document that talks about the length of booking bid adjustment in legacy Hotel campaigns versus Search campaigns for travel. Hotel campaigns multiply your base bid by the traveler's itinerary length of stay (LoS) but Search campaigns for travel (SCT) don't.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -658,19 +645,6 @@
       ]
     },
     {
-      "title": "The latest jobs in search marketing - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
-      "date": "2026-10-16T18:35:50+00:00",
-      "description": "The latest jobs in search marketing &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "ChatGPT Ads introduces new measurement tools and visual ad formats - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTEFsSFBwWE1UcUtnWmpoS25EY2p2aFNZVlJ3VjM5ajA5a3lyVHNrZlhIb3BIN2NsSGoxTjVpbTFFeVdWdzNYcnlxdTBOUlNIbFZZVURBREhMbmxwa2NIYUJIQTJGc0tzbXBjYUVUazdWMnVfOGl0aFVqYUp0RnhhaTdnWEZBSDdQMUtOclBKYWlFQVZjNHZQMk5lV096SGxScllHOA?oc=5",
       "date": "2026-10-16T16:30:09+00:00",
@@ -688,6 +662,32 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXo3LWU0bVdLN05oVUtJeGZzaUVGclFmS2lRcnNsdWg2SWpsSHV4Y250WGh0d2FtYUY2WlRMR21TaUoybG9CQlVQUnZNMk5TRVNpQURldEhJZWVOWDlIT3Y1RjhRLXVqcHZSSDVOckJtOHZENlVoVkN3VDRkLVoyT3ZPZWFOa1ZxWWZOaExuRE1tVE5QSk5fdGFBSDZVenRNU25ldVB5OFZWUWt3MFBmRGc5QzB1TEZ6?oc=5",
       "date": "2026-10-16T16:11:59+00:00",
       "description": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Human experience is your content’s biggest differentiator - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFlOdUIwZXdiRThXZDNuV2N0bWFYekUwMEpQZEhHQjZwX2ZEWm1Sa09Pd3NCYTFSSUthUmNld2ZTNldnRVpRWGo1N1BJcjJFRDR3UHhuQlBkM0FCR29tQ2t3aFR5QUtWS1FjOFRfRVUtNmpjNV95YnBUc0VFdFltSA?oc=5",
+      "date": "2026-10-16T12:00:00+00:00",
+      "description": "Human experience is your content’s biggest differentiator &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google updates AI Mode and AI Overview with more links, context, carousels, and information on creators - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSXBSeFFvZEdEZ2M3WXJKODJEN3pVWU4tR1NiaWFLMDVTNVRBaU1jS2tGR0JmcDRCOU9uWHhBakJDUzdsUmRzMFd0a1FiTWNNcDVlUDNCdWhhRFhocUdjQmh4ZXVLX0VTdkp2NzRyVXRtQUNvQ2RKajc3cDhxb2R0WlJMbWxTbkx6ZmpHSnFMWkZ4YUgxRUdqQWR0Z0QtbEFranlTbHBYTmJKbFVmYmc1Z2o3WXZHTk1sS0F5NU1Wc0g3M2xLczdBTGx2MjBtaVpIb2c?oc=5",
+      "date": "2026-10-15T16:00:00+00:00",
+      "description": "Google updates AI Mode and AI Overview with more links, context, carousels, and information on creators &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
