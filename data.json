@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-10-22T14:42:27.235818+00:00",
+  "updatedAt": "2026-10-22T15:15:39.087180+00:00",
   "items": [
+    {
+      "title": "Google Business Home - New Google Business Profiles Home",
+      "link": "https://www.seroundtable.com/google-business-home-42363.html",
+      "date": "2026-10-22T14:42:00+00:00",
+      "description": "Google has launched a new \"home\" for Google Business Profiles named Google Business Home. It is a beta, but I just received an email with access to the new Google Business Home. Google wrote, \"This beta experience brings together your Business Profile, Merchant Center, YouTube, and Ads accounts all in one place. With Business Home you can turn insights about your business and customers into quick, actionable steps to help you grow.\"",
+      "image": "https://images.seroundtable.com/google-business-home-start1-vLmQKytD.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Getting Indexed No Longer Means Getting Visited via @sejournal, @DuaneForrester",
       "link": "https://www.searchenginejournal.com/getting-indexed-no-longer-means-getting-visited/593412/",
@@ -11,6 +24,19 @@
       "tags": [
         "SEO",
         "AI Search"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: October 22, 2026",
+      "link": "https://www.seroundtable.com/recap-10-22-2026-42360.html",
+      "date": "2026-10-22T14:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today...",
+      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -203,6 +229,19 @@
       ]
     },
     {
+      "title": "Should your PPC landing pages change for AI Overviews? - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYmV2MG9BVExWeFVURFR2WmNWWm9PMFRZTUhoQmRkSHkzTXlic2ZDNHRjWU01VDloNHpZcHQtTXlYTzRoWFZOcU9fNElQM0JWRlZSVEVfejdDUkZndWdyNHB6S09hcHRxQlE3STZPVXBZc2tIN3ROeUgxRlhEcWFhRXFpTXNrLWxUMmVfT09PLUJpX0E?oc=5",
+      "date": "2026-10-21T15:00:00+00:00",
+      "description": "Should your PPC landing pages change for AI Overviews? &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "ChatGPT Ads to enable creative enhancements on October 30 - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON1NkMDg1ZTVmaGVBb2s5TkZzRkhHNy1VYXpzdkc1bUZRQ1JzRGJhblYxVWNwRjh3WERhb1VmNnhWS29MdGJPd2NDZ2dTRnhuem50YlY1ZU1PeXpuZXRhTzFzVXptazB1cmxmbGRFYWtvemFDa09qZWotaG9HWTk5b1QxQjJNU2VHTk55N0k0QzZwb2hGaDN2VA?oc=5",
       "date": "2026-10-21T14:17:06+00:00",
@@ -315,11 +354,24 @@
       ]
     },
     {
+      "title": "Does AI drive more direct traffic? - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85dnZkN1ZNQTk5OFF0WngydTVjQlc5TmtURmxPQi10amVUa0tGdzVPQXJ5ZVFLbDNsLVdkS1R0LXJib2M0LVNuMG9EYkNXWUlDZ29pWmd0ZXZSQ19LWXQ2UW0xMHpPVG5abndIcDZpcGY3ZWluWl9jWg?oc=5",
+      "date": "2026-10-21T12:00:00+00:00",
+      "description": "Does AI drive more direct traffic? &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Google Search Ranking Volatility & Chatter Heats Up October 20 & 21",
       "link": "https://www.seroundtable.com/google-search-ranking-volatility-42347.html",
       "date": "2026-10-21T11:51:00+00:00",
       "description": "Google Search rankings seem to be getting super volatile again, this is alongside the search industry chatter that has been spiking to unusual levels over the past 24 hours. As a reminder, the third-party tracking tools may still be struggling to track the volatility, but when I look at that, coupled with the industry chatter, I think we have an unconfirmed Google update going on.",
-      "image": "https://images.seroundtable.com/volatility/wincher-2026-10-21-lg.png?v=1792576847",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -346,32 +398,6 @@
       "date": "2026-10-21T11:31:00+00:00",
       "description": "Google Ads has updated the old \"Duration of the learning period for campaigns and what affects it\" to be renamed to \"About Smart Bidding learning.\" This is a major help document rewrite, not just a headline change. It mentions a new seven-day limit, a different explanation of what triggers and does not trigger learning and more operational advice.",
       "image": "https://images.seroundtable.com/google-ads-about-smart-bidding-xUs48wUN.gif",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Merchant Center Specifies Fast Shipping Days By Country",
-      "link": "https://www.seroundtable.com/google-merchant-center-fast-shipping-days-per-country-42335.html",
-      "date": "2026-10-21T11:21:00+00:00",
-      "description": "Google has updated its about fast shipping in Merchant Center help document to detail the days Google expects for you to qualify for fast shipping in Merchant Center. This is specific for listings in the AU, CA, IN, JP, GB, US.",
-      "image": "https://images.seroundtable.com/google-merchant-center-deliverytime-chart-gHqykyQb.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Updated Its URL Structure Best Practices For Hyphens In URLs",
-      "link": "https://www.seroundtable.com/google-hyphens-in-urls-doc-42346.html",
-      "date": "2026-10-21T11:11:00+00:00",
-      "description": "Google has made a minor change to its URL structure best practices for Google Search help document. Specifically, the \"Use hyphens to separate words\" section. The overall meaning of the section really did not change but Google did update it, so I wanted to point out the update.",
-      "image": "https://images.seroundtable.com/google-hyphen-separate-new-AlqfHZbX.png",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -484,7 +510,7 @@
       "link": "https://www.searchenginejournal.com/i-tested-deepseeks-new-search-api-heres-how-it-ranks-and-scores-websites/593408/",
       "date": "2026-10-20T14:00:13+00:00",
       "description": "DeepSeek’s date filters dropped every undated page, 11% of results. Six practical checks for SEOs testing the new Search API, from localization to logs. The post I Tested DeepSeek’s New Search Api, Here’s How It Ranks And Scores Websites appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/new-search-api-538.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -496,7 +522,7 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWmo5dFp3VG8zcEUzTlV4X19CWUtNYW1Rc1RkYVJoQlhSNGszN0pMWXRpU1NLSl8zUC1lNmg5VFBxT19RTktKM1Ruemc2dC0xX1NrcDVZSTBrTmNTYmVNLWNZcDRIaEVWRGw2US1FX2tPdTVuUnROU0VlZEF0SVNDb3duR1hFZHRIcmZiWA?oc=5",
       "date": "2026-10-20T14:00:00+00:00",
       "description": "How to build an AI-powered SEO outreach workflow &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -662,32 +688,6 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFlOdUIwZXdiRThXZDNuV2N0bWFYekUwMEpQZEhHQjZwX2ZEWm1Sa09Pd3NCYTFSSUthUmNld2ZTNldnRVpRWGo1N1BJcjJFRDR3UHhuQlBkM0FCR29tQ2t3aFR5QUtWS1FjOFRfRVUtNmpjNV95YnBUc0VFdFltSA?oc=5",
       "date": "2026-10-16T12:00:00+00:00",
       "description": "Human experience is your content’s biggest differentiator &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google updates AI Mode and AI Overview with more links, context, carousels, and information on creators - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSXBSeFFvZEdEZ2M3WXJKODJEN3pVWU4tR1NiaWFLMDVTNVRBaU1jS2tGR0JmcDRCOU9uWHhBakJDUzdsUmRzMFd0a1FiTWNNcDVlUDNCdWhhRFhocUdjQmh4ZXVLX0VTdkp2NzRyVXRtQUNvQ2RKajc3cDhxb2R0WlJMbWxTbkx6ZmpHSnFMWkZ4YUgxRUdqQWR0Z0QtbEFranlTbHBYTmJKbFVmYmc1Z2o3WXZHTk1sS0F5NU1Wc0g3M2xLczdBTGx2MjBtaVpIb2c?oc=5",
-      "date": "2026-10-15T16:00:00+00:00",
-      "description": "Google updates AI Mode and AI Overview with more links, context, carousels, and information on creators &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Meta introduces new brand advertising formats across Facebook and Instagram - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVEZJc3RGUTEybERydUp1MkZSUVdydG82V05fYVVoQVFLaWROaDYtTWxkR2JVaWtPODNfLWRWOU1vNUZGRVlLV3lxTVZSMDdxNG1VYm41OWZKTWM2X2wzTlI2NExhU0lCOTRRd3ZpVzQ0NklZOXdxQy1rMnZTQnZmNHViUGdLOU5KYzk2TVNSYUNrX3MwdFp0Qk4zOHZINFBidlFHR1YybHFRektMbXJQdQ?oc=5",
-      "date": "2026-10-15T15:33:52+00:00",
-      "description": "Meta introduces new brand advertising formats across Facebook and Instagram &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
