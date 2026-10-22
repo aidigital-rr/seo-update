@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-22T16:47:55.277784+00:00",
+  "updatedAt": "2026-10-22T17:37:56.153195+00:00",
   "items": [
+    {
+      "title": "OpenAI Details How ChatGPT’s LLM Ad Stack Selects And Serves Ads via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/openai-details-chatgpt-llm-ad-stack/593857/",
+      "date": "2026-10-22T16:58:09+00:00",
+      "description": "OpenAI explains how a custom LLM orchestrator interprets multi-turn conversations, nominates ads for auction, and drops placements that miss response deadlines. The post OpenAI Details How ChatGPT&#8217;s LLM Ad Stack Selects And Serves Ads appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Pichai Says AI Agents Will Click Through Pages And Use Protocols via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/pichai-ai-agents-browsing-protocols/593986/",
@@ -498,7 +510,7 @@
       "link": "https://www.searchenginejournal.com/chatgpt-search-can-draw-on-more-pages-after-a-cloudflare-pilot/593720/",
       "date": "2026-10-20T15:00:36+00:00",
       "description": "Cloudflare says its network signals helped OpenAI index hundreds of millions of new pages for ChatGPT search. The post ChatGPT Search Can Draw On More Pages After A Cloudflare Pilot appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-cloudflare-discovery-featured-3.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -569,22 +581,23 @@
       ]
     },
     {
-      "title": "What Personal AI Agents Like Meta Muse And OpenAI Dots Mean For SEO via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/personal-ai-agents-meta-muse-openai-dots-seo/592530/",
-      "date": "2026-10-20T12:00:04+00:00",
-      "description": "Meta's Muse and OpenAI's dots reach websites through connectors or cloud browsers, changing what robots.txt, on-page SEO, and analytics can tell you. The post What Personal AI Agents Like Meta Muse And OpenAI Dots Mean For SEO appeared first on Search Engine Journal .",
+      "title": "Generative Engine Optimization (GEO): What It Is & How to Do It in 2026 - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzVfRGlQSnVUV1N3cVc2Y1ZrOHkyWDhzT3RvdFlMSWxwbGg3S0dBX2ZvamVQb1NQZmFkei0wREJrUFV5OTNLWHhHaW5ZOU9VX1lobHhFbUJjOFRpQ1BvQTlxUUo2bUdGU3VkQlJpVVlWU09fR1RUbkppdkVnZVVUaUpITm0?oc=5",
+      "date": "2026-10-20T12:30:00+00:00",
+      "description": "Generative Engine Optimization (GEO): What It Is & How to Do It in 2026 &nbsp;&nbsp; Search Engine Land",
       "image": "",
-      "source": "Search Engine Journal",
+      "source": "Search Engine Land",
       "tags": [
         "SEO",
+        "Google",
         "AI Search"
       ]
     },
     {
-      "title": "Search Share Fell To 12% For North American Publishers: Chartbeat via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chartbeat-search-share-north-american-publishers-q3-2026/593673/",
-      "date": "2026-10-20T08:00:00+00:00",
-      "description": "Search's share of North American publisher pageviews fell to 12%, but a lower share alone doesn't show fewer search pageviews. The post Search Share Fell To 12% For North American Publishers: Chartbeat appeared first on Search Engine Journal .",
+      "title": "What Personal AI Agents Like Meta Muse And OpenAI Dots Mean For SEO via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/personal-ai-agents-meta-muse-openai-dots-seo/592530/",
+      "date": "2026-10-20T12:00:04+00:00",
+      "description": "Meta's Muse and OpenAI's dots reach websites through connectors or cloud browsers, changing what robots.txt, on-page SEO, and analytics can tell you. The post What Personal AI Agents Like Meta Muse And OpenAI Dots Mean For SEO appeared first on Search Engine Journal .",
       "image": "",
       "source": "Search Engine Journal",
       "tags": [
@@ -649,19 +662,6 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kQ1hneFFJYklZYUNvdnF6X3VyX3E2SGttLVhtaGxDYUhIbjBSeTNPWmR3Zk95bkNnUjBuRFcyTjUwOFhkaTRrWDVER2JiNFg1S1dITTZwcDNHdGJVMXd0SmNHRjZFQnpqUVVBdGw2UQ?oc=5",
       "date": "2026-10-19T15:00:00+00:00",
       "description": "Content pruning case study: Cutting 33% of pages that drove just 3% of clicks &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Why the For You Page deserves SEO attention - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIS0NmOVk2YUN0MUQwNV9aZmE3enBwbGEtZFJrWTZGamFLOVVsZFFBUzNOOFJ2NGUyaURONGdSd3E4c0xXZWF4clBua3VDLUxpbmhod0ZmWFp1VmFhTzB0eFRybFN2SmJIRE9jQjFMbEdGTjNuc2Vtc0tHdw?oc=5",
-      "date": "2026-10-19T13:00:00+00:00",
-      "description": "Why the For You Page deserves SEO attention &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
