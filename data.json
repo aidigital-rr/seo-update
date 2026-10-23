@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T15:18:56.498676+00:00",
+  "updatedAt": "2026-10-23T16:17:06.134347+00:00",
   "items": [
     {
       "title": "The Junior Hiring Gap Your 2027 Marketing Budget Should Name via @sejournal, @gregjarboe",
@@ -11,6 +11,19 @@
       "tags": [
         "SEO",
         "AI Search"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: October 23, 2026",
+      "link": "https://www.seroundtable.com/recap-10-23-2026-42368.html",
+      "date": "2026-10-23T14:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today...",
+      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -155,6 +168,19 @@
       ]
     },
     {
+      "title": "Step-by-step SEO marketing plan template - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DMGdNbEYtaGI2Y2Q5eEFraTA4SXVjZ0FiajFna3FWcnpJaE9sbGU3UFozZ3JSZlRnTURTY3dIQ09SQ21jSHZBLUo3ekM0SjJid0swMDVuWHUtenRDT1dLUUM2eWp0WWJFeEhzM2Ntcw?oc=5",
+      "date": "2026-10-22T17:01:35+00:00",
+      "description": "Step-by-step SEO marketing plan template &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Inside ChatGPT’s Ad Auction: How Relevance, Bids, And Memory Decide Placement via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/openai-details-chatgpt-llm-ad-stack/593857/",
       "date": "2026-10-22T16:58:09+00:00",
@@ -180,10 +206,23 @@
       ]
     },
     {
-      "title": "Pichai Says AI Agents Will Click Through Pages And Use Protocols via @sejournal, @MattGSouthern",
+      "title": "AI brand recommendations vary by platform and week: Study - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc3Nnb3VVbDVuaTBtSUtzT0d2V19wclNUaldOa0VGOVRFTWZNXzVfdF9TVzM0RTBmZkZJMzNyOW1EVEQ4eEcxM0dlZGVRWVQ2Tmx1b1BId1VNQWNWU3lCLTJDVFlKVXRKRHNWQUVpYlItekMxMTNEcENUYVA1bks1Q09BRklrUQ?oc=5",
+      "date": "2026-10-22T15:44:09+00:00",
+      "description": "AI brand recommendations vary by platform and week: Study &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google CEO Says Agents Will Hit Sites Two Ways, Pages And APIs via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/pichai-ai-agents-browsing-protocols/593986/",
       "date": "2026-10-22T15:36:05+00:00",
-      "description": "Google's CEO expects AI agents to reach websites by browsing pages and through protocols, and says protocols scale better but will take longer to develop. The post Pichai Says AI Agents Will Click Through Pages And Use Protocols appeared first on Search Engine Journal .",
+      "description": "Google's CEO expects AI agents to reach websites by browsing pages and through protocols, and says protocols scale better but will take longer to develop. The post Google CEO Says Agents Will Hit Sites Two Ways, Pages And APIs appeared first on Search Engine Journal .",
       "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-pichai-ai-agents-featured.jpg",
       "source": "Search Engine Journal",
       "tags": [
@@ -359,19 +398,6 @@
       ]
     },
     {
-      "title": "Google Ads Sponsored Products Expand To Include Product Attributes",
-      "link": "https://www.seroundtable.com/google-ads-product-attributes-42354.html",
-      "date": "2026-10-22T11:11:00+00:00",
-      "description": "Google Ads is testing showing Sponsored Products results that dynamically expand to show product attributes at the bottom of the ad units in a gray background color.",
-      "image": "https://images.seroundtable.com/google-ads-sponsored-products-attributes-load-gray-pIrEjApR.gif",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Explains The Limit Of Robots.txt For AI Content Use via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-illyes-robots-txt-crawling-ai-training/593957/",
       "date": "2026-10-22T10:58:04+00:00",
@@ -487,7 +513,7 @@
       "link": "https://www.searchenginejournal.com/critical-php-core-security-flaws-affect-websites-including-wordpress/593812/",
       "date": "2026-10-21T13:46:10+00:00",
       "description": "PHP's emergency security fixes are available today, October 21, and website owners should ask their hosts to install them immediately. The post Critical PHP Core Security Flaws Affect Websites, Including WordPress appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-bracket-urls-code-2459907273.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -499,7 +525,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQWZESlhUZUNJNE04d1VJcEdXOXNiMmVkMTJ0WVE5S0xSOU5la3NiSFNxeFZ5LWVWallEaWxXeElWT0JhajZSSHUyMHFKMnA0WGJ1UWFROGExQ0RQZjNoeHFPM3pwZzkySUU1SWJVbXNReHh3TVJiNG1nSngzaUE0OVVZRkgxd3RISlA5S0FlNTF5U3B4VDFxRVlmb2tHdw?oc=5",
       "date": "2026-10-21T13:26:52+00:00",
       "description": "Google has updated its document on how to block Google Search &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -662,32 +688,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVnZDUjhEU1hmTzVIX1JLanJrdk84VXVDNjNDc1p1OHdCOGZhOFVhUWU3X3NTM2luNG5XdGkwbUUwTTJyYXhNRlkydjhXZWttUWVUZzM5NUNZa0xqdnlieVFQM3MwTVgxYzJJOTRpVk41OV92YjZQWnhLRDhwMmJoSmJCRGI2YnZDWkFIQnhyNDRHcmtj?oc=5",
       "date": "2026-10-19T19:41:10+00:00",
       "description": "Search Engine Land Awards 2026: Complete finalists list &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to develop your brand’s tone of voice (Examples + template) - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5idUtQOU5rRTRBOGRiVm84MnRCX3lMbm9DSnc2eUVXY3hTUFdLRFNVUlFFT21ZOGpSeFphaWNFeWNFVWdROE0tSjgwQlFud0I3aXBVeUh6X0cwcEtqdGpWbm5SS0Y?oc=5",
-      "date": "2026-10-19T17:15:36+00:00",
-      "description": "How to develop your brand’s tone of voice (Examples + template) &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Local Services Ads removes featured professionals - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMXNZQkVONXgwYkxuT2cxUEI0VDQwek1HVGoyRHVSaTU5dE1fSWRzUy1fMjNqdG5tazQyZU9kRmI2clJUdU11NnF1N2tDeEc0aXIzTEwtWDgxcEV4Q0NTS0FyOHlJemhnZGs2dENGbFdjTnBvTzhEOUNhOHNBS3BXZVhlcnhoaFlOOGZCdWsteXllVFdTLS1V?oc=5",
-      "date": "2026-10-19T15:07:09+00:00",
-      "description": "Google Local Services Ads removes featured professionals &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
