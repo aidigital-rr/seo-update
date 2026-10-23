@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T08:42:42.500218+00:00",
+  "updatedAt": "2026-10-23T09:15:06.585535+00:00",
   "items": [
     {
       "title": "Google Ads adds new image and video sourcing options to Performance Max - Search Engine Land",
@@ -119,6 +119,19 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hMXlZcnYyR3A5YkpKYklyTTZhNV91aEJGR2xhQUc3QlNTdTQxRk5UUWo3UmpBUjQ4cmFxTUZzYU5VVHh3Vnk5NkxhX1RVVGZfOUpBT1BFM0NUaWlHazVxU2NiMkFyZEluV1Nr?oc=5",
       "date": "2026-10-22T14:00:00+00:00",
       "description": "Why the order of technical SEO fixes matters &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Merchant Center’s 6 conversational attributes explained - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVnZRUkVqZXRCX1hndS0xamVkZmY2S3F0RENpcWpIT0VnY1hYby11dVpaUXY1elZyNk1YeXZvQk1VNElOc0RKdGhEalZyT1JuUDBoRTVxTEotbFFFUzV2ck5Bc3JaRUhacXdmWk1kNlUxX2lmdTVFdi1JUXJjR3ItaDlUNjVKcUloU19PbHhUY2NnYTlBelpvVkNn?oc=5",
+      "date": "2026-10-22T13:00:00+00:00",
+      "description": "Google Merchant Center’s 6 conversational attributes explained &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -498,7 +511,7 @@
       "link": "https://www.seroundtable.com/google-search-ranking-volatility-42347.html",
       "date": "2026-10-21T11:51:00+00:00",
       "description": "Google Search rankings seem to be getting super volatile again, this is alongside the search industry chatter that has been spiking to unusual levels over the past 24 hours. As a reminder, the third-party tracking tools may still be struggling to track the volatility, but when I look at that, coupled with the industry chatter, I think we have an unconfirmed Google update going on.",
-      "image": "https://images.seroundtable.com/volatility/wincher-2026-10-21-lg.png?v=1792576847",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -649,19 +662,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWmo5dFp3VG8zcEUzTlV4X19CWUtNYW1Rc1RkYVJoQlhSNGszN0pMWXRpU1NLSl8zUC1lNmg5VFBxT19RTktKM1Ruemc2dC0xX1NrcDVZSTBrTmNTYmVNLWNZcDRIaEVWRGw2US1FX2tPdTVuUnROU0VlZEF0SVNDb3duR1hFZHRIcmZiWA?oc=5",
       "date": "2026-10-20T14:00:00+00:00",
       "description": "How to build an AI-powered SEO outreach workflow &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Generative Engine Optimization (GEO): What It Is & How to Do It in 2026 - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzVfRGlQSnVUV1N3cVc2Y1ZrOHkyWDhzT3RvdFlMSWxwbGg3S0dBX2ZvamVQb1NQZmFkei0wREJrUFV5OTNLWHhHaW5ZOU9VX1lobHhFbUJjOFRpQ1BvQTlxUUo2bUdGU3VkQlJpVVlWU09fR1RUbkppdkVnZVVUaUpITm0?oc=5",
-      "date": "2026-10-20T12:30:00+00:00",
-      "description": "Generative Engine Optimization (GEO): What It Is & How to Do It in 2026 &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
