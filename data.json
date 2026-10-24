@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T08:06:56.521180+00:00",
+  "updatedAt": "2026-10-24T08:38:23.380680+00:00",
   "items": [
     {
       "title": "GEO Is A Distraction: Here’s Where The Real Opportunity Is via @sejournal, @marie_haynes",
@@ -358,6 +358,19 @@
       ]
     },
     {
+      "title": "Build something so valuable that Google looks stupid for not ranking it - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdVp6RF8tSFpObG00QTl6UExXbmwyQmxXRmxsME5uVW9zaFNxY0ZCZF9rd2w5bkcxejhkT3dJNUIzSWFja252VUpuVUlZaGdYN1N4TDhMTjNNRWdESjNacmRGUW85N3pHakkwNmlVdHI0czZvUzBoNi0zNWU0WWtmTQ?oc=5",
+      "date": "2026-10-22T12:00:00+00:00",
+      "description": "Build something so valuable that Google looks stupid for not ranking it &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Google Search Tests Layout Change For Local Knowledge Panel",
       "link": "https://www.seroundtable.com/google-local-panel-layout-42356.html",
       "date": "2026-10-22T11:51:00+00:00",
@@ -483,11 +496,24 @@
       ]
     },
     {
+      "title": "Should your PPC landing pages change for AI Overviews? - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYmV2MG9BVExWeFVURFR2WmNWWm9PMFRZTUhoQmRkSHkzTXlic2ZDNHRjWU01VDloNHpZcHQtTXlYTzRoWFZOcU9fNElQM0JWRlZSVEVfejdDUkZndWdyNHB6S09hcHRxQlE3STZPVXBZc2tIN3ROeUgxRlhEcWFhRXFpTXNrLWxUMmVfT09PLUJpX0E?oc=5",
+      "date": "2026-10-21T15:00:00+00:00",
+      "description": "Should your PPC landing pages change for AI Overviews? &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "ChatGPT Ads to enable creative enhancements on October 30 - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON1NkMDg1ZTVmaGVBb2s5TkZzRkhHNy1VYXpzdkc1bUZRQ1JzRGJhblYxVWNwRjh3WERhb1VmNnhWS29MdGJPd2NDZ2dTRnhuem50YlY1ZU1PeXpuZXRhTzFzVXptazB1cmxmbGRFYWtvemFDa09qZWotaG9HWTk5b1QxQjJNU2VHTk55N0k0QzZwb2hGaDN2VA?oc=5",
       "date": "2026-10-21T14:17:06+00:00",
       "description": "ChatGPT Ads to enable creative enhancements on October 30 &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -500,7 +526,7 @@
       "link": "https://www.searchenginejournal.com/wiretapping-the-serp-reverse-engineering-network-data/593419/",
       "date": "2026-10-21T14:00:14+00:00",
       "description": "A beginner’s guide to exploring browser network data, how it uncovered a $13,337 Google exploit, and what it reveals about Google and ChatGPT. The post Wiretapping The SERP: Reverse Engineering Network Data appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/data-network-377.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -508,10 +534,10 @@
       ]
     },
     {
-      "title": "Critical PHP Core Security Flaws Affect Websites, Including WordPress via @sejournal, @vahandev",
+      "title": "Critical PHP Core Vulnerabilities Affect Websites, Including WordPress via @sejournal, @vahandev",
       "link": "https://www.searchenginejournal.com/critical-php-core-security-flaws-affect-websites-including-wordpress/593812/",
       "date": "2026-10-21T13:46:10+00:00",
-      "description": "PHP's emergency security fixes are available today, October 21, and website owners should ask their hosts to install them immediately. The post Critical PHP Core Security Flaws Affect Websites, Including WordPress appeared first on Search Engine Journal .",
+      "description": "PHP's emergency security fixes are available today, October 21, and website owners should ask their hosts to install them immediately. The post Critical PHP Core Vulnerabilities Affect Websites, Including WordPress appeared first on Search Engine Journal .",
       "image": "",
       "source": "Search Engine Journal",
       "tags": [
@@ -632,6 +658,19 @@
       ]
     },
     {
+      "title": "Google expands financial services ad verification to the US and Canada - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWR5dWp2bnMwNkFBRkRCM3RWajNvZnBIYURpNnpQQ0trenJyMDNWczF3cndXNWEwRGx2UDcyUkJjdHFGVmFlem93eUZkTkhwYWk5SWRVM01xU28zRHZIb21Nb29CclhoNDdsbE9zb3AxS2dJUlMyaWlWcVRsc2FsM1U3Qy1NWDRGaFFQZzdHSE1rR3FCcmk4TE9uT2tEcXY3Z0FHdno2dTVsUQ?oc=5",
+      "date": "2026-10-20T15:31:59+00:00",
+      "description": "Google expands financial services ad verification to the US and Canada &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "ChatGPT drop in UTM tracking was a bug - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2E4Zmdia2xzMzNkdjVuS1hFU2pfdWFianUwbjFKTTBXOTVNN29PYnd2eDRDUjJQbEhuUHRXRU1yWmZCN3Etdl8ta0RWTmRCTDJjWGlIRXJvSUtaVUw2Y2twRS1Tcm9zRXQwelZ6OWVvZ0htcVI2MkhNTnhSaTlyMnNqSng1b0g1eE9zTmhKbjcweEhUOUZkTlN2Znp4WDhaM3h5amxBZXlfMWJGOVk5VmRQdFlGTlhw?oc=5",
       "date": "2026-10-20T15:22:36+00:00",
@@ -649,45 +688,6 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMVFMwQ3paQkJCX3RQUmFqZTJuMFdiQWhPVnZFeTc4LWgxTUp2QkNONmt1dGlEQ3dJajczOUJLUGROOXEtcl9OdmZIZEhYLVRDLTA0WVVqSlp5OG1zZnN6eFQ0aFJlUUZjWTlR?oc=5",
       "date": "2026-10-20T15:00:00+00:00",
       "description": "Google’s clutterScore: The hidden SEO risk bloggers can’t afford to ignore &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to build an AI-powered SEO outreach workflow - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWmo5dFp3VG8zcEUzTlV4X19CWUtNYW1Rc1RkYVJoQlhSNGszN0pMWXRpU1NLSl8zUC1lNmg5VFBxT19RTktKM1Ruemc2dC0xX1NrcDVZSTBrTmNTYmVNLWNZcDRIaEVWRGw2US1FX2tPdTVuUnROU0VlZEF0SVNDb3duR1hFZHRIcmZiWA?oc=5",
-      "date": "2026-10-20T14:00:00+00:00",
-      "description": "How to build an AI-powered SEO outreach workflow &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to prioritize SEO content updates and new opportunities - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdFh5dXJVZmZabFhYSC1ZTktxZmpKUnFQOVRaMVdBaHotY0l0NTdWWXlmOVFFN0tRbjd5U28ya0RHeGV6bkNYRXoyelNwTXo0QS1qWjc1clFIcndvTTJVUGlXVlZsTjNEOEg1Q0c1VUJiZDFLcUdvRlRrbEhNZGYtSFlQS0M1YWMycUVrckpUNktXMjFFQmtmUkhQdw?oc=5",
-      "date": "2026-10-20T13:00:00+00:00",
-      "description": "How to prioritize SEO content updates and new opportunities &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Generative Engine Optimization (GEO): What It Is & How to Do It in 2026 - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzVfRGlQSnVUV1N3cVc2Y1ZrOHkyWDhzT3RvdFlMSWxwbGg3S0dBX2ZvamVQb1NQZmFkei0wREJrUFV5OTNLWHhHaW5ZOU9VX1lobHhFbUJjOFRpQ1BvQTlxUUo2bUdGU3VkQlJpVVlWU09fR1RUbkppdkVnZVVUaUpITm0?oc=5",
-      "date": "2026-10-20T12:30:00+00:00",
-      "description": "Generative Engine Optimization (GEO): What It Is & How to Do It in 2026 &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
