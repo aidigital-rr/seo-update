@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-26T06:52:06.034097+00:00",
+  "updatedAt": "2026-10-26T07:56:47.577504+00:00",
   "items": [
+    {
+      "title": "Tactical Solutions For The Biggest AI Search Measurement Challenges via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/tactical-solutions-for-the-biggest-ai-search-measurement-challenges-recap/593023/",
+      "date": "2026-10-26T07:45:18+00:00",
+      "description": "Measure AI search beyond clicks with STAT’s Tom Capper: track brand presence, investigate citations, and improve your attribution story. The post Tactical Solutions For The Biggest AI Search Measurement Challenges appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/stat-ai-search-measurement-on-demand-sej.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Google Search Ranking Volatility Gets Heated October 24th",
       "link": "https://www.seroundtable.com/google-search-ranking-volatility-heated-42373.html",
@@ -499,7 +511,7 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON1NkMDg1ZTVmaGVBb2s5TkZzRkhHNy1VYXpzdkc1bUZRQ1JzRGJhblYxVWNwRjh3WERhb1VmNnhWS29MdGJPd2NDZ2dTRnhuem50YlY1ZU1PeXpuZXRhTzFzVXptazB1cmxmbGRFYWtvemFDa09qZWotaG9HWTk5b1QxQjJNU2VHTk55N0k0QzZwb2hGaDN2VA?oc=5",
       "date": "2026-10-21T14:17:06+00:00",
       "description": "ChatGPT Ads to enable creative enhancements on October 30 &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -560,31 +572,6 @@
       "link": "https://www.searchenginejournal.com/china-wrote-the-first-geo-rulebook-after-a-tv-scandal-western-seos-should-take-notes/593199/",
       "date": "2026-10-21T12:00:37+00:00",
       "description": "China's five-part GEO standard offers Western SEOs a practical framework for measuring AI visibility, evaluating vendors, and separating optimization from manipulation. The post China Wrote The First GEO Rulebook After A TV Scandal – Western SEOs Should Take Notes appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Does AI drive more direct traffic? - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85dnZkN1ZNQTk5OFF0WngydTVjQlc5TmtURmxPQi10amVUa0tGdzVPQXJ5ZVFLbDNsLVdkS1R0LXJib2M0LVNuMG9EYkNXWUlDZ29pWmd0ZXZSQ19LWXQ2UW0xMHpPVG5abndIcDZpcGY3ZWluWl9jWg?oc=5",
-      "date": "2026-10-21T12:00:00+00:00",
-      "description": "Does AI drive more direct traffic? &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Details Emerge About Google Discover’s SDF Freshness Algorithm via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/details-emerge-about-google-discovers-sdf-freshness-algorithm/593774/",
-      "date": "2026-10-21T10:38:54+00:00",
-      "description": "New details on Google Discover's SDF gives publishers insights into planning the right mix of content that will rank better. The post Details Emerge About Google Discover&#8217;s SDF Freshness Algorithm appeared first on Search Engine Journal .",
       "image": "",
       "source": "Search Engine Journal",
       "tags": [
@@ -740,6 +727,19 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWNHUkRGaDZtaE1Wa1dFQkZYcGJGZHpneW56LTBycXFjV3hPVUhnVU1Yc2IzUUJWSDZvUWNZV3Y0WGVYcU1Qc25oQnRXcF9yZGJSZzd3ejRjNmxyVG5odjVyNmwycWN6QlVKb2xqS0hTdGxpMGw2alpMcEtMaW1xV1REUDFseWFPYlowWmhR?oc=5",
       "date": "2026-09-11T07:00:00+00:00",
       "description": "Google Analytics launches customizable Dashboards &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google says DMA changes in EU resulted in worse degradation of search quality ever - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaXdrTHE0Y2J3YnVLTHVDUkdnUXpUQnBnOURKQXJkNGlPVGZyZVB1ZXRlS2xUMy1NSnF3SHlxRjZVR1NxN2NBSXJScUFzbk9BdVp2TDExU25UalRDYmt2MGl3WkxtWU9USUtIM2xORGdWdi0zRng4M3p2d1B1RjhxOC1WMHJySHhkWHF1cHc0anZtZjBXQ3JHd0pFRXY2ODVDMHZEQmVPTWJKMmw4dVNmQ0lSdDNaRFlVWXc?oc=5",
+      "date": "2026-09-08T07:00:00+00:00",
+      "description": "Google says DMA changes in EU resulted in worse degradation of search quality ever &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
