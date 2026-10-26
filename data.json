@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T05:48:40.279466+00:00",
+  "updatedAt": "2026-10-26T06:52:06.034097+00:00",
   "items": [
     {
       "title": "Google Search Ranking Volatility Gets Heated October 24th",
@@ -35,6 +35,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How to launch an awesome SEO campaign - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11T2RHZTU5dFpJQ2hXXzdTLWxCem95UGpVYXZ5ODhEeF9jSk5VeWY1bGM4U3BkdlM0azRISGRXbFFuaS1SZW9VN3lkSmtCSmNiUnExWUF6ck5IMDQ?oc=5",
+      "date": "2026-10-23T17:08:17+00:00",
+      "description": "How to launch an awesome SEO campaign &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -499,7 +512,7 @@
       "link": "https://www.searchenginejournal.com/wiretapping-the-serp-reverse-engineering-network-data/593419/",
       "date": "2026-10-21T14:00:14+00:00",
       "description": "A beginner’s guide to exploring browser network data, how it uncovered a $13,337 Google exploit, and what it reveals about Google and ChatGPT. The post Wiretapping The SERP: Reverse Engineering Network Data appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/data-network-377.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -727,19 +740,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWNHUkRGaDZtaE1Wa1dFQkZYcGJGZHpneW56LTBycXFjV3hPVUhnVU1Yc2IzUUJWSDZvUWNZV3Y0WGVYcU1Qc25oQnRXcF9yZGJSZzd3ejRjNmxyVG5odjVyNmwycWN6QlVKb2xqS0hTdGxpMGw2alpMcEtMaW1xV1REUDFseWFPYlowWmhR?oc=5",
       "date": "2026-09-11T07:00:00+00:00",
       "description": "Google Analytics launches customizable Dashboards &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google says DMA changes in EU resulted in worse degradation of search quality ever - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaXdrTHE0Y2J3YnVLTHVDUkdnUXpUQnBnOURKQXJkNGlPVGZyZVB1ZXRlS2xUMy1NSnF3SHlxRjZVR1NxN2NBSXJScUFzbk9BdVp2TDExU25UalRDYmt2MGl3WkxtWU9USUtIM2xORGdWdi0zRng4M3p2d1B1RjhxOC1WMHJySHhkWHF1cHc0anZtZjBXQ3JHd0pFRXY2ODVDMHZEQmVPTWJKMmw4dVNmQ0lSdDNaRFlVWXc?oc=5",
-      "date": "2026-09-08T07:00:00+00:00",
-      "description": "Google says DMA changes in EU resulted in worse degradation of search quality ever &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
