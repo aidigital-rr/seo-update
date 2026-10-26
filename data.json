@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-26T21:13:30.190291+00:00",
+  "updatedAt": "2026-10-26T21:41:26.339594+00:00",
   "items": [
+    {
+      "title": "Google Ads Expands Customer Lifecycle Goals In Search And Shopping via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-ads-expands-customer-lifecycle-goals-in-search-and-shopping/594458/",
+      "date": "2026-10-26T21:24:39+00:00",
+      "description": "Google Ads expands customer lifecycle goals with High Value acquisition for Shopping and retention modes across Search, Shopping, and Performance Max. The post Google Ads Expands Customer Lifecycle Goals In Search And Shopping appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-ads-customer-targeting-471.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Google Adds Indexing Advice For Shareable Pages To Spam Guide via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-indexing-advice-shareable-pages-spam-guide/594451/",
@@ -43,6 +55,19 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQW0tTnp5UkRkYnJ1WXlVZHBhR0JkMEFfbElzQ2JLV2YzRER6Q3g5bEV2bUpYZnJLX01sdUNQOXN6bkl3MVFMcWhRTUZ2LTlaSGl4YVFfazZJUGlsR05LNDhfNHZVT1VqM2NDYndqRWFDd1AzQ0JYTzF3cEhpblI3UE80TFZDNzZ2dVpPT1FTZ2FUMmV5eDZQT09jNA?oc=5",
       "date": "2026-10-26T16:51:15+00:00",
       "description": "Google confirms AI-generated review summaries in Search ads &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Cloudflare will upend the AI visibility space - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8taDVONXhEYmxMMFZJSUxtSmQxYkdLMXg4WmZQMUNfcUtiZFFYeVVVbERqMDNHeGMyQk9Ob2FaeGR5UEdiWFBvTTBVRE5ROTRlTEVwOXJYX294TWNSU0ZHTjBUc1pHVUpqaEJKbDhKaThXNE9EMFdCV1pHNWw?oc=5",
+      "date": "2026-10-26T16:00:00+00:00",
+      "description": "Cloudflare will upend the AI visibility space &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -488,7 +513,7 @@
       "link": "https://www.seroundtable.com/google-adsense-videos-policy-update-42366.html",
       "date": "2026-10-23T11:15:00+00:00",
       "description": "Google updated its AdSense Video inventory restrictions policy to remove the placement requirement and the scroll-to-sticky requirements yesterday, October 22nd. Google removed this line from the policy, \"For In-stream or Accompanying Content placements that transition to a sticky placement, the video player must start in the main content and only transition as a user scrolls the video player off the page.\"",
-      "image": "https://images.seroundtable.com/adsense-video-policy-updates-infographic-H5V5yuyF.png",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -501,7 +526,7 @@
       "link": "https://www.searchenginejournal.com/ask-an-seo-do-comparison-posts-roundups-listicles-still-have-any-value/585084/",
       "date": "2026-10-22T19:00:47+00:00",
       "description": "Roundups and comparison posts can still win customers, build trust, and grow audiences when you create them for readers instead of rankings. The post Do Comparison Posts, Roundups &#038; Listicles Still Have Any Value? – Ask An SEO appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2024/06/ask-an-seo-adam-riemer-376.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -659,35 +684,10 @@
       ]
     },
     {
-      "title": "UpdraftPlus WordPress Plugin Security Breach Enables Backdoor Attacks via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/updraftplus-wordpress-plugin-security-breach-enables-backdoor-attacks/593909/",
-      "date": "2026-10-21T22:03:33+00:00",
-      "description": "Hackers installed backdoors on WordPress sites using UpdraftPlus, putting over 3 million active installations at risk. The post UpdraftPlus WordPress Plugin Security Breach Enables Backdoor Attacks appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "ChatGPT sends less than 1% of Google’s traffic: Data - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY1pZbFQtbnZzUktiWnlBSUpJMHBTUDQ0NElLZG91RDZfYWZGRnY1X214aGhiZU9yaEJtZ0tmOXNKLXFBTFlqcFF5dE5neWJCMXhocTRmVTdOZFdXUnBleFRBZThVaEJOQVc3VF9XaFZEem81NXE3YS1yQkhlODZtMg?oc=5",
       "date": "2026-10-21T17:23:09+00:00",
       "description": "ChatGPT sends less than 1% of Google’s traffic: Data &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Should your PPC landing pages change for AI Overviews? - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYmV2MG9BVExWeFVURFR2WmNWWm9PMFRZTUhoQmRkSHkzTXlic2ZDNHRjWU01VDloNHpZcHQtTXlYTzRoWFZOcU9fNElQM0JWRlZSVEVfejdDUkZndWdyNHB6S09hcHRxQlE3STZPVXBZc2tIN3ROeUgxRlhEcWFhRXFpTXNrLWxUMmVfT09PLUJpX0E?oc=5",
-      "date": "2026-10-21T15:00:00+00:00",
-      "description": "Should your PPC landing pages change for AI Overviews? &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
