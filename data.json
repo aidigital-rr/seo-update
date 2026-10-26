@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T07:56:47.577504+00:00",
+  "updatedAt": "2026-10-26T08:51:22.686780+00:00",
   "items": [
     {
       "title": "Tactical Solutions For The Biggest AI Search Measurement Challenges via @sejournal, @lorenbaker",
@@ -106,6 +106,19 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNkRyTW9mRVA2djZoN2Fudko0M1RmQUNxTUlkNE5ZT1h3dGxXUXZjSE9tS0g4VG8xYTV5aXFVUTd6QjE4Mzl0QnRJTUJSQncwellPMVV0MnhvZ3E0ODNPeWVmODhfaVc4bi1WM1g4SUtPM0lzeDY3ei0xMERoSU51YzkzVDVFZGMzYlVkdjdR?oc=5",
       "date": "2026-10-23T14:00:00+00:00",
       "description": "Category vs. product pages: Which does Google favor? &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Your CRM might be your most underrated keyword research tool - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTkJVa3hKMjFzTTFQWFBwVThvZml0amh1cXVNZk90bHZocU9pbXJ1alBrQXVGODI4WGxaRGZpX1lKRi16Tm5UdVpBTFR0QWFfbEUyWGJncktkcUw5TmllY25TUk1vbEhDZlZqUmVn?oc=5",
+      "date": "2026-10-23T13:00:00+00:00",
+      "description": "Your CRM might be your most underrated keyword research tool &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -307,6 +320,19 @@
       ]
     },
     {
+      "title": "AI brand recommendations vary by platform and week: Study - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc3Nnb3VVbDVuaTBtSUtzT0d2V19wclNUaldOa0VGOVRFTWZNXzVfdF9TVzM0RTBmZkZJMzNyOW1EVEQ4eEcxM0dlZGVRWVQ2Tmx1b1BId1VNQWNWU3lCLTJDVFlKVXRKRHNWQUVpYlItekMxMTNEcENUYVA1bks1Q09BRklrUQ?oc=5",
+      "date": "2026-10-22T15:44:09+00:00",
+      "description": "AI brand recommendations vary by platform and week: Study &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Google CEO Says Agents Will Hit Sites Two Ways, Pages And APIs via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/pichai-ai-agents-browsing-protocols/593986/",
       "date": "2026-10-22T15:36:05+00:00",
@@ -315,6 +341,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "When a key search team member leaves: How to maintain continuity - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR29zWXh2VHM1dVVFRnV6QlBIT3lka1ptVTdzZkNtLXh2TnViaHJBN0dvTU0zVDhzQ1pfb3JoSWpTUnJiUXpRMzdUT1ZsVVNTdmw2cjR1b1pDMHJnOHQ4RmVVUEJ5bFV6QWVpZ0o0cld4SDFnemN5QXhNdGoxMkJvTW9R?oc=5",
+      "date": "2026-10-22T15:00:00+00:00",
+      "description": "When a key search team member leaves: How to maintain continuity &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -474,7 +513,7 @@
       "link": "https://www.searchenginejournal.com/google-reminds-sites-to-serve-503s-during-server-downtime/593873/",
       "date": "2026-10-21T20:19:40+00:00",
       "description": "Taking a site offline to patch PHP? Serve a 503 from outside PHP and keep robots.txt reachable. Days of server errors may get URLs dropped. The post Google Reminds Sites To Serve A 503 During PHP Patch Downtime appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/php-maintenance-503-593873-final.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -486,7 +525,7 @@
       "link": "https://www.searchenginejournal.com/rank-tracking-broke-in-september-the-future-is-measured-by-brand-revenue/592783/",
       "date": "2026-10-21T19:00:57+00:00",
       "description": "Measure SEO beyond keyword positions with brand visibility, AI citations, and revenue as rank tracking outages expose gaps in traditional reporting. The post Rank Tracking Broke In September – The Future Is Measured By Brand &#038; Revenue appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/rank-tracking-447.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -498,7 +537,7 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY1pZbFQtbnZzUktiWnlBSUpJMHBTUDQ0NElLZG91RDZfYWZGRnY1X214aGhiZU9yaEJtZ0tmOXNKLXFBTFlqcFF5dE5neWJCMXhocTRmVTdOZFdXUnBleFRBZThVaEJOQVc3VF9XaFZEem81NXE3YS1yQkhlODZtMg?oc=5",
       "date": "2026-10-21T17:23:09+00:00",
       "description": "ChatGPT sends less than 1% of Google’s traffic: Data &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -576,19 +615,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google expands financial services ad verification to the US and Canada - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWR5dWp2bnMwNkFBRkRCM3RWajNvZnBIYURpNnpQQ0trenJyMDNWczF3cndXNWEwRGx2UDcyUkJjdHFGVmFlem93eUZkTkhwYWk5SWRVM01xU28zRHZIb21Nb29CclhoNDdsbE9zb3AxS2dJUlMyaWlWcVRsc2FsM1U3Qy1NWDRGaFFQZzdHSE1rR3FCcmk4TE9uT2tEcXY3Z0FHdno2dTVsUQ?oc=5",
-      "date": "2026-10-20T15:31:59+00:00",
-      "description": "Google expands financial services ad verification to the US and Canada &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
@@ -720,32 +746,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "Google Analytics launches customizable Dashboards - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWNHUkRGaDZtaE1Wa1dFQkZYcGJGZHpneW56LTBycXFjV3hPVUhnVU1Yc2IzUUJWSDZvUWNZV3Y0WGVYcU1Qc25oQnRXcF9yZGJSZzd3ejRjNmxyVG5odjVyNmwycWN6QlVKb2xqS0hTdGxpMGw2alpMcEtMaW1xV1REUDFseWFPYlowWmhR?oc=5",
-      "date": "2026-09-11T07:00:00+00:00",
-      "description": "Google Analytics launches customizable Dashboards &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google says DMA changes in EU resulted in worse degradation of search quality ever - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaXdrTHE0Y2J3YnVLTHVDUkdnUXpUQnBnOURKQXJkNGlPVGZyZVB1ZXRlS2xUMy1NSnF3SHlxRjZVR1NxN2NBSXJScUFzbk9BdVp2TDExU25UalRDYmt2MGl3WkxtWU9USUtIM2xORGdWdi0zRng4M3p2d1B1RjhxOC1WMHJySHhkWHF1cHc0anZtZjBXQ3JHd0pFRXY2ODVDMHZEQmVPTWJKMmw4dVNmQ0lSdDNaRFlVWXc?oc=5",
-      "date": "2026-09-08T07:00:00+00:00",
-      "description": "Google says DMA changes in EU resulted in worse degradation of search quality ever &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     },
     {
