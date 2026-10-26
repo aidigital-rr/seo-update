@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T01:00:57.968984+00:00",
+  "updatedAt": "2026-10-26T01:51:12.605996+00:00",
   "items": [
     {
       "title": "Google Search Ranking Volatility Gets Heated October 24th",
@@ -85,6 +85,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How to write listicles that earn trust and help readers decide - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa2FyTGFOZnZOSDNYRlBLUjFUdVdEVzJscmZ3MG85NUtFNmNlTEpfazVEZ1hVX3NpMmpRZGUwdjRkYjVxYkxYMUJ0WDZhSm5UZUQxOTliaVIyeUE4VmlBS3RocEkxUDBUVWE2T1BGTVlLdmQzcXhRRnBVREJWd3Zsbg?oc=5",
+      "date": "2026-10-23T12:00:00+00:00",
+      "description": "How to write listicles that earn trust and help readers decide &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -495,7 +508,7 @@
       "link": "https://www.searchenginejournal.com/china-wrote-the-first-geo-rulebook-after-a-tv-scandal-western-seos-should-take-notes/593199/",
       "date": "2026-10-21T12:00:37+00:00",
       "description": "China's five-part GEO standard offers Western SEOs a practical framework for measuring AI visibility, evaluating vendors, and separating optimization from manipulation. The post China Wrote The First GEO Rulebook After A TV Scandal – Western SEOs Should Take Notes appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/china-geo-rulebook-780.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -584,19 +597,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXo3LWU0bVdLN05oVUtJeGZzaUVGclFmS2lRcnNsdWg2SWpsSHV4Y250WGh0d2FtYUY2WlRMR21TaUoybG9CQlVQUnZNMk5TRVNpQURldEhJZWVOWDlIT3Y1RjhRLXVqcHZSSDVOckJtOHZENlVoVkN3VDRkLVoyT3ZPZWFOa1ZxWWZOaExuRE1tVE5QSk5fdGFBSDZVenRNU25ldVB5OFZWUWt3MFBmRGc5QzB1TEZ6?oc=5",
       "date": "2026-10-16T07:00:00+00:00",
       "description": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Meta introduces new brand advertising formats across Facebook and Instagram - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVEZJc3RGUTEybERydUp1MkZSUVdydG82V05fYVVoQVFLaWROaDYtTWxkR2JVaWtPODNfLWRWOU1vNUZGRVlLV3lxTVZSMDdxNG1VYm41OWZKTWM2X2wzTlI2NExhU0lCOTRRd3ZpVzQ0NklZOXdxQy1rMnZTQnZmNHViUGdLOU5KYzk2TVNSYUNrX3MwdFp0Qk4zOHZINFBidlFHR1YybHFRektMbXJQdQ?oc=5",
-      "date": "2026-10-15T07:00:00+00:00",
-      "description": "Meta introduces new brand advertising formats across Facebook and Instagram &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -736,6 +736,19 @@
       ]
     },
     {
+      "title": "Google is dynamically expanding AI Overviews for some queries - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOVp2R1ZacHdPUnZmVkR1bFl0N0RfdTJoSlRlclJWdFVLWHVpMkRJUUJwVUN6STN4UWd0UzJ2MVZiQnFYeXA3dmROSllkZnQyNExHWXY0MWM2M3JOaW5BelBJM1UtM1lVOTJFWU54Y2VqUFhqRGo3Z0lwVERRQ0w1VjlzWm9pV3RFTHZ3ZUxlZDNNRXd0N055SmpUNjNRUQ?oc=5",
+      "date": "2026-08-28T07:00:00+00:00",
+      "description": "Google is dynamically expanding AI Overviews for some queries &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Update to the Site Reputation Policy",
       "link": "https://developers.google.com/search/blog/2026/08/update-site-reputation-policy",
       "date": "2026-08-28T00:00:00+00:00",
@@ -753,19 +766,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWW1LYUN4WHNldDJISWdvUFZ6bUhlMTZINVJ1dVBqaVZYQ2ZCRmkxU0pnNDgxZENnQTNUTEs1UnhtaURvVWE2SnZHeHlCcVZCMjRiQl9qQTNZSnRzNWl4V25DaW1rTUQxbGlXLUZjakJzR3IyeVppT1U4MEpWT2ZUcmtJXzJRQXpT?oc=5",
       "date": "2026-08-27T07:00:00+00:00",
       "description": "Google’s August 2026 spam update hit rankings harder than normal &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "What 1.8 million Google Business Profiles tell us about local SEO success - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeE1GQzhWcDQtNlFqRFdzUHpQeVlFalpUM3A3S3pRTjdtaWZITjQ2NVdwWnJNNGJRcDF2eUVyaEFyYWoxRGQ0bVFCUXhPNUtaWTg1czJMUm12NFRUdXRNUklwc0lUdGxtM2I1U1doYVNLemtzb2ZwVHhwWlFBc29KVTN0YW1BM1RuMm9R?oc=5",
-      "date": "2026-08-25T07:00:00+00:00",
-      "description": "What 1.8 million Google Business Profiles tell us about local SEO success &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
