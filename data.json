@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-10-27T11:50:13.316857+00:00",
+  "updatedAt": "2026-10-27T12:50:25.416848+00:00",
   "items": [
+    {
+      "title": "Flat Traffic, No Budget: What Ziff Davis’ Jonathan Berthold Tests First",
+      "link": "https://www.searchenginejournal.com/flat-traffic-no-budget-what-ziff-davis-jonathan-berthold-tests-first/593483/",
+      "date": "2026-10-27T12:00:41+00:00",
+      "description": "Jonathan Berthold explains why bottom-of-funnel content is the lowest-lift experiment and how to sell leadership on a test you can't promise will win. The post Flat Traffic, No Budget: What Ziff Davis&#8217; Jonathan Berthold Tests First appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/katie-x-jb-podcast-110.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Unconfirmed Google Search Ranking Update: Volatility & Chatter Spike",
+      "link": "https://www.seroundtable.com/google-search-ranking-volatility-42379.html",
+      "date": "2026-10-27T11:51:00+00:00",
+      "description": "I know I just reported on an unconfirmed Google Search ranking update from this past Saturday, October 24th. But I am now seeing a larger spike in volatility, along with an increase in SEO community chatter around another unconfirmed update over the past 24 hours.",
+      "image": "https://images.seroundtable.com/volatility/wincher-2026-10-27-lg.png?v=1793095244",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Downplays The Importance Of Fresh Index Reporting",
+      "link": "https://www.seroundtable.com/google-downplays-importance-of-fresh-index-reporting-42381.html",
+      "date": "2026-10-27T11:41:00+00:00",
+      "description": "Google's John Mueller kind of downplayed the importance of the freshness of the Google Search Console page indexing report. He said on Reddit, in response to my coverage of the report's recent slowness, that \"it can feel like it's important to focus on it, but honestly, save your energy.\"",
+      "image": "https://images.seroundtable.com/gsc-page-indexing-report-hasnt-updated-since-oct-16th-is-v0-pnx0c9gvvcxh1-6w9kgAKW.webp",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Advertisers Can't Figure Out If An Ad Is A Google Local Service Ad Or Not",
+      "link": "https://www.seroundtable.com/google-local-service-ad-confusion-42328.html",
+      "date": "2026-10-27T11:31:00+00:00",
+      "description": "Google advertisers are struggling to agree on whether a specific local ad unit in Google Search is a Local Service Ad or another type of local Google ad.",
+      "image": "https://images.seroundtable.com/google-lsa-confusion-f4GIbpBI.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Tests Dotted Underlined Links In Sponsored Results",
+      "link": "https://www.seroundtable.com/google-ads-dotted-underlined-links-42290.html",
+      "date": "2026-10-27T11:21:00+00:00",
+      "description": "Google is testing placing dotted underlined links in the sponsored results ad descriptions. When you click on them, you go to the ad destination's URL, like you would if you clicked on the title of the ad.",
+      "image": "https://images.seroundtable.com/google-dotted-underline-sponsored-results-ads-xn04svLw.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google Responds To Concern Over Search Console Indexing Reports via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-responds-to-concern-over-search-console-indexing-reports/594494/",
@@ -443,63 +507,11 @@
       ]
     },
     {
-      "title": "Google AI Overview Citation Cards With AI-Generated Summary Snippets",
-      "link": "https://www.seroundtable.com/google-ai-overview-citation-ai-summaries-42361.html",
-      "date": "2026-10-23T11:51:00+00:00",
-      "description": "Google seems to be testing or rolling out AI-generated summaries within AI Overviews citation cards. So the cards on the right (or bottom) of the AI Overviews within Google Search can now show AI summary snippets/descriptions.",
-      "image": "https://images.seroundtable.com/google-ai-overview-snippet-summaries2-cvi6pcZJ.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "JPEG XL Image Format Not Supported By Google Images & Google Discover",
-      "link": "https://www.seroundtable.com/google-jpeg-xl-42352.html",
-      "date": "2026-10-23T11:41:00+00:00",
-      "description": "John Mueller at Google recently confirmed that Google Image Search and Google Discover don't yet support the JPEG XL image format. He said this on Bluesky recently, \"FWIW if you're hoping to get images shown in Google Images & as previews in Discover, etc - JPEG-XL is currently not supported.\"",
-      "image": "https://images.seroundtable.com/sharp-google-logo-uH3zOWAu.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Business Profiles Tests New Advanced Performance Reports",
-      "link": "https://www.seroundtable.com/google-business-profiles-new-performance-reports-42367.html",
-      "date": "2026-10-23T11:31:00+00:00",
-      "description": "Google is testing a completely revamped performance report section within Google Business Profiles that includes metrics on engagement, reviews, search trends, audience and more. It also includes top recommendations and a more broken-out reviews detail view.",
-      "image": "https://images.seroundtable.com/google-business-profiles-performance-report-new-overview-K1XWcLjt.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Universal Cart In Search Is Live, Yep",
-      "link": "https://www.seroundtable.com/google-universal-cart-in-search-is-live-42349.html",
-      "date": "2026-10-23T11:21:00+00:00",
-      "description": "Last week, we reported that Google was launching its Universal Cart in the United States after demoing it at Google I/O in May. And yes, a few days after Google announced it, it was rolling out. I think most people started to see it show up in Google Search and Gemini starting on Friday and over the weekend.",
-      "image": "https://images.seroundtable.com/google-universal-cart-add-to-cart-O1qMT93e.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Do Comparison Posts, Roundups & Listicles Still Have Any Value? – Ask An SEO via @sejournal, @rollerblader",
       "link": "https://www.searchenginejournal.com/ask-an-seo-do-comparison-posts-roundups-listicles-still-have-any-value/585084/",
       "date": "2026-10-22T19:00:47+00:00",
       "description": "Roundups and comparison posts can still win customers, build trust, and grow audiences when you create them for readers instead of rankings. The post Do Comparison Posts, Roundups &#038; Listicles Still Have Any Value? – Ask An SEO appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2024/06/ask-an-seo-adam-riemer-376.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -569,19 +581,6 @@
       ]
     },
     {
-      "title": "Why the order of technical SEO fixes matters - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hMXlZcnYyR3A5YkpKYklyTTZhNV91aEJGR2xhQUc3QlNTdTQxRk5UUWo3UmpBUjQ4cmFxTUZzYU5VVHh3Vnk5NkxhX1RVVGZfOUpBT1BFM0NUaWlHazVxU2NiMkFyZEluV1Nr?oc=5",
-      "date": "2026-10-22T14:00:00+00:00",
-      "description": "Why the order of technical SEO fixes matters &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google Ads expands customer acquisition and retention controls - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS0ZSeGNlaXYwLThDWURpMThyekZEeUNBaGhtUkswRWtHVkY5eEJ2OXJnYWhZR0VaU01IYjBOcktsVlAyWUs5MG5SU3JLeUh4bGc2aERwZVZZR1Q5Q1Z4czNPejRJa0RheklkN2dmNjM1blZ2LUNKLTc2QXhUc01nSk1DQk9vWjlCNm5kTTJKNmo4bGdJZlFGaWMzMmF5RWs?oc=5",
       "date": "2026-10-22T12:25:10+00:00",
@@ -599,18 +598,6 @@
       "link": "https://www.searchenginejournal.com/why-reddit-belongs-in-your-pr-strategy/593602/",
       "date": "2026-10-22T12:00:11+00:00",
       "description": "Reddit conversations can become news stories. Brands that listen and respond gain a chance to address problems before coverage follows. The post Why Reddit Belongs In Your PR Strategy appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Explains The Limit Of Robots.txt For AI Content Use via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-illyes-robots-txt-crawling-ai-training/593957/",
-      "date": "2026-10-22T10:58:04+00:00",
-      "description": "Google's new robots.txt video says the standard covers crawling, not how content gets used, and recommends percent-encoding non-English robots.txt paths. The post Google Explains The Limit Of Robots.txt For AI Content Use appeared first on Search Engine Journal .",
       "image": "",
       "source": "Search Engine Journal",
       "tags": [
@@ -688,6 +675,19 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVnZDUjhEU1hmTzVIX1JLanJrdk84VXVDNjNDc1p1OHdCOGZhOFVhUWU3X3NTM2luNG5XdGkwbUUwTTJyYXhNRlkydjhXZWttUWVUZzM5NUNZa0xqdnlieVFQM3MwTVgxYzJJOTRpVk41OV92YjZQWnhLRDhwMmJoSmJCRGI2YnZDWkFIQnhyNDRHcmtj?oc=5",
       "date": "2026-10-19T19:41:10+00:00",
       "description": "Search Engine Land Awards 2026: Complete finalists list &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How to develop your brand’s tone of voice (Examples + template) - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5idUtQOU5rRTRBOGRiVm84MnRCX3lMbm9DSnc2eUVXY3hTUFdLRFNVUlFFT21ZOGpSeFphaWNFeWNFVWdROE0tSjgwQlFud0I3aXBVeUh6X0cwcEtqdGpWbm5SS0Y?oc=5",
+      "date": "2026-10-19T17:15:36+00:00",
+      "description": "How to develop your brand’s tone of voice (Examples + template) &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
