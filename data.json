@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-27T16:53:07.143492+00:00",
+  "updatedAt": "2026-10-27T17:51:07.043595+00:00",
   "items": [
+    {
+      "title": "Google Privacy Update Lets Connected Apps Shape AI Mode Ads via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-privacy-policy-connected-apps-ai-mode-ads/594546/",
+      "date": "2026-10-27T17:11:52+00:00",
+      "description": "Google is testing AI Mode ads informed by connected Gmail and Photos data, as its privacy policy adds an exception for ad personalization. The post Google Privacy Update Lets Connected Apps Shape AI Mode Ads appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_1921284380_1600x840-860.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Shopify Moves AI Agent Knowledge Base Into Merchant Admin via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/shopify-ai-agent-knowledge-base-admin/594551/",
@@ -10,6 +22,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Semrush confirms ‘poisoned’ Google results are impacting SEO tools - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTnNyYmZtd0FjRVY2MVJjMlpXLWpEcmx2UG9nakFtTnVTLWJ6NFpFZEVOc1JqRXFDYjBZbzg3Ujc0Q2N2dWg2cFpSNkxYVUhwV2kzRHRsVHdPREVoVFpUWnVfNThGQVFNdXkyZUtSQzhNRmtOcW1Zdm4wMjlLZGZ0YW13?oc=5",
+      "date": "2026-10-27T14:58:40+00:00",
+      "description": "Semrush confirms ‘poisoned’ Google results are impacting SEO tools &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -487,7 +512,7 @@
       "link": "https://www.searchenginejournal.com/tactical-solutions-for-the-biggest-ai-search-measurement-challenges-recap/593023/",
       "date": "2026-10-26T07:45:18+00:00",
       "description": "Measure AI search beyond clicks with STAT’s Tom Capper: track brand presence, investigate citations, and improve your attribution story. The post Tactical Solutions For The Biggest AI Search Measurement Challenges appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/stat-ai-search-measurement-on-demand-sej.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -499,7 +524,7 @@
       "link": "https://www.seroundtable.com/google-search-ranking-volatility-heated-42373.html",
       "date": "2026-10-25T14:07:00+00:00",
       "description": "This past Saturday, October 24th, we saw some significant ranking volatility captured by many of the third-party Google tracking tools. There was also some heavy chatter within the SEO industry about ranking movement and Google traffic changes over the past couple of days. The two together make me believe that there was some Google Search ranking adjustment released Friday and into Saturday.",
-      "image": "https://images.seroundtable.com/mozcast-4dJ8D1Ec.png",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -541,19 +566,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads expands Smart Bidding Exploration to Performance Max and Shopping campaigns - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZUVCQlJjX1FQaTdWaHFsOW1tVE5URG1qRS0xU3NwaFl4eGtEcXlPOFUyZmdna2pNY18zaTVuTVJEYXEyS2h2Nk5aa3Z4a1ZjTkZjX1NOWi1NRUJBQTYyXzFTUkVmVDZhZ3NvRWRGbUtYX3Jja0FxTXhxRkp5MkI2ZG5PRm8yLUFqZGljOWY0X29lOFNaVllIQ2RGWHR1NEFhMUtkYk1MaE85QkIzUHZVNGkxNEVqNGk4TS1NNGJyVQ?oc=5",
-      "date": "2026-10-23T18:25:26+00:00",
-      "description": "Google Ads expands Smart Bidding Exploration to Performance Max and Shopping campaigns &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
@@ -651,18 +663,6 @@
       "link": "https://www.searchenginejournal.com/ask-an-seo-do-comparison-posts-roundups-listicles-still-have-any-value/585084/",
       "date": "2026-10-22T19:00:47+00:00",
       "description": "Roundups and comparison posts can still win customers, build trust, and grow audiences when you create them for readers instead of rankings. The post Do Comparison Posts, Roundups &#038; Listicles Still Have Any Value? – Ask An SEO appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Inside ChatGPT’s Ad Auction: How Relevance, Bids, And Memory Decide Placement via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/openai-details-chatgpt-llm-ad-stack/593857/",
-      "date": "2026-10-22T16:58:09+00:00",
-      "description": "OpenAI explains how a custom LLM orchestrator interprets multi-turn conversations, nominates ads for auction, and drops placements that miss response deadlines. The post Inside ChatGPT&#8217;s Ad Auction: How Relevance, Bids, And Memory Decide Placement appeared first on Search Engine Journal .",
       "image": "",
       "source": "Search Engine Journal",
       "tags": [
