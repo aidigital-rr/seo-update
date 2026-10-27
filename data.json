@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T04:17:12.594067+00:00",
+  "updatedAt": "2026-10-27T04:48:18.660003+00:00",
   "items": [
     {
       "title": "Google Ads Expands Customer Lifecycle Goals In Search And Shopping via @sejournal, @brookeosmundson",
@@ -102,19 +102,6 @@
       ]
     },
     {
-      "title": "AI search is a branding channel, not a distraction - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3cWVnblBxRlRwRXBuT1QyTnh5cDBtQ2JFN3JNQjZzSkRrUHU1bjc1WmlscmU4am43b1I5V0xfVjdVUGdVc0lCc0xCbU55UmtxV2g4WFVUaVdNMFM3V3pnRE9BWGdKVlZuMjdHS25vYw?oc=5",
-      "date": "2026-10-26T15:30:00+00:00",
-      "description": "AI search is a branding channel, not a distraction &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "How to build a Google Ads dashboard with Claude that ties spend to outcomes - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQzh3TEk1TS1yTzd2MUZwa2h4U3A1NjA0OF92MXZ3V3lOTW81THdNcmQwc1R1OWdrVVd0NkNtcFgxbXh6Z3BrREMxX0psOVNxNjd6TjZuZzI1NFVYMWVDR0JhQndkTkJ2UWNWMUxXbXBXaFVfVDVLS0RHT19EdldIQW1aaXhnYS1ZRDN4VXBLaWN6d0d5dFhiWDJxcHpvaDB5ZzNjZmNFSDBkeGxnREhuNQ?oc=5",
       "date": "2026-10-26T15:00:00+00:00",
@@ -161,6 +148,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Pop-ups and SEO: What’s safe, what’s risky, and what to fix - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYTkx1WnE1dkVrM2Q0RmNNNlMwRUMzaDlscE5QNm1sOVdXc29VV1pkS2RCQ2pjeTA1U2d2OWNzNVAtMWhLakRGQzNXLUFpcGlCUzRSR1pKX1Jabm0yd0JBa0oxdnQtaVN5Q21rUVhhVQ?oc=5",
+      "date": "2026-10-26T13:00:00+00:00",
+      "description": "Pop-ups and SEO: What’s safe, what’s risky, and what to fix &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -368,6 +368,19 @@
       ]
     },
     {
+      "title": "The latest jobs in search marketing - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
+      "date": "2026-10-23T16:32:18+00:00",
+      "description": "The latest jobs in search marketing &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "When should ecommerce filters become indexable pages? - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02SkVwQTNCU25rX3ROUG9BVVZ6Znlfa2pnaS1rZHBBSGlYUU5UZVc3UmUtcmR6RDFOZWdFT2J6bjZYWFFLaWxJWm02RUxIcW9MMWxpcWhHWWNvTmpiS1VZcjJfdzFhRjFoZFFraEpGa3lIbVNrVnRqYg?oc=5",
       "date": "2026-10-23T15:00:00+00:00",
@@ -500,7 +513,7 @@
       "link": "https://www.seroundtable.com/google-business-profiles-new-performance-reports-42367.html",
       "date": "2026-10-23T11:31:00+00:00",
       "description": "Google is testing a completely revamped performance report section within Google Business Profiles that includes metrics on engagement, reviews, search trends, audience and more. It also includes top recommendations and a more broken-out reviews detail view.",
-      "image": "https://images.seroundtable.com/google-business-profiles-performance-report-new-overview-K1XWcLjt.jpg",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -680,19 +693,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "ChatGPT sends less than 1% of Google’s traffic: Data - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY1pZbFQtbnZzUktiWnlBSUpJMHBTUDQ0NElLZG91RDZfYWZGRnY1X214aGhiZU9yaEJtZ0tmOXNKLXFBTFlqcFF5dE5neWJCMXhocTRmVTdOZFdXUnBleFRBZThVaEJOQVc3VF9XaFZEem81NXE3YS1yQkhlODZtMg?oc=5",
-      "date": "2026-10-21T17:23:09+00:00",
-      "description": "ChatGPT sends less than 1% of Google’s traffic: Data &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
