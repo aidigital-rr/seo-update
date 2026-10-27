@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T23:37:30.848368+00:00",
+  "updatedAt": "2026-10-27T00:06:16.102126+00:00",
   "items": [
     {
       "title": "Google Ads Expands Customer Lifecycle Goals In Search And Shopping via @sejournal, @brookeosmundson",
@@ -47,6 +47,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Ads introduces centralized dashboard for tracking policy issues - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWldfRGZyczExclplYkNpMFdaQ25RcFdTV205cFcxYURaa2ZrZ1hvSmdGQ012RXBVeDdYQTBkUXNtUm1LOUp0cXhIYUdOcmFENEw1LVJiMVUzdWg0OGpDY2gxa3dUNElmaUh1bFM1R1hLU1lrR1V5TGJxOG45TGxKWXZTV3k3NGFYVjF2bkVaWlRXOTFUZkhLVDNOU2hnWldrVUFlZlZvY0hlUQ?oc=5",
+      "date": "2026-10-26T18:39:32+00:00",
+      "description": "Google Ads introduces centralized dashboard for tracking policy issues &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -342,6 +355,19 @@
       ]
     },
     {
+      "title": "The latest jobs in search marketing - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
+      "date": "2026-10-23T16:32:18+00:00",
+      "description": "The latest jobs in search marketing &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "When should ecommerce filters become indexable pages? - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02SkVwQTNCU25rX3ROUG9BVVZ6Znlfa2pnaS1rZHBBSGlYUU5UZVc3UmUtcmR6RDFOZWdFT2J6bjZYWFFLaWxJWm02RUxIcW9MMWxpcWhHWWNvTmpiS1VZcjJfdzFhRjFoZFFraEpGa3lIbVNrVnRqYg?oc=5",
       "date": "2026-10-23T15:00:00+00:00",
@@ -487,7 +513,7 @@
       "link": "https://www.seroundtable.com/google-universal-cart-in-search-is-live-42349.html",
       "date": "2026-10-23T11:21:00+00:00",
       "description": "Last week, we reported that Google was launching its Universal Cart in the United States after demoing it at Google I/O in May. And yes, a few days after Google announced it, it was rolling out. I think most people started to see it show up in Google Search and Gemini starting on Friday and over the weekend.",
-      "image": "https://images.seroundtable.com/google-universal-cart-add-to-cart-O1qMT93e.jpg",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -500,7 +526,7 @@
       "link": "https://www.seroundtable.com/google-adsense-videos-policy-update-42366.html",
       "date": "2026-10-23T11:15:00+00:00",
       "description": "Google updated its AdSense Video inventory restrictions policy to remove the placement requirement and the scroll-to-sticky requirements yesterday, October 22nd. Google removed this line from the policy, \"For In-stream or Accompanying Content placements that transition to a sticky placement, the video player must start in the main content and only transition as a user scrolls the video player off the page.\"",
-      "image": "https://images.seroundtable.com/adsense-video-policy-updates-infographic-H5V5yuyF.png",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -667,32 +693,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "ChatGPT sends less than 1% of Google’s traffic: Data - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY1pZbFQtbnZzUktiWnlBSUpJMHBTUDQ0NElLZG91RDZfYWZGRnY1X214aGhiZU9yaEJtZ0tmOXNKLXFBTFlqcFF5dE5neWJCMXhocTRmVTdOZFdXUnBleFRBZThVaEJOQVc3VF9XaFZEem81NXE3YS1yQkhlODZtMg?oc=5",
-      "date": "2026-10-21T17:23:09+00:00",
-      "description": "ChatGPT sends less than 1% of Google’s traffic: Data &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Should your PPC landing pages change for AI Overviews? - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYmV2MG9BVExWeFVURFR2WmNWWm9PMFRZTUhoQmRkSHkzTXlic2ZDNHRjWU01VDloNHpZcHQtTXlYTzRoWFZOcU9fNElQM0JWRlZSVEVfejdDUkZndWdyNHB6S09hcHRxQlE3STZPVXBZc2tIN3ROeUgxRlhEcWFhRXFpTXNrLWxUMmVfT09PLUJpX0E?oc=5",
-      "date": "2026-10-21T15:00:00+00:00",
-      "description": "Should your PPC landing pages change for AI Overviews? &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
