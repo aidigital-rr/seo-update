@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-27T11:17:28.573406+00:00",
+  "updatedAt": "2026-10-27T11:50:13.316857+00:00",
   "items": [
+    {
+      "title": "Google Responds To Concern Over Search Console Indexing Reports via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-responds-to-concern-over-search-console-indexing-reports/594494/",
+      "date": "2026-10-27T11:17:59+00:00",
+      "description": "John Mueller's responded to a stalled indexing report and explained why SEOs may need to relax about indexing report freshness. The post Google Responds To Concern Over Search Console Indexing Reports appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/search-console-indexing-rep-86.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Ads To Update Child Sexual Abuse and Exploitation (CSAE) Policy",
+      "link": "https://www.seroundtable.com/google-ads-csae-ads-policy-42375.html",
+      "date": "2026-10-27T11:11:00+00:00",
+      "description": "Google Ads said it will update its Child Sexual Abuse and Exploitation (CSAE) ads policy this coming January. Google said this is being done as part of a \"redesign of the policy, and to improve protections, clarity and transparency.\"",
+      "image": "https://images.seroundtable.com/google-ads-safety-eQyVjrRq.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google Ads Expands Customer Lifecycle Goals In Search And Shopping via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/google-ads-expands-customer-lifecycle-goals-in-search-and-shopping/594458/",
@@ -470,19 +495,6 @@
       ]
     },
     {
-      "title": "Google AdSense Videos Placement & Sticky Requirements Removed",
-      "link": "https://www.seroundtable.com/google-adsense-videos-policy-update-42366.html",
-      "date": "2026-10-23T11:15:00+00:00",
-      "description": "Google updated its AdSense Video inventory restrictions policy to remove the placement requirement and the scroll-to-sticky requirements yesterday, October 22nd. Google removed this line from the policy, \"For In-stream or Accompanying Content placements that transition to a sticky placement, the video player must start in the main content and only transition as a user scrolls the video player off the page.\"",
-      "image": "https://images.seroundtable.com/adsense-video-policy-updates-infographic-H5V5yuyF.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Do Comparison Posts, Roundups & Listicles Still Have Any Value? – Ask An SEO via @sejournal, @rollerblader",
       "link": "https://www.searchenginejournal.com/ask-an-seo-do-comparison-posts-roundups-listicles-still-have-any-value/585084/",
       "date": "2026-10-22T19:00:47+00:00",
@@ -499,7 +511,7 @@
       "link": "https://www.searchenginejournal.com/openai-details-chatgpt-llm-ad-stack/593857/",
       "date": "2026-10-22T16:58:09+00:00",
       "description": "OpenAI explains how a custom LLM orchestrator interprets multi-turn conversations, nominates ads for auction, and drops placements that miss response deadlines. The post Inside ChatGPT&#8217;s Ad Auction: How Relevance, Bids, And Memory Decide Placement appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -599,18 +611,6 @@
       "link": "https://www.searchenginejournal.com/google-illyes-robots-txt-crawling-ai-training/593957/",
       "date": "2026-10-22T10:58:04+00:00",
       "description": "Google's new robots.txt video says the standard covers crawling, not how content gets used, and recommends percent-encoding non-English robots.txt paths. The post Google Explains The Limit Of Robots.txt For AI Content Use appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google CEO Sundar Pichai Views Search Absorbed Into Agentic Layer via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-ceo-sundar-pichai-views-search-absorbed-into-agentic-layer/593923/",
-      "date": "2026-10-22T09:17:18+00:00",
-      "description": "Google CEO Sundar Pichai says the future of Search is an agentic layer that unifies Google's Search and AI experiences. The post Google CEO Sundar Pichai Views Search Absorbed Into Agentic Layer appeared first on Search Engine Journal .",
       "image": "",
       "source": "Search Engine Journal",
       "tags": [
