@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T03:13:51.184288+00:00",
+  "updatedAt": "2026-10-27T03:43:44.642799+00:00",
   "items": [
     {
       "title": "Google Ads Expands Customer Lifecycle Goals In Search And Shopping via @sejournal, @brookeosmundson",
@@ -161,19 +161,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Pop-ups and SEO: What’s safe, what’s risky, and what to fix - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYTkx1WnE1dkVrM2Q0RmNNNlMwRUMzaDlscE5QNm1sOVdXc29VV1pkS2RCQ2pjeTA1U2d2OWNzNVAtMWhLakRGQzNXLUFpcGlCUzRSR1pKX1Jabm0yd0JBa0oxdnQtaVN5Q21rUVhhVQ?oc=5",
-      "date": "2026-10-26T13:00:00+00:00",
-      "description": "Pop-ups and SEO: What’s safe, what’s risky, and what to fix &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
@@ -381,19 +368,6 @@
       ]
     },
     {
-      "title": "The latest jobs in search marketing - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
-      "date": "2026-10-23T16:32:18+00:00",
-      "description": "The latest jobs in search marketing &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "When should ecommerce filters become indexable pages? - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02SkVwQTNCU25rX3ROUG9BVVZ6Znlfa2pnaS1rZHBBSGlYUU5UZVc3UmUtcmR6RDFOZWdFT2J6bjZYWFFLaWxJWm02RUxIcW9MMWxpcWhHWWNvTmpiS1VZcjJfdzFhRjFoZFFraEpGa3lIbVNrVnRqYg?oc=5",
       "date": "2026-10-23T15:00:00+00:00",
@@ -513,7 +487,7 @@
       "link": "https://www.seroundtable.com/google-jpeg-xl-42352.html",
       "date": "2026-10-23T11:41:00+00:00",
       "description": "John Mueller at Google recently confirmed that Google Image Search and Google Discover don't yet support the JPEG XL image format. He said this on Bluesky recently, \"FWIW if you're hoping to get images shown in Google Images & as previews in Discover, etc - JPEG-XL is currently not supported.\"",
-      "image": "",
+      "image": "https://images.seroundtable.com/sharp-google-logo-uH3zOWAu.jpg",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -526,7 +500,7 @@
       "link": "https://www.seroundtable.com/google-business-profiles-new-performance-reports-42367.html",
       "date": "2026-10-23T11:31:00+00:00",
       "description": "Google is testing a completely revamped performance report section within Google Business Profiles that includes metrics on engagement, reviews, search trends, audience and more. It also includes top recommendations and a more broken-out reviews detail view.",
-      "image": "",
+      "image": "https://images.seroundtable.com/google-business-profiles-performance-report-new-overview-K1XWcLjt.jpg",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -569,19 +543,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to conduct an AI + SEO competitor analysis in 2026 - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNkM5R1lGcnJDZ2pvVlNsZEF5aWVvRE95YzQ2VXdYLU1sRllMSTFScnJWR0p1SjBFbGxKX3RrSVJ0X3pHRUE4MXdQYUdMX2NlS0tDUW5TM0k2MlNEZjJwYm5vTGx5M0RmczJLVnlTb1VEQ2phWm5CS2x2NlY5eHZXVm1n?oc=5",
-      "date": "2026-10-22T18:52:30+00:00",
-      "description": "How to conduct an AI + SEO competitor analysis in 2026 &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
@@ -661,6 +622,32 @@
       ]
     },
     {
+      "title": "Why the order of technical SEO fixes matters - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hMXlZcnYyR3A5YkpKYklyTTZhNV91aEJGR2xhQUc3QlNTdTQxRk5UUWo3UmpBUjQ4cmFxTUZzYU5VVHh3Vnk5NkxhX1RVVGZfOUpBT1BFM0NUaWlHazVxU2NiMkFyZEluV1Nr?oc=5",
+      "date": "2026-10-22T14:00:00+00:00",
+      "description": "Why the order of technical SEO fixes matters &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Ads expands customer acquisition and retention controls - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS0ZSeGNlaXYwLThDWURpMThyekZEeUNBaGhtUkswRWtHVkY5eEJ2OXJnYWhZR0VaU01IYjBOcktsVlAyWUs5MG5SU3JLeUh4bGc2aERwZVZZR1Q5Q1Z4czNPejRJa0RheklkN2dmNjM1blZ2LUNKLTc2QXhUc01nSk1DQk9vWjlCNm5kTTJKNmo4bGdJZlFGaWMzMmF5RWs?oc=5",
+      "date": "2026-10-22T12:25:10+00:00",
+      "description": "Google Ads expands customer acquisition and retention controls &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Why Reddit Belongs In Your PR Strategy via @sejournal, @brentcsutoras",
       "link": "https://www.searchenginejournal.com/why-reddit-belongs-in-your-pr-strategy/593602/",
       "date": "2026-10-22T12:00:11+00:00",
@@ -693,6 +680,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "ChatGPT sends less than 1% of Google’s traffic: Data - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY1pZbFQtbnZzUktiWnlBSUpJMHBTUDQ0NElLZG91RDZfYWZGRnY1X214aGhiZU9yaEJtZ0tmOXNKLXFBTFlqcFF5dE5neWJCMXhocTRmVTdOZFdXUnBleFRBZThVaEJOQVc3VF9XaFZEem81NXE3YS1yQkhlODZtMg?oc=5",
+      "date": "2026-10-21T17:23:09+00:00",
+      "description": "ChatGPT sends less than 1% of Google’s traffic: Data &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
