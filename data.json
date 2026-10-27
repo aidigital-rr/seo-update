@@ -1,6 +1,57 @@
 {
-  "updatedAt": "2026-10-27T18:49:15.670466+00:00",
+  "updatedAt": "2026-10-27T19:45:38.026704+00:00",
   "items": [
+    {
+      "title": "14 remote work statistics - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxdUZBWjVvYTV3cWRFT09KMnRaeW1YVTJDakFUY2VnNHh5LXV3TmdsUzd2UThnQmRjSExEWTZXY3dHY1k5WjNnbmcxRjlZWjhoOVdMZWl0eTFlaDlCamdCZ1Bn?oc=5",
+      "date": "2026-10-27T19:32:43+00:00",
+      "description": "14 remote work statistics &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Googlebot Must Follow Redirects From Homepage To Favicon, Updated Doc Say",
+      "link": "https://www.seroundtable.com/googlebot-redirects-from-homepage-to-favicon-42396.html",
+      "date": "2026-10-27T19:05:00+00:00",
+      "description": "Google Search has just updated its favicon documentation to now specify that Googlebot must be able to follow redirects from the homepage to the page where the favicon is specified. The document also explicitly says that these URLs must not be blocked by robots.txt or other means.",
+      "image": "https://images.seroundtable.com/google-favicon-doc-new-CMkmks74.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Why We Should Fear The Shadow Web We’re Building For AI via @sejournal, @chrisgreenseo",
+      "link": "https://www.searchenginejournal.com/why-we-should-fear-the-shadow-web-were-building-for-ai/593930/",
+      "date": "2026-10-27T19:00:25+00:00",
+      "description": "Why would an AI search provider keep trusting information a brand hides from its own website? The parallels with cloaking are too close to ignore. The post Why We Should Fear The Shadow Web We’re Building For AI appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/fear-ai-web-700.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How to build topical authority in the AI search era (Seven steps) - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03OGlHYVB2RjFjNndRZEFNRzZ4VWpFcjdFdkhGVXFfeGhyNS1XZmVjdHNXdkhnRm90bHZaOGFIanh3YlA5YVJ4a3g4YTlocExQZmlIMlRqOXk3blFCamFYWEY0dTNRYTF6YUtYSHRxa2Y3cnNi?oc=5",
+      "date": "2026-10-27T18:31:17+00:00",
+      "description": "How to build topical authority in the AI search era (Seven steps) &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
     {
       "title": "Google Privacy Update Lets Connected Apps Shape AI Mode Ads via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/google-privacy-policy-connected-apps-ai-mode-ads/594546/",
@@ -266,19 +317,6 @@
       ]
     },
     {
-      "title": "What is agentic search? (And why SEOs need to pay attention) - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nR0JFME9jcDlqT1VxVFZOOUlOZHpRSV9SVTFJcUJjdFVFUnRWNXEwTUtJR2N2VTlwazdHSUtTaW1YcE96OFBwcE9POEs5UmFsdVpyWEhOT2Q2M3hZcXc?oc=5",
-      "date": "2026-10-26T16:45:28+00:00",
-      "description": "What is agentic search? (And why SEOs need to pay attention) &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Cloudflare will upend the AI visibility space - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8taDVONXhEYmxMMFZJSUxtSmQxYkdLMXg4WmZQMUNfcUtiZFFYeVVVbERqMDNHeGMyQk9Ob2FaeGR5UEdiWFBvTTBVRE5ROTRlTEVwOXJYX294TWNSU0ZHTjBUc1pHVUpqaEJKbDhKaThXNE9EMFdCV1pHNWw?oc=5",
       "date": "2026-10-26T16:00:00+00:00",
@@ -473,7 +511,7 @@
       "link": "https://www.seroundtable.com/chatgpt-ads-learn-more-amazon-dsp-42371.html",
       "date": "2026-10-26T11:31:00+00:00",
       "description": "OpenAI seems to be rolling out a new ad format for some ChatGPT Ad units that have a Learn more link, that is dotted and underlined, and also with an arrow going upwards. And in some cases, ChatGPT Ads seem to be served with Amazon DSP.",
-      "image": "https://images.seroundtable.com/chatgpt-ads-learn-more-link-xA1W3tjY.png",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -486,7 +524,7 @@
       "link": "https://www.seroundtable.com/google-discover-disabling-clicks-42369.html",
       "date": "2026-10-26T11:21:00+00:00",
       "description": "Google is reportedly testing disabling the ability to click on the sources button in the Google Discover card of articles. Normally, when you click on the sources, it will open up a new screen with all the source articles and links to them.",
-      "image": "https://images.seroundtable.com/google-discover-sources-link-9Xv4lkOZ.jpg",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -499,7 +537,7 @@
       "link": "https://www.seroundtable.com/google-ads-1-click-ai-max-experiment-42324.html",
       "date": "2026-10-26T11:11:00+00:00",
       "description": "Google Ads updated its frequently asked questions page for AI Max search campaigns with a section on 1-click AI Max experiments. Google wrote in the document, \"If your account is eligible, you may find a 1-click experiment recommendation on your Recommendations page.\"",
-      "image": "https://images.seroundtable.com/google-ads-click-logo-BmIQBDor.jpg",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -596,19 +634,6 @@
       ]
     },
     {
-      "title": "When should ecommerce filters become indexable pages? - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02SkVwQTNCU25rX3ROUG9BVVZ6Znlfa2pnaS1rZHBBSGlYUU5UZVc3UmUtcmR6RDFOZWdFT2J6bjZYWFFLaWxJWm02RUxIcW9MMWxpcWhHWWNvTmpiS1VZcjJfdzFhRjFoZFFraEpGa3lIbVNrVnRqYg?oc=5",
-      "date": "2026-10-23T15:00:00+00:00",
-      "description": "When should ecommerce filters become indexable pages? &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "The Junior Hiring Gap Your 2027 Marketing Budget Should Name via @sejournal, @gregjarboe",
       "link": "https://www.searchenginejournal.com/the-junior-hiring-gap-your-2027-marketing-budget-should-name/592944/",
       "date": "2026-10-23T14:00:53+00:00",
@@ -618,19 +643,6 @@
       "tags": [
         "SEO",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Daily Search Forum Recap: October 23, 2026",
-      "link": "https://www.seroundtable.com/recap-10-23-2026-42368.html",
-      "date": "2026-10-23T14:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today...",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -651,18 +663,6 @@
       "link": "https://www.searchenginejournal.com/rank-trackers-suspect-google-results/594049/",
       "date": "2026-10-23T12:00:00+00:00",
       "description": "Rank trackers describe how they check suspect Google results, what customers see during checks, and what they say about reprocessing and past results. The post How Rank Trackers Say They Handle Suspect Google Results appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Do Comparison Posts, Roundups & Listicles Still Have Any Value? – Ask An SEO via @sejournal, @rollerblader",
-      "link": "https://www.searchenginejournal.com/ask-an-seo-do-comparison-posts-roundups-listicles-still-have-any-value/585084/",
-      "date": "2026-10-22T19:00:47+00:00",
-      "description": "Roundups and comparison posts can still win customers, build trust, and grow audiences when you create them for readers instead of rankings. The post Do Comparison Posts, Roundups &#038; Listicles Still Have Any Value? – Ask An SEO appeared first on Search Engine Journal .",
       "image": "",
       "source": "Search Engine Journal",
       "tags": [
