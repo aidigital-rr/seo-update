@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-10-28T19:52:56.519594+00:00",
+  "updatedAt": "2026-10-28T20:49:06.066228+00:00",
   "items": [
+    {
+      "title": "AI-Cited Pages More Often Got Straight To The Answer via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ai-cited-pages-more-often-got-straight-to-the-answer/594781/",
+      "date": "2026-10-28T20:42:47+00:00",
+      "description": "Pages cited by AI often answered a question in their first lines, though the gap was smaller against pages AI pulled up but didn’t cite. The post AI-Cited Pages More Often Got Straight To The Answer appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-cited-pages-question-answer.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Ad Revenue Up 10.5% With Revenue Up 25%",
+      "link": "https://www.seroundtable.com/google-earnings-q326-42403.html",
+      "date": "2026-10-28T20:10:00+00:00",
+      "description": "Google reported its earnings today, its Q3 2026 earnings report showed search ad revenues up by 10.5% at $82 billion and overall revenue was up 25% at $127.6 billion. As you know, I specifically like to dig in as best as I can on the search ad revenue side to see how Google Ads has performed.",
+      "image": "https://images.seroundtable.com/google-earnings-chart-time-ujFKXXeN.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads API Version 26.1 Now Out Available",
+      "link": "https://www.seroundtable.com/google-ads-api-version-261-42409.html",
+      "date": "2026-10-28T19:08:00+00:00",
+      "description": "Google Ads has just released a minor update to its Google Ads API, this is version 26.1. This update touches on assets, campaigns, local services, recommendations, reporting, and targeting.",
+      "image": "https://images.seroundtable.com/google-ads-api-changelog-Fn2aCZGl.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Bitly’s New Data Says SEOs Are Half Right About Short Links via @sejournal, @gregjarboe",
       "link": "https://www.searchenginejournal.com/bitlys-new-data-says-seos-are-half-right-about-short-links/593983/",
@@ -10,6 +48,32 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "You Can Now Build Apps For Google Search: Connected Apps Platform",
+      "link": "https://www.seroundtable.com/google-connected-apps-platform-42408.html",
+      "date": "2026-10-28T18:35:00+00:00",
+      "description": "Google announced today that you and your developers can now build apps for Google Search and Gemini. Google wrote, \"today we're launching the preview of our Connected Apps Platform, a unified way for more app developers to bring their capabilities directly into Gemini and Search.\"",
+      "image": "https://images.seroundtable.com/connected-apps-logo-cloudwidth-1000format-webp-FxV0ag53.webp",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads adds ‘All Conversions’ tab to simplify conversion tracking and audits - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeDh4eHJvVm01OVR0UnU2dDkyVEtYS3ZJZlBRYjVPVXVaN3FELVJyZUN3dW1TWExKU2NNOHQ1T2RsNHMtMW1UMzZ2SFRHbWI5MElJNlFqTzkwU1pDQV9MamZCYmMxV09jQkwxRjJzcTExY25feGFjaXQyUEQtblNHNEZWVnNZakk4WGk1cGUyVTZfeGIzVUw5bS1wdGxPSlktRmFwYVdrV0lOOGhQV25NVWstTDU?oc=5",
+      "date": "2026-10-28T16:25:24+00:00",
+      "description": "Google Ads adds ‘All Conversions’ tab to simplify conversion tracking and audits &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -419,45 +483,6 @@
       ]
     },
     {
-      "title": "Google Downplays The Importance Of Fresh Index Reporting",
-      "link": "https://www.seroundtable.com/google-downplays-importance-of-fresh-index-reporting-42381.html",
-      "date": "2026-10-27T11:41:00+00:00",
-      "description": "Google's John Mueller kind of downplayed the importance of the freshness of the Google Search Console page indexing report. He said on Reddit, in response to my coverage of the report's recent slowness, that \"it can feel like it's important to focus on it, but honestly, save your energy.\"",
-      "image": "https://images.seroundtable.com/gsc-page-indexing-report-hasnt-updated-since-oct-16th-is-v0-pnx0c9gvvcxh1-6w9kgAKW.webp",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Advertisers Can't Figure Out If An Ad Is A Google Local Service Ad Or Not",
-      "link": "https://www.seroundtable.com/google-local-service-ad-confusion-42328.html",
-      "date": "2026-10-27T11:31:00+00:00",
-      "description": "Google advertisers are struggling to agree on whether a specific local ad unit in Google Search is a Local Service Ad or another type of local Google ad.",
-      "image": "https://images.seroundtable.com/google-lsa-confusion-f4GIbpBI.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads Tests Dotted Underlined Links In Sponsored Results",
-      "link": "https://www.seroundtable.com/google-ads-dotted-underlined-links-42290.html",
-      "date": "2026-10-27T11:21:00+00:00",
-      "description": "Google is testing placing dotted underlined links in the sponsored results ad descriptions. When you click on them, you go to the ad destination's URL, like you would if you clicked on the title of the ad.",
-      "image": "https://images.seroundtable.com/google-dotted-underline-sponsored-results-ads-xn04svLw.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Responds To Concern Over Search Console Indexing Reports via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-responds-to-concern-over-search-console-indexing-reports/594494/",
       "date": "2026-10-27T11:17:59+00:00",
@@ -486,23 +511,10 @@
       "link": "https://www.searchenginejournal.com/google-indexing-advice-shareable-pages-spam-guide/594451/",
       "date": "2026-10-26T20:57:22+00:00",
       "description": "New spam guidance says to noindex or block crawling on pages made for sharing. Google's docs say a URL blocked in robots.txt can be indexed. The post Google Updates Spam Guide For Shared Pages, Generated Content &amp; Apps appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-shareable-pages-featured.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Six-step essential guide to choosing keywords - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10anBIWFhfVnFIRVQ4dVdYVnR0cnhkdjJGUVJGQlZKdG9QamxCMjRYQXVObTdyWXZLd2VqX3JRMk5JN181R2JfSGpoZHBDYW5rRDBMd2RncDNXNmJtODlfZ0N3?oc=5",
-      "date": "2026-10-26T19:42:27+00:00",
-      "description": "Six-step essential guide to choosing keywords &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
@@ -638,18 +650,6 @@
       "link": "https://www.searchenginejournal.com/meta-delays-business-terms-crawling/594388/",
       "date": "2026-10-26T13:00:00+00:00",
       "description": "Meta delayed its updated business terms amid complaints to EU and UK regulators. The permission to crawl sites tied to its business users hasn't changed. The post Meta Pushes Its Updated Business Terms Back To Nov. 20 appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "ChatGPT Rarely Named Some Brands Even When Sources Mentioned Them via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-brand-mentions-cited-pages-graphite/594379/",
-      "date": "2026-10-26T12:24:23+00:00",
-      "description": "Brands logged-out ChatGPT rarely named without search also showed up less when it searched, even with cited-page coverage, in new comparison-prompt data. The post ChatGPT Rarely Named Some Brands Even When Sources Mentioned Them appeared first on Search Engine Journal .",
       "image": "",
       "source": "Search Engine Journal",
       "tags": [
