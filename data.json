@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-10-28T15:56:58.324166+00:00",
+  "updatedAt": "2026-10-28T16:57:08.745110+00:00",
   "items": [
+    {
+      "title": "Google Explains Why 404 Errors Aren't Scary 👻",
+      "link": "https://www.seroundtable.com/google-404-errors-42405.html",
+      "date": "2026-10-28T15:16:00+00:00",
+      "description": "Google is out with a new video in The Non-Canonical Cabinet series, this one is on 404 pages and why they are not scary. I like how they also timed the video with a Halloween theme.",
+      "image": "https://images.seroundtable.com/gary-cherry-google-halloween-404-I1njQHyV.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "SEOs, we need to talk about E-E-A-T - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlN2c4Tjd5ZVZDV1FaR2lXTV9JOFJJVHRIbHlES1lhdndlQ2xEQVZXbUhPYm8yQm9wUE5tWWtCUldXTGxrY3RpY0xfOFFzTHhvNkh6Z255eEcwb1Jyal9UcQ?oc=5",
+      "date": "2026-10-28T15:00:00+00:00",
+      "description": "SEOs, we need to talk about E-E-A-T &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
     {
       "title": "The Hreflang Magic Trick – It Routes, It Doesn’t Rank via @sejournal, @billhunt",
       "link": "https://www.searchenginejournal.com/the-hreflang-magic-trick-it-routes-it-doesnt-rank/591979/",
@@ -11,6 +37,19 @@
       "tags": [
         "SEO",
         "AI Search"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: October 28, 2026",
+      "link": "https://www.seroundtable.com/recap-10-28-2026-42398.html",
+      "date": "2026-10-28T14:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today...",
+      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -406,19 +445,6 @@
       ]
     },
     {
-      "title": "Google Ads To Update Child Sexual Abuse and Exploitation (CSAE) Policy",
-      "link": "https://www.seroundtable.com/google-ads-csae-ads-policy-42375.html",
-      "date": "2026-10-27T11:11:00+00:00",
-      "description": "Google Ads said it will update its Child Sexual Abuse and Exploitation (CSAE) ads policy this coming January. Google said this is being done as part of a \"redesign of the policy, and to improve protections, clarity and transparency.\"",
-      "image": "https://images.seroundtable.com/google-ads-safety-eQyVjrRq.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Ads Expands Customer Lifecycle Goals In Search And Shopping via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/google-ads-expands-customer-lifecycle-goals-in-search-and-shopping/594458/",
       "date": "2026-10-26T21:24:39+00:00",
@@ -469,19 +495,6 @@
       ]
     },
     {
-      "title": "Google Warns Tools On User-Generated Spam Guidance & More",
-      "link": "https://www.seroundtable.com/google-user-generated-spam-guidance-tools-42378.html",
-      "date": "2026-10-26T19:15:00+00:00",
-      "description": "Google has updated its Prevent user-generated spam on your site and platform help document to specify \"tools that let users publish shared pages, generated content, or web apps.\" The update explicitly includes platforms and tools that let users create shared pages, generated content, and web apps.",
-      "image": "https://images.seroundtable.com/diff-m3We5265.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Generative UI Could Turn Google Into Your Booking.com via @sejournal, @slobodanmanic",
       "link": "https://www.searchenginejournal.com/generative-ui-could-turn-google-into-your-booking-com/593414/",
       "date": "2026-10-26T19:00:54+00:00",
@@ -498,7 +511,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWldfRGZyczExclplYkNpMFdaQ25RcFdTV205cFcxYURaa2ZrZ1hvSmdGQ012RXBVeDdYQTBkUXNtUm1LOUp0cXhIYUdOcmFENEw1LVJiMVUzdWg0OGpDY2gxa3dUNElmaUh1bFM1R1hLU1lrR1V5TGJxOG45TGxKWXZTV3k3NGFYVjF2bkVaWlRXOTFUZkhLVDNOU2hnWldrVUFlZlZvY0hlUQ?oc=5",
       "date": "2026-10-26T18:39:32+00:00",
       "description": "Google Ads introduces centralized dashboard for tracking policy issues &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -675,19 +688,6 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11T2RHZTU5dFpJQ2hXXzdTLWxCem95UGpVYXZ5ODhEeF9jSk5VeWY1bGM4U3BkdlM0azRISGRXbFFuaS1SZW9VN3lkSmtCSmNiUnExWUF6ck5IMDQ?oc=5",
       "date": "2026-10-23T17:08:17+00:00",
       "description": "How to launch an awesome SEO campaign &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "The latest jobs in search marketing - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
-      "date": "2026-10-23T16:32:18+00:00",
-      "description": "The latest jobs in search marketing &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
