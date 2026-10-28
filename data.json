@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T01:59:16.332378+00:00",
+  "updatedAt": "2026-10-28T02:51:28.891328+00:00",
   "items": [
     {
       "title": "Google: Disabled Discover Clicks Were A Bug In An Experiment via @sejournal, @MattGSouthern",
@@ -35,19 +35,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to build topical authority in the AI search era (Seven steps) - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03OGlHYVB2RjFjNndRZEFNRzZ4VWpFcjdFdkhGVXFfeGhyNS1XZmVjdHNXdkhnRm90bHZaOGFIanh3YlA5YVJ4a3g4YTlocExQZmlIMlRqOXk3blFCamFYWEY0dTNRYTF6YUtYSHRxa2Y3cnNi?oc=5",
-      "date": "2026-10-27T18:31:17+00:00",
-      "description": "How to build topical authority in the AI search era (Seven steps) &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
@@ -510,7 +497,7 @@
       "link": "https://www.seroundtable.com/google-ads-ai-review-summaries-doc-42370.html",
       "date": "2026-10-26T11:41:00+00:00",
       "description": "Google has published a new help document named About Review summaries that explains that \"review summaries on Search are AI-powered summaries of online reviews that appear directly as part of your Search ads.\" We have seen AI-generated summaries for sponsored results in Google for some time now, and now there is a help document on it.",
-      "image": "",
+      "image": "https://images.seroundtable.com/about-review-summaries-google-ads-doc-e2TxDyQY.png",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -662,6 +649,19 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNkRyTW9mRVA2djZoN2Fudko0M1RmQUNxTUlkNE5ZT1h3dGxXUXZjSE9tS0g4VG8xYTV5aXFVUTd6QjE4Mzl0QnRJTUJSQncwellPMVV0MnhvZ3E0ODNPeWVmODhfaVc4bi1WM1g4SUtPM0lzeDY3ei0xMERoSU51YzkzVDVFZGMzYlVkdjdR?oc=5",
       "date": "2026-10-23T14:00:00+00:00",
       "description": "Category vs. product pages: Which does Google favor? &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Ads adds new image and video sourcing options to Performance Max - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM1htdUN3WFoxUm8wVUJfcEY5NUw4VDVBSXJOTXo5M1dGUG1UYll2S0tvLU1ZeHJLcm83ZV9MUlhQbnE1RVYzN0xtOVBfTUVTc04yakZ3S0ZzTV9MOVVpRTJCclc2VkdiWkREWXcycnFNaUVtSlFDVnZFSHlCMVE3cDhKUnB6LWoydEFWaHhheFJGcWF3ZUNLQ25WQWZmT0ZlUUE1WEdReTNjQlE?oc=5",
+      "date": "2026-10-22T19:42:40+00:00",
+      "description": "Google Ads adds new image and video sourcing options to Performance Max &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
