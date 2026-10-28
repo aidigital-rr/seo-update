@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T06:58:11.178355+00:00",
+  "updatedAt": "2026-10-28T08:02:30.945836+00:00",
   "items": [
     {
       "title": "Google: Disabled Discover Clicks Were A Bug In An Experiment via @sejournal, @MattGSouthern",
@@ -77,10 +77,10 @@
       ]
     },
     {
-      "title": "Shopify Moves AI Agent Knowledge Base Into Merchant Admin via @sejournal, @MattGSouthern",
+      "title": "Shopify Retires Knowledge Base App, Moves AI Agent Facts To Admin via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/shopify-ai-agent-knowledge-base-admin/594551/",
       "date": "2026-10-27T15:39:22+00:00",
-      "description": "Shopify's AI agent knowledge base now lives in the admin. Policies and contact details publish by default. Some app users need to re-add their facts. The post Shopify Moves AI Agent Knowledge Base Into Merchant Admin appeared first on Search Engine Journal .",
+      "description": "Shopify's AI agent knowledge base now lives in the admin. Policies and contact details publish by default. Some app users need to re-add their facts. The post Shopify Retires Knowledge Base App, Moves AI Agent Facts To Admin appeared first on Search Engine Journal .",
       "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-knowledge-base-admin.jpg",
       "source": "Search Engine Journal",
       "tags": [
@@ -596,19 +596,6 @@
       ]
     },
     {
-      "title": "Rémi Kerhoas’ shares how a PPC mistake went unnoticed for three months - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMC0wX1lkN2xGb1Bob25WV0xyLThyclc5bl9ZRWtGVEsxQ05iUWhYNlBjUERaT0xmYlByTFVkeGFMQlBXYlBjajE0cFZXd3lRd0RoZktEY183UF9UZm5oclBseDg3OFRxQ2RfMVVjbXo2WkNuaXdDS01abzk2dElXTXc5cEsyMElZMk95UThnOFppcmdiY0dOMEF6LTZlR1hGVmhEdmFxa0o?oc=5",
-      "date": "2026-10-24T16:19:34+00:00",
-      "description": "Rémi Kerhoas’ shares how a PPC mistake went unnoticed for three months &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google Explains 503s, Robots.txt Limits & Bracket URLs – SEO Pulse via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/seo-pulse-google-explains-503s-robots-txt-limits-bracket-urls/594085/",
       "date": "2026-10-24T12:00:00+00:00",
@@ -633,6 +620,32 @@
       ]
     },
     {
+      "title": "How to launch an awesome SEO campaign - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11T2RHZTU5dFpJQ2hXXzdTLWxCem95UGpVYXZ5ODhEeF9jSk5VeWY1bGM4U3BkdlM0azRISGRXbFFuaS1SZW9VN3lkSmtCSmNiUnExWUF6ck5IMDQ?oc=5",
+      "date": "2026-10-23T17:08:17+00:00",
+      "description": "How to launch an awesome SEO campaign &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "The latest jobs in search marketing - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
+      "date": "2026-10-23T16:32:18+00:00",
+      "description": "The latest jobs in search marketing &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "The Junior Hiring Gap Your 2027 Marketing Budget Should Name via @sejournal, @gregjarboe",
       "link": "https://www.searchenginejournal.com/the-junior-hiring-gap-your-2027-marketing-budget-should-name/592944/",
       "date": "2026-10-23T14:00:53+00:00",
@@ -641,6 +654,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Category vs. product pages: Which does Google favor? - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNkRyTW9mRVA2djZoN2Fudko0M1RmQUNxTUlkNE5ZT1h3dGxXUXZjSE9tS0g4VG8xYTV5aXFVUTd6QjE4Mzl0QnRJTUJSQncwellPMVV0MnhvZ3E0ODNPeWVmODhfaVc4bi1WM1g4SUtPM0lzeDY3ei0xMERoSU51YzkzVDVFZGMzYlVkdjdR?oc=5",
+      "date": "2026-10-23T14:00:00+00:00",
+      "description": "Category vs. product pages: Which does Google favor? &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -662,32 +688,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM1htdUN3WFoxUm8wVUJfcEY5NUw4VDVBSXJOTXo5M1dGUG1UYll2S0tvLU1ZeHJLcm83ZV9MUlhQbnE1RVYzN0xtOVBfTUVTc04yakZ3S0ZzTV9MOVVpRTJCclc2VkdiWkREWXcycnFNaUVtSlFDVnZFSHlCMVE3cDhKUnB6LWoydEFWaHhheFJGcWF3ZUNLQ25WQWZmT0ZlUUE1WEdReTNjQlE?oc=5",
       "date": "2026-10-22T19:42:40+00:00",
       "description": "Google Ads adds new image and video sourcing options to Performance Max &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to conduct an AI + SEO competitor analysis in 2026 - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNkM5R1lGcnJDZ2pvVlNsZEF5aWVvRE95YzQ2VXdYLU1sRllMSTFScnJWR0p1SjBFbGxKX3RrSVJ0X3pHRUE4MXdQYUdMX2NlS0tDUW5TM0k2MlNEZjJwYm5vTGx5M0RmczJLVnlTb1VEQ2phWm5CS2x2NlY5eHZXVm1n?oc=5",
-      "date": "2026-10-22T18:52:30+00:00",
-      "description": "How to conduct an AI + SEO competitor analysis in 2026 &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google AI Overviews nearly double for commercial keywords: Study - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdzNubTVMX1Z5V1k2Q1pEenN4alRNclZqeFZKVFFCT1BiY210NG1CY0FuSXRVand5aF9KNjU5LThub2puNjZzWnZCbUt6YkJNelhsQUlUZ0FaVnp1cmlwM3htcTRYX2hHbS05bk1qTzQxbF9YZUtaVjBBZGRReW4wUmZhRFVGd2xzOXJtV0lvRi1kQjg?oc=5",
-      "date": "2026-10-22T16:17:25+00:00",
-      "description": "Google AI Overviews nearly double for commercial keywords: Study &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
