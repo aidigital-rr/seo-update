@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-10-28T12:59:22.148712+00:00",
+  "updatedAt": "2026-10-28T14:03:51.047368+00:00",
   "items": [
+    {
+      "title": "The Hreflang Magic Trick – It Routes, It Doesn’t Rank via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/the-hreflang-magic-trick-it-routes-it-doesnt-rank/591979/",
+      "date": "2026-10-28T14:00:59+00:00",
+      "description": "Understand why Google can serve unindexed hreflang URLs and why market pages need unique local value to stand out in AI search. The post The Hreflang Magic Trick – It Routes, It Doesn’t Rank appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/hreflang-562.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Decodo Launches Web Data API To Give AI Agents Web Access",
+      "link": "https://www.searchenginejournal.com/decodo-launches-web-data-api-to-give-ai-agents-web-access-spn/594415/",
+      "date": "2026-10-28T13:00:00+00:00",
+      "description": "Decodo has introduced Web Data API, combining scraping, searching, mapping, and crawling under one key for AI agents and retrieval pipelines. The post Decodo Launches Web Data API To Give AI Agents Web Access appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/decodo-web-data-api-1000.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Search Fan POV (Point Of View) Button",
+      "link": "https://www.seroundtable.com/google-search-fan-pov-42401.html",
+      "date": "2026-10-28T12:35:00+00:00",
+      "description": "Google has added a new interactive search button to some sports-related queries named \"Fan POV.\" If you go to Google Search and search for [world series], Google will show a blue button that has a baseball emoji and the words \"Fan POV.\" When you click on it, it opens a dialog box with drop downs that you can customize and then will take you into AI Mode to give you more information.",
+      "image": "https://images.seroundtable.com/google-search-fan-pov-2EhyeyFk.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "GA4 Missed 66% Of One Retailer’s Holiday Orders: Check Yours Before Peak Season",
       "link": "https://www.searchenginejournal.com/ga4-missed-two-thirds-retailers-holiday-orders-check-yours-before-peak-saeson/593007/",
@@ -11,6 +48,58 @@
       "tags": [
         "SEO",
         "AI Search"
+      ]
+    },
+    {
+      "title": "Google Ads Tests Sponsored Results With Apple Messages Button",
+      "link": "https://www.seroundtable.com/google-ads-apple-messages-button-42400.html",
+      "date": "2026-10-28T11:56:00+00:00",
+      "description": "Google is testing a new messaging button named Apple Messages on the Google Ads sponsored results. Google has placed messages button, message assets, on Google search ads for a long time now but I don't think I've seen the Apple Messages button before.",
+      "image": "https://images.seroundtable.com/google-ads-apple-messages-button-DAfHY009.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads \"All Conversions\" Tab Is Fully Live",
+      "link": "https://www.seroundtable.com/google-ads-all-conversions-tab-live-42395.html",
+      "date": "2026-10-28T11:51:00+00:00",
+      "description": "Google Ads seems to have rolled out the \"All conversions\" tab within the Goals and Conversions section. This allows advertisers to make one less click, where they can avoid clicking on \"View all conversion actions.\"",
+      "image": "https://images.seroundtable.com/google-ads-all-conversions-zRtSFIdF.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Business Profiles Adds Facebook Messenger M.me Links",
+      "link": "https://www.seroundtable.com/google-facebook-messenger-mme-links-42377.html",
+      "date": "2026-10-28T11:41:00+00:00",
+      "description": "Google is emailing businesses to let them know it is automatically adding Facebook (Meta) Messenger M.me links to their Google Business Profile. I don't think I've seen Google add m.me links to a Google Business Profile before, so this may be new.",
+      "image": "https://images.seroundtable.com/google-business-profiles-m-me-links-xdORrnv6.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Image Search Tests Save Button On Image Overlay",
+      "link": "https://www.seroundtable.com/google-images-save-button-overlay-42394.html",
+      "date": "2026-10-28T11:31:00+00:00",
+      "description": "Google is testing a new position for the Save button within Google Image Search. When you hover your mouse cursor over an image, you may see a \"Save\" button show up that you can click on. The previous method was to show the Save button when you click on an image and the image preview shows up in a window.",
+      "image": "https://images.seroundtable.com/google-image-search-save-button-new-wcKXovZf.gif",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -422,7 +511,7 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8taDVONXhEYmxMMFZJSUxtSmQxYkdLMXg4WmZQMUNfcUtiZFFYeVVVbERqMDNHeGMyQk9Ob2FaeGR5UEdiWFBvTTBVRE5ROTRlTEVwOXJYX294TWNSU0ZHTjBUc1pHVUpqaEJKbDhKaThXNE9EMFdCV1pHNWw?oc=5",
       "date": "2026-10-26T16:00:00+00:00",
       "description": "Cloudflare will upend the AI visibility space &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -435,7 +524,7 @@
       "link": "https://www.searchenginejournal.com/your-google-ads-account-is-hitting-its-targets-so-why-isnt-the-business-growing/592942/",
       "date": "2026-10-26T15:30:04+00:00",
       "description": "Spot the gaps between Google Ads targets and business growth, from outdated margins and repeat buyers to weak leads and capped reach. The post Your Google Ads Account Is Hitting Its Targets, So Why Isn’t The Business Growing? appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/hitting-targets-390.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -447,7 +536,7 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3cWVnblBxRlRwRXBuT1QyTnh5cDBtQ2JFN3JNQjZzSkRrUHU1bjc1WmlscmU4am43b1I5V0xfVjdVUGdVc0lCc0xCbU55UmtxV2g4WFVUaVdNMFM3V3pnRE9BWGdKVlZuMjdHS25vYw?oc=5",
       "date": "2026-10-26T15:30:00+00:00",
       "description": "AI search is a branding channel, not a distraction &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -460,7 +549,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQzh3TEk1TS1yTzd2MUZwa2h4U3A1NjA0OF92MXZ3V3lOTW81THdNcmQwc1R1OWdrVVd0NkNtcFgxbXh6Z3BrREMxX0psOVNxNjd6TjZuZzI1NFVYMWVDR0JhQndkTkJ2UWNWMUxXbXBXaFVfVDVLS0RHT19EdldIQW1aaXhnYS1ZRDN4VXBLaWN6d0d5dFhiWDJxcHpvaDB5ZzNjZmNFSDBkeGxnREhuNQ?oc=5",
       "date": "2026-10-26T15:00:00+00:00",
       "description": "How to build a Google Ads dashboard with Claude that ties spend to outcomes &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -473,7 +562,7 @@
       "link": "https://www.searchenginejournal.com/google-gets-the-thank-you/594108/",
       "date": "2026-10-26T14:00:54+00:00",
       "description": "Referral reports show who sent the visit, not who shaped the decision. Why GEO’s real job is what a model learns, not what it retrieves. The post Google Gets The Thank-You appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/buyer-ai-435.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -481,24 +570,11 @@
       ]
     },
     {
-      "title": "Daily Search Forum Recap: October 26, 2026",
-      "link": "https://www.seroundtable.com/recap-10-26-2026-42374.html",
-      "date": "2026-10-26T14:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today...",
-      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "7 B2B marketing shifts that will define 2027 - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOenFMUTJ3cGVpNDBIUEltdFlTZ0lYNm15SnREM21jVUltdTN6LWlKcXN0VzFCTDFBdV9sU2NrSWM4UWRiM1hsTzRQc2YzUHZJd0lKNmVHVG1UTXZvOFdXOXNFOW91eVhaT2dJUFhLZElHWVpYZC1CUjlob1ctaVI1VkFHTXRCb28?oc=5",
       "date": "2026-10-26T14:00:00+00:00",
       "description": "7 B2B marketing shifts that will define 2027 &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -515,19 +591,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Pop-ups and SEO: What’s safe, what’s risky, and what to fix - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYTkx1WnE1dkVrM2Q0RmNNNlMwRUMzaDlscE5QNm1sOVdXc29VV1pkS2RCQ2pjeTA1U2d2OWNzNVAtMWhLakRGQzNXLUFpcGlCUzRSR1pKX1Jabm0yd0JBa0oxdnQtaVN5Q21rUVhhVQ?oc=5",
-      "date": "2026-10-26T13:00:00+00:00",
-      "description": "Pop-ups and SEO: What’s safe, what’s risky, and what to fix &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
@@ -582,86 +645,10 @@
       ]
     },
     {
-      "title": "Over 80% Of Google Searches Have AI Overviews & Growing",
-      "link": "https://www.seroundtable.com/over-80-of-google-searches-have-ai-overviews-42372.html",
-      "date": "2026-10-26T11:51:00+00:00",
-      "description": "AI Overviews now show up for over 80% of Google Searches, that is up from 50% in June of last year and about 15% from the year before that. This is from recent data from Semrush, SE Ranking, and seoClarity.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads AI-Generated Review Summaries Help Doc",
-      "link": "https://www.seroundtable.com/google-ads-ai-review-summaries-doc-42370.html",
-      "date": "2026-10-26T11:41:00+00:00",
-      "description": "Google has published a new help document named About Review summaries that explains that \"review summaries on Search are AI-powered summaries of online reviews that appear directly as part of your Search ads.\" We have seen AI-generated summaries for sponsored results in Google for some time now, and now there is a help document on it.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "ChatGPT Ads With Learn More Arrow Link; Some Served Through Amazon DSP",
-      "link": "https://www.seroundtable.com/chatgpt-ads-learn-more-amazon-dsp-42371.html",
-      "date": "2026-10-26T11:31:00+00:00",
-      "description": "OpenAI seems to be rolling out a new ad format for some ChatGPT Ad units that have a Learn more link, that is dotted and underlined, and also with an arrow going upwards. And in some cases, ChatGPT Ads seem to be served with Amazon DSP.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Discover Tests Disabling Clicks In Sources Section",
-      "link": "https://www.seroundtable.com/google-discover-disabling-clicks-42369.html",
-      "date": "2026-10-26T11:21:00+00:00",
-      "description": "Google is reportedly testing disabling the ability to click on the sources button in the Google Discover card of articles. Normally, when you click on the sources, it will open up a new screen with all the source articles and links to them.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Tactical Solutions For The Biggest AI Search Measurement Challenges via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/tactical-solutions-for-the-biggest-ai-search-measurement-challenges-recap/593023/",
-      "date": "2026-10-26T07:45:18+00:00",
-      "description": "Measure AI search beyond clicks with STAT’s Tom Capper: track brand presence, investigate citations, and improve your attribution story. The post Tactical Solutions For The Biggest AI Search Measurement Challenges appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Explains 503s, Robots.txt Limits & Bracket URLs – SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-google-explains-503s-robots-txt-limits-bracket-urls/594085/",
-      "date": "2026-10-24T12:00:00+00:00",
-      "description": "Google reminds sites to use 503s during PHP patch downtime. Other updates cover robots.txt controls, bracket URLs, and JPEG XL in Google Images and Discover. The post Google Explains 503s, Robots.txt Limits &#038; Bracket URLs – SEO Pulse appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to launch an awesome SEO campaign - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11T2RHZTU5dFpJQ2hXXzdTLWxCem95UGpVYXZ5ODhEeF9jSk5VeWY1bGM4U3BkdlM0azRISGRXbFFuaS1SZW9VN3lkSmtCSmNiUnExWUF6ck5IMDQ?oc=5",
-      "date": "2026-10-23T17:08:17+00:00",
-      "description": "How to launch an awesome SEO campaign &nbsp;&nbsp; Search Engine Land",
+      "title": "How to write listicles that earn trust and help readers decide - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa2FyTGFOZnZOSDNYRlBLUjFUdVdEVzJscmZ3MG85NUtFNmNlTEpfazVEZ1hVX3NpMmpRZGUwdjRkYjVxYkxYMUJ0WDZhSm5UZUQxOTliaVIyeUE4VmlBS3RocEkxUDBUVWE2T1BGTVlLdmQzcXhRRnBVREJWd3Zsbg?oc=5",
+      "date": "2026-10-23T12:00:00+00:00",
+      "description": "How to write listicles that earn trust and help readers decide &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -671,10 +658,10 @@
       ]
     },
     {
-      "title": "The latest jobs in search marketing - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
-      "date": "2026-10-23T16:32:18+00:00",
-      "description": "The latest jobs in search marketing &nbsp;&nbsp; Search Engine Land",
+      "title": "Google Ads adds new image and video sourcing options to Performance Max - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM1htdUN3WFoxUm8wVUJfcEY5NUw4VDVBSXJOTXo5M1dGUG1UYll2S0tvLU1ZeHJLcm83ZV9MUlhQbnE1RVYzN0xtOVBfTUVTc04yakZ3S0ZzTV9MOVVpRTJCclc2VkdiWkREWXcycnFNaUVtSlFDVnZFSHlCMVE3cDhKUnB6LWoydEFWaHhheFJGcWF3ZUNLQ25WQWZmT0ZlUUE1WEdReTNjQlE?oc=5",
+      "date": "2026-10-22T19:42:40+00:00",
+      "description": "Google Ads adds new image and video sourcing options to Performance Max &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -684,10 +671,23 @@
       ]
     },
     {
-      "title": "Category vs. product pages: Which does Google favor? - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNkRyTW9mRVA2djZoN2Fudko0M1RmQUNxTUlkNE5ZT1h3dGxXUXZjSE9tS0g4VG8xYTV5aXFVUTd6QjE4Mzl0QnRJTUJSQncwellPMVV0MnhvZ3E0ODNPeWVmODhfaVc4bi1WM1g4SUtPM0lzeDY3ei0xMERoSU51YzkzVDVFZGMzYlVkdjdR?oc=5",
-      "date": "2026-10-23T14:00:00+00:00",
-      "description": "Category vs. product pages: Which does Google favor? &nbsp;&nbsp; Search Engine Land",
+      "title": "How to conduct an AI + SEO competitor analysis in 2026 - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNkM5R1lGcnJDZ2pvVlNsZEF5aWVvRE95YzQ2VXdYLU1sRllMSTFScnJWR0p1SjBFbGxKX3RrSVJ0X3pHRUE4MXdQYUdMX2NlS0tDUW5TM0k2MlNEZjJwYm5vTGx5M0RmczJLVnlTb1VEQ2phWm5CS2x2NlY5eHZXVm1n?oc=5",
+      "date": "2026-10-22T18:52:30+00:00",
+      "description": "How to conduct an AI + SEO competitor analysis in 2026 &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google AI Overviews nearly double for commercial keywords: Study - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdzNubTVMX1Z5V1k2Q1pEenN4alRNclZqeFZKVFFCT1BiY210NG1CY0FuSXRVand5aF9KNjU5LThub2puNjZzWnZCbUt6YkJNelhsQUlUZ0FaVnp1cmlwM3htcTRYX2hHbS05bk1qTzQxbF9YZUtaVjBBZGRReW4wUmZhRFVGd2xzOXJtV0lvRi1kQjg?oc=5",
+      "date": "2026-10-22T16:17:25+00:00",
+      "description": "Google AI Overviews nearly double for commercial keywords: Study &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
