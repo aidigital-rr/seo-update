@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T08:56:11.703110+00:00",
+  "updatedAt": "2026-10-28T09:54:20.948204+00:00",
   "items": [
     {
       "title": "Google: Disabled Discover Clicks Were A Bug In An Experiment via @sejournal, @MattGSouthern",
@@ -18,7 +18,7 @@
       "link": "https://www.seroundtable.com/googlebot-redirects-from-homepage-to-favicon-42396.html",
       "date": "2026-10-27T19:05:00+00:00",
       "description": "Google Search has just updated its favicon documentation to now specify that Googlebot must be able to follow redirects from the homepage to the page where the favicon is specified. The document also explicitly says that these URLs must not be blocked by robots.txt or other means.",
-      "image": "https://images.seroundtable.com/google-favicon-doc-new-CMkmks74.png",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -130,7 +130,7 @@
       "link": "https://www.seroundtable.com/recap-10-27-2026-42380.html",
       "date": "2026-10-27T14:00:00+00:00",
       "description": "Here is a recap of what happened in the search forums today...",
-      "image": "",
+      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -220,7 +220,7 @@
       "link": "https://www.seroundtable.com/google-ads-dotted-underlined-links-42290.html",
       "date": "2026-10-27T11:21:00+00:00",
       "description": "Google is testing placing dotted underlined links in the sponsored results ad descriptions. When you click on them, you go to the ad destination's URL, like you would if you clicked on the title of the ad.",
-      "image": "https://images.seroundtable.com/google-dotted-underline-sponsored-results-ads-xn04svLw.png",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
