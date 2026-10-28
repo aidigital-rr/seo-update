@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-10-28T10:51:45.035961+00:00",
+  "updatedAt": "2026-10-28T11:50:00.008096+00:00",
   "items": [
+    {
+      "title": "Bing Tests Get Phone Number & QR Code To Scan",
+      "link": "https://www.seroundtable.com/bing-get-phone-number-qr-code-42397.html",
+      "date": "2026-10-28T11:21:00+00:00",
+      "description": "Microsoft Bing is testing adding a phone icon to the local pack on desktop, when you click on the phone button, it has a scan to call QR code with the phone number listed out. Google did this back in 2023 and now Microsoft Bing is testing it.",
+      "image": "https://images.seroundtable.com/bing-get-phone-number-qr-code1-AgJi8gI4.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Business Profiles Asking Businesses For EIN",
+      "link": "https://www.seroundtable.com/google-business-profiles-ein-request-42382.html",
+      "date": "2026-10-28T11:11:00+00:00",
+      "description": "Google is asking some businesses to provide their EIN, Employer Identification Number and a link to their privacy policy when updating parts of their Google Business Profile.",
+      "image": "https://images.seroundtable.com/google-business-profiles-ein-request-h07kYwKf.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Signals A Wider Crackdown On UGC SEO Spam via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-signals-a-wider-crackdown-on-ugc-seo-spam/594679/",
+      "date": "2026-10-28T11:04:02+00:00",
+      "description": "Google signals that its fight against SEO spam is expanding to new kinds of platforms, tools, and services. The post Google Signals A Wider Crackdown On UGC SEO Spam appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-seo-spam-180.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Google: Disabled Discover Clicks Were A Bug In An Experiment via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/rajan-patel-disabled-discover-source-clicks-bug/594579/",
@@ -35,6 +73,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How much does Google Ads cost? (2026 data + insights) - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iaVYxV0RyRDgtMnZiUC1ON25scm1YcGI4SDNUN3d4TGx2dkkzMUN4UHBmRm9XQl9EbG1aUDlTd1B3MzJRYm50UzhPVG1KdTI4RHJFcExrQ1RrTmxueFV5dEhETG1iUUh2eUlQREhNemEzZw?oc=5",
+      "date": "2026-10-27T18:37:26+00:00",
+      "description": "How much does Google Ads cost? (2026 data + insights) &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -460,7 +511,7 @@
       "link": "https://www.searchenginejournal.com/chatgpt-brand-mentions-cited-pages-graphite/594379/",
       "date": "2026-10-26T12:24:23+00:00",
       "description": "Brands logged-out ChatGPT rarely named without search also showed up less when it searched, even with cited-page coverage, in new comparison-prompt data. The post ChatGPT Rarely Named Some Brands Even When Sources Mentioned Them appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-brand-mentions-featured.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -472,7 +523,7 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcHVhTjFQOVEwWVhmazFNc2tpQ01IalZVR2tZemVwekpQVEd6T2VFWG9iRE9PS2tPME5NQ3RKakRaTnlpN3RFNzBZM3NKOHJfLWFRUjR3Z1BHRVpEeFhPYlJPbE1rVW40cHJyaEh4U3dlX0pYWjBIRWVPS09oOVJubVk2UWRTUQ?oc=5",
       "date": "2026-10-26T12:15:00+00:00",
       "description": "6 steps to map local search intent beyond keyword data &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -485,7 +536,7 @@
       "link": "https://www.searchenginejournal.com/at-mod-world-reddits-ceo-gave-brands-more-reasons-to-build-communities/594247/",
       "date": "2026-10-26T12:00:17+00:00",
       "description": "Reddit's community-first plans strengthen the case for brand subreddits built around useful answers and relationships that bring people back. The post At Mod World, Reddit’s CEO Just Gave Brands More Reasons To Build Their Own Communities appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/mod-world-882.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -497,7 +548,7 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb3YwT3NMLUtnWFNlTk1WejJFMy1oWTR1MGhfVWh0RllPQmI5YktTRDVJeldPTFkxWFQxU2I4RlZUQmduNWxsYUhLMUN5b3hWVTAzWjZrSzlOZEx2Xy0zLW53bmJkaGY5NGZTcjdmTC1abVl0M1pzWDNDT3hJRHNVdnFYMFEtb2J1ajZnZ1lKTQ?oc=5",
       "date": "2026-10-26T12:00:00+00:00",
       "description": "Search Engine Land Awards 2026: And the winners are… &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -558,19 +609,6 @@
       ]
     },
     {
-      "title": "Google Ads 1-Click AI Max Experiment Recommendation",
-      "link": "https://www.seroundtable.com/google-ads-1-click-ai-max-experiment-42324.html",
-      "date": "2026-10-26T11:11:00+00:00",
-      "description": "Google Ads updated its frequently asked questions page for AI Max search campaigns with a section on 1-click AI Max experiments. Google wrote in the document, \"If your account is eligible, you may find a 1-click experiment recommendation on your Recommendations page.\"",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Tactical Solutions For The Biggest AI Search Measurement Challenges via @sejournal, @lorenbaker",
       "link": "https://www.searchenginejournal.com/tactical-solutions-for-the-biggest-ai-search-measurement-challenges-recap/593023/",
       "date": "2026-10-26T07:45:18+00:00",
@@ -580,19 +618,6 @@
       "tags": [
         "SEO",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Google Search Ranking Volatility Gets Heated October 24th",
-      "link": "https://www.seroundtable.com/google-search-ranking-volatility-heated-42373.html",
-      "date": "2026-10-25T14:07:00+00:00",
-      "description": "This past Saturday, October 24th, we saw some significant ranking volatility captured by many of the third-party Google tracking tools. There was also some heavy chatter within the SEO industry about ranking movement and Google traffic changes over the past couple of days. The two together make me believe that there was some Google Search ranking adjustment released Friday and into Saturday.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -620,57 +645,6 @@
       ]
     },
     {
-      "title": "How to launch an awesome SEO campaign - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11T2RHZTU5dFpJQ2hXXzdTLWxCem95UGpVYXZ5ODhEeF9jSk5VeWY1bGM4U3BkdlM0azRISGRXbFFuaS1SZW9VN3lkSmtCSmNiUnExWUF6ck5IMDQ?oc=5",
-      "date": "2026-10-23T17:08:17+00:00",
-      "description": "How to launch an awesome SEO campaign &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "The latest jobs in search marketing - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
-      "date": "2026-10-23T16:32:18+00:00",
-      "description": "The latest jobs in search marketing &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "The Junior Hiring Gap Your 2027 Marketing Budget Should Name via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/the-junior-hiring-gap-your-2027-marketing-budget-should-name/592944/",
-      "date": "2026-10-23T14:00:53+00:00",
-      "description": "Make junior hiring an explicit part of your 2027 SEO budget, with defined learning roles and a scorecard that tracks unfilled seats. The post The Junior Hiring Gap Your 2027 Marketing Budget Should Name appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Category vs. product pages: Which does Google favor? - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNkRyTW9mRVA2djZoN2Fudko0M1RmQUNxTUlkNE5ZT1h3dGxXUXZjSE9tS0g4VG8xYTV5aXFVUTd6QjE4Mzl0QnRJTUJSQncwellPMVV0MnhvZ3E0ODNPeWVmODhfaVc4bi1WM1g4SUtPM0lzeDY3ei0xMERoSU51YzkzVDVFZGMzYlVkdjdR?oc=5",
-      "date": "2026-10-23T14:00:00+00:00",
-      "description": "Category vs. product pages: Which does Google favor? &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "How to write listicles that earn trust and help readers decide - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa2FyTGFOZnZOSDNYRlBLUjFUdVdEVzJscmZ3MG85NUtFNmNlTEpfazVEZ1hVX3NpMmpRZGUwdjRkYjVxYkxYMUJ0WDZhSm5UZUQxOTliaVIyeUE4VmlBS3RocEkxUDBUVWE2T1BGTVlLdmQzcXhRRnBVREJWd3Zsbg?oc=5",
       "date": "2026-10-23T12:00:00+00:00",
@@ -688,6 +662,32 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM1htdUN3WFoxUm8wVUJfcEY5NUw4VDVBSXJOTXo5M1dGUG1UYll2S0tvLU1ZeHJLcm83ZV9MUlhQbnE1RVYzN0xtOVBfTUVTc04yakZ3S0ZzTV9MOVVpRTJCclc2VkdiWkREWXcycnFNaUVtSlFDVnZFSHlCMVE3cDhKUnB6LWoydEFWaHhheFJGcWF3ZUNLQ25WQWZmT0ZlUUE1WEdReTNjQlE?oc=5",
       "date": "2026-10-22T19:42:40+00:00",
       "description": "Google Ads adds new image and video sourcing options to Performance Max &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How to conduct an AI + SEO competitor analysis in 2026 - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNkM5R1lGcnJDZ2pvVlNsZEF5aWVvRE95YzQ2VXdYLU1sRllMSTFScnJWR0p1SjBFbGxKX3RrSVJ0X3pHRUE4MXdQYUdMX2NlS0tDUW5TM0k2MlNEZjJwYm5vTGx5M0RmczJLVnlTb1VEQ2phWm5CS2x2NlY5eHZXVm1n?oc=5",
+      "date": "2026-10-22T18:52:30+00:00",
+      "description": "How to conduct an AI + SEO competitor analysis in 2026 &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google AI Overviews nearly double for commercial keywords: Study - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdzNubTVMX1Z5V1k2Q1pEenN4alRNclZqeFZKVFFCT1BiY210NG1CY0FuSXRVand5aF9KNjU5LThub2puNjZzWnZCbUt6YkJNelhsQUlUZ0FaVnp1cmlwM3htcTRYX2hHbS05bk1qTzQxbF9YZUtaVjBBZGRReW4wUmZhRFVGd2xzOXJtV0lvRi1kQjg?oc=5",
+      "date": "2026-10-22T16:17:25+00:00",
+      "description": "Google AI Overviews nearly double for commercial keywords: Study &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
