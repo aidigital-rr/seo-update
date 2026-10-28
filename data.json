@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-28T21:46:43.851931+00:00",
+  "updatedAt": "2026-10-28T22:20:56.559199+00:00",
   "items": [
+    {
+      "title": "WordPress Announces Another Security Release: Version 7.1.4 via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wordpress-announces-another-security-release-version-7-1-4/594798/",
+      "date": "2026-10-28T22:14:34+00:00",
+      "description": "WordPress announced security release version 7.1.4 that fixes 22 vulnerabilities, including one that affects its updater. The post WordPress Announces Another Security Release: Version 7.1.4 appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/wordpress-security-release-75.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Lets Restaurants Directly Opt Out Of Ordering Providers via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-restaurants-opt-out-ordering-providers/594794/",
+      "date": "2026-10-28T22:11:43+00:00",
+      "description": "Restaurants can now turn off specific third-party ordering providers in the Business Profile dashboard instead of waiting on each provider to remove them. The post Google Lets Restaurants Directly Opt Out Of Ordering Providers appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-restaurant-ordering-featured.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "AI-Cited Pages More Often Got Straight To The Answer via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/ai-cited-pages-more-often-got-straight-to-the-answer/594781/",
@@ -14,7 +38,20 @@
       ]
     },
     {
-      "title": "Google Ad Revenue Up 10.5% With Revenue Up 25%",
+      "title": "Bing Ads Revenue Up 12% With Overall Revenue Up 19%",
+      "link": "https://www.seroundtable.com/microsoft-earnings-q127-42404.html",
+      "date": "2026-10-28T20:15:00+00:00",
+      "description": "Microsoft reported its first quarter 2027 earnings, showing that its search and advertising revenue was up 12%, indicating its ad growth was 2 points higher than the previous quarter. The previous quarter it was up 10%, before that was up 12%, before that up 10% before that, up 16% and the one before that was 21% and this quarter, it is only up 10%.",
+      "image": "https://images.seroundtable.com/microsoft-ads-earnings-chart-mifJR18A.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ad Revenue Up 10.5% With Overall Revenue Up 25%",
       "link": "https://www.seroundtable.com/google-earnings-q326-42403.html",
       "date": "2026-10-28T20:10:00+00:00",
       "description": "Google reported its earnings today, its Q3 2026 earnings report showed search ad revenues up by 10.5% at $82 billion and overall revenue was up 25% at $127.6 billion. As you know, I specifically like to dig in as best as I can on the search ad revenue side to see how Google Ads has performed.",
@@ -470,24 +507,11 @@
       ]
     },
     {
-      "title": "Unconfirmed Google Search Ranking Update: Volatility & Chatter Spike",
-      "link": "https://www.seroundtable.com/google-search-ranking-volatility-42379.html",
-      "date": "2026-10-27T11:51:00+00:00",
-      "description": "I know I just reported on an unconfirmed Google Search ranking update from this past Saturday, October 24th. But I am now seeing a larger spike in volatility, along with an increase in SEO community chatter around another unconfirmed update over the past 24 hours.",
-      "image": "https://images.seroundtable.com/volatility/wincher-2026-10-27-lg.png?v=1793095244",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Responds To Concern Over Search Console Indexing Reports via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-responds-to-concern-over-search-console-indexing-reports/594494/",
       "date": "2026-10-27T11:17:59+00:00",
       "description": "John Mueller's responded to a stalled indexing report and explained why SEOs may need to relax about indexing report freshness. The post Google Responds To Concern Over Search Console Indexing Reports appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/search-console-indexing-rep-86.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -499,7 +523,7 @@
       "link": "https://www.searchenginejournal.com/google-ads-expands-customer-lifecycle-goals-in-search-and-shopping/594458/",
       "date": "2026-10-26T21:24:39+00:00",
       "description": "Google Ads expands customer lifecycle goals with High Value acquisition for Shopping and retention modes across Search, Shopping, and Performance Max. The post Google Ads Expands Customer Lifecycle Goals In Search And Shopping appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-ads-customer-targeting-471.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -621,18 +645,6 @@
       ]
     },
     {
-      "title": "Google Gets The Thank-You via @sejournal, @pedrodias",
-      "link": "https://www.searchenginejournal.com/google-gets-the-thank-you/594108/",
-      "date": "2026-10-26T14:00:54+00:00",
-      "description": "Referral reports show who sent the visit, not who shaped the decision. Why GEO’s real job is what a model learns, not what it retrieves. The post Google Gets The Thank-You appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "7 B2B marketing shifts that will define 2027 - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOenFMUTJ3cGVpNDBIUEltdFlTZ0lYNm15SnREM21jVUltdTN6LWlKcXN0VzFCTDFBdV9sU2NrSWM4UWRiM1hsTzRQc2YzUHZJd0lKNmVHVG1UTXZvOFdXOXNFOW91eVhaT2dJUFhLZElHWVpYZC1CUjlob1ctaVI1VkFHTXRCb28?oc=5",
       "date": "2026-10-26T14:00:00+00:00",
@@ -642,18 +654,6 @@
       "tags": [
         "SEO",
         "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Meta Pushes Its Updated Business Terms Back To Nov. 20 via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/meta-delays-business-terms-crawling/594388/",
-      "date": "2026-10-26T13:00:00+00:00",
-      "description": "Meta delayed its updated business terms amid complaints to EU and UK regulators. The permission to crawl sites tied to its business users hasn't changed. The post Meta Pushes Its Updated Business Terms Back To Nov. 20 appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
         "AI Search"
       ]
     },
