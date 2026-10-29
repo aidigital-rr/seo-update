@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T15:58:58.629959+00:00",
+  "updatedAt": "2026-10-29T16:58:38.163480+00:00",
   "items": [
     {
       "title": "How Can I Tell If My Images Are Optimized For Multimodal Search? – Ask an SEO via @sejournal, @HelenPollitt1",
@@ -150,6 +150,19 @@
       "tags": [
         "SEO",
         "AI Search"
+      ]
+    },
+    {
+      "title": "Google Business Profiles AI-Powered Messaging Expands",
+      "link": "https://www.seroundtable.com/google-business-profiles-ai-powered-messaging-42419.html",
+      "date": "2026-10-29T04:55:00+00:00",
+      "description": "Google seems to be rolling out access to the Google Business Profile AI-powered messaging feature to more businesses. I believe we covered this in June of this year, but since then, Google made some updates to the feature.",
+      "image": "https://images.seroundtable.com/google-business-profiles-al-powered-messaging-m7xBQC2s.gif",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -368,19 +381,6 @@
       ]
     },
     {
-      "title": "Daily Search Forum Recap: October 28, 2026",
-      "link": "https://www.seroundtable.com/recap-10-28-2026-42398.html",
-      "date": "2026-10-28T14:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today...",
-      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Why the SEO industry needs in-person meetups - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdF9WYjdWM2NXb0E1N1Z4XzBhbDNnWjlaUHdwc1hJbU1mZEYzdGhoTFlHTVlLVGVtMGZjbXVXOTd6MjN0VXdoWHlDaDZ4MGdkWUpNQmJQbmlwLUFVeERxUnlObDRveWt5RUNRN3hlR3F4TUZkcUNubUY3SWNxZ3JYbnFWRGRZZlk?oc=5",
       "date": "2026-10-28T14:00:00+00:00",
@@ -593,19 +593,6 @@
       ]
     },
     {
-      "title": "7 Google Ads conversion tracking mistakes to avoid - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNalVXWmF1Q1pEY3Zac19DeFlwT1QyazMzbWxQWkFJMkxSek5GMVZfYWozN0QyclNaTDItSXQ5X0dQalJSOUdDNTRDa3FOd1lzTGNHejVZM3ZOeEdyWTdDekxfbS1xVkJ2RGFGb05CaTdvMXlhQXlmM3o1UTFCWTk4Yg?oc=5",
-      "date": "2026-10-27T14:00:00+00:00",
-      "description": "7 Google Ads conversion tracking mistakes to avoid &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "What SEO and GEO can learn from revenue operations - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KQ1VscmxwS2cydWdveWpWUzVONWZFdmpwTG9QSDV1OTdkT0xYalVybUo0WmhVYklkM29PU3VqeUF2aTR6LUdIRU40NHBkNGRfbDRZY19hZC1IQy1lSHVWZDlBUThkdy1ocjdRYTJvdw?oc=5",
       "date": "2026-10-27T13:00:00+00:00",
@@ -688,6 +675,19 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQzh3TEk1TS1yTzd2MUZwa2h4U3A1NjA0OF92MXZ3V3lOTW81THdNcmQwc1R1OWdrVVd0NkNtcFgxbXh6Z3BrREMxX0psOVNxNjd6TjZuZzI1NFVYMWVDR0JhQndkTkJ2UWNWMUxXbXBXaFVfVDVLS0RHT19EdldIQW1aaXhnYS1ZRDN4VXBLaWN6d0d5dFhiWDJxcHpvaDB5ZzNjZmNFSDBkeGxnREhuNQ?oc=5",
       "date": "2026-10-26T15:00:00+00:00",
       "description": "How to build a Google Ads dashboard with Claude that ties spend to outcomes &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "7 B2B marketing shifts that will define 2027 - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOenFMUTJ3cGVpNDBIUEltdFlTZ0lYNm15SnREM21jVUltdTN6LWlKcXN0VzFCTDFBdV9sU2NrSWM4UWRiM1hsTzRQc2YzUHZJd0lKNmVHVG1UTXZvOFdXOXNFOW91eVhaT2dJUFhLZElHWVpYZC1CUjlob1ctaVI1VkFHTXRCb28?oc=5",
+      "date": "2026-10-26T14:00:00+00:00",
+      "description": "7 B2B marketing shifts that will define 2027 &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
