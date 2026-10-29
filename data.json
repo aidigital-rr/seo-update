@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-10-29T17:54:11.194881+00:00",
+  "updatedAt": "2026-10-29T18:57:00.961548+00:00",
   "items": [
+    {
+      "title": "Google's John Mueller: Eventually Systems Will Catch The AI Spam & Tricks",
+      "link": "https://www.seroundtable.com/john-mueller-google-systems-ai-spam-42420.html",
+      "date": "2026-10-29T17:25:00+00:00",
+      "description": "Google's John Mueller was interviewed by David Iwanow, where he shared information on AI-generated content, the future of SEO, technical SEO, the crawl stats report, redirect chains, ecommerce product data and much more. John was asked about tactics, such as listicles, being used to rank well in AI Search, and he said that eventually the systems will catch up, so don't use those cheap, easy, and fast tactics.",
+      "image": "https://images.seroundtable.com/john-mueller-google-interview-davivi-itKX7FFL.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Business Profiles AI-Powered Messaging Expands",
+      "link": "https://www.seroundtable.com/google-business-profiles-ai-powered-messaging-42419.html",
+      "date": "2026-10-29T16:55:00+00:00",
+      "description": "Google seems to be rolling out access to the Google Business Profile AI-powered messaging feature to more businesses. I believe we covered this in June of this year, but since then, Google made some updates to the feature.",
+      "image": "https://images.seroundtable.com/google-business-profiles-al-powered-messaging-m7xBQC2s.gif",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "How Can I Tell If My Images Are Optimized For Multimodal Search? – Ask an SEO via @sejournal, @HelenPollitt1",
       "link": "https://www.searchenginejournal.com/ask-an-seo-how-can-i-tell-if-my-images-are-optimised-for-multimodal-search/593861/",
@@ -163,19 +189,6 @@
       "tags": [
         "SEO",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Google Business Profiles AI-Powered Messaging Expands",
-      "link": "https://www.seroundtable.com/google-business-profiles-ai-powered-messaging-42419.html",
-      "date": "2026-10-29T04:55:00+00:00",
-      "description": "Google seems to be rolling out access to the Google Business Profile AI-powered messaging feature to more businesses. I believe we covered this in June of this year, but since then, Google made some updates to the feature.",
-      "image": "https://images.seroundtable.com/google-business-profiles-al-powered-messaging-m7xBQC2s.gif",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -353,19 +366,6 @@
         "SEO",
         "Google",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Google Explains Why 404 Errors Aren't Scary 👻",
-      "link": "https://www.seroundtable.com/google-404-errors-42405.html",
-      "date": "2026-10-28T15:16:00+00:00",
-      "description": "Google is out with a new video in The Non-Canonical Cabinet series, this one is on 404 pages and why they are not scary. I like how they also timed the video with a Halloween theme.",
-      "image": "https://images.seroundtable.com/gary-cherry-google-halloween-404-I1njQHyV.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
