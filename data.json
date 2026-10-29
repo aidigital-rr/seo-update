@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-29T13:00:41.485195+00:00",
+  "updatedAt": "2026-10-29T14:07:33.421641+00:00",
   "items": [
+    {
+      "title": "OpenAI’s Aura Safety Check Can Block Your Site From ChatGPT Browsing via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/openais-aura-safety-check-can-block-your-site-from-chatgpt-browsing/594322/",
+      "date": "2026-10-29T14:00:06+00:00",
+      "description": "Identify OpenAI Aura blocks that stop agents from opening your site, and gather evidence to request a review. The post OpenAI&#8217;s Aura Safety Check Can Block Your Site From ChatGPT Browsing appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/block-website-793.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "HubSpot Lost 80% Of Its Traffic – CMO Kipp Bodnar Explains Why Revenue Kept Growing via @sejournal, @gregjarboe",
       "link": "https://www.searchenginejournal.com/hubspot-lost-80-of-its-traffic-cmo-kipp-bodnar-explains-why-revenue-kept-growing/594004/",
@@ -179,14 +191,27 @@
       ]
     },
     {
-      "title": "Google Lets Restaurants Directly Opt Out Of Ordering Providers via @sejournal, @MattGSouthern",
+      "title": "Google Gives Restaurants Direct Control Over Ordering Providers via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-restaurants-opt-out-ordering-providers/594794/",
       "date": "2026-10-28T22:11:43+00:00",
-      "description": "Restaurants can now turn off specific third-party ordering providers in the Business Profile dashboard instead of waiting on each provider to remove them. The post Google Lets Restaurants Directly Opt Out Of Ordering Providers appeared first on Search Engine Journal .",
+      "description": "Restaurants can now turn off specific third-party ordering providers in the Business Profile dashboard instead of waiting on each provider to remove them. The post Google Gives Restaurants Direct Control Over Ordering Providers appeared first on Search Engine Journal .",
       "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-restaurant-ordering-featured.jpg",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "17 ways to get more traffic to your blog - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13MTFjQzNsSEFJSTNhOUhaRjVlRVF6V2ZJbzdmRlJoeVktdDlPcXJFakM2R3Vab19lYkdNUi0yQmlSQThZUFJFYnhienVKdThwazhlc2FIMzFkc0tFZHZFTTl3?oc=5",
+      "date": "2026-10-28T21:21:13+00:00",
+      "description": "17 ways to get more traffic to your blog &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -486,7 +511,7 @@
       "link": "https://www.searchenginejournal.com/google-privacy-policy-connected-apps-ai-mode-ads/594546/",
       "date": "2026-10-27T17:11:52+00:00",
       "description": "Google is testing AI Mode ads informed by connected Gmail and Photos data, as its privacy policy adds an exception for ad personalization. The post Google Privacy Update Lets Connected Apps Shape AI Mode Ads appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_1921284380_1600x840-860.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -498,7 +523,7 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS2Y2cUc2WVIySGpsU0prMWtoQTFIWThIaVFybFlfek94NDRlcmRtNXNKSUdNTjV3UnoyMHQxZDF3ZU5pN3FwT211a3V6YXZpLW4yMk0xbTNIRDY4Qm12aWUyaTJNaXI5bUVvWE5Xa3h1TUtNZTFVOEJ6aFZlamM4NFlyVjBGdw?oc=5",
       "date": "2026-10-27T16:00:32+00:00",
       "description": "44% of SEOs are more worried about AI than a year ago: Survey &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -607,18 +632,6 @@
       ]
     },
     {
-      "title": "Google Responds To Concern Over Search Console Indexing Reports via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-responds-to-concern-over-search-console-indexing-reports/594494/",
-      "date": "2026-10-27T11:17:59+00:00",
-      "description": "John Mueller's responded to a stalled indexing report and explained why SEOs may need to relax about indexing report freshness. The post Google Responds To Concern Over Search Console Indexing Reports appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google Search says you should block indexing of link-shared content - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0tDMlV2b1p1SERtMWJ4dUZPWTVuZEZQQ0MyWG5CUGloM3VJenFtSFNtam1SWnFlWFV4VDA1ZTczTllkSk5EUWFuajlCcXljZndhSHZJalN4NjZSUDUyVXF2c29TUWxwSWN4anlOOTRjQmtMQURpSERJZWp3cThUWkM3MmJJSFFjS0F1Z0h0Mk54NGEtcWJqdjI5azMtREwwc2RhVnBn?oc=5",
       "date": "2026-10-26T19:32:23+00:00",
@@ -675,19 +688,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQzh3TEk1TS1yTzd2MUZwa2h4U3A1NjA0OF92MXZ3V3lOTW81THdNcmQwc1R1OWdrVVd0NkNtcFgxbXh6Z3BrREMxX0psOVNxNjd6TjZuZzI1NFVYMWVDR0JhQndkTkJ2UWNWMUxXbXBXaFVfVDVLS0RHT19EdldIQW1aaXhnYS1ZRDN4VXBLaWN6d0d5dFhiWDJxcHpvaDB5ZzNjZmNFSDBkeGxnREhuNQ?oc=5",
       "date": "2026-10-26T15:00:00+00:00",
       "description": "How to build a Google Ads dashboard with Claude that ties spend to outcomes &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "7 B2B marketing shifts that will define 2027 - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOenFMUTJ3cGVpNDBIUEltdFlTZ0lYNm15SnREM21jVUltdTN6LWlKcXN0VzFCTDFBdV9sU2NrSWM4UWRiM1hsTzRQc2YzUHZJd0lKNmVHVG1UTXZvOFdXOXNFOW91eVhaT2dJUFhLZElHWVpYZC1CUjlob1ctaVI1VkFHTXRCb28?oc=5",
-      "date": "2026-10-26T14:00:00+00:00",
-      "description": "7 B2B marketing shifts that will define 2027 &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
