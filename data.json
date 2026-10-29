@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T20:51:10.743454+00:00",
+  "updatedAt": "2026-10-29T21:49:14.359612+00:00",
   "items": [
     {
       "title": "Google’s Ads Decoded Explores How AI Is Changing Search Behavior via @sejournal, @brookeosmundson",
@@ -48,6 +48,19 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "Google AI Mode sends 57% of product links to Google Shopping: Study - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWZzNnB6QnRGMmE4bVZ0MlZrSVd6eU9tTmxaOXVMNTlTT0FZVzM2b2pyNEtlUFR4Q3dmSFM2MVV1VmUyQ1lmVy1DZUtGM29NWTFUU1pkSjhsLVJXU1VzTFRnZmRFRk16bVFUSVpuWUV0eFlmS3U5bTAtSWg1NHRtekJpUy1WZlRLaXVkSzJjOA?oc=5",
+      "date": "2026-10-29T17:21:33+00:00",
+      "description": "Google AI Mode sends 57% of product links to Google Shopping: Study &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
@@ -497,7 +510,7 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1reW5yN1FfM3FmRFB3ZktvbHRMMDRBVW9ZUGo3bERZZkxUQ0Y0Y3hXT0wyRzJSTi1ZamY2MFRDbjZ0djZoT2hRYjYxeGhnZ2FoZ1Y0QmMtOHQ1ZHpnTlp2eDZnU0ltdF8tOFcxWDVhMkRCREJ0b0E?oc=5",
       "date": "2026-10-28T12:00:00+00:00",
       "description": "Organic traffic is down, but it’s not all AI &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -551,19 +564,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How much does Google Ads cost? (2026 data + insights) - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iaVYxV0RyRDgtMnZiUC1ON25scm1YcGI4SDNUN3d4TGx2dkkzMUN4UHBmRm9XQl9EbG1aUDlTd1B3MzJRYm50UzhPVG1KdTI4RHJFcExrQ1RrTmxueFV5dEhETG1iUUh2eUlQREhNemEzZw?oc=5",
-      "date": "2026-10-27T18:37:26+00:00",
-      "description": "How much does Google Ads cost? (2026 data + insights) &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
