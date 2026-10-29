@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-10-29T11:50:34.529857+00:00",
+  "updatedAt": "2026-10-29T13:00:41.485195+00:00",
   "items": [
+    {
+      "title": "HubSpot Lost 80% Of Its Traffic – CMO Kipp Bodnar Explains Why Revenue Kept Growing via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/hubspot-lost-80-of-its-traffic-cmo-kipp-bodnar-explains-why-revenue-kept-growing/594004/",
+      "date": "2026-10-29T12:00:46+00:00",
+      "description": "HubSpot's traffic collapse shows why SEOs need to measure revenue per visit, track AI referral conversions, and build audiences beyond Google. The post HubSpot Lost 80% Of Its Traffic – CMO Kipp Bodnar Explains Why Revenue Kept Growing appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/husbpot-traffic-93.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Does Not Show All Spammy Links In Search Console",
+      "link": "https://www.seroundtable.com/google-search-console-does-not-show-all-links-42407.html",
+      "date": "2026-10-29T11:51:00+00:00",
+      "description": "Google does not show all links, and not all spammy links, within the Search Console links report. This is not new, Google has long said that the link report only shows a sampling of links.",
+      "image": "https://images.seroundtable.com/google-reddit-search-console-links-X0LUSRx0.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google AI Overviews With Query Refinement Bubbles",
+      "link": "https://www.seroundtable.com/google-ai-overviews-query-refinement-bubbles-42406.html",
+      "date": "2026-10-29T11:41:00+00:00",
+      "description": "Google is testing query refinement bubbles at the top of the AI Overviews in Google Search. But clicking the refinement bubble does not change the query, instead, it takes you into AI Mode for that query set.",
+      "image": "https://images.seroundtable.com/google-ai-overviews-query-refinement-bubbles-nq7AeGqx.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google AI Mode Tests Blending All Products With Sponsored Products",
+      "link": "https://www.seroundtable.com/google-ai-mode-all-sponsored-products-42402.html",
+      "date": "2026-10-29T11:31:00+00:00",
+      "description": "Google seems to be testing mixing sponsored products, ads, within the organic product results in AI Mode. Google has this line above the product results that can say \"Sponsored\" and \"All products.\" Even as I look at screenshots of this, I am not sure if the \"All products\" are sponsored or not.",
+      "image": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products2-85kMY2ZN.webp",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Merchant API With New October 2026 Updates",
+      "link": "https://www.seroundtable.com/google-merchant-api-update-42410.html",
+      "date": "2026-10-29T11:21:00+00:00",
+      "description": "Google has released several updates to the Merchant API for October 26. The update expands YouTube Shopping and AI-commerce reporting, adds product attributes for videos and warranties, improves disapproval diagnostics, and introduces API integration enhancements and reporting deprecations.",
+      "image": "https://images.seroundtable.com/google-shopping-cart-wires-iwJ5WkHs.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Is Google Testing Dropping Citations Cards From AI Overviews?",
+      "link": "https://www.seroundtable.com/citations-cards-google-ai-overviews-42413.html",
+      "date": "2026-10-29T11:11:00+00:00",
+      "description": "Google may be testing removing the citations card on the Google AI Overviews section. So when you do a search on desktop and see an AI Overview, Google generally shows a citations card that has links to the sources you can click on. Google is reportedly testing removing that card from the interface.",
+      "image": "https://images.seroundtable.com/google-ai-overview-citations-card-missing-Q9WYlc7J.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google Recommends Using Custom 404 Error Pages via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-recommends-using-custom-404-error-pages/594908/",
@@ -22,6 +99,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google AI Mode tests clearer labels for sponsored and organic shopping results - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeEJaZ2hmUGNQVzlJZXVfZnpXTzJwUVJvSHJzSWUycDJHeF9XOE1oSUFPeXA4anpsU3dZVFhxc21fZ1ZqTTZUQ2p1Tk1JRjduTU5HUWVmSHJsOVIwNXRVdGZMaldrY2hBT0VZTW1kaGZ4d01qR0NSWngwV0d1ZjFlTzE3STFweWFzUWNoU0hZYnd6MFRRVkJYWS1rV1ZWYlJyRm1wbGZUYnJ3Q2lsWGVYUHRleXY?oc=5",
+      "date": "2026-10-29T03:48:32+00:00",
+      "description": "Google AI Mode tests clearer labels for sponsored and organic shopping results &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -317,71 +407,6 @@
       ]
     },
     {
-      "title": "Google Ads \"All Conversions\" Tab Is Fully Live",
-      "link": "https://www.seroundtable.com/google-ads-all-conversions-tab-live-42395.html",
-      "date": "2026-10-28T11:51:00+00:00",
-      "description": "Google Ads seems to have rolled out the \"All conversions\" tab within the Goals and Conversions section. This allows advertisers to make one less click, where they can avoid clicking on \"View all conversion actions.\"",
-      "image": "https://images.seroundtable.com/google-ads-all-conversions-zRtSFIdF.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Business Profiles Adds Facebook Messenger M.me Links",
-      "link": "https://www.seroundtable.com/google-facebook-messenger-mme-links-42377.html",
-      "date": "2026-10-28T11:41:00+00:00",
-      "description": "Google is emailing businesses to let them know it is automatically adding Facebook (Meta) Messenger M.me links to their Google Business Profile. I don't think I've seen Google add m.me links to a Google Business Profile before, so this may be new.",
-      "image": "https://images.seroundtable.com/google-business-profiles-m-me-links-xdORrnv6.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Image Search Tests Save Button On Image Overlay",
-      "link": "https://www.seroundtable.com/google-images-save-button-overlay-42394.html",
-      "date": "2026-10-28T11:31:00+00:00",
-      "description": "Google is testing a new position for the Save button within Google Image Search. When you hover your mouse cursor over an image, you may see a \"Save\" button show up that you can click on. The previous method was to show the Save button when you click on an image and the image preview shows up in a window.",
-      "image": "https://images.seroundtable.com/google-image-search-save-button-new-wcKXovZf.gif",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Bing Tests Get Phone Number & QR Code To Scan",
-      "link": "https://www.seroundtable.com/bing-get-phone-number-qr-code-42397.html",
-      "date": "2026-10-28T11:21:00+00:00",
-      "description": "Microsoft Bing is testing adding a phone icon to the local pack on desktop, when you click on the phone button, it has a scan to call QR code with the phone number listed out. Google did this back in 2023 and now Microsoft Bing is testing it.",
-      "image": "https://images.seroundtable.com/bing-get-phone-number-qr-code1-AgJi8gI4.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Business Profiles Asking Businesses For EIN",
-      "link": "https://www.seroundtable.com/google-business-profiles-ein-request-42382.html",
-      "date": "2026-10-28T11:11:00+00:00",
-      "description": "Google is asking some businesses to provide their EIN, Employer Identification Number and a link to their privacy policy when updating parts of their Google Business Profile.",
-      "image": "https://images.seroundtable.com/google-business-profiles-ein-request-h07kYwKf.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Signals A Wider Crackdown On SEO Spam via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-signals-a-wider-crackdown-on-ugc-seo-spam/594679/",
       "date": "2026-10-28T11:04:02+00:00",
@@ -486,7 +511,7 @@
       "link": "https://www.searchenginejournal.com/shopify-ai-agent-knowledge-base-admin/594551/",
       "date": "2026-10-27T15:39:22+00:00",
       "description": "Shopify's AI agent knowledge base now lives in the admin. Policies and contact details publish by default. Some app users need to re-add their facts. The post Shopify Retires Knowledge Base App, Moves AI Agent Facts To Admin appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-knowledge-base-admin.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -498,7 +523,7 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTnNyYmZtd0FjRVY2MVJjMlpXLWpEcmx2UG9nakFtTnVTLWJ6NFpFZEVOc1JqRXFDYjBZbzg3Ujc0Q2N2dWg2cFpSNkxYVUhwV2kzRHRsVHdPREVoVFpUWnVfNThGQVFNdXkyZUtSQzhNRmtOcW1Zdm4wMjlLZGZ0YW13?oc=5",
       "date": "2026-10-27T14:58:40+00:00",
       "description": "Semrush confirms ‘poisoned’ Google results are impacting SEO tools &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -594,18 +619,6 @@
       ]
     },
     {
-      "title": "Google Ads Expands Customer Lifecycle Goals In Search And Shopping via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-ads-expands-customer-lifecycle-goals-in-search-and-shopping/594458/",
-      "date": "2026-10-26T21:24:39+00:00",
-      "description": "Google Ads expands customer lifecycle goals with High Value acquisition for Shopping and retention modes across Search, Shopping, and Performance Max. The post Google Ads Expands Customer Lifecycle Goals In Search And Shopping appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google Search says you should block indexing of link-shared content - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0tDMlV2b1p1SERtMWJ4dUZPWTVuZEZQQ0MyWG5CUGloM3VJenFtSFNtam1SWnFlWFV4VDA1ZTczTllkSk5EUWFuajlCcXljZndhSHZJalN4NjZSUDUyVXF2c29TUWxwSWN4anlOOTRjQmtMQURpSERJZWp3cThUWkM3MmJJSFFjS0F1Z0h0Mk54NGEtcWJqdjI5azMtREwwc2RhVnBn?oc=5",
       "date": "2026-10-26T19:32:23+00:00",
@@ -675,19 +688,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOenFMUTJ3cGVpNDBIUEltdFlTZ0lYNm15SnREM21jVUltdTN6LWlKcXN0VzFCTDFBdV9sU2NrSWM4UWRiM1hsTzRQc2YzUHZJd0lKNmVHVG1UTXZvOFdXOXNFOW91eVhaT2dJUFhLZElHWVpYZC1CUjlob1ctaVI1VkFHTXRCb28?oc=5",
       "date": "2026-10-26T14:00:00+00:00",
       "description": "7 B2B marketing shifts that will define 2027 &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Pop-ups and SEO: What’s safe, what’s risky, and what to fix - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYTkx1WnE1dkVrM2Q0RmNNNlMwRUMzaDlscE5QNm1sOVdXc29VV1pkS2RCQ2pjeTA1U2d2OWNzNVAtMWhLakRGQzNXLUFpcGlCUzRSR1pKX1Jabm0yd0JBa0oxdnQtaVN5Q21rUVhhVQ?oc=5",
-      "date": "2026-10-26T13:00:00+00:00",
-      "description": "Pop-ups and SEO: What’s safe, what’s risky, and what to fix &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
