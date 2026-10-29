@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-29T15:01:13.519569+00:00",
+  "updatedAt": "2026-10-29T15:58:58.629959+00:00",
   "items": [
+    {
+      "title": "How Can I Tell If My Images Are Optimized For Multimodal Search? – Ask an SEO via @sejournal, @HelenPollitt1",
+      "link": "https://www.searchenginejournal.com/ask-an-seo-how-can-i-tell-if-my-images-are-optimised-for-multimodal-search/593861/",
+      "date": "2026-10-29T15:30:40+00:00",
+      "description": "Check whether search engines can find and understand your images, and spot technical issues that limit their visibility in multimodal search. The post How Can I Tell If My Images Are Optimized For Multimodal Search? – Ask an SEO appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2024/06/ask-an-seo-helen-904.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google: Ads In AI Mode Earning Less Than Traditional Search Ads",
+      "link": "https://www.seroundtable.com/google-ai-mode-ads-earn-less-42417.html",
+      "date": "2026-10-29T14:15:00+00:00",
+      "description": "Google announced earnings yesterday, and during the earnings call, Philipp Schindler, Google's senior vice president and chief business officer, said that ads in AI Mode have a \"lower monetization\" than ads in traditional search.",
+      "image": "https://images.seroundtable.com/google-bleeding-money-vhe4eG2U.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "OpenAI’s Aura Safety Check Can Block Your Site From ChatGPT Browsing via @sejournal, @TaylorDanRW",
       "link": "https://www.searchenginejournal.com/openais-aura-safety-check-can-block-your-site-from-chatgpt-browsing/594322/",
@@ -11,6 +36,19 @@
       "tags": [
         "SEO",
         "AI Search"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: October 29, 2026",
+      "link": "https://www.seroundtable.com/recap-10-29-2026-42414.html",
+      "date": "2026-10-29T14:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today...",
+      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -343,6 +381,19 @@
       ]
     },
     {
+      "title": "Why the SEO industry needs in-person meetups - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdF9WYjdWM2NXb0E1N1Z4XzBhbDNnWjlaUHdwc1hJbU1mZEYzdGhoTFlHTVlLVGVtMGZjbXVXOTd6MjN0VXdoWHlDaDZ4MGdkWUpNQmJQbmlwLUFVeERxUnlObDRveWt5RUNRN3hlR3F4TUZkcUNubUY3SWNxZ3JYbnFWRGRZZlk?oc=5",
+      "date": "2026-10-28T14:00:00+00:00",
+      "description": "Why the SEO industry needs in-person meetups &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Decodo Launches Web Data API To Give AI Agents Web Access",
       "link": "https://www.searchenginejournal.com/decodo-launches-web-data-api-to-give-ai-agents-web-access-spn/594415/",
       "date": "2026-10-28T13:00:00+00:00",
@@ -368,19 +419,6 @@
       ]
     },
     {
-      "title": "Google Search Fan POV (Point Of View) Button",
-      "link": "https://www.seroundtable.com/google-search-fan-pov-42401.html",
-      "date": "2026-10-28T12:35:00+00:00",
-      "description": "Google has added a new interactive search button to some sports-related queries named \"Fan POV.\" If you go to Google Search and search for [world series], Google will show a blue button that has a baseball emoji and the words \"Fan POV.\" When you click on it, it opens a dialog box with drop downs that you can customize and then will take you into AI Mode to give you more information.",
-      "image": "https://images.seroundtable.com/google-search-fan-pov-2EhyeyFk.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "GA4 Missed 66% Of One Retailer’s Holiday Orders: Check Yours Before Peak Season",
       "link": "https://www.searchenginejournal.com/ga4-missed-two-thirds-retailers-holiday-orders-check-yours-before-peak-season/593007/",
       "date": "2026-10-28T12:00:45+00:00",
@@ -403,19 +441,6 @@
         "SEO",
         "Google",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads Tests Sponsored Results With Apple Messages Button",
-      "link": "https://www.seroundtable.com/google-ads-apple-messages-button-42400.html",
-      "date": "2026-10-28T11:56:00+00:00",
-      "description": "Google is testing a new messaging button named Apple Messages on the Google Ads sponsored results. Google has placed messages button, message assets, on Google search ads for a long time now but I don't think I've seen the Apple Messages button before.",
-      "image": "https://images.seroundtable.com/google-ads-apple-messages-button-DAfHY009.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -485,7 +510,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWElIQjlvRnpRWmVmcUw4R3R3NTVLNW9jN2I3YTZyWk1faWVibUgxSE9DUW1mN2tySXVGOFBqbk9qN2sxbzJCc2ota3lwcVF3ZVRjVUlRQlg1eDU3M3IydHNaem1BVTI4c0tmX1ZoazZ4andUMVNKTWttcm00ekc1Vm1mZDlQejFFSUwyN25GVEV5QWhNbGRYWlpiajItelZCZHY2NnlsMkgyZw?oc=5",
       "date": "2026-10-27T18:31:36+00:00",
       "description": "Google Ads tests ad group-level seasonal adjustments for App campaigns &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -498,7 +523,7 @@
       "link": "https://www.searchenginejournal.com/google-privacy-policy-connected-apps-ai-mode-ads/594546/",
       "date": "2026-10-27T17:11:52+00:00",
       "description": "Google is testing AI Mode ads informed by connected Gmail and Photos data, as its privacy policy adds an exception for ad personalization. The post Google Privacy Update Lets Connected Apps Shape AI Mode Ads appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_1921284380_1600x840-860.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -594,18 +619,6 @@
       ]
     },
     {
-      "title": "Flat Traffic, No Budget: What Ziff Davis’ Jonathan Berthold Tests First",
-      "link": "https://www.searchenginejournal.com/flat-traffic-no-budget-what-ziff-davis-jonathan-berthold-tests-first/593483/",
-      "date": "2026-10-27T12:00:41+00:00",
-      "description": "Jonathan Berthold explains why bottom-of-funnel content is the lowest-lift experiment and how to sell leadership on a test you can't promise will win. The post Flat Traffic, No Budget: What Ziff Davis&#8217; Jonathan Berthold Tests First appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "How ecommerce category pages can earn AI search citations - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVDkzSVhZQXhhMloyV3kwQTdaX0hrN0xzYkNfQ25OS1FqOENFWGd5OWR4V2p1WFFFUERfSjNGWUZkVkFycjI0aGxnSldadldRelc2WGl3LWRoRTBuRU00Ymc3ZWs4bDZkQ3NhSVpsNGpRSzdZdjdsXzFOS19GejJCSm5YM0NvMVBubldNb2JB?oc=5",
       "date": "2026-10-27T12:00:00+00:00",
@@ -675,19 +688,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQzh3TEk1TS1yTzd2MUZwa2h4U3A1NjA0OF92MXZ3V3lOTW81THdNcmQwc1R1OWdrVVd0NkNtcFgxbXh6Z3BrREMxX0psOVNxNjd6TjZuZzI1NFVYMWVDR0JhQndkTkJ2UWNWMUxXbXBXaFVfVDVLS0RHT19EdldIQW1aaXhnYS1ZRDN4VXBLaWN6d0d5dFhiWDJxcHpvaDB5ZzNjZmNFSDBkeGxnREhuNQ?oc=5",
       "date": "2026-10-26T15:00:00+00:00",
       "description": "How to build a Google Ads dashboard with Claude that ties spend to outcomes &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "7 B2B marketing shifts that will define 2027 - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOenFMUTJ3cGVpNDBIUEltdFlTZ0lYNm15SnREM21jVUltdTN6LWlKcXN0VzFCTDFBdV9sU2NrSWM4UWRiM1hsTzRQc2YzUHZJd0lKNmVHVG1UTXZvOFdXOXNFOW91eVhaT2dJUFhLZElHWVpYZC1CUjlob1ctaVI1VkFHTXRCb28?oc=5",
-      "date": "2026-10-26T14:00:00+00:00",
-      "description": "7 B2B marketing shifts that will define 2027 &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
