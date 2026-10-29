@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-29T19:54:13.703863+00:00",
+  "updatedAt": "2026-10-29T20:51:10.743454+00:00",
   "items": [
+    {
+      "title": "Google’s Ads Decoded Explores How AI Is Changing Search Behavior via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-search-behavior-shifts-2027-ads-strategy/594971/",
+      "date": "2026-10-29T20:24:25+00:00",
+      "description": "Google’s Ads Decoded explores longer AI Mode queries, earlier discovery, and demand for human perspectives. Here’s what advertisers can consider for 2027. The post Google’s Ads Decoded Explores How AI Is Changing Search Behavior appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ads-decoded_10.26-376.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Google’s Q3 Selloff Raises Advertiser Concerns About AI Search via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/googles-q3-selloff-raises-advertiser-concerns-about-ai-search/595005/",
@@ -498,7 +510,7 @@
       "link": "https://www.searchenginejournal.com/google-signals-a-wider-crackdown-on-ugc-seo-spam/594679/",
       "date": "2026-10-28T11:04:02+00:00",
       "description": "Google signals that its fight against SEO spam is expanding to new kinds of platforms, tools, and services. The post Google Signals A Wider Crackdown On SEO Spam appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-seo-spam-180.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -590,18 +602,6 @@
       "tags": [
         "SEO",
         "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Shopify Retires Knowledge Base App, Moves AI Agent Facts To Admin via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/shopify-ai-agent-knowledge-base-admin/594551/",
-      "date": "2026-10-27T15:39:22+00:00",
-      "description": "Shopify's AI agent knowledge base now lives in the admin. Policies and contact details publish by default. Some app users need to re-add their facts. The post Shopify Retires Knowledge Base App, Moves AI Agent Facts To Admin appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
         "AI Search"
       ]
     },
