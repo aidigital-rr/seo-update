@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-29T10:52:59.845799+00:00",
+  "updatedAt": "2026-10-29T11:50:34.529857+00:00",
   "items": [
+    {
+      "title": "Google Recommends Using Custom 404 Error Pages via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-recommends-using-custom-404-error-pages/594908/",
+      "date": "2026-10-29T11:07:37+00:00",
+      "description": "Google says missing pages aren't a ranking threat, but what visitors encounter after a 404 can matter to a business. The post Google Recommends Using Custom 404 Error Pages appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-404-seo-403.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Technical SEO Audit For AI Search: Watch Us Do It Live [Webinar] via @sejournal, @hethr_campbell",
       "link": "https://www.searchenginejournal.com/technical-seo-audit-for-ai-search-watch-us-do-it-live/594766/",
@@ -499,7 +511,7 @@
       "link": "https://www.searchenginejournal.com/chatgpt-signals-consumer-messages-information-seeking/594527/",
       "date": "2026-10-27T14:13:30+00:00",
       "description": "Looking things up now makes up about as large a share of consumer ChatGPT messages as writing, though the increase is smaller than earlier data. The post Looking Things Up Now Rivals Writing In ChatGPT, OpenAI Data Shows appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-signals-information-seeking.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -586,18 +598,6 @@
       "link": "https://www.searchenginejournal.com/google-ads-expands-customer-lifecycle-goals-in-search-and-shopping/594458/",
       "date": "2026-10-26T21:24:39+00:00",
       "description": "Google Ads expands customer lifecycle goals with High Value acquisition for Shopping and retention modes across Search, Shopping, and Performance Max. The post Google Ads Expands Customer Lifecycle Goals In Search And Shopping appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Updates Spam Guide For Shared Pages, Generated Content & Apps via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-indexing-advice-shareable-pages-spam-guide/594451/",
-      "date": "2026-10-26T20:57:22+00:00",
-      "description": "New spam guidance says to noindex or block crawling on pages made for sharing. Google's docs say a URL blocked in robots.txt can be indexed. The post Google Updates Spam Guide For Shared Pages, Generated Content &amp; Apps appeared first on Search Engine Journal .",
       "image": "",
       "source": "Search Engine Journal",
       "tags": [
