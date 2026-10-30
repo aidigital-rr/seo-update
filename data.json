@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-30T14:34:40.149462+00:00",
+  "updatedAt": "2026-10-30T15:28:44.450944+00:00",
   "items": [
+    {
+      "title": "The Link Building Graveyard: What To Bury & What Still Wins via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/the-link-building-graveyard-what-to-bury-what-still-wins-recap/593932/",
+      "date": "2026-10-30T15:11:43+00:00",
+      "description": "Resolve's Michael Johnson outlined a keep-or-cut approach to link building, from qualifying publishers and earning roundup placements to creating linkable assets and a 90-day execution plan. The post The Link Building Graveyard: What To Bury &#038; What Still Wins appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/resolve-link-building-graveyard-on-demand-sej.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "ChatGPT Ads Turns On Automatic Ad Changes By Default via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/chatgpt-ads-turns-on-automatic-ad-changes-by-default/595117/",
@@ -186,6 +198,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google AI opt-out test finds unexpected drop in organic clicks - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT0tON3Nid0pOWFpadlVDa1FwOFYwUzI2T1BlNHNJZGQ3NnFxZ3doQVBLb0F2SW5EbkFzLW5xUlRjNXpOZEJlZm9NbnNXRlg1MlExdGI4N3ZLU3FWWWNfVkR4eWctdTJ5eUduMGRiMXFQVTB6UF81c3h4eHFITUp1QmQzZ2Y?oc=5",
+      "date": "2026-10-29T18:57:48+00:00",
+      "description": "Google AI opt-out test finds unexpected drop in organic clicks &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -484,7 +509,7 @@
       "link": "https://www.searchenginejournal.com/bitlys-new-data-says-seos-are-half-right-about-short-links/593983/",
       "date": "2026-10-28T19:00:59+00:00",
       "description": "Bitly's survey shows why SEOs should look beyond short links to fix mismatched landing pages and rethink what click-through rates reveal. The post 79% Of Consumers Quit Social Links That Land On A Homepage – Bitly Data appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/bitly-data-206.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -496,7 +521,7 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeDh4eHJvVm01OVR0UnU2dDkyVEtYS3ZJZlBRYjVPVXVaN3FELVJyZUN3dW1TWExKU2NNOHQ1T2RsNHMtMW1UMzZ2SFRHbWI5MElJNlFqTzkwU1pDQV9MamZCYmMxV09jQkwxRjJzcTExY25feGFjaXQyUEQtblNHNEZWVnNZakk4WGk1cGUyVTZfeGIzVUw5bS1wdGxPSlktRmFwYVdrV0lOOGhQV25NVWstTDU?oc=5",
       "date": "2026-10-28T16:25:24+00:00",
       "description": "Google Ads adds ‘All Conversions’ tab to simplify conversion tracking and audits &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -564,18 +589,6 @@
       "tags": [
         "SEO",
         "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "GA4 Missed 66% Of One Retailer’s Holiday Orders: Check Yours Before Peak Season",
-      "link": "https://www.searchenginejournal.com/ga4-missed-two-thirds-retailers-holiday-orders-check-yours-before-peak-season/593007/",
-      "date": "2026-10-28T12:00:45+00:00",
-      "description": "GA4 missed two-thirds of one retailer's holiday orders. What an audit of eight ecommerce brands found, and the check to run before peak season. The post GA4 Missed 66% Of One Retailer&#8217;s Holiday Orders: Check Yours Before Peak Season appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
         "AI Search"
       ]
     },
@@ -675,19 +688,6 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0tDMlV2b1p1SERtMWJ4dUZPWTVuZEZQQ0MyWG5CUGloM3VJenFtSFNtam1SWnFlWFV4VDA1ZTczTllkSk5EUWFuajlCcXljZndhSHZJalN4NjZSUDUyVXF2c29TUWxwSWN4anlOOTRjQmtMQURpSERJZWp3cThUWkM3MmJJSFFjS0F1Z0h0Mk54NGEtcWJqdjI5azMtREwwc2RhVnBn?oc=5",
       "date": "2026-10-26T19:32:23+00:00",
       "description": "Google Search says you should block indexing of link-shared content &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google confirms AI-generated review summaries in Search ads - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQW0tTnp5UkRkYnJ1WXlVZHBhR0JkMEFfbElzQ2JLV2YzRER6Q3g5bEV2bUpYZnJLX01sdUNQOXN6bkl3MVFMcWhRTUZ2LTlaSGl4YVFfazZJUGlsR05LNDhfNHZVT1VqM2NDYndqRWFDd1AzQ0JYTzF3cEhpblI3UE80TFZDNzZ2dVpPT1FTZ2FUMmV5eDZQT09jNA?oc=5",
-      "date": "2026-10-26T16:51:15+00:00",
-      "description": "Google confirms AI-generated review summaries in Search ads &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
