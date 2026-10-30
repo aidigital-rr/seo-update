@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-30T15:28:44.450944+00:00",
+  "updatedAt": "2026-10-30T16:27:45.791888+00:00",
   "items": [
+    {
+      "title": "Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/shopify-now-lets-stores-pay-the-company-behind-your-ai-shopping-agent/594544/",
+      "date": "2026-10-30T15:30:24+00:00",
+      "description": "Shopify’s catalog returns a commission next to each promoted product’s price and reviews. What an AI agent does with that number depends on its developer. The post Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-agent-897.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "The Link Building Graveyard: What To Bury & What Still Wins via @sejournal, @hethr_campbell",
       "link": "https://www.searchenginejournal.com/the-link-building-graveyard-what-to-bury-what-still-wins-recap/593932/",
@@ -159,6 +171,19 @@
       "description": "Google Search may be bringing back the ability to see 100 search results per page by bringing back the num=100 parameter. As a reminder, Google dropped this feature in September 2025 as one of many methods to prevent crawlers from scraping its search results. As you know, third-party tracking tools are not working so well these days.",
       "image": "https://images.seroundtable.com/google-search-100-search-results-parameter-back-l09MzWdc.jpg",
       "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Supporting a shared AI training control for websites",
+      "link": "https://developers.google.com/search/blog/2026/10/ai-training-control",
+      "date": "2026-10-30T00:00:00+00:00",
+      "description": "Today, we&#39;re announcing our plans to support a shared AI training control in robots.txt. This will help websites express their AI training preferences across multiple AI providers in a single step and is based on work from the AIPREF working group at the Internet Engineering Task Force (IETF). This builds on our long history of providing website owners with clear controls, including through Google-Extended, the AI training control we&#39;ve offered since 2023.",
+      "image": "https://developers.google.com/static/search/blog/images/social-share-blog.png",
+      "source": "Google Search Central",
       "tags": [
         "Google",
         "SEO",
@@ -485,7 +510,7 @@
       "link": "https://www.searchenginejournal.com/google-restaurants-opt-out-ordering-providers/594794/",
       "date": "2026-10-28T22:11:43+00:00",
       "description": "Restaurants can now turn off specific third-party ordering providers in the Business Profile dashboard instead of waiting on each provider to remove them. The post Google Gives Restaurants Direct Control Over Ordering Providers appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-restaurant-ordering-featured.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -497,7 +522,7 @@
       "link": "https://www.searchenginejournal.com/ai-cited-pages-more-often-got-straight-to-the-answer/594781/",
       "date": "2026-10-28T20:42:47+00:00",
       "description": "Pages cited by AI often answered a question in their first lines, though the gap was smaller against pages AI pulled up but didn’t cite. The post Pages AI Cited Got Straight To The Answer More Often, Data Shows appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-cited-pages-question-answer.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -564,18 +589,6 @@
       "tags": [
         "SEO",
         "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Decodo Launches Web Data API To Give AI Agents Web Access",
-      "link": "https://www.searchenginejournal.com/decodo-launches-web-data-api-to-give-ai-agents-web-access-spn/594415/",
-      "date": "2026-10-28T13:00:00+00:00",
-      "description": "Decodo has introduced Web Data API, combining scraping, searching, mapping, and crawling under one key for AI agents and retrieval pipelines. The post Decodo Launches Web Data API To Give AI Agents Web Access appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
         "AI Search"
       ]
     },
@@ -805,19 +818,6 @@
       "link": "https://developers.google.com/search/blog/2026/07/search-central-live-deep-dive-europe-2026",
       "date": "2026-07-06T00:00:00+00:00",
       "description": "We&#39;re excited to officially announce the next stop for Search Central Live Deep Dive Europe 2026! Mark your calendars: based directly on your feedback, we&#39;re headed to Barcelona, Spain, from September 30 to October 2, 2026.",
-      "image": "",
-      "source": "Google Search Central",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Help Us Pick the Next Stop in Europe for Search Central Live Deep Dive 2026!",
-      "link": "https://developers.google.com/search/blog/2026/06/scl-deep-dive-europe-2026",
-      "date": "2026-06-18T00:00:00+00:00",
-      "description": "As we mentioned a few months ago, we are bringing the Search Central Live Deep Dive format to the EMEA region. This SCL format requires finding the absolute best home for the event&amp;mdash;a place where all of you can truly connect, learn, and enjoy.",
       "image": "",
       "source": "Google Search Central",
       "tags": [
