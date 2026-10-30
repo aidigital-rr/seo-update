@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T02:01:46.293597+00:00",
+  "updatedAt": "2026-10-30T02:53:15.685595+00:00",
   "items": [
     {
       "title": "Google’s Ads Decoded Explores How AI Is Changing Search Behavior via @sejournal, @brookeosmundson",
@@ -48,19 +48,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "Google AI Mode sends 57% of product links to Google Shopping: Study - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWZzNnB6QnRGMmE4bVZ0MlZrSVd6eU9tTmxaOXVMNTlTT0FZVzM2b2pyNEtlUFR4Q3dmSFM2MVV1VmUyQ1lmVy1DZUtGM29NWTFUU1pkSjhsLVJXU1VzTFRnZmRFRk16bVFUSVpuWUV0eFlmS3U5bTAtSWg1NHRtekJpUy1WZlRLaXVkSzJjOA?oc=5",
-      "date": "2026-10-29T17:21:33+00:00",
-      "description": "Google AI Mode sends 57% of product links to Google Shopping: Study &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     },
     {
@@ -161,6 +148,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "You’re not winning by refusing to link to competitors - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MMk1zUmxSbWhGeHFKTVphMzUzNkZiYUtLaVZzdkdtekdaMTd1UUJPWXd1Vk9DaDBURFhadDBXdGViTVhmbFN1Ymx1R0t5bHpSblYwWHRGdzdiN3pDMnVLNkVFazkydHpVaHJIQWt1Qk9hRjZl?oc=5",
+      "date": "2026-10-29T12:00:00+00:00",
+      "description": "You’re not winning by refusing to link to competitors &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
