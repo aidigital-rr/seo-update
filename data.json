@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-10-30T10:52:37.876450+00:00",
+  "updatedAt": "2026-10-30T11:46:57.482545+00:00",
   "items": [
+    {
+      "title": "Google Search May Be Bringing Back 100 Search Results Parameter",
+      "link": "https://www.seroundtable.com/google-search-100-search-results-parameter-back-42423.html",
+      "date": "2026-10-30T09:40:00+00:00",
+      "description": "Google Search may be bringing back the ability to see 100 search results per page by bringing back the num=100 parameter. As a reminder, Google dropped this feature in September 2025 as one of many methods to prevent crawlers from scraping its search results. As you know, third-party tracking tools are not working so well these days.",
+      "image": "https://images.seroundtable.com/google-search-100-search-results-parameter-back-l09MzWdc.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "AI Mode Queries Are 3x Longer – Your Landing Pages May Not Answer Them via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/google-search-behavior-shifts-2027-ads-strategy/594971/",
@@ -415,19 +428,6 @@
       "tags": [
         "SEO",
         "AI Search"
-      ]
-    },
-    {
-      "title": "You Can Now Build Apps For Google Search: Connected Apps Platform",
-      "link": "https://www.seroundtable.com/google-connected-apps-platform-42408.html",
-      "date": "2026-10-28T18:35:00+00:00",
-      "description": "Google announced today that you and your developers can now build apps for Google Search and Gemini. Google wrote, \"today we're launching the preview of our Connected Apps Platform, a unified way for more app developers to bring their capabilities directly into Gemini and Search.\"",
-      "image": "https://images.seroundtable.com/connected-apps-logo-cloudwidth-1000format-webp-FxV0ag53.webp",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
