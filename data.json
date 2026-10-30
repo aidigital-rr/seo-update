@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-10-30T16:27:45.791888+00:00",
+  "updatedAt": "2026-10-30T17:24:00.823748+00:00",
   "items": [
+    {
+      "title": "Google Adopts New AI Training Control",
+      "link": "https://www.seroundtable.com/google-ai-training-control-42430.html",
+      "date": "2026-10-30T16:50:00+00:00",
+      "description": "Google is adopting new AI training controls, under consideration by the IETF, that should simplify and streamline AI training controls for publishers and site owners.",
+      "image": "https://images.seroundtable.com/google-web-pages-eoYd2U4x.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Discord To Put Public Chats On Pages Search Engines Can Show via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/discord-public-server-chats-search-engines/595224/",
+      "date": "2026-10-30T16:38:30+00:00",
+      "description": "Discord's most public servers will each have a web page that may carry AI summaries and some messages search engines can show. The post Discord To Put Public Chats On Pages Search Engines Can Show appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/discord-featured-1600x840-1.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Microsoft Bing New AI New Controls With AI Training From AI Search Grounding",
+      "link": "https://www.seroundtable.com/microsoft-bing-ai-controls-42429.html",
+      "date": "2026-10-30T16:15:00+00:00",
+      "description": "Microsoft just announced new Bing AI content controls \"offering newer, simpler, and clearer preferences that allow you to make choices about training, grounding, or both while remaining eligible for Bing search results,\" Krishna Madhavan, Principal Product Manager, Microsoft Bing, wrote.",
+      "image": "https://images.seroundtable.com/bing-flow-web-ai-F9z9WqJ1.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent via @sejournal, @slobodanmanic",
       "link": "https://www.searchenginejournal.com/shopify-now-lets-stores-pay-the-company-behind-your-ai-shopping-agent/594544/",
@@ -11,6 +49,19 @@
       "tags": [
         "SEO",
         "AI Search"
+      ]
+    },
+    {
+      "title": "ChatGPT Gets Wider Ads, Multi-Image Ads Expands, Expansion & More",
+      "link": "https://www.seroundtable.com/chatgpt-ads-update-42427.html",
+      "date": "2026-10-30T15:17:00+00:00",
+      "description": "OpenAI just sent its weekly email update to advertisers announcing the ChatGPT Ads are live in 26 more countries, a new wider standard ad unit format, Multi-image ads are now available in open beta to all advertisers, Shopify integration is now available internationally and Shopify integration is now available internationally.",
+      "image": "https://images.seroundtable.com/wider-chatgpt-ads-9VwMUKno.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -393,45 +444,6 @@
       ]
     },
     {
-      "title": "Google Does Not Show All Spammy Links In Search Console",
-      "link": "https://www.seroundtable.com/google-search-console-does-not-show-all-links-42407.html",
-      "date": "2026-10-29T11:51:00+00:00",
-      "description": "Google does not show all links, and not all spammy links, within the Search Console links report. This is not new, Google has long said that the link report only shows a sampling of links.",
-      "image": "https://images.seroundtable.com/google-reddit-search-console-links-X0LUSRx0.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google AI Overviews With Query Refinement Bubbles",
-      "link": "https://www.seroundtable.com/google-ai-overviews-query-refinement-bubbles-42406.html",
-      "date": "2026-10-29T11:41:00+00:00",
-      "description": "Google is testing query refinement bubbles at the top of the AI Overviews in Google Search. But clicking the refinement bubble does not change the query, instead, it takes you into AI Mode for that query set.",
-      "image": "https://images.seroundtable.com/google-ai-overviews-query-refinement-bubbles-nq7AeGqx.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google AI Mode Tests Blending All Products With Sponsored Products",
-      "link": "https://www.seroundtable.com/google-ai-mode-all-sponsored-products-42402.html",
-      "date": "2026-10-29T11:31:00+00:00",
-      "description": "Google seems to be testing mixing sponsored products, ads, within the organic product results in AI Mode. Google has this line above the product results that can say \"Sponsored\" and \"All products.\" Even as I look at screenshots of this, I am not sure if the \"All products\" are sponsored or not.",
-      "image": "https://images.seroundtable.com/google-ai-mode-all-products-sponsored-products2-85kMY2ZN.webp",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Recommends Using Custom 404 Error Pages via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-recommends-using-custom-404-error-pages/594908/",
       "date": "2026-10-29T11:07:37+00:00",
@@ -498,7 +510,7 @@
       "link": "https://www.searchenginejournal.com/wordpress-announces-another-security-release-version-7-1-4/594798/",
       "date": "2026-10-28T22:14:34+00:00",
       "description": "WordPress announced security release version 7.1.4 that fixes 22 vulnerabilities, including one that affects its updater. The post WordPress Announces Another Security Release: Version 7.1.4 appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/wordpress-security-release-75.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -514,6 +526,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "17 ways to get more traffic to your blog - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13MTFjQzNsSEFJSTNhOUhaRjVlRVF6V2ZJbzdmRlJoeVktdDlPcXJFakM2R3Vab19lYkdNUi0yQmlSQThZUFJFYnhienVKdThwazhlc2FIMzFkc0tFZHZFTTl3?oc=5",
+      "date": "2026-10-28T21:21:13+00:00",
+      "description": "17 ways to get more traffic to your blog &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -564,18 +589,6 @@
       "tags": [
         "SEO",
         "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "The Hreflang Magic Trick – It Routes, It Doesn’t Rank via @sejournal, @billhunt",
-      "link": "https://www.searchenginejournal.com/the-hreflang-magic-trick-it-routes-it-doesnt-rank/591979/",
-      "date": "2026-10-28T14:00:59+00:00",
-      "description": "Understand why Google can serve unindexed hreflang URLs and why market pages need unique local value to stand out in AI search. The post The Hreflang Magic Trick – It Routes, It Doesn’t Rank appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
         "AI Search"
       ]
     },
@@ -688,19 +701,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVDkzSVhZQXhhMloyV3kwQTdaX0hrN0xzYkNfQ25OS1FqOENFWGd5OWR4V2p1WFFFUERfSjNGWUZkVkFycjI0aGxnSldadldRelc2WGl3LWRoRTBuRU00Ymc3ZWs4bDZkQ3NhSVpsNGpRSzdZdjdsXzFOS19GejJCSm5YM0NvMVBubldNb2JB?oc=5",
       "date": "2026-10-27T12:00:00+00:00",
       "description": "How ecommerce category pages can earn AI search citations &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Search says you should block indexing of link-shared content - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0tDMlV2b1p1SERtMWJ4dUZPWTVuZEZQQ0MyWG5CUGloM3VJenFtSFNtam1SWnFlWFV4VDA1ZTczTllkSk5EUWFuajlCcXljZndhSHZJalN4NjZSUDUyVXF2c29TUWxwSWN4anlOOTRjQmtMQURpSERJZWp3cThUWkM3MmJJSFFjS0F1Z0h0Mk54NGEtcWJqdjI5azMtREwwc2RhVnBn?oc=5",
-      "date": "2026-10-26T19:32:23+00:00",
-      "description": "Google Search says you should block indexing of link-shared content &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
