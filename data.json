@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-31T07:34:03.516265+00:00",
+  "updatedAt": "2026-10-31T08:25:00.406906+00:00",
   "items": [
+    {
+      "title": "Big Brands Dominate AI Search But Leave Openings For Smaller Sites via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/big-brands-dominate-ai-search-but-leave-openings-for-smaller-sites/595397/",
+      "date": "2026-10-31T08:15:08+00:00",
+      "description": "New research identifies a potential weakness in big-brand visibility that smaller publishers may be able to exploit. The post Big Brands Dominate AI Search But Leave Openings For Smaller Sites appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/travel-ai-seo-407.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Google Opens Connected Apps Preview For AI Mode & Gemini via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-connected-apps-preview-ai-mode-gemini/595268/",
@@ -498,7 +510,7 @@
       "link": "https://www.searchenginejournal.com/hubspot-lost-80-of-its-traffic-cmo-kipp-bodnar-explains-why-revenue-kept-growing/594004/",
       "date": "2026-10-29T12:00:46+00:00",
       "description": "HubSpot's traffic collapse shows why SEOs need to measure revenue per visit, track AI referral conversions, and build audiences beyond Google. The post HubSpot Lost 80% Of Its Traffic – CMO Kipp Bodnar Explains Why Revenue Kept Growing appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/husbpot-traffic-93.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -568,35 +580,10 @@
       ]
     },
     {
-      "title": "WordPress Announces Another Security Release: Version 7.1.4 via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/wordpress-announces-another-security-release-version-7-1-4/594798/",
-      "date": "2026-10-28T22:14:34+00:00",
-      "description": "WordPress announced security release version 7.1.4 that fixes 22 vulnerabilities, including one that affects its updater. The post WordPress Announces Another Security Release: Version 7.1.4 appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "17 ways to get more traffic to your blog - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13MTFjQzNsSEFJSTNhOUhaRjVlRVF6V2ZJbzdmRlJoeVktdDlPcXJFakM2R3Vab19lYkdNUi0yQmlSQThZUFJFYnhienVKdThwazhlc2FIMzFkc0tFZHZFTTl3?oc=5",
       "date": "2026-10-28T21:21:13+00:00",
       "description": "17 ways to get more traffic to your blog &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to create quality SEO content (the QRIES approach) - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JSkNvNXBSckx0ZGEwSlhpNnljN2E0UmZxaUpzTXBlQ1NnSUI5WWp3RHBidTkxcE13dDBwazZZUmVQUTZmQ0VBd2Vna2hPdml3U05JT05LX0FpYTBDNGtXUV9iYko?oc=5",
-      "date": "2026-10-28T20:30:29+00:00",
-      "description": "How to create quality SEO content (the QRIES approach) &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -701,6 +688,19 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNalVXWmF1Q1pEY3Zac19DeFlwT1QyazMzbWxQWkFJMkxSek5GMVZfYWozN0QyclNaTDItSXQ5X0dQalJSOUdDNTRDa3FOd1lzTGNHejVZM3ZOeEdyWTdDekxfbS1xVkJ2RGFGb05CaTdvMXlhQXlmM3o1UTFCWTk4Yg?oc=5",
       "date": "2026-10-27T14:00:00+00:00",
       "description": "7 Google Ads conversion tracking mistakes to avoid &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Search says you should block indexing of link-shared content - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0tDMlV2b1p1SERtMWJ4dUZPWTVuZEZQQ0MyWG5CUGloM3VJenFtSFNtam1SWnFlWFV4VDA1ZTczTllkSk5EUWFuajlCcXljZndhSHZJalN4NjZSUDUyVXF2c29TUWxwSWN4anlOOTRjQmtMQURpSERJZWp3cThUWkM3MmJJSFFjS0F1Z0h0Mk54NGEtcWJqdjI5azMtREwwc2RhVnBn?oc=5",
+      "date": "2026-10-26T19:32:23+00:00",
+      "description": "Google Search says you should block indexing of link-shared content &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
