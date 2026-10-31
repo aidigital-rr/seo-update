@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-31T20:41:27.190949+00:00",
+  "updatedAt": "2026-10-31T21:14:21.255533+00:00",
   "items": [
+    {
+      "title": "Hackers Hijacked DebugBear’s DNS To Serve Malicious JavaScript via @sejournal, @vahandev",
+      "link": "https://www.searchenginejournal.com/debugbear-rum-attack-seo-site-owner-actions/595412/",
+      "date": "2026-10-31T21:11:41+00:00",
+      "description": "DebugBear told customers to remove its Core Web Vitals monitoring script. Site owners should also check exposed accounts and unauthorized changes. The post Hackers Hijacked DebugBear&#8217;s DNS To Serve Malicious JavaScript appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/debugbear-rum-security-alert-shutterstock-2653741357.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Spam Guide Update, Restaurant Controls & AI Mode Revenue – SEO Pulse via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/seo-pulse-spam-guide-restaurant-controls-ai-mode-revenue/595031/",
@@ -108,19 +120,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Microsoft Bing gives publishers more control over how AI uses their content - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEJPS2laRjZiQTJzWGstczFtVUg2VENMa3VDYUlJdWJlSWVCaWNCYkZ4M1pOY0loRVlFNVVyUV9RYTZuVG5xMzNORi0tUmhYU2JFTEoycVlwYnhsd2hpcjBaMU5idlNSRGg0amF4Z29LaFZSSkdsRGJOOHlXYjR4cGJrWnJhcHV0Rm1nY2QyRWhDZzJ4SlpjSjdjZHU4eFVIbjBiWEYxWUxGNUNjR3F5Qg?oc=5",
-      "date": "2026-10-30T16:27:40+00:00",
-      "description": "Microsoft Bing gives publishers more control over how AI uses their content &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
@@ -454,19 +453,6 @@
       ]
     },
     {
-      "title": "The latest jobs in search marketing - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
-      "date": "2026-10-29T16:44:51+00:00",
-      "description": "The latest jobs in search marketing &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "How Can I Tell If My Images Are Optimized For Multimodal Search? – Ask an SEO via @sejournal, @HelenPollitt1",
       "link": "https://www.searchenginejournal.com/ask-an-seo-how-can-i-tell-if-my-images-are-optimised-for-multimodal-search/593861/",
       "date": "2026-10-29T15:30:40+00:00",
@@ -509,7 +495,7 @@
       "link": "https://www.searchenginejournal.com/openais-aura-safety-check-can-block-your-site-from-chatgpt-browsing/594322/",
       "date": "2026-10-29T14:00:06+00:00",
       "description": "Identify OpenAI Aura blocks that stop agents from opening your site, and gather evidence to request a review. The post OpenAI’s Agents Can Silently Block Your Site – &amp; Your Logs Won’t Show It appeared first on Search Engine Journal .",
-      "image": "",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/block-website-793.png",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -581,18 +567,6 @@
       ]
     },
     {
-      "title": "Google Recommends Using Custom 404 Error Pages via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-recommends-using-custom-404-error-pages/594908/",
-      "date": "2026-10-29T11:07:37+00:00",
-      "description": "Google says missing pages aren't a ranking threat, but what visitors encounter after a 404 can matter to a business. The post Google Recommends Using Custom 404 Error Pages appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google AI Mode tests clearer labels for sponsored and organic shopping results - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeEJaZ2hmUGNQVzlJZXVfZnpXTzJwUVJvSHJzSWUycDJHeF9XOE1oSUFPeXA4anpsU3dZVFhxc21fZ1ZqTTZUQ2p1Tk1JRjduTU5HUWVmSHJsOVIwNXRVdGZMaldrY2hBT0VZTW1kaGZ4d01qR0NSWngwV0d1ZjFlTzE3STFweWFzUWNoU0hZYnd6MFRRVkJYWS1rV1ZWYlJyRm1wbGZUYnJ3Q2lsWGVYUHRleXY?oc=5",
       "date": "2026-10-29T03:48:32+00:00",
@@ -623,32 +597,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13MTFjQzNsSEFJSTNhOUhaRjVlRVF6V2ZJbzdmRlJoeVktdDlPcXJFakM2R3Vab19lYkdNUi0yQmlSQThZUFJFYnhienVKdThwazhlc2FIMzFkc0tFZHZFTTl3?oc=5",
       "date": "2026-10-28T21:21:13+00:00",
       "description": "17 ways to get more traffic to your blog &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Redirects 101: A beginner’s guide to setup and best practices - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aMXhsanJjTjJER3VkblI3VkVLaUQ2ekVCSzhDay1DSlY3VW9idm1kc1JwYjRsVFhRVDUzNkxKTUJ4dEZ0eWNScEtCWWhrWjhkMmppNmpLUQ?oc=5",
-      "date": "2026-10-28T19:59:26+00:00",
-      "description": "Redirects 101: A beginner’s guide to setup and best practices &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "26 fascinating influencer marketing statistics - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zdm1GR3p1cy1lMnZWUUdleFZtcHVLZDFZVVNoZkhjX0h5c0VmZ3plc1c2WUhPWWZFOWRfSGJyUnUwOXZvRmJzOWw0MXZRQkZZUzJ5SnF5aFVBODRCU1NIeU1LUkFQZnRqWTBzMHln?oc=5",
-      "date": "2026-10-28T17:40:38+00:00",
-      "description": "26 fascinating influencer marketing statistics &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -701,6 +649,58 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1reW5yN1FfM3FmRFB3ZktvbHRMMDRBVW9ZUGo3bERZZkxUQ0Y0Y3hXT0wyRzJSTi1ZamY2MFRDbjZ0djZoT2hRYjYxeGhnZ2FoZ1Y0QmMtOHQ1ZHpnTlp2eDZnU0ltdF8tOFcxWDVhMkRCREJ0b0E?oc=5",
       "date": "2026-10-28T12:00:00+00:00",
       "description": "Organic traffic is down, but it’s not all AI &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "44% of SEOs are more worried about AI than a year ago: Survey - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS2Y2cUc2WVIySGpsU0prMWtoQTFIWThIaVFybFlfek94NDRlcmRtNXNKSUdNTjV3UnoyMHQxZDF3ZU5pN3FwT211a3V6YXZpLW4yMk0xbTNIRDY4Qm12aWUyaTJNaXI5bUVvWE5Xa3h1TUtNZTFVOEJ6aFZlamM4NFlyVjBGdw?oc=5",
+      "date": "2026-10-27T16:00:32+00:00",
+      "description": "44% of SEOs are more worried about AI than a year ago: Survey &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Semrush confirms ‘poisoned’ Google results are impacting SEO tools - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTnNyYmZtd0FjRVY2MVJjMlpXLWpEcmx2UG9nakFtTnVTLWJ6NFpFZEVOc1JqRXFDYjBZbzg3Ujc0Q2N2dWg2cFpSNkxYVUhwV2kzRHRsVHdPREVoVFpUWnVfNThGQVFNdXkyZUtSQzhNRmtOcW1Zdm4wMjlLZGZ0YW13?oc=5",
+      "date": "2026-10-27T14:58:40+00:00",
+      "description": "Semrush confirms ‘poisoned’ Google results are impacting SEO tools &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Search says you should block indexing of link-shared content - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0tDMlV2b1p1SERtMWJ4dUZPWTVuZEZQQ0MyWG5CUGloM3VJenFtSFNtam1SWnFlWFV4VDA1ZTczTllkSk5EUWFuajlCcXljZndhSHZJalN4NjZSUDUyVXF2c29TUWxwSWN4anlOOTRjQmtMQURpSERJZWp3cThUWkM3MmJJSFFjS0F1Z0h0Mk54NGEtcWJqdjI5azMtREwwc2RhVnBn?oc=5",
+      "date": "2026-10-26T19:32:23+00:00",
+      "description": "Google Search says you should block indexing of link-shared content &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Cloudflare will upend the AI visibility space - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8taDVONXhEYmxMMFZJSUxtSmQxYkdLMXg4WmZQMUNfcUtiZFFYeVVVbERqMDNHeGMyQk9Ob2FaeGR5UEdiWFBvTTBVRE5ROTRlTEVwOXJYX294TWNSU0ZHTjBUc1pHVUpqaEJKbDhKaThXNE9EMFdCV1pHNWw?oc=5",
+      "date": "2026-10-26T16:00:00+00:00",
+      "description": "Cloudflare will upend the AI visibility space &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
