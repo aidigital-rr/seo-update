@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-31T06:20:15.455900+00:00",
+  "updatedAt": "2026-10-31T07:34:03.516265+00:00",
   "items": [
+    {
+      "title": "Google Opens Connected Apps Preview For AI Mode & Gemini via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-connected-apps-preview-ai-mode-gemini/595268/",
+      "date": "2026-10-31T07:00:00+00:00",
+      "description": "Developers can apply to bring apps into AI Mode and the Gemini app, and Google's policy bars misleading descriptions meant to get an app picked. The post Google Opens Connected Apps Preview For AI Mode &#038; Gemini appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-connected-apps-featured-1600x840-1.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Reddit CEO Says Google’s AI Mode ‘Does Not Drive Traffic’ via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/reddit-to-test-login-only-mode-as-google-search-traffic-drops/595270/",
@@ -498,7 +510,7 @@
       "link": "https://www.searchenginejournal.com/google-recommends-using-custom-404-error-pages/594908/",
       "date": "2026-10-29T11:07:37+00:00",
       "description": "Google says missing pages aren't a ranking threat, but what visitors encounter after a 404 can matter to a business. The post Google Recommends Using Custom 404 Error Pages appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-404-seo-403.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -568,22 +580,23 @@
       ]
     },
     {
-      "title": "Google Gives Restaurants Direct Control Over Ordering Providers via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-restaurants-opt-out-ordering-providers/594794/",
-      "date": "2026-10-28T22:11:43+00:00",
-      "description": "Restaurants can now turn off specific third-party ordering providers in the Business Profile dashboard instead of waiting on each provider to remove them. The post Google Gives Restaurants Direct Control Over Ordering Providers appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "17 ways to get more traffic to your blog - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13MTFjQzNsSEFJSTNhOUhaRjVlRVF6V2ZJbzdmRlJoeVktdDlPcXJFakM2R3Vab19lYkdNUi0yQmlSQThZUFJFYnhienVKdThwazhlc2FIMzFkc0tFZHZFTTl3?oc=5",
       "date": "2026-10-28T21:21:13+00:00",
       "description": "17 ways to get more traffic to your blog &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How to create quality SEO content (the QRIES approach) - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JSkNvNXBSckx0ZGEwSlhpNnljN2E0UmZxaUpzTXBlQ1NnSUI5WWp3RHBidTkxcE13dDBwazZZUmVQUTZmQ0VBd2Vna2hPdml3U05JT05LX0FpYTBDNGtXUV9iYko?oc=5",
+      "date": "2026-10-28T20:30:29+00:00",
+      "description": "How to create quality SEO content (the QRIES approach) &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -688,19 +701,6 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNalVXWmF1Q1pEY3Zac19DeFlwT1QyazMzbWxQWkFJMkxSek5GMVZfYWozN0QyclNaTDItSXQ5X0dQalJSOUdDNTRDa3FOd1lzTGNHejVZM3ZOeEdyWTdDekxfbS1xVkJ2RGFGb05CaTdvMXlhQXlmM3o1UTFCWTk4Yg?oc=5",
       "date": "2026-10-27T14:00:00+00:00",
       "description": "7 Google Ads conversion tracking mistakes to avoid &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How ecommerce category pages can earn AI search citations - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVDkzSVhZQXhhMloyV3kwQTdaX0hrN0xzYkNfQ25OS1FqOENFWGd5OWR4V2p1WFFFUERfSjNGWUZkVkFycjI0aGxnSldadldRelc2WGl3LWRoRTBuRU00Ymc3ZWs4bDZkQ3NhSVpsNGpRSzdZdjdsXzFOS19GejJCSm5YM0NvMVBubldNb2JB?oc=5",
-      "date": "2026-10-27T12:00:00+00:00",
-      "description": "How ecommerce category pages can earn AI search citations &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
