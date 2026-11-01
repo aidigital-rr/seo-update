@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T08:52:57.753780+00:00",
+  "updatedAt": "2026-11-01T09:49:20.939143+00:00",
   "items": [
     {
       "title": "Google, Microsoft & OpenAI Plan To Honor Shared AI Training Opt-Out via @sejournal, @MattGSouthern",
@@ -94,6 +94,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google also gives publishers more control over how AI uses their content - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNakxxWFdVaVdCbkNOTndlN2I1OFRMRHNJdGFIVXQxNjdURHN3VXpkaFA4Y0RpMlhua1A3VnR3WWwyWnFqLTAxQTM4WWJ1YkFBWkwyOTJ0Y0ViQldoelhpTzhCOGdyTC1MR2dBdXBTdlhyb3Bab0R4RHVSOWZQbjZwc1p6UlhBaGo4N2lZdkdibl9MQk55ZU1XSjllZkJJQ3IzR1p1eTdnRnhlcHR6?oc=5",
+      "date": "2026-10-30T17:02:13+00:00",
+      "description": "Google also gives publishers more control over how AI uses their content &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -210,6 +223,19 @@
       ]
     },
     {
+      "title": "Core Web Vitals optimization can be a waste of time - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYktXcjgwY05lbkJ6Y0FZcDBKU3VFdFdHaUc3NnNuQ3RVRG5YUGFsRlhyM0VSMWtGZHFSS2NHTVJDLTYxbmFXWU1sd3IyQkpsYnpleFVZRjdUYk9QYlg2WGR1ajg0ck53R2lGSjRtVDZheHZHQlhaUU40WHdzbmJyYw?oc=5",
+      "date": "2026-10-30T14:00:00+00:00",
+      "description": "Core Web Vitals optimization can be a waste of time &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Google’s Q3 Earnings Call Casts Shadow Over Classic Search via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/googles-q3-earnings-call-casts-shadow-over-classic-search/595082/",
       "date": "2026-10-30T13:02:09+00:00",
@@ -218,6 +244,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google AI Overviews are pushing News Boxes out of search results: Study - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZjRZcU5rU1VjMm01ZkYyN2ZWanUyV1NQZDJUZlU3cnJkd3pRY3dVeTNycUgyRWVhQnRsVW02czJvWDFzczVOTW9IbW43em9mMVFuWE5lNHhBdnhiVmpMcnB4M01MUmlMbERpM3JGWTc3MkJGdzA3MWdfMXYxdFY5emRfdXNFWmNoZTZ1MHdPMWJLeHdzdUlUNlZPNzlVTFdqam5wTHIwUFVhUQ?oc=5",
+      "date": "2026-10-30T13:00:00+00:00",
+      "description": "Google AI Overviews are pushing News Boxes out of search results: Study &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -325,19 +364,6 @@
       ]
     },
     {
-      "title": "Microsoft Bing gives publishers more control over how AI uses their content",
-      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6fdd9d03e45a39c0f315b3dacace3&url=https%3a%2f%2fsearchengineland.com%2fmicrosoft-bing-gives-publishers-more-control-over-how-ai-uses-their-content-499967&c=14031336795808789811&mkt=en-us",
-      "date": "2026-10-30T05:28:00+00:00",
-      "description": "Microsoft is giving publishers separate controls to opt out of AI training and AI search grounding while preserving their eligibility to appear in traditional Bing search results.",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Supporting a shared AI training control for websites",
       "link": "https://developers.google.com/search/blog/2026/10/ai-training-control",
       "date": "2026-10-30T00:00:00+00:00",
@@ -387,6 +413,19 @@
       ]
     },
     {
+      "title": "Google AI opt-out test finds unexpected drop in organic clicks - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT0tON3Nid0pOWFpadlVDa1FwOFYwUzI2T1BlNHNJZGQ3NnFxZ3doQVBLb0F2SW5EbkFzLW5xUlRjNXpOZEJlZm9NbnNXRlg1MlExdGI4N3ZLU3FWWWNfVkR4eWctdTJ5eUduMGRiMXFQVTB6UF81c3h4eHFITUp1QmQzZ2Y?oc=5",
+      "date": "2026-10-29T18:57:48+00:00",
+      "description": "Google AI opt-out test finds unexpected drop in organic clicks &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Google's John Mueller: Eventually Systems Will Catch The AI Spam & Tricks",
       "link": "https://www.seroundtable.com/john-mueller-google-systems-ai-spam-42420.html",
       "date": "2026-10-29T17:25:00+00:00",
@@ -397,6 +436,19 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "Google AI Mode sends 57% of product links to Google Shopping: Study - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWZzNnB6QnRGMmE4bVZ0MlZrSVd6eU9tTmxaOXVMNTlTT0FZVzM2b2pyNEtlUFR4Q3dmSFM2MVV1VmUyQ1lmVy1DZUtGM29NWTFUU1pkSjhsLVJXU1VzTFRnZmRFRk16bVFUSVpuWUV0eFlmS3U5bTAtSWg1NHRtekJpUy1WZlRLaXVkSzJjOA?oc=5",
+      "date": "2026-10-29T17:21:33+00:00",
+      "description": "Google AI Mode sends 57% of product links to Google Shopping: Study &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
@@ -425,6 +477,19 @@
       ]
     },
     {
+      "title": "AI traffic drives 83% more revenue per visit for retailers: Adobe - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUWJ2dzhfcTF3WXJYdko0cFpJWG9LZUlpWGt1a0YzX3FtUXl4NS1ORWQtOGZUUlFOZ3UzNE9RakcwXzdVNHNtM0ZyRFlpSDNYcHVjZExjOUNLLTZxd2JneHJhSnVhTU5SdHhkYWh3TFhFSzNSbTdpYlZlNmExaU1iX0U0TnJkMzhPaHc?oc=5",
+      "date": "2026-10-29T14:22:44+00:00",
+      "description": "AI traffic drives 83% more revenue per visit for retailers: Adobe &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Google: Ads In AI Mode Earning Less Than Traditional Search Ads",
       "link": "https://www.seroundtable.com/google-ai-mode-ads-earn-less-42417.html",
       "date": "2026-10-29T14:15:00+00:00",
@@ -442,7 +507,7 @@
       "link": "https://www.searchenginejournal.com/openais-aura-safety-check-can-block-your-site-from-chatgpt-browsing/594322/",
       "date": "2026-10-29T14:00:06+00:00",
       "description": "Identify OpenAI Aura blocks that stop agents from opening your site, and gather evidence to request a review. The post OpenAI’s Agents Can Silently Block Your Site – &amp; Your Logs Won’t Show It appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/block-website-793.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -454,7 +519,7 @@
       "link": "https://www.seroundtable.com/recap-10-29-2026-42414.html",
       "date": "2026-10-29T14:00:00+00:00",
       "description": "Here is a recap of what happened in the search forums today...",
-      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -463,10 +528,10 @@
       ]
     },
     {
-      "title": "Google AI opt-out test finds unexpected drop in organic clicks",
-      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6fdd9d03e45a39c0f315b3dacace3&url=https%3a%2f%2fsearchengineland.com%2fgoogle-ai-opt-out-test-organic-clicks-drop-499898&c=10476825485254404136&mkt=en-us",
-      "date": "2026-10-29T07:57:00+00:00",
-      "description": "Appearing in both AI answers and traditional organic search results could build trust and increase clicks, according to a small test.",
+      "title": "Is AI search ghosting your brand? Here’s how to fight back - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tbUNjckUzS05LMlpfTlEtLVc2d2NVNmdSUEZrTlpoREVOeDYwVDFoZlEzMTdFaXBPY2pQWl82MzFoX0hCX05hb1RPV29EcDVqTEljZHpFX3ZUMVg5T0h3VVZVSHJTVE54OVp0cDV5NEJzZW1rQXhwcUlZdw?oc=5",
+      "date": "2026-10-29T14:00:00+00:00",
+      "description": "Is AI search ghosting your brand? Here’s how to fight back &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -476,10 +541,10 @@
       ]
     },
     {
-      "title": "Google: AI Mode’s lower monetization slowed Search ad growth",
-      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6fdd9d03e45a39c0f315b3dacace3&url=https%3a%2f%2fsearchengineland.com%2fgoogle-earnings-call-q3-2026-499706&c=15797318079899733736&mkt=en-us",
-      "date": "2026-10-29T02:46:00+00:00",
-      "description": "Google Search ad revenue grew 12% to $63.3 billion in Q3. Search query growth hit a five-year high, driven by AI.",
+      "title": "Google: AI Mode’s lower monetization slowed Search ad growth - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zUk53VHBveXl4eFgyV0NrVTB1ZWdWNEh0bVFSRkdtdEQzYVlzZEFaa2ZUYUh3bjlFSkNTa05OMHhBM2FtZkhVN3JHNVFET0UtSnJub0EtaF81NW1sUTdmdFd6a0J4SUo4aFdJT0FlTHJqdw?oc=5",
+      "date": "2026-10-29T13:46:47+00:00",
+      "description": "Google: AI Mode’s lower monetization slowed Search ad growth &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -489,10 +554,10 @@
       ]
     },
     {
-      "title": "Google expands ads in AI Mode to 10 new markets, with UK and Brazil next",
-      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6fdd9d03e45a39c0f315b3dacace3&url=https%3a%2f%2fsearchengineland.com%2fgoogle-expands-ads-in-ai-mode-to-10-new-markets-with-uk-and-brazil-next-499644&c=12086351828655705950&mkt=en-us",
-      "date": "2026-10-28T20:04:00+00:00",
-      "description": "Google expands AI Mode ads to 10 new countries and introduces multiturn ads in the US, with more markets coming soon.",
+      "title": "You don’t need more ads. You need more creative variables. - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU0ZNbGVTb2FzNFJtUGhDNUhsSF82YTFUY09qeVdIOWVUYWFDNTQtWW1MWDFnNWRXbUJMZ3NqalY3Z0VFUTZlU1FfMW84SlNsdzd4dGd2Yi1JZ1NiN3lwQmFRbTlEdGEzTkNtMHR3VjM1TDEtamVMR3A3NXVPbklKQ0JiN01LZTY4YnYtcnZraENpTl9BNGc?oc=5",
+      "date": "2026-10-29T13:00:00+00:00",
+      "description": "You don’t need more ads. You need more creative variables. &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -502,10 +567,10 @@
       ]
     },
     {
-      "title": "Organic traffic is down, but it’s not all AI",
-      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6fdd9d03e45a39c0f315b3dacace3&url=https%3a%2f%2fsearchengineland.com%2forganic-traffic-down-not-all-ai-499133&c=6820384794249712280&mkt=en-us",
-      "date": "2026-10-28T01:01:00+00:00",
-      "description": "Data from 10,000 websites shows uneven organic traffic declines across markets, industries, and site sizes, with AI only part of the story.",
+      "title": "Google AI Mode tests clearer labels for sponsored and organic shopping results - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeEJaZ2hmUGNQVzlJZXVfZnpXTzJwUVJvSHJzSWUycDJHeF9XOE1oSUFPeXA4anpsU3dZVFhxc21fZ1ZqTTZUQ2p1Tk1JRjduTU5HUWVmSHJsOVIwNXRVdGZMaldrY2hBT0VZTW1kaGZ4d01qR0NSWngwV0d1ZjFlTzE3STFweWFzUWNoU0hZYnd6MFRRVkJYWS1rV1ZWYlJyRm1wbGZUYnJ3Q2lsWGVYUHRleXY?oc=5",
+      "date": "2026-10-29T03:48:32+00:00",
+      "description": "Google AI Mode tests clearer labels for sponsored and organic shopping results &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -515,10 +580,10 @@
       ]
     },
     {
-      "title": "Semrush confirms ‘poisoned’ Google results are impacting SEO tools",
-      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6fdd9d03e45a39c0f315b3dacace3&url=https%3a%2f%2fsearchengineland.com%2fsemrush-confirms-poisoned-google-results-499199&c=17262202928533567543&mkt=en-us",
-      "date": "2026-10-27T03:58:00+00:00",
-      "description": "SEO platforms have reported inaccurate Google rankings since September and continue to investigate the issue and adjust data collection.",
+      "title": "Google expands ads in AI Mode to 10 new markets, with UK and Brazil next - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQVc3WUtNb3d2eTFBekp6a2I5LW9vc3dEUW92MFdMVUlialh3SW9SMlhvdThkNy1GWk51R1N0MW83SzczYjJFd042TmVxWTNuR2NWUUg2VTJWRmRNUWNOY1I0b2RZTnozUDBqbmotU215dTRKeDBjc1RiM2JTTGRQenpiYy1uWUlOVVF3VDdteWZpMGcwN21uNzhJd29PSnRrdEdnOTZiNXpGbFk?oc=5",
+      "date": "2026-10-29T03:05:26+00:00",
+      "description": "Google expands ads in AI Mode to 10 new markets, with UK and Brazil next &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -528,10 +593,10 @@
       ]
     },
     {
-      "title": "Google Ads introduces centralized dashboard for tracking policy issues",
-      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6fdd9d03e45a39c0f315b3dacace3&url=https%3a%2f%2fsearchengineland.com%2fgoogle-ads-introduces-centralized-dashboard-for-tracking-policy-issues-499005&c=18343338708831630718&mkt=en-us",
-      "date": "2026-10-26T07:39:00+00:00",
-      "description": "Google Ads introduces a centralized Policy Summary dashboard to help advertisers track, manage and prioritize policy issues across their accounts.",
+      "title": "17 ways to get more traffic to your blog - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13MTFjQzNsSEFJSTNhOUhaRjVlRVF6V2ZJbzdmRlJoeVktdDlPcXJFakM2R3Vab19lYkdNUi0yQmlSQThZUFJFYnhienVKdThwazhlc2FIMzFkc0tFZHZFTTl3?oc=5",
+      "date": "2026-10-28T21:21:13+00:00",
+      "description": "17 ways to get more traffic to your blog &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -541,10 +606,10 @@
       ]
     },
     {
-      "title": "Google confirms AI-generated review summaries in Search ads",
-      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6fdd9d03e45a39c0f315b3dacace3&url=https%3a%2f%2fsearchengineland.com%2fgoogle-confirms-ai-generated-review-summaries-in-search-ads-498977&c=15534546227179252062&mkt=en-us",
-      "date": "2026-10-26T05:51:00+00:00",
-      "description": "Google is bringing AI-generated summaries of positive customer reviews directly into Search ads to help businesses build trust.",
+      "title": "Google Ads adds ‘All Conversions’ tab to simplify conversion tracking and audits - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeDh4eHJvVm01OVR0UnU2dDkyVEtYS3ZJZlBRYjVPVXVaN3FELVJyZUN3dW1TWExKU2NNOHQ1T2RsNHMtMW1UMzZ2SFRHbWI5MElJNlFqTzkwU1pDQV9MamZCYmMxV09jQkwxRjJzcTExY25feGFjaXQyUEQtblNHNEZWVnNZakk4WGk1cGUyVTZfeGIzVUw5bS1wdGxPSlktRmFwYVdrV0lOOGhQV25NVWstTDU?oc=5",
+      "date": "2026-10-28T16:25:24+00:00",
+      "description": "Google Ads adds ‘All Conversions’ tab to simplify conversion tracking and audits &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -554,10 +619,10 @@
       ]
     },
     {
-      "title": "7 B2B marketing shifts that will define 2027",
-      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6fdd9d03e45a39c0f315b3dacace3&url=https%3a%2f%2fsearchengineland.com%2f7-b2b-marketing-shifts-that-will-define-2027-498521&c=17148379592490919276&mkt=en-us",
-      "date": "2026-10-26T03:01:00+00:00",
-      "description": "The metrics, tactics, and playbooks that once drove B2B growth are losing their edge. Here's what deserves your attention and budget next.",
+      "title": "SEOs, we need to talk about E-E-A-T - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlN2c4Tjd5ZVZDV1FaR2lXTV9JOFJJVHRIbHlES1lhdndlQ2xEQVZXbUhPYm8yQm9wUE5tWWtCUldXTGxrY3RpY0xfOFFzTHhvNkh6Z255eEcwb1Jyal9UcQ?oc=5",
+      "date": "2026-10-28T15:00:00+00:00",
+      "description": "SEOs, we need to talk about E-E-A-T &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -567,10 +632,10 @@
       ]
     },
     {
-      "title": "Google Ads expands customer acquisition and retention controls",
-      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6fdd9d03e45a39c0f315b3dacace3&url=https%3a%2f%2fsearchengineland.com%2fgoogle-ads-expands-customer-acquisition-and-retention-controls-497820&c=8652839236500929034&mkt=en-us",
-      "date": "2026-10-22T01:25:00+00:00",
-      "description": "Google Ads is expanding customer acquisition and retention tools with new bidding controls to help advertisers reach and re-engage valuable customers.",
+      "title": "Human-first SEO: The risks of optimizing for AI over users - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcEtBTnBMYkdwc1g0X1ZtS3RGZWNUNENOLXVuMUxGVXlKemZHcTR6SDdBelVFZGFBeXBsUnE2VllTbGtldWNXUTVwNWZXN29nNHhtNnF1TXB6c3dSWXhUbEFFSDRBVm1BaHQzOWgwcV9keWl4OTZ5QmdNTk14dGNrWmtIM19XUUs5TFloeHRjdHJJTzNVU2t0Tg?oc=5",
+      "date": "2026-10-28T13:00:00+00:00",
+      "description": "Human-first SEO: The risks of optimizing for AI over users &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -580,10 +645,62 @@
       ]
     },
     {
-      "title": "ChatGPT Ads to enable creative enhancements on October 30",
-      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae6fdd9d03e45a39c0f315b3dacace3&url=https%3a%2f%2fsearchengineland.com%2fchatgpt-ads-to-enable-creative-enhancements-on-october-30-497608&c=7271069479051836631&mkt=en-us",
-      "date": "2026-10-21T03:17:00+00:00",
-      "description": "OpenAI has notified its advertisers that it will soon enable creative enhancements for your new and existing self-serve campaigns. This will happen on October 30, 2026 and you can opt out before that ...",
+      "title": "Organic traffic is down, but it’s not all AI - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1reW5yN1FfM3FmRFB3ZktvbHRMMDRBVW9ZUGo3bERZZkxUQ0Y0Y3hXT0wyRzJSTi1ZamY2MFRDbjZ0djZoT2hRYjYxeGhnZ2FoZ1Y0QmMtOHQ1ZHpnTlp2eDZnU0ltdF8tOFcxWDVhMkRCREJ0b0E?oc=5",
+      "date": "2026-10-28T12:00:00+00:00",
+      "description": "Organic traffic is down, but it’s not all AI &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "44% of SEOs are more worried about AI than a year ago: Survey - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS2Y2cUc2WVIySGpsU0prMWtoQTFIWThIaVFybFlfek94NDRlcmRtNXNKSUdNTjV3UnoyMHQxZDF3ZU5pN3FwT211a3V6YXZpLW4yMk0xbTNIRDY4Qm12aWUyaTJNaXI5bUVvWE5Xa3h1TUtNZTFVOEJ6aFZlamM4NFlyVjBGdw?oc=5",
+      "date": "2026-10-27T16:00:32+00:00",
+      "description": "44% of SEOs are more worried about AI than a year ago: Survey &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Semrush confirms ‘poisoned’ Google results are impacting SEO tools - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTnNyYmZtd0FjRVY2MVJjMlpXLWpEcmx2UG9nakFtTnVTLWJ6NFpFZEVOc1JqRXFDYjBZbzg3Ujc0Q2N2dWg2cFpSNkxYVUhwV2kzRHRsVHdPREVoVFpUWnVfNThGQVFNdXkyZUtSQzhNRmtOcW1Zdm4wMjlLZGZ0YW13?oc=5",
+      "date": "2026-10-27T14:58:40+00:00",
+      "description": "Semrush confirms ‘poisoned’ Google results are impacting SEO tools &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Search says you should block indexing of link-shared content - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0tDMlV2b1p1SERtMWJ4dUZPWTVuZEZQQ0MyWG5CUGloM3VJenFtSFNtam1SWnFlWFV4VDA1ZTczTllkSk5EUWFuajlCcXljZndhSHZJalN4NjZSUDUyVXF2c29TUWxwSWN4anlOOTRjQmtMQURpSERJZWp3cThUWkM3MmJJSFFjS0F1Z0h0Mk54NGEtcWJqdjI5azMtREwwc2RhVnBn?oc=5",
+      "date": "2026-10-26T19:32:23+00:00",
+      "description": "Google Search says you should block indexing of link-shared content &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Cloudflare will upend the AI visibility space - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8taDVONXhEYmxMMFZJSUxtSmQxYkdLMXg4WmZQMUNfcUtiZFFYeVVVbERqMDNHeGMyQk9Ob2FaeGR5UEdiWFBvTTBVRE5ROTRlTEVwOXJYX294TWNSU0ZHTjBUc1pHVUpqaEJKbDhKaThXNE9EMFdCV1pHNWw?oc=5",
+      "date": "2026-10-26T16:00:00+00:00",
+      "description": "Cloudflare will upend the AI visibility space &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -732,8 +849,8 @@
     {
       "name": "Search Engine Land",
       "ok": true,
-      "count": 11,
-      "method": "Bing News RSS fallback",
+      "count": 20,
+      "method": "Google News RSS fallback",
       "fallback": true,
       "limited_to": 20
     }
