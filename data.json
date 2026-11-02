@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-11-02T18:00:17.006267+00:00",
+  "updatedAt": "2026-11-02T18:59:36.074674+00:00",
   "items": [
+    {
+      "title": "Google AI Overviews For Brands Moved To Right Column",
+      "link": "https://www.seroundtable.com/google-ai-overviews-brands-right-42440.html",
+      "date": "2026-11-02T17:15:00+00:00",
+      "description": "Google has moved the AI Overviews for many brand-related keywords to the right-hand column of the search results page. Previously, they appeared at the top or middle of the main search results section.",
+      "image": "https://images.seroundtable.com/apple-brand-ai-overview-panel-f2aGDqsS.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "How To Run A Full-Funnel Ecommerce Account Through BFCM Week via @sejournal, @tonyadam",
       "link": "https://www.searchenginejournal.com/how-to-run-a-full-funnel-ecommerce-account-through-bfcm-week/594047/",
@@ -443,19 +456,6 @@
       "date": "2026-10-30T11:31:00+00:00",
       "description": "Halloween is tonight/tomorrow and to celebrate both Google and Bing has special easter eggs (or should I call them pumpkins) for its search results. Google asks you to find a costume using AI Mode, which is boring. But Bing has a floating ghost that explodes into candy when you tap it.",
       "image": "https://images.seroundtable.com/google-halloween-aimode-gif-nZqB9pLM.gif",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google's Gary Illyes: AI Made Bot Impersonation Worse",
-      "link": "https://www.seroundtable.com/google-ai-made-bot-impersonation-worse-42422.html",
-      "date": "2026-10-30T11:21:00+00:00",
-      "description": "Gary Illyes from Google was recently interviewed by Aneta Samkoff, host of the Odys Podcast. The topic was all about bots and crawlers and they covered a lot of ground. Gary said bot impersonation is more of a problem now because of AI. Bot impersonation is when rogue bots pretend to be someone they are not, like pretending to be Googlebot.",
-      "image": "https://images.seroundtable.com/gary-illyes-google-aneta-v5AaDPss.jpg",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
