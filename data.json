@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-11-02T16:04:56.121130+00:00",
+  "updatedAt": "2026-11-02T17:08:38.813435+00:00",
   "items": [
+    {
+      "title": "Beyond demand capture: Why performance marketers need brand marketing - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5bjlHaWQ2X2U2bU84ZVlqbmVQLTRPalFzaXFoc0JVdjN4SURGSGFsQzZoc0tPZkE1NXktZGhyUndVVHhobl83QVRodWNDSVZZM1U2bGQ1ZTBDdmZEMkNQcWNibEF6OURodW9vRDNMWnRyZnVRS2ZLOUFJQTZVdw?oc=5",
+      "date": "2026-11-02T16:00:00+00:00",
+      "description": "Beyond demand capture: Why performance marketers need brand marketing &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
     {
       "title": "How To Run A Full-Funnel Ecommerce Account Through BFCM Week via @sejournal, @tonyadam",
       "link": "https://www.searchenginejournal.com/how-to-run-a-full-funnel-ecommerce-account-through-bfcm-week/594047/",
@@ -11,6 +24,19 @@
       "tags": [
         "SEO",
         "AI Search"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: November 2, 2026",
+      "link": "https://www.seroundtable.com/recap-11-02-2026-42434.html",
+      "date": "2026-11-02T15:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google and Microsoft, as well as OpenAI and Anthropic...",
+      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -481,7 +507,7 @@
       "link": "https://www.seroundtable.com/google-bing-halloween-search-easter-eggs-42415.html",
       "date": "2026-10-30T11:31:00+00:00",
       "description": "Halloween is tonight/tomorrow and to celebrate both Google and Bing has special easter eggs (or should I call them pumpkins) for its search results. Google asks you to find a costume using AI Mode, which is boring. But Bing has a floating ghost that explodes into candy when you tap it.",
-      "image": "https://images.seroundtable.com/google-halloween-aimode-gif-nZqB9pLM.gif",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -494,19 +520,6 @@
       "link": "https://www.seroundtable.com/google-ai-made-bot-impersonation-worse-42422.html",
       "date": "2026-10-30T11:21:00+00:00",
       "description": "Gary Illyes from Google was recently interviewed by Aneta Samkoff, host of the Odys Podcast. The topic was all about bots and crawlers and they covered a lot of ground. Gary said bot impersonation is more of a problem now because of AI. Bot impersonation is when rogue bots pretend to be someone they are not, like pretending to be Googlebot.",
-      "image": "https://images.seroundtable.com/gary-illyes-google-aneta-v5AaDPss.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Gemini Stopped Attaching UTM Parameters To Cited URLs",
-      "link": "https://www.seroundtable.com/gemini-utm-parameters-42399.html",
-      "date": "2026-10-30T11:11:00+00:00",
-      "description": "Google seems to have stopped appending UTM parameters on Gemini links, the cited URLs in Gemini's AI responses. Google started adding UTM parameters to links in Gemini in early September, but then, around September 28th, Google stopped.",
       "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
@@ -688,19 +701,6 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03OGlHYVB2RjFjNndRZEFNRzZ4VWpFcjdFdkhGVXFfeGhyNS1XZmVjdHNXdkhnRm90bHZaOGFIanh3YlA5YVJ4a3g4YTlocExQZmlIMlRqOXk3blFCamFYWEY0dTNRYTF6YUtYSHRxa2Y3cnNi?oc=5",
       "date": "2026-10-27T18:31:17+00:00",
       "description": "How to build topical authority in the AI search era (Seven steps) &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Semrush confirms ‘poisoned’ Google results are impacting SEO tools - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTnNyYmZtd0FjRVY2MVJjMlpXLWpEcmx2UG9nakFtTnVTLWJ6NFpFZEVOc1JqRXFDYjBZbzg3Ujc0Q2N2dWg2cFpSNkxYVUhwV2kzRHRsVHdPREVoVFpUWnVfNThGQVFNdXkyZUtSQzhNRmtOcW1Zdm4wMjlLZGZ0YW13?oc=5",
-      "date": "2026-10-27T14:58:40+00:00",
-      "description": "Semrush confirms ‘poisoned’ Google results are impacting SEO tools &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
