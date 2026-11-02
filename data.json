@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-02T20:50:47.843103+00:00",
+  "updatedAt": "2026-11-02T21:46:42.066695+00:00",
   "items": [
+    {
+      "title": "NY Times Accuses Brave Of Scraping And Exploiting Content via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/ny-times-accuses-brave-of-scraping-and-exploiting-content/595679/",
+      "date": "2026-11-02T21:38:22+00:00",
+      "description": "New York Times lawsuit accuses Brave of selling access to paywalled content to AI companies and depriving publishers of ad income. The post NY Times Accuses Brave Of Scraping And Exploiting Content appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/brave-browser-951.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "TikTok Search Ads Adds Brand And Category Keyword Packs via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/tiktok-search-ads-brand-category-keyword-packs/595682/",
+      "date": "2026-11-02T20:56:45+00:00",
+      "description": "TikTok is highlighting two impression share metrics for Search Ads and adding curated keyword packs. Here's what each does. The post TikTok Search Ads Adds Brand And Category Keyword Packs appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/tiktok-search-ads-featured-1600x840-1.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "AI Shopping: Get Your Products Found In Google & ChatGPT via @sejournal, @hethr_campbell",
       "link": "https://www.searchenginejournal.com/ai-shopping-get-your-products-found-in-google-chatgpt-recap/594889/",
@@ -367,30 +391,6 @@
       "date": "2026-10-30T15:11:43+00:00",
       "description": "Resolve's Michael Johnson outlined a keep-or-cut approach to link building, from qualifying publishers and earning roundup placements to creating linkable assets and a 90-day execution plan. The post The Link Building Graveyard: What To Bury &#038; What Still Wins appeared first on Search Engine Journal .",
       "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/resolve-link-building-graveyard-on-demand-sej.png",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "ChatGPT Ads Turns On Automatic Ad Changes By Default via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-ads-turns-on-automatic-ad-changes-by-default/595117/",
-      "date": "2026-10-30T14:17:57+00:00",
-      "description": "Creative enhancements are now on by default in ChatGPT Ads. Here's what they can change, how to opt out, and the tracking questions still open. The post ChatGPT Ads Turns On Automatic Ad Changes By Default appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-ads-creative-enhancements.jpg",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "What Search Console Can Still Tell You When Indexing Data Lags via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/what-search-console-can-still-tell-you-when-indexing-data-lags/595016/",
-      "date": "2026-10-30T14:00:00+00:00",
-      "description": "Search Console's Page indexing report has fallen behind before. Here's what Google has said and what each remaining check can show while the data lags. The post What Search Console Can Still Tell You When Indexing Data Lags appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/search-console-indexing-report-delay.jpg",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
