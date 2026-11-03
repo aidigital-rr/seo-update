@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-03T18:57:58.732904+00:00",
+  "updatedAt": "2026-11-03T19:57:07.346476+00:00",
   "items": [
+    {
+      "title": "Google Ad Tags In Server-Side GTM To Get Full IP Addresses via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ad-tags-in-server-side-gtm-to-get-full-ip-addresses/595807/",
+      "date": "2026-11-03T19:30:00+00:00",
+      "description": "Google says ad tags in server-side Tag Manager will accept full IP addresses while Analytics tags stay redacted. Here's what changes and how to redact. The post Google Ad Tags In Server-Side GTM To Get Full IP Addresses appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-tag-manager-featured-1600x840-1.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How To Create Demand You Can Actually Convert (And Prove) via @sejournal, @duchessjenm",
+      "link": "https://www.searchenginejournal.com/how-to-create-demand-you-can-actually-convert-and-prove-recap/595044/",
+      "date": "2026-11-03T19:04:28+00:00",
+      "description": "Discover effective strategies to generate demand and measure results for your B2B marketing campaigns successfully. The post How To Create Demand You Can Actually Convert (And Prove) appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/callrail-create-demand-convert-prove-on-demand-sej.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Rank Trackers Find Google Results About One Word Of A Query via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/rank-trackers-find-google-results-about-one-word-of-a-query/595798/",
@@ -49,6 +73,19 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "7 technical SEO checks for vibe-coded websites - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMmJSU0oya3JQS0FDc3ZDelp1Y3VJaTY2dGZmZm9Zcm9sLVNOcHZob2pIdU5GOUlOX0pJaTRSZW1mT3ZqNnpIS3diSFU5bW1kazRxN0F2cFg3TTZDMXRka0VORjFqM0JDallZZmpFRHpfblZQUm5FRW9FUDh3cWFCWW93?oc=5",
+      "date": "2026-11-03T15:00:00+00:00",
+      "description": "7 technical SEO checks for vibe-coded websites &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
@@ -470,31 +507,7 @@
       "link": "https://www.searchenginejournal.com/shopify-ceo-ai-peer-review-ratings/595379/",
       "date": "2026-10-31T09:00:00+00:00",
       "description": "Shopify's performance reviews asked how staff used AI. Its CEO says the answers didn't matter, and the question can give a company a reputation. The post Shopify CEO Says AI Performance Review Answers &#8216;Didn&#8217;t Matter&#8217; appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-peer-ratings-featured.jpg",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Big Brands Dominate AI Search But Leave Openings For Smaller Sites via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/big-brands-dominate-ai-search-but-leave-openings-for-smaller-sites/595397/",
-      "date": "2026-10-31T08:15:08+00:00",
-      "description": "New research identifies a potential weakness in big-brand visibility that smaller publishers may be able to exploit. The post Big Brands Dominate AI Search But Leave Openings For Smaller Sites appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/travel-ai-seo-407.jpg",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Opens Connected Apps Preview For AI Mode & Gemini via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-connected-apps-preview-ai-mode-gemini/595268/",
-      "date": "2026-10-31T07:00:00+00:00",
-      "description": "Developers can apply to bring apps into AI Mode and the Gemini app, and Google's policy bars misleading descriptions meant to get an app picked. The post Google Opens Connected Apps Preview For AI Mode &#038; Gemini appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-connected-apps-featured-1600x840-1.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -519,19 +532,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEJPS2laRjZiQTJzWGstczFtVUg2VENMa3VDYUlJdWJlSWVCaWNCYkZ4M1pOY0loRVlFNVVyUV9RYTZuVG5xMzNORi0tUmhYU2JFTEoycVlwYnhsd2hpcjBaMU5idlNSRGg0amF4Z29LaFZSSkdsRGJOOHlXYjR4cGJrWnJhcHV0Rm1nY2QyRWhDZzJ4SlpjSjdjZHU4eFVIbjBiWEYxWUxGNUNjR3F5Qg?oc=5",
       "date": "2026-10-30T16:27:40+00:00",
       "description": "Microsoft Bing gives publishers more control over how AI uses their content &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Core Web Vitals optimization can be a waste of time - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYktXcjgwY05lbkJ6Y0FZcDBKU3VFdFdHaUc3NnNuQ3RVRG5YUGFsRlhyM0VSMWtGZHFSS2NHTVJDLTYxbmFXWU1sd3IyQkpsYnpleFVZRjdUYk9QYlg2WGR1ajg0ck53R2lGSjRtVDZheHZHQlhaUU40WHdzbmJyYw?oc=5",
-      "date": "2026-10-30T14:00:00+00:00",
-      "description": "Core Web Vitals optimization can be a waste of time &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
