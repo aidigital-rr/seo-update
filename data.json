@@ -1,6 +1,45 @@
 {
-  "updatedAt": "2026-11-04T15:58:53.408932+00:00",
+  "updatedAt": "2026-11-04T17:00:52.316540+00:00",
   "items": [
+    {
+      "title": "Product feeds are becoming the new ad creative in Google AI Mode - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR0h0QnExNFhuUWd5ZVVoN1M1dDRBNkxmQnhpZEdUNzlZcE9lLWJxMXh2U0J1NEFGNWZVWW1Rc1RQX0gwRmwwYkh3dkNQdnQ0ajQwcFBVNlFMVjd4dVU2VW9ESHZHaWRnWnJCZzk2eUFYZlF2OU9LZTN1dEk4QlFIaU94RFhZSDg?oc=5",
+      "date": "2026-11-04T16:00:00+00:00",
+      "description": "Product feeds are becoming the new ad creative in Google AI Mode &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Is ChatGPT really handling 1 trillion searches a year? - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zNGlEVGJsUnBuaGo5WEVhZ3d3V3JETTNyUFlUMTZmeGVOSFNBU096c1IxTEMzN3VScW8ySTVBajl3MWJSTUVEZnR4MTJ4Y3VYOWhVYks0RkpiUWNpRXpfZkhJdW9LNjNjNVhMU25SOVY?oc=5",
+      "date": "2026-11-04T15:51:54+00:00",
+      "description": "Is ChatGPT really handling 1 trillion searches a year? &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Search Console Performance Report Multi-Select Device Filters",
+      "link": "https://www.seroundtable.com/google-performance-report-multi-select-device-filters-42457.html",
+      "date": "2026-11-04T15:01:00+00:00",
+      "description": "Google Search Console has rolled out the ability to select multiple device types within the performance report. Previously, Google added multi-select ability for countries in that report, and now we can do the same for device types.",
+      "image": "https://images.seroundtable.com/google-performance-report-multi-select-device-filters-PgctaKRB.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "The 11 SEO Features Every CMS Should Ship With (Most Still Don’t) via @sejournal, @sallymills",
       "link": "https://www.searchenginejournal.com/the-11-seo-features-every-cms-should-ship-with-most-still-dont/594074/",
@@ -11,6 +50,19 @@
       "tags": [
         "SEO",
         "AI Search"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: November 4, 2026",
+      "link": "https://www.seroundtable.com/recap-11-04-2026-42452.html",
+      "date": "2026-11-04T15:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google Search Console's performance report is showing a spike in clicks for some websites...",
+      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -255,6 +307,19 @@
       ]
     },
     {
+      "title": "5 signals you need for better Google Ads forecasts in 2027 - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Uald5UGpUUEticzdvTDQwQ3NjazFHdmZFaGxiLWYyR3VFb0JtY01pQ3F0cHJiejE3d09PT3dLQk93UkpnVkZ1VUxyZklKbkRLa0NSZXpRdUZ3aGkxV3F0MlltSE96QjBKdmtaRzVLSmhCUGpXQ3ZGdGc0aw?oc=5",
+      "date": "2026-11-03T16:00:00+00:00",
+      "description": "5 signals you need for better Google Ads forecasts in 2027 &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Google Performance Reports Showing Weird Spike In Clicks For Some Sites",
       "link": "https://www.seroundtable.com/google-performance-reports-spike-clicks-42448.html",
       "date": "2026-11-03T15:54:00+00:00",
@@ -272,19 +337,6 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWlmNERLU2YtVW91VTd2S09vQ0I2NUpZeC1OZDd1cm1xT0hiN0hia1dva2pNVmlBY005VjRVN3VJTUNWX1JuY0VFTlhkWHNCMkp1WlRJUURpNWU2YXh3WWRFdEdkVVliaXl4ZFozM0ZiYUI1VXdtV1JReThycXpWV0hKOXVQeW5mMWtHb3BuaVh1U2tsQ1JIX1ZnU1Ridm9LSnkzS0RFdGV0VGxwdC1SZTJRMXcyMXVHSWJHRkdB?oc=5",
       "date": "2026-11-03T15:43:23+00:00",
       "description": "Google Search Console is showing some huge spikes in clicks in the performance report &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to write an article people want to read (in 7 steps) - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41Nnk0bGJXcW82Q0dkeDNFXzZhVlR2VXZJNlo5YTU3QmI5cVp0eFVqYVB5QldqdVlfNEZuSnlPQXN4SnVZWEtjLWlldWt2QUVLTWNUNFkwM2c1ODJ0UDVmaWhESW1OTFM5Qmc?oc=5",
-      "date": "2026-11-03T15:26:22+00:00",
-      "description": "How to write an article people want to read (in 7 steps) &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -435,32 +487,6 @@
       ]
     },
     {
-      "title": "Google Ads PMax Campaigns May Filter Out Navigational & Brand Queries",
-      "link": "https://www.seroundtable.com/google-ads-pmax-brand-queries-42438.html",
-      "date": "2026-11-03T12:21:00+00:00",
-      "description": "Google Ads updated its How Performance Max interacts with other campaigns in your account help document to add a new section on how \"Performance Max campaigns may also filter out navigational or brand-specific search queries to prioritize serving them through dedicated Search campaigns.\"",
-      "image": "https://images.seroundtable.com/google-pmax-change-doc-HOHMcgYu.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads Asset Scheduling With Day Grouping (Weekends/Weekdays)",
-      "link": "https://www.seroundtable.com/google-ads-asset-scheduling-day-grouping-42433.html",
-      "date": "2026-11-03T12:11:00+00:00",
-      "description": "Google Ads improved the asset scheduling advanced options to let you group days, such as weekends versus weekdays and more. This can be found under the advanced options within asset scheduling in Google Ads.",
-      "image": "https://images.seroundtable.com/google-ads-asset-scheduling-day-grouping-pKTRP2WT.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Says It’s Okay To Block Some JavaScript Resources With Robots.txt via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-says-its-okay-to-block-some-javascript-resources-with-robots-txt/595736/",
       "date": "2026-11-03T11:16:50+00:00",
@@ -489,7 +515,7 @@
       "link": "https://www.searchenginejournal.com/ny-times-accuses-brave-of-scraping-and-exploiting-content/595679/",
       "date": "2026-11-02T21:38:22+00:00",
       "description": "New York Times lawsuit accuses Brave of selling access to paywalled content to AI companies and depriving publishers of ad income. The post NY Times Accuses Brave Of Scraping And Exploiting Content appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/brave-browser-951.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -501,7 +527,7 @@
       "link": "https://www.searchenginejournal.com/tiktok-search-ads-brand-category-keyword-packs/595682/",
       "date": "2026-11-02T20:56:45+00:00",
       "description": "TikTok is highlighting two impression share metrics for Search Ads and adding curated keyword packs. Here's what each does. The post TikTok Search Ads Adds Brand And Category Keyword Packs appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/tiktok-search-ads-featured-1600x840-1.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -684,19 +710,6 @@
       ]
     },
     {
-      "title": "Google AI Overviews are pushing News Boxes out of search results: Study - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZjRZcU5rU1VjMm01ZkYyN2ZWanUyV1NQZDJUZlU3cnJkd3pRY3dVeTNycUgyRWVhQnRsVW02czJvWDFzczVOTW9IbW43em9mMVFuWE5lNHhBdnhiVmpMcnB4M01MUmlMbERpM3JGWTc3MkJGdzA3MWdfMXYxdFY5emRfdXNFWmNoZTZ1MHdPMWJLeHdzdUlUNlZPNzlVTFdqam5wTHIwUFVhUQ?oc=5",
-      "date": "2026-10-30T13:00:00+00:00",
-      "description": "Google AI Overviews are pushing News Boxes out of search results: Study &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Supporting a shared AI training control for websites",
       "link": "https://developers.google.com/search/blog/2026/10/ai-training-control",
       "date": "2026-10-30T00:00:00+00:00",
@@ -707,19 +720,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "Google AI opt-out test finds unexpected drop in organic clicks - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT0tON3Nid0pOWFpadlVDa1FwOFYwUzI2T1BlNHNJZGQ3NnFxZ3doQVBLb0F2SW5EbkFzLW5xUlRjNXpOZEJlZm9NbnNXRlg1MlExdGI4N3ZLU3FWWWNfVkR4eWctdTJ5eUduMGRiMXFQVTB6UF81c3h4eHFITUp1QmQzZ2Y?oc=5",
-      "date": "2026-10-29T18:57:48+00:00",
-      "description": "Google AI opt-out test finds unexpected drop in organic clicks &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     },
     {
