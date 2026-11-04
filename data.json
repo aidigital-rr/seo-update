@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-04T20:01:00.788981+00:00",
+  "updatedAt": "2026-11-04T20:57:23.102729+00:00",
   "items": [
+    {
+      "title": "Businesses Treat Your AI Agent 3 Different Ways via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/businesses-treat-your-ai-agent-3-different-ways/595483/",
+      "date": "2026-11-04T20:00:33+00:00",
+      "description": "If a website cannot tell an AI agent from the customer, it cannot treat the agent differently. Three steps to fix that before agents arrive. The post Businesses Treat Your AI Agent 3 Different Ways appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-business-713.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Google AI Mode Adds Booking & Quote Links For Home Services via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-ai-mode-home-services-booking-quote-links/595871/",
@@ -502,7 +514,7 @@
       "link": "https://www.seroundtable.com/google-ai-mode-links-google-flights-42428.html",
       "date": "2026-11-03T12:51:00+00:00",
       "description": "Over the weekend, I tested out using Google AI Mode to get flight information and 100% of the time, the only links available within the AI Mode responses were to Google Flights. I am sure the Digital Markets Act (DMA) folks in Europe are going to like this.",
-      "image": "https://images.seroundtable.com/google-ai-mode-flights-google-only-RKzbrzhC.png",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -668,18 +680,6 @@
       "tags": [
         "SEO",
         "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Search Ad Visits Out-Earned ChatGPT Ads In U.S. via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-search-chatgpt-ad-revenue-per-visit/595596/",
-      "date": "2026-11-02T14:41:23+00:00",
-      "description": "Data finds ChatGPT ad visits brought advertisers a fraction of paid search's revenue per visit in U.S. traffic, and most saw no sales from them. The post Google Search Ad Visits Out-Earned ChatGPT Ads In U.S. appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
         "AI Search"
       ]
     },
