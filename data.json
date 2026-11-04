@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-04T20:57:23.102729+00:00",
+  "updatedAt": "2026-11-04T21:53:51.051699+00:00",
   "items": [
+    {
+      "title": "Google Emails: Site Reputation Policy Manual Actions No Longer Impact EEA",
+      "link": "https://www.seroundtable.com/google-email-site-reputation-policy-eea-42462.html",
+      "date": "2026-11-04T21:19:00+00:00",
+      "description": "Google just sent out emails to some sites that have site reputation abuse policy manual actions that those manual actions won't impact the search results within the EEA, European Economic Area. This actually took effect on August 30, 2026, but now, two months later, Google is notifying site owners via Google Search Console.",
+      "image": "https://images.seroundtable.com/google-email-site-reputation-policy-eea-qj9MNXMx.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Reddit Begins Testing Ads In Its Own Search Results via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/reddit-begins-testing-ads-in-its-own-search-results/595935/",
+      "date": "2026-11-04T21:00:39+00:00",
+      "description": "Reddit is testing ads in its own search results with select advertisers and may match ads to what people search for. The post Reddit Begins Testing Ads In Its Own Search Results appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/reddit-search-ads-fotofield-1600x840-1.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Businesses Treat Your AI Agent 3 Different Ways via @sejournal, @slobodanmanic",
       "link": "https://www.searchenginejournal.com/businesses-treat-your-ai-agent-3-different-ways/595483/",
@@ -408,10 +433,10 @@
       ]
     },
     {
-      "title": "Google Favors High Ad Strength RSAs, But Lower-Rated Ads Convert Better via @sejournal, @gregjarboe",
+      "title": "5,900 Google Ads Accounts Show Ad Strength Wins Impressions – Not Conversions via @sejournal, @gregjarboe",
       "link": "https://www.searchenginejournal.com/google-favors-high-ad-strength-rsas-but-lower-rated-ads-convert-better/595478/",
       "date": "2026-11-03T15:00:44+00:00",
-      "description": "Google serves higher-rated responsive search ads more often, yet Brad Geddes’ 5,900-account study finds they convert better only 45% of the time. Pinning explains why. The post Google Favors High Ad Strength RSAs, But Lower-Rated Ads Convert Better appeared first on Search Engine Journal .",
+      "description": "Google serves higher-rated responsive search ads more often, yet Brad Geddes’ 5,900-account study finds they convert better only 45% of the time. Pinning explains why. The post 5,900 Google Ads Accounts Show Ad Strength Wins Impressions – Not Conversions appeared first on Search Engine Journal .",
       "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/rsa-529.png",
       "source": "Search Engine Journal",
       "tags": [
@@ -485,11 +510,11 @@
       ]
     },
     {
-      "title": "Building A Global Content Factory With AI (Without Losing The Human Touch) via @sejournal, @motokohunt",
+      "title": "How To Scale AI Content Across 40 Markets Without Sounding The Same via @sejournal, @motokohunt",
       "link": "https://www.searchenginejournal.com/building-a-global-content-factory-with-ai-without-losing-the-human-touch/593904/",
       "date": "2026-11-03T13:00:01+00:00",
-      "description": "Scale an AI content factory without erasing local relevance by grounding each market's pages in approved facts, local evidence, and human judgment. The post Building A Global Content Factory With AI (Without Losing The Human Touch) appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/global-content-661.png",
+      "description": "Scale an AI content factory without erasing local relevance by grounding each market's pages in approved facts, local evidence, and human judgment. The post How To Scale AI Content Across 40 Markets Without Sounding The Same appeared first on Search Engine Journal .",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -501,7 +526,7 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52THExdFJoaFh3dG5vQlBYdVVqdjdjNHplNmVLMk1yUHp6Q2lWN3l2dUtIOXVjZzF4NTlHTFZPWkhDdmJFbWgzUUVaRjE4b3owR2xsazI4Y01HMDF1aUM1dE5KbWs5bmRmOWc?oc=5",
       "date": "2026-11-03T13:00:00+00:00",
       "description": "Managed SEO automation: Faster workflows, higher expectations &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -527,19 +552,6 @@
       "link": "https://www.seroundtable.com/google-removing-ai-mode-42436.html",
       "date": "2026-11-03T12:41:00+00:00",
       "description": "Google is supposedly testing removing the AI Mode button from the Google Search bar. I cannot replicate this, but it doesn't surprise me that Google would test removing the AI Mode bar for a tiny subset of searchers to compare how it performs versus when the AI Mode button is available.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Only Home Page Indexed? Might Be A Google Search Quality Issue",
-      "link": "https://www.seroundtable.com/google-quality-issues-home-page-indexed-42439.html",
-      "date": "2026-11-03T12:31:00+00:00",
-      "description": "Is your home page the only page indexed by Google Search? Were other pages of your site previously indexed and are no longer showing up in Google's index? Well, that might be a Google Search quality issue with your website.",
       "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
@@ -655,18 +667,6 @@
       "tags": [
         "SEO",
         "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How To Run A Full-Funnel Ecommerce Account Through BFCM Week via @sejournal, @tonyadam",
-      "link": "https://www.searchenginejournal.com/how-to-run-a-full-funnel-ecommerce-account-through-bfcm-week/594047/",
-      "date": "2026-11-02T15:00:59+00:00",
-      "description": "Build demand before BFCM, give Google room to capture peak sales, and turn holiday visitors into December buyers with a phased ad strategy. The post How To Run A Full-Funnel Ecommerce Account Through BFCM Week appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
         "AI Search"
       ]
     },
