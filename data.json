@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-11-04T13:50:13.382514+00:00",
+  "updatedAt": "2026-11-04T14:59:01.235494+00:00",
   "items": [
+    {
+      "title": "Microsoft Clarity With New Agentic Analytics & Ask Clarity",
+      "link": "https://www.seroundtable.com/microsoft-clarity-gains-agentic-analytics-and-ask-clarity-42449.html",
+      "date": "2026-11-04T14:00:00+00:00",
+      "description": "Microsoft Clarity added two, well, three, new features today, including agentic analytics, ask Clarity, and brand agent expansion. Microsoft also said, \"AI agents nearly doubled in three weeks to almost 2 million,\" 3 weeks!!!",
+      "image": "https://images.seroundtable.com/clarity-agent-activity-GfANnx2R.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Microsoft Clarity gains agentic analytics, brand agents and Ask Clarity - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ0FCeGRmR2Z4U0ZlY0RyUlZGTHptRzUxYjh4b1d1OVI3bGUzWjRob2pSWW44bWZQeU5paDIwMFBnMlNKQTJOTmlYSXZYRS12RTFBb1FjZHpSWVZ3UWxHWlRSaDlsaUFsVC1DRWk5WFUxLThxZEd1d3l6VUZYUVQ2eHU2Sk5yTWU0VzdxSkdnNGxKc1ByaDJHWE91bTNKTG53NTlJTFNxdGk4QQ?oc=5",
+      "date": "2026-11-04T14:00:00+00:00",
+      "description": "Microsoft Clarity gains agentic analytics, brand agents and Ask Clarity &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
     {
       "title": "Reddit Is Going Logged-In Only – Brands Still Need To Be In The Conversation via @sejournal, @brentcsutoras",
       "link": "https://www.searchenginejournal.com/reddit-is-going-logged-in-only-brands-still-need-to-be-in-the-conversation/595765/",
@@ -307,19 +333,6 @@
       ]
     },
     {
-      "title": "YouTube community tab - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SZ3pVNUtZOXV6MkRMbG9CbEdGTnB5YmE1ZGQyX0NxN21QQmhqRU5uNWNyYU9SWXRxckYtWFlMdFF4S2VEN0NSMDBCOHJ4UURVZUlpTzM5LUhheFFSMzdEUkRR?oc=5",
-      "date": "2026-11-03T14:26:34+00:00",
-      "description": "YouTube community tab &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "How to use Google Ads attributed branded searches to measure brand impact - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWWd5V0xqd2FydXNxS2JUUHpOZzhGYUZEeDZkREZWeHVKZ2xaUUtQLWhxQW1CR3U1SE5MREJhV3hzU3lOT1RiN3g5Mk56cFN0UnA4X3hfTG1XYnA0MDVkSlY1am1zSTBWLTFaeFUtRWh3bzN1N2g1MmYwTk8yLWFNTGg4UFYzMnNoRDEzLUxGazR2SEppMU5wYjFhMA?oc=5",
       "date": "2026-11-03T14:00:00+00:00",
@@ -428,19 +441,6 @@
       "date": "2026-11-03T12:11:00+00:00",
       "description": "Google Ads improved the asset scheduling advanced options to let you group days, such as weekends versus weekdays and more. This can be found under the advanced options within asset scheduling in Google Ads.",
       "image": "https://images.seroundtable.com/google-ads-asset-scheduling-day-grouping-pKTRP2WT.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google On How To Block Popups Using Robot.txt In Search",
-      "link": "https://www.seroundtable.com/google-robots-block-popups-42445.html",
-      "date": "2026-11-03T12:05:00+00:00",
-      "description": "Google's John Mueller explained how to prevent pop-up dialogs on your website from appearing in Google Search using the robots.txt file. He mentioned how to do this if you are using JavaScript for the pop-up.",
-      "image": "https://images.seroundtable.com/google-popup-7cox55xK.jpg",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
