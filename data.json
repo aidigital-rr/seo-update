@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-04T14:59:01.235494+00:00",
+  "updatedAt": "2026-11-04T15:58:53.408932+00:00",
   "items": [
+    {
+      "title": "The 11 SEO Features Every CMS Should Ship With (Most Still Don’t) via @sejournal, @sallymills",
+      "link": "https://www.searchenginejournal.com/the-11-seo-features-every-cms-should-ship-with-most-still-dont/594074/",
+      "date": "2026-11-04T15:00:12+00:00",
+      "description": "Cut recurring developer tickets with essential CMS SEO controls, smarter automation, and safeguards against indexing and redirect mistakes. The post The 11 SEO Features Every CMS Should Ship With (Most Still Don&#8217;t) appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/cms-63.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Microsoft Clarity With New Agentic Analytics & Ask Clarity",
       "link": "https://www.seroundtable.com/microsoft-clarity-gains-agentic-analytics-and-ask-clarity-42449.html",
@@ -501,7 +513,7 @@
       "link": "https://www.searchenginejournal.com/ai-shopping-get-your-products-found-in-google-chatgpt-recap/594889/",
       "date": "2026-11-02T20:41:45+00:00",
       "description": "Chris Sachs & Aris Vrakas outlined 4 moves for AI shopping: make product pages retrievable, use shopper language, connect feeds with pages, test the results. The post AI Shopping: Get Your Products Found In Google &#038; ChatGPT appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/seoclarity-ai-shopping-products-google-chatgpt-sej.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -625,18 +637,6 @@
       "link": "https://www.searchenginejournal.com/google-says-technical-seo-remains-key-for-ai-seo/595550/",
       "date": "2026-11-02T10:55:11+00:00",
       "description": "Google's John Mueller cautioned against relying on short-term AI SEO tactics and explained why traditional technical SEO remains relevant. The post Google Says Technical SEO Remains Key For AI SEO appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google, Microsoft & OpenAI Plan To Honor Shared AI Training Opt-Out via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-microsoft-openai-shared-ai-training-opt-out/595387/",
-      "date": "2026-11-01T08:00:00+00:00",
-      "description": "A shared robots.txt line could let sites opt out of AI training with several providers at once, but companies involved are handling it differently. The post Google, Microsoft &#038; OpenAI Plan To Honor Shared AI Training Opt-Out appeared first on Search Engine Journal .",
       "image": "",
       "source": "Search Engine Journal",
       "tags": [
