@@ -1,6 +1,109 @@
 {
-  "updatedAt": "2026-11-04T12:25:45.747746+00:00",
+  "updatedAt": "2026-11-04T13:50:13.382514+00:00",
   "items": [
+    {
+      "title": "Reddit Is Going Logged-In Only – Brands Still Need To Be In The Conversation via @sejournal, @brentcsutoras",
+      "link": "https://www.searchenginejournal.com/reddit-is-going-logged-in-only-brands-still-need-to-be-in-the-conversation/595765/",
+      "date": "2026-11-04T13:00:52+00:00",
+      "description": "Reddit conversations help shoppers validate purchases, giving brands a reason to stay engaged as login tests raise questions about search and AI access. The post Reddit Is Going Logged-In Only – Brands Still Need To Be In The Conversation appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/reddit-call-896.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "What channels grow when organic search shrinks? - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb2hiMy16b0FjNF92WjBUbG9DbWhtUlRHSFZ4V2xpU0F3a1VqOHpEcms1OTM2VjB3TkFJbEdGdnZDRFNwc1dZVlFmMk1QRzlyZU1Wdzl0TUd4N01pd0lFLVBFLXZCMzJQZTRoYlFsOF8zRW9mazh2dzJDTl9Ubngwd0tQSlV5a1p6MFE?oc=5",
+      "date": "2026-11-04T13:00:00+00:00",
+      "description": "What channels grow when organic search shrinks? &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Ads New Help Document For Promotion Mode",
+      "link": "https://www.seroundtable.com/google-ads-promotion-mode-help-document-42446.html",
+      "date": "2026-11-04T12:51:00+00:00",
+      "description": "Google Ads has posted a super comprehensive help document for Promotion mode. Promotion mode lets you advertise for short-term sales by temporarily lowering your Target ROAS and applying an optional extra daily budget during your promotional window. There is this new help document that digs into the Google Ads feature.",
+      "image": "https://images.seroundtable.com/google-ads-promotion-mode-help-doc-2fh5PGvX.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google AI Mode Now With Up To Four Ads",
+      "link": "https://www.seroundtable.com/google-ai-mode-four-ads-42443.html",
+      "date": "2026-11-04T12:41:00+00:00",
+      "description": "Google can now show up to four Google Ads in the AI Mode responses for a single query. I mean, I am not sure if this is new, being that Google Ads has been showing four ads for search results officially since 2016 but we do know Google said it will show more ads, more often, in AI Mode during its earnings call.",
+      "image": "https://images.seroundtable.com/google-ai-mode-with-four-ads-3NkBKM12.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "OpenAI Says ChatGPT Is At 20% Of Google Search Volume",
+      "link": "https://www.seroundtable.com/chatgpt-20-percent-google-42451.html",
+      "date": "2026-11-04T12:31:00+00:00",
+      "description": "OpenAI's Adam Fry said \"ChatGPT's volume of search-like queries is now roughly one-fifth the volume of queries of Google,\" in an interview with Alex Kantrowitz. \"ChatGPT has gone from one billion to 1.2 in just the last two months,\" he added.",
+      "image": "https://images.seroundtable.com/openai-tree-growth-KfnZfGTB.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Server Side Google Tag Manager To See Full IP Addresses",
+      "link": "https://www.seroundtable.com/google-tag-manager-full-ip-address-42453.html",
+      "date": "2026-11-04T12:21:00+00:00",
+      "description": "Server-side Google Tag Manager will soon be able to process and see your visitors' full IP addresses. Google wrote, \"Starting January 11, 2027, server-side Google Tag Manager (SGTM) will allow tags to process standard network signals like IP address to facilitate improvements to Ads measurement and personalization.\"",
+      "image": "https://images.seroundtable.com/google-tag-manager-email-MS8JAWoN.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "List Of Google Twiddlers For Re-Ranking Search Results",
+      "link": "https://www.seroundtable.com/google-twiddlers-42441.html",
+      "date": "2026-11-04T12:11:00+00:00",
+      "description": "Twiddlers are adjustable rules or systems that Google uses to fine-tune search results. They can re-rank the search results. Twiddlers can boost, demote, or otherwise rework search results based on specific, dynamic criteria, signals, or business rules such as NavBoost, user engagement, freshness, or manual/algorithmic filters.",
+      "image": "https://images.seroundtable.com/google-twiddlers-tgFMUtI4.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Search Central Live in Zurich is back!",
+      "link": "https://developers.google.com/search/blog/2026/11/search-central-live-zurich-2026",
+      "date": "2026-11-04T00:00:00+00:00",
+      "description": "Search Central Live is coming to Zurich on December 4, 2026!",
+      "image": "https://developers.google.com/static/search/blog/images/social-share-blog.png",
+      "source": "Google Search Central",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Reddit begins testing ads in search results - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tdXFKSS1iY1NQQUVYRU9OWjl3XzgxN2tTb1ZKVkxkRzhmRW14SFBwOFlDNTVwNGcwY0VGT1FZU2x4Q2RjTGU0aTkycmQxaVM5YmdSdXp5eTJDeW1jRjFhQXk0c1F1dVE5RGlxeW1zNnBIR0NYX2dMRg?oc=5",
@@ -105,19 +208,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1S0VFUjNzdjU0MG90MXFjUklWQnNPWDBLa2tuR0x5SjZrU3lNajZIUVZLNjNDeGVvZWwyS0JIcFJhT2lsSTdncjcyWkF2bndqRGhveUNVT21rOXhkLVRBcmRQYndkVU0?oc=5",
       "date": "2026-11-03T16:44:05+00:00",
       "description": "49 AWESOME video marketing statistics &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "5 signals you need for better Google Ads forecasts in 2027 - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Uald5UGpUUEticzdvTDQwQ3NjazFHdmZFaGxiLWYyR3VFb0JtY01pQ3F0cHJiejE3d09PT3dLQk93UkpnVkZ1VUxyZklKbkRLa0NSZXpRdUZ3aGkxV3F0MlltSE96QjBKdmtaRzVLSmhCUGpXQ3ZGdGc0aw?oc=5",
-      "date": "2026-11-03T16:00:00+00:00",
-      "description": "5 signals you need for better Google Ads forecasts in 2027 &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -423,7 +513,7 @@
       "link": "https://www.searchenginejournal.com/how-the-athletic-gets-more-clicks-with-one-simple-trick/594915/",
       "date": "2026-11-02T20:00:19+00:00",
       "description": "Clickability isn’t just headlines and images. Showing readers which articles other readers are talking about is a distribution lever most publishers ignore. The post How The Athletic Gets More Clicks With One Simple Trick appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/more-clicks-602.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -435,7 +525,7 @@
       "link": "https://www.searchenginejournal.com/google-ai-click-reporting-uk-deadline/595663/",
       "date": "2026-11-02T19:21:56+00:00",
       "description": "Google says it has nothing to announce on adding more AI search data to Search Console, ahead of a UK compliance date. The post Google Says No AI Click Reporting News Yet, Ahead Of UK Deadline appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-search-console-ai-reporting-featured.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -447,7 +537,7 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMGl6M05WQkZHU1hJb0I1bDg2UXROeXNWZXhQbXRzazhyR21uVkZ1Nng2UWZtNERWWW9MVmpsVWtlN2ZldG5PdnBteHpzd1V5ZTNBRGtqUXFiOEZEUE02LXlIYkZJSGZwVzBhVm9LQXhQMFY1eVE5V0JaZ1VjN3AwQUk1Q1k3bFFoNjVpOVlwc1VmdHVZU09MR2hOZkw2dW42NDV4cDRxZw?oc=5",
       "date": "2026-11-02T17:15:06+00:00",
       "description": "ChatGPT ads generate 64% less revenue per visit than Google Search: Study &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -456,24 +546,11 @@
       ]
     },
     {
-      "title": "Google AI Overviews For Brands Moved To Right Column",
-      "link": "https://www.seroundtable.com/google-ai-overviews-brands-right-42440.html",
-      "date": "2026-11-02T17:15:00+00:00",
-      "description": "Google has moved the AI Overviews for many brand-related keywords to the right-hand column of the search results page. Previously, they appeared at the top or middle of the main search results section.",
-      "image": "https://images.seroundtable.com/apple-brand-ai-overview-panel-f2aGDqsS.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Beyond demand capture: Why performance marketers need brand marketing - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5bjlHaWQ2X2U2bU84ZVlqbmVQLTRPalFzaXFoc0JVdjN4SURGSGFsQzZoc0tPZkE1NXktZGhyUndVVHhobl83QVRodWNDSVZZM1U2bGQ1ZTBDdmZEMkNQcWNibEF6OURodW9vRDNMWnRyZnVRS2ZLOUFJQTZVdw?oc=5",
       "date": "2026-11-02T16:00:00+00:00",
       "description": "Beyond demand capture: Why performance marketers need brand marketing &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -486,24 +563,11 @@
       "link": "https://www.searchenginejournal.com/how-to-run-a-full-funnel-ecommerce-account-through-bfcm-week/594047/",
       "date": "2026-11-02T15:00:59+00:00",
       "description": "Build demand before BFCM, give Google room to capture peak sales, and turn holiday visitors into December buyers with a phased ad strategy. The post How To Run A Full-Funnel Ecommerce Account Through BFCM Week appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ecommerce-bfcm-59.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Daily Search Forum Recap: November 2, 2026",
-      "link": "https://www.seroundtable.com/recap-11-02-2026-42434.html",
-      "date": "2026-11-02T15:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google and Microsoft, as well as OpenAI and Anthropic...",
-      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -557,45 +621,6 @@
       ]
     },
     {
-      "title": "November 2026 Google Webmaster Report",
-      "link": "https://www.seroundtable.com/november-2026-google-webmaster-report-42431.html",
-      "date": "2026-11-02T12:51:00+00:00",
-      "description": "It is time for the big Google Webmaster report, the November 2026 edition, where I recap all the big changes Google made organically in Google Search. Of course, the big one is that Google completed its September 2026 spam update in October, and we also saw several unconfirmed Google algorithm updates as we wait for Google to roll out the next core update.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Gary Illyes Implies Click Data Not Coming To Google Search Console AI Reporting",
-      "link": "https://www.seroundtable.com/click-data-search-console-ai-reporting-42437.html",
-      "date": "2026-11-02T12:41:00+00:00",
-      "description": "Gary Illyes from Google has implied that click data and query data are likely not coming to the AI performance report in Google Search Console. Gary Illyes wrote that the Search Console team is interested in bringing \"data that makes sense\" to the report but didn't say clicks or query data was that data.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads Strategists Using AI-Generated Fake Names & Profile Photos",
-      "link": "https://www.seroundtable.com/google-ads-strategist-ai-fake-names-photos-42426.html",
-      "date": "2026-11-02T12:31:00+00:00",
-      "description": "Google Ads Strategists, who are part of the Google Extended Workforce, are using AI-generated profile photos and names when reaching out to advertisers. An email sent from Kassy Garcia from Google to Joe Youngblood seems legit but when you look up who Kassy Garcia is, you won't find anything.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Says Technical SEO Remains Key For AI SEO via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-says-technical-seo-remains-key-for-ai-seo/595550/",
       "date": "2026-11-02T10:55:11+00:00",
@@ -612,18 +637,6 @@
       "link": "https://www.searchenginejournal.com/google-microsoft-openai-shared-ai-training-opt-out/595387/",
       "date": "2026-11-01T08:00:00+00:00",
       "description": "A shared robots.txt line could let sites opt out of AI training with several providers at once, but companies involved are handling it differently. The post Google, Microsoft &#038; OpenAI Plan To Honor Shared AI Training Opt-Out appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Hackers Hijacked DebugBear’s DNS To Serve Malicious JavaScript via @sejournal, @vahandev",
-      "link": "https://www.searchenginejournal.com/debugbear-rum-attack-seo-site-owner-actions/595412/",
-      "date": "2026-10-31T21:11:41+00:00",
-      "description": "DebugBear told customers to remove its Core Web Vitals monitoring script. Site owners should also check exposed accounts and unauthorized changes. The post Hackers Hijacked DebugBear&#8217;s DNS To Serve Malicious JavaScript appeared first on Search Engine Journal .",
       "image": "",
       "source": "Search Engine Journal",
       "tags": [
@@ -805,19 +818,6 @@
       "link": "https://developers.google.com/search/blog/2026/07/search-console-social-video-platforms",
       "date": "2026-07-07T00:00:00+00:00",
       "description": "Content creators and publishers use many channels beyond their own websites to reach their audiences. As people gravitate toward firsthand perspectives and different content formats, we want to make it easier for site owners and creators&amp;mdash;even those without their own website&amp;mdash;to get a consolidated view of how all of their content is getting discovered on Search.",
-      "image": "",
-      "source": "Google Search Central",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Search Central Deep Dive Europe 2026: Apparently we're going to Barcelona",
-      "link": "https://developers.google.com/search/blog/2026/07/search-central-live-deep-dive-europe-2026",
-      "date": "2026-07-06T00:00:00+00:00",
-      "description": "We&#39;re excited to officially announce the next stop for Search Central Live Deep Dive Europe 2026! Mark your calendars: based directly on your feedback, we&#39;re headed to Barcelona, Spain, from September 30 to October 2, 2026.",
       "image": "",
       "source": "Google Search Central",
       "tags": [
