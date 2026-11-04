@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-11-04T21:53:51.051699+00:00",
+  "updatedAt": "2026-11-04T22:53:02.358611+00:00",
   "items": [
+    {
+      "title": "Google Ads Explains Difference With Search Terms Match Type (Keywords)",
+      "link": "https://www.seroundtable.com/google-ads-search-terms-match-type-keywords-42463.html",
+      "date": "2026-11-04T22:45:00+00:00",
+      "description": "Ginny Marvin, the Google Ads Liaison, explained why the Google Ads interface has two different metrics named search terms match type. One is named \"Search terms match type\" and the other is named \"Search terms match type (Keywords).\"",
+      "image": "https://images.seroundtable.com/google-ads-search-terms-match-type-keywords-N8fYuJnI.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google Emails: Site Reputation Policy Manual Actions No Longer Impact EEA",
       "link": "https://www.seroundtable.com/google-email-site-reputation-policy-eea-42462.html",
@@ -59,6 +72,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google AI Mode adds home services booking links - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSmtqTkFjWkZZbG96b1dLNHN4anlXVkVqV2N0a0d6ZHl4T3p1QnNrdl9vNzJrVVZILS1VbTNIVVQ1UVFPQk5mbUpJdDBJTlR0VkVPTEhpVG9zWFhsc3dOME41OURJcFVSOXlDZ016a0ZMNFpLeE53cnJ0NzRvYkhJci1XTUR1QUY1eHpn?oc=5",
+      "date": "2026-11-04T17:44:02+00:00",
+      "description": "Google AI Mode adds home services booking links &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -488,20 +514,7 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWWd5V0xqd2FydXNxS2JUUHpOZzhGYUZEeDZkREZWeHVKZ2xaUUtQLWhxQW1CR3U1SE5MREJhV3hzU3lOT1RiN3g5Mk56cFN0UnA4X3hfTG1XYnA0MDVkSlY1am1zSTBWLTFaeFUtRWh3bzN1N2g1MmYwTk8yLWFNTGg4UFYzMnNoRDEzLUxGazR2SEppMU5wYjFhMA?oc=5",
       "date": "2026-11-03T14:00:00+00:00",
       "description": "How to use Google Ads attributed branded searches to measure brand impact &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to film a YouTube video - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JTGNKQVg5aEs3azI5YnhCZjJmZWFEQXlHWTI1aFZPbW5RcDltbFhMZW4yR2g5UUFyQ2xuSEd0ci14dm1BZUNkaUN4SW9XZGZKcFgwZWctUEdUYXNEYWZn?oc=5",
-      "date": "2026-11-03T13:56:16+00:00",
-      "description": "How to film a YouTube video &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -539,19 +552,6 @@
       "link": "https://www.seroundtable.com/google-ai-mode-links-google-flights-42428.html",
       "date": "2026-11-03T12:51:00+00:00",
       "description": "Over the weekend, I tested out using Google AI Mode to get flight information and 100% of the time, the only links available within the AI Mode responses were to Google Flights. I am sure the Digital Markets Act (DMA) folks in Europe are going to like this.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Tests Removing AI Mode Button From Search Bar",
-      "link": "https://www.seroundtable.com/google-removing-ai-mode-42436.html",
-      "date": "2026-11-03T12:41:00+00:00",
-      "description": "Google is supposedly testing removing the AI Mode button from the Google Search bar. I cannot replicate this, but it doesn't surprise me that Google would test removing the AI Mode bar for a tiny subset of searchers to compare how it performs versus when the AI Mode button is available.",
       "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
