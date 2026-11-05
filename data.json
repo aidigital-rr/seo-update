@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-05T20:27:53.351067+00:00",
+  "updatedAt": "2026-11-05T21:25:29.904254+00:00",
   "items": [
+    {
+      "title": "FTC Unseals Details In Amazon Ads Auction Surcharge Suit via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/ftc-unseals-details-amazon-ads-auction-surcharge-suit/596010/",
+      "date": "2026-11-05T21:23:01+00:00",
+      "description": "Newly unredacted FTC and state complaint alleges Amazon secretly inflated ad auction prices by up to 250% during Prime Day and Black Friday. The post FTC Unseals Details In Amazon Ads Auction Surcharge Suit appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/shutterstock_2791018177_1600x840-345.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Google Search Queries Hit A 5-Year High, And Search Revenue Didn’t Follow via @sejournal, @DuaneForrester",
       "link": "https://www.searchenginejournal.com/google-search-queries-hit-a-5-year-high-and-search-revenue-didnt-follow/595485/",
@@ -14,16 +26,16 @@
       ]
     },
     {
-      "title": "ChatGPT Ads bidding options are changing on November 9th - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMjJJMWpYczE2cm54Q2podmZSSTdvcHFmTFZKMlhUdTVxVmJ4ZjVUalpSODc0blREMXY3eFMwX25SbldjemU4SW9sZHJlX0FSMklEYlFGYmt1TFM3d3lOVEh6Q1NlQ3VLSlhiNWJHT3NRS2gtWWp3aWpWVXl0QnZOajE0cUVyUUYtbDNSUG5sTjZlcl9GY1dn?oc=5",
-      "date": "2026-11-05T18:36:10+00:00",
-      "description": "ChatGPT Ads bidding options are changing on November 9th &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
+      "title": "OpenAI Updates ChatGPT Ads Bidding Options For Max Bid or Max CPC",
+      "link": "https://www.seroundtable.com/openai-updates-chatgpt-ads-bidding-options-42470.html",
+      "date": "2026-11-05T18:29:00+00:00",
+      "description": "OpenAI has just emailed advertisers within ChatGPT Ads about bidding options changes coming Monday, November 9. This impacts advertisers using Max Bid or Max CPC bidding options.",
+      "image": "https://images.seroundtable.com/chatgpt-ads-hero-royIgW9L.jpg",
+      "source": "Search Engine Roundtable",
       "tags": [
-        "SEO",
         "Google",
-        "AI Search"
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -499,7 +511,20 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ULWc3N0VTRHpwbnlNZ2xjbi04ZUxvNkZrSkVob3doUmtLMjIxcXp4UWFCaEluZTdqQjNrQ1J2cDc2ZzRHZ3REdEFQMUM2bW4yTXlVSC1kVlBLZ0duQmpEWDd1MEd1ZkdSRFZMbEhBdDFGOVk5enpELVQyUGxxWE0?oc=5",
       "date": "2026-11-04T15:00:00+00:00",
       "description": "3 in 4 homepages lost organic clicks: An analysis of 110 sites &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How Google Ads promotions can inflate ROAS and hurt profits - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hdmlid3Rna2dMazJzb1hESTZJLWVEbXRpd1NyUEFMTDNGbWVqZzdJZFctZU9mM1F3NEM0NjNkeHFoM2puem95X2tMN2owTDVVSTFBbXBzN0tmOTdtZ0JKRnRkYklFemJWU2lKUE9CcWdMRWY5TTdhZEVn?oc=5",
+      "date": "2026-11-04T14:15:00+00:00",
+      "description": "How Google Ads promotions can inflate ROAS and hurt profits &nbsp;&nbsp; Search Engine Land",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -556,19 +581,6 @@
         "SEO",
         "Google",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads New Help Document For Promotion Mode",
-      "link": "https://www.seroundtable.com/google-ads-promotion-mode-help-document-42446.html",
-      "date": "2026-11-04T12:51:00+00:00",
-      "description": "Google Ads has posted a super comprehensive help document for Promotion mode. Promotion mode lets you advertise for short-term sales by temporarily lowering your Target ROAS and applying an optional extra daily budget during your promotional window. There is this new help document that digs into the Google Ads feature.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -646,18 +658,6 @@
       ]
     },
     {
-      "title": "Rank Trackers Find Google Results About One Word Of A Query via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/rank-trackers-find-google-results-about-one-word-of-a-query/595798/",
-      "date": "2026-11-03T18:25:17+00:00",
-      "description": "Rank tracker data shows unrelated Google results that follow one word of the query, mostly below the top spots. Here's how to check a drop. The post Rank Trackers Find Google Results About One Word Of A Query appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Is Google poisoning more than just search results? - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbG5jOFNOMVhCUGN0dnBIZDUtbkJVWlhoejRXVEdxUFVFQmlXM3R6ZzV2ZU12SXJNWXF1Ry1VYk5SdnUwakV4dWJmdlZNYzQwV1d3RTl3YjlfdkxmRVd6TWdVc25EaEI4ejdSNHEzVHc5UmZZYTgtcmJkUi1fbXR1UDluYw?oc=5",
       "date": "2026-11-03T16:47:52+00:00",
@@ -684,10 +684,10 @@
       ]
     },
     {
-      "title": "How to write an article people want to read (in 7 steps) - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41Nnk0bGJXcW82Q0dkeDNFXzZhVlR2VXZJNlo5YTU3QmI5cVp0eFVqYVB5QldqdVlfNEZuSnlPQXN4SnVZWEtjLWlldWt2QUVLTWNUNFkwM2c1ODJ0UDVmaWhESW1OTFM5Qmc?oc=5",
-      "date": "2026-11-03T15:26:22+00:00",
-      "description": "How to write an article people want to read (in 7 steps) &nbsp;&nbsp; Search Engine Land",
+      "title": "7 technical SEO checks for vibe-coded websites - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMmJSU0oya3JQS0FDc3ZDelp1Y3VJaTY2dGZmZm9Zcm9sLVNOcHZob2pIdU5GOUlOX0pJaTRSZW1mT3ZqNnpIS3diSFU5bW1kazRxN0F2cFg3TTZDMXRka0VORjFqM0JDallZZmpFRHpfblZQUm5FRW9FUDh3cWFCWW93?oc=5",
+      "date": "2026-11-03T15:00:00+00:00",
+      "description": "7 technical SEO checks for vibe-coded websites &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -697,10 +697,10 @@
       ]
     },
     {
-      "title": "7 technical SEO checks for vibe-coded websites - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMmJSU0oya3JQS0FDc3ZDelp1Y3VJaTY2dGZmZm9Zcm9sLVNOcHZob2pIdU5GOUlOX0pJaTRSZW1mT3ZqNnpIS3diSFU5bW1kazRxN0F2cFg3TTZDMXRka0VORjFqM0JDallZZmpFRHpfblZQUm5FRW9FUDh3cWFCWW93?oc=5",
-      "date": "2026-11-03T15:00:00+00:00",
-      "description": "7 technical SEO checks for vibe-coded websites &nbsp;&nbsp; Search Engine Land",
+      "title": "How to use Google Ads attributed branded searches to measure brand impact - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWWd5V0xqd2FydXNxS2JUUHpOZzhGYUZEeDZkREZWeHVKZ2xaUUtQLWhxQW1CR3U1SE5MREJhV3hzU3lOT1RiN3g5Mk56cFN0UnA4X3hfTG1XYnA0MDVkSlY1am1zSTBWLTFaeFUtRWh3bzN1N2g1MmYwTk8yLWFNTGg4UFYzMnNoRDEzLUxGazR2SEppMU5wYjFhMA?oc=5",
+      "date": "2026-11-03T14:00:00+00:00",
+      "description": "How to use Google Ads attributed branded searches to measure brand impact &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
