@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T01:51:39.657214+00:00",
+  "updatedAt": "2026-11-05T02:57:34.959853+00:00",
   "items": [
     {
       "title": "Google Ads Explains Difference With Search Terms Match Type (Keywords)",
@@ -119,6 +119,19 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR0h0QnExNFhuUWd5ZVVoN1M1dDRBNkxmQnhpZEdUNzlZcE9lLWJxMXh2U0J1NEFGNWZVWW1Rc1RQX0gwRmwwYkh3dkNQdnQ0ajQwcFBVNlFMVjd4dVU2VW9ESHZHaWRnWnJCZzk2eUFYZlF2OU9LZTN1dEk4QlFIaU94RFhZSDg?oc=5",
       "date": "2026-11-04T16:00:00+00:00",
       "description": "Product feeds are becoming the new ad creative in Google AI Mode &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Is ChatGPT really handling 1 trillion searches a year? - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zNGlEVGJsUnBuaGo5WEVhZ3d3V3JETTNyUFlUMTZmeGVOSFNBU096c1IxTEMzN3VScW8ySTVBajl3MWJSTUVEZnR4MTJ4Y3VYOWhVYks0RkpiUWNpRXpfZkhJdW9LNjNjNVhMU25SOVY?oc=5",
+      "date": "2026-11-04T15:51:54+00:00",
+      "description": "Is ChatGPT really handling 1 trillion searches a year? &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -501,7 +514,7 @@
       "link": "https://www.seroundtable.com/google-search-off-k-12-schools-42447.html",
       "date": "2026-11-03T14:44:00+00:00",
       "description": "Google announced it will \"entirely\" turn off Google Search, along with Gemini, Gemini Notebook, and Gemini in Classroom for K-12 schools. \"Access to these products will be entirely off for K-12 student accounts until school administrators explicitly turn them on,\" Google wrote.",
-      "image": "https://images.seroundtable.com/google-search-learning-beta-kloj8RMH.jpg",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -688,19 +701,6 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd1FnZHVXZ01nQkpEdy1jUnA1bWZNQWZOc1JnNUJyRENEaTB6Z1lUc2tqaGZqR3c3WjN2QVZhWDF0Z2piOS1fYVVnSmZrR3lhb1BlTVRYdTVyVllTTjcwblFvVlYzX1JpTXdHeXJGSW9jdnpCQmdOYW80Wi1fWmcyTEM0Y18?oc=5",
       "date": "2026-11-02T14:00:00+00:00",
       "description": "How to build an action-oriented second brain for SEO &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google also gives publishers more control over how AI uses their content - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNakxxWFdVaVdCbkNOTndlN2I1OFRMRHNJdGFIVXQxNjdURHN3VXpkaFA4Y0RpMlhua1A3VnR3WWwyWnFqLTAxQTM4WWJ1YkFBWkwyOTJ0Y0ViQldoelhpTzhCOGdyTC1MR2dBdXBTdlhyb3Bab0R4RHVSOWZQbjZwc1p6UlhBaGo4N2lZdkdibl9MQk55ZU1XSjllZkJJQ3IzR1p1eTdnRnhlcHR6?oc=5",
-      "date": "2026-10-30T17:02:13+00:00",
-      "description": "Google also gives publishers more control over how AI uses their content &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
