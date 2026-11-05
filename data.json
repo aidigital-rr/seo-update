@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-11-05T12:35:56.406321+00:00",
+  "updatedAt": "2026-11-05T13:55:24.681596+00:00",
   "items": [
+    {
+      "title": "Facebook Answers AI-Generated 6 Million Pages Is Google Scaled Content Abuse",
+      "link": "https://www.seroundtable.com/facebook-answers-google-42467.html",
+      "date": "2026-11-05T13:01:00+00:00",
+      "description": "If you looked at the Google Search results recently, you may have stumbled on content from Facebook Answers. Facebook Answers are AI-generated pages, and answers are made up of Facebook posts and pages and are then open for indexing by Google and others. Currently, Google has indexed over 6 million pages and they are ranking.",
+      "image": "https://images.seroundtable.com/facebook-answers-google-count-24BJXFY6.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "GEO Isn’t A Distraction – Referral Data Misses Where AI Shapes Buying Decisions via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/geo-isnt-a-distraction-referral-data-misses-where-ai-shapes-buying-decisions/595730/",
+      "date": "2026-11-05T13:00:43+00:00",
+      "description": "GEO's low referral traffic can hide its influence on buying decisions, while cited research shows ChatGPT visitors convert nearly five times better than search visitors. The post GEO Isn’t A Distraction – Referral Data Misses Where AI Shapes Buying Decisions appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/referral-data-misses-746.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "AI visibility belongs in the marketing mix, but not where you think - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NR0NCdTM3VVZYeWUtbXVkVGdjclBCcS1fOUI5bnRZcjlSbHc0N3ZxMVdlTXR0NmV6a2FmWENBMjhhRDhKRl9udnlDWkE1ek1ySl9OM1VrWW8tUUNBcG82dEdHaXB0OENSdXViOXNGZmU?oc=5",
+      "date": "2026-11-05T13:00:00+00:00",
+      "description": "AI visibility belongs in the marketing mix, but not where you think &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Ads Expands AI Content Disclosure Label To More Regions",
+      "link": "https://www.seroundtable.com/google-ads-expands-ai-content-label-disclosure-42461.html",
+      "date": "2026-11-05T12:51:00+00:00",
+      "description": "Google Ads has expanded the regions where you must disclose whether AI was used in your ads. Google added California, South Korea, and Vietnam to the list, which already included the European Union, India, and New York.",
+      "image": "https://images.seroundtable.com/google-ads-ai-disclosure-regions-1csbpU8C.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads PMax Channel Report Definitions Coming To Search & Shopping",
+      "link": "https://www.seroundtable.com/google-ads-pmax-channel-report-search-42454.html",
+      "date": "2026-11-05T12:41:00+00:00",
+      "description": "Google updated its Definition: Performance Max channel help document to specify that channel definitions are coming to the Performance Max channel report for standard Search and Shopping reports in 2027.",
+      "image": "https://images.seroundtable.com/google-ads-channel-help-doc-note-KH4rqGjl.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google AI Mode Integrates With Home Services Booking",
+      "link": "https://www.seroundtable.com/google-ai-mode-home-services-booking-42459.html",
+      "date": "2026-11-05T12:31:00+00:00",
+      "description": "Google has added home services booking integration within AI Mode. Google has partnered with partners like Angi Home, Thumbtack, Housecall, and GetJobber and will add ServiceTitan soon. It works as expected, Google adds booking buttons to the home services listing within the AI Mode results.",
+      "image": "https://images.seroundtable.com/google-ai-mode-home-services-booking-Z5QQ87UY.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google Explains How Redirects Affect Ranking Signals via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-explains-how-redirects-affect-ranking-signals/595967/",
@@ -11,6 +88,45 @@
       "tags": [
         "SEO",
         "AI Search"
+      ]
+    },
+    {
+      "title": "Google Can Temporarily Protect Important URLs From Being Deindexed",
+      "link": "https://www.seroundtable.com/google-protected-important-urls-index-42464.html",
+      "date": "2026-11-05T12:21:00+00:00",
+      "description": "Gary Illyes from Google said that when important URLs serve a 4xx status code, Google Search can \"temporarily protect the URL from falling out of the index right away.\" Meaning, Google Search will still show the URL in Google Search, for a short while, just to make sure searchers can still find it.",
+      "image": "https://images.seroundtable.com/vlc-favicons-missing-418-4dbyuPeZ.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Business Profiles Car Dealership Inventory Limited Pilot",
+      "link": "https://www.seroundtable.com/google-business-profiles-car-dealership-inventory-42465.html",
+      "date": "2026-11-05T12:15:00+00:00",
+      "description": "Google Business Profiles is testing a \"new feature pilot\" for car dealership inventory, which has limited availability. This seems different from Google's previous local car listings and inventory options. Google added this to the help documentation under the title \"Car dealership inventory (limited availability)\" within how to edit your profile.",
+      "image": "https://images.seroundtable.com/google-business-profiles-car-dealership-inventory-doc-RjACeTie.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Search Profiles Spotted Adding LinkedIn",
+      "link": "https://www.seroundtable.com/google-search-profiles-adds-linkedin-42458.html",
+      "date": "2026-11-05T12:11:00+00:00",
+      "description": "Google Search Profiles officially supports YouTube, TikTok, Instagram and X, plus you can also add Facebook and your website. But now some are seeing Google add LinkedIn as well.",
+      "image": "https://images.seroundtable.com/google-search-profiles-adds-linkedin-JEhaK1KF.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -343,45 +459,6 @@
       ]
     },
     {
-      "title": "OpenAI Says ChatGPT Is At 20% Of Google Search Volume",
-      "link": "https://www.seroundtable.com/chatgpt-20-percent-google-42451.html",
-      "date": "2026-11-04T12:31:00+00:00",
-      "description": "OpenAI's Adam Fry said \"ChatGPT's volume of search-like queries is now roughly one-fifth the volume of queries of Google,\" in an interview with Alex Kantrowitz. \"ChatGPT has gone from one billion to 1.2 in just the last two months,\" he added.",
-      "image": "https://images.seroundtable.com/openai-tree-growth-KfnZfGTB.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Server Side Google Tag Manager To See Full IP Addresses",
-      "link": "https://www.seroundtable.com/google-tag-manager-full-ip-address-42453.html",
-      "date": "2026-11-04T12:21:00+00:00",
-      "description": "Server-side Google Tag Manager will soon be able to process and see your visitors' full IP addresses. Google wrote, \"Starting January 11, 2027, server-side Google Tag Manager (SGTM) will allow tags to process standard network signals like IP address to facilitate improvements to Ads measurement and personalization.\"",
-      "image": "https://images.seroundtable.com/google-tag-manager-email-MS8JAWoN.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "List Of Google Twiddlers For Re-Ranking Search Results",
-      "link": "https://www.seroundtable.com/google-twiddlers-42441.html",
-      "date": "2026-11-04T12:11:00+00:00",
-      "description": "Twiddlers are adjustable rules or systems that Google uses to fine-tune search results. They can re-rank the search results. Twiddlers can boost, demote, or otherwise rework search results based on specific, dynamic criteria, signals, or business rules such as NavBoost, user engagement, freshness, or manual/algorithmic filters.",
-      "image": "https://images.seroundtable.com/google-twiddlers-tgFMUtI4.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Search Central Live in Zurich is back!",
       "link": "https://developers.google.com/search/blog/2026/11/search-central-live-zurich-2026",
       "date": "2026-11-04T00:00:00+00:00",
@@ -405,19 +482,6 @@
         "SEO",
         "Google",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Google Updates Crawled - Currently Not Indexed Details",
-      "link": "https://www.seroundtable.com/google-updates-crawled-currently-not-indexed-42450.html",
-      "date": "2026-11-03T21:15:00+00:00",
-      "description": "Google has updated the page indexing report help documentation, specifically the \"Crawled - currently not indexed\" section. It now says Google doesn't index all pages, this is a common message, it doesn't necessarily indicate an issue and more.",
-      "image": "https://images.seroundtable.com/google-crawled-currently-not-indexed-new-u0Crj795.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -449,7 +513,7 @@
       "link": "https://www.searchenginejournal.com/google-ad-tags-in-server-side-gtm-to-get-full-ip-addresses/595807/",
       "date": "2026-11-03T19:30:00+00:00",
       "description": "Google says ad tags in server-side Tag Manager will accept full IP addresses while Analytics tags stay redacted. Here's what changes and how to redact. The post Google Ad Tags In Server-Side GTM To Get Full IP Addresses appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-tag-manager-featured-1600x840-1.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -461,7 +525,7 @@
       "link": "https://www.searchenginejournal.com/how-to-create-demand-you-can-actually-convert-and-prove-recap/595044/",
       "date": "2026-11-03T19:04:28+00:00",
       "description": "Discover effective strategies to generate demand and measure results for your B2B marketing campaigns successfully. The post How To Create Demand You Can Actually Convert (And Prove) appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/callrail-create-demand-convert-prove-on-demand-sej.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -473,7 +537,7 @@
       "link": "https://www.searchenginejournal.com/rank-trackers-find-google-results-about-one-word-of-a-query/595798/",
       "date": "2026-11-03T18:25:17+00:00",
       "description": "Rank tracker data shows unrelated Google results that follow one word of the query, mostly below the top spots. Here's how to check a drop. The post Rank Trackers Find Google Results About One Word Of A Query appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/rank-trackers-query-puzzle-1600x840-1.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -485,7 +549,7 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbG5jOFNOMVhCUGN0dnBIZDUtbkJVWlhoejRXVEdxUFVFQmlXM3R6ZzV2ZU12SXJNWXF1Ry1VYk5SdnUwakV4dWJmdlZNYzQwV1d3RTl3YjlfdkxmRVd6TWdVc25EaEI4ejdSNHEzVHc5UmZZYTgtcmJkUi1fbXR1UDluYw?oc=5",
       "date": "2026-11-03T16:47:52+00:00",
       "description": "Is Google poisoning more than just search results? &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -498,25 +562,12 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1S0VFUjNzdjU0MG90MXFjUklWQnNPWDBLa2tuR0x5SjZrU3lNajZIUVZLNjNDeGVvZWwyS0JIcFJhT2lsSTdncjcyWkF2bndqRGhveUNVT21rOXhkLVRBcmRQYndkVU0?oc=5",
       "date": "2026-11-03T16:44:05+00:00",
       "description": "49 AWESOME video marketing statistics &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
         "Google",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Google Performance Reports Showing Weird Spike In Clicks For Some Sites",
-      "link": "https://www.seroundtable.com/google-performance-reports-spike-clicks-42448.html",
-      "date": "2026-11-03T15:54:00+00:00",
-      "description": "Google Search Console's performance report is showing a weird spike in clicks for some sites over the past couple of days. It is not impacting all sites, and it might be a bug, but some are seeing this huge increase in clicks reported by Search Console.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -558,19 +609,6 @@
       ]
     },
     {
-      "title": "Daily Search Forum Recap: November 3, 2026",
-      "link": "https://www.seroundtable.com/recap-11-03-2026-42442.html",
-      "date": "2026-11-03T15:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today...",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "7 technical SEO checks for vibe-coded websites - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMmJSU0oya3JQS0FDc3ZDelp1Y3VJaTY2dGZmZm9Zcm9sLVNOcHZob2pIdU5GOUlOX0pJaTRSZW1mT3ZqNnpIS3diSFU5bW1kazRxN0F2cFg3TTZDMXRka0VORjFqM0JDallZZmpFRHpfblZQUm5FRW9FUDh3cWFCWW93?oc=5",
       "date": "2026-11-03T15:00:00+00:00",
@@ -584,16 +622,16 @@
       ]
     },
     {
-      "title": "Google Will Turn Off Google Search For K-12 Schools & Testing Learning Beta",
-      "link": "https://www.seroundtable.com/google-search-off-k-12-schools-42447.html",
-      "date": "2026-11-03T14:44:00+00:00",
-      "description": "Google announced it will \"entirely\" turn off Google Search, along with Gemini, Gemini Notebook, and Gemini in Classroom for K-12 schools. \"Access to these products will be entirely off for K-12 student accounts until school administrators explicitly turn them on,\" Google wrote.",
+      "title": "How to use Google Ads attributed branded searches to measure brand impact - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWWd5V0xqd2FydXNxS2JUUHpOZzhGYUZEeDZkREZWeHVKZ2xaUUtQLWhxQW1CR3U1SE5MREJhV3hzU3lOT1RiN3g5Mk56cFN0UnA4X3hfTG1XYnA0MDVkSlY1am1zSTBWLTFaeFUtRWh3bzN1N2g1MmYwTk8yLWFNTGg4UFYzMnNoRDEzLUxGazR2SEppMU5wYjFhMA?oc=5",
+      "date": "2026-11-03T14:00:00+00:00",
+      "description": "How to use Google Ads attributed branded searches to measure brand impact &nbsp;&nbsp; Search Engine Land",
       "image": "",
-      "source": "Search Engine Roundtable",
+      "source": "Search Engine Land",
       "tags": [
-        "Google",
         "SEO",
-        "Technical"
+        "Google",
+        "AI Search"
       ]
     },
     {
@@ -646,18 +684,6 @@
       ]
     },
     {
-      "title": "NY Times Accuses Brave Of Scraping And Exploiting Content via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/ny-times-accuses-brave-of-scraping-and-exploiting-content/595679/",
-      "date": "2026-11-02T21:38:22+00:00",
-      "description": "New York Times lawsuit accuses Brave of selling access to paywalled content to AI companies and depriving publishers of ad income. The post NY Times Accuses Brave Of Scraping And Exploiting Content appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "ChatGPT ads generate 64% less revenue per visit than Google Search: Study - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMGl6M05WQkZHU1hJb0I1bDg2UXROeXNWZXhQbXRzazhyR21uVkZ1Nng2UWZtNERWWW9MVmpsVWtlN2ZldG5PdnBteHpzd1V5ZTNBRGtqUXFiOEZEUE02LXlIYkZJSGZwVzBhVm9LQXhQMFY1eVE5V0JaZ1VjN3AwQUk1Q1k3bFFoNjVpOVlwc1VmdHVZU09MR2hOZkw2dW42NDV4cDRxZw?oc=5",
       "date": "2026-11-02T17:15:06+00:00",
@@ -671,36 +697,10 @@
       ]
     },
     {
-      "title": "How to build an action-oriented second brain for SEO - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd1FnZHVXZ01nQkpEdy1jUnA1bWZNQWZOc1JnNUJyRENEaTB6Z1lUc2tqaGZqR3c3WjN2QVZhWDF0Z2piOS1fYVVnSmZrR3lhb1BlTVRYdTVyVllTTjcwblFvVlYzX1JpTXdHeXJGSW9jdnpCQmdOYW80Wi1fWmcyTEM0Y18?oc=5",
-      "date": "2026-11-02T14:00:00+00:00",
-      "description": "How to build an action-oriented second brain for SEO &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "The quiet click: Why people read AI answers and click anyway - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43Z1YyaGJrU2VNRmhZTFNTOVNxNXN3d3JPZ2NKeDlzY3c5R0R5dnVJOEk2WXdkQzdKTWViNTdfWEI2VU9XdmdVQ1RUZDRyeEdyckR1d3dKem82Z0RUS09sTFF3NEhYTDN0VXVQTks3MHBPNUFGT19v?oc=5",
-      "date": "2026-11-02T13:00:00+00:00",
-      "description": "The quiet click: Why people read AI answers and click anyway &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google also gives publishers more control over how AI uses their content - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNakxxWFdVaVdCbkNOTndlN2I1OFRMRHNJdGFIVXQxNjdURHN3VXpkaFA4Y0RpMlhua1A3VnR3WWwyWnFqLTAxQTM4WWJ1YkFBWkwyOTJ0Y0ViQldoelhpTzhCOGdyTC1MR2dBdXBTdlhyb3Bab0R4RHVSOWZQbjZwc1p6UlhBaGo4N2lZdkdibl9MQk55ZU1XSjllZkJJQ3IzR1p1eTdnRnhlcHR6?oc=5",
-      "date": "2026-10-30T17:02:13+00:00",
-      "description": "Google also gives publishers more control over how AI uses their content &nbsp;&nbsp; Search Engine Land",
+      "title": "Beyond demand capture: Why performance marketers need brand marketing - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5bjlHaWQ2X2U2bU84ZVlqbmVQLTRPalFzaXFoc0JVdjN4SURGSGFsQzZoc0tPZkE1NXktZGhyUndVVHhobl83QVRodWNDSVZZM1U2bGQ1ZTBDdmZEMkNQcWNibEF6OURodW9vRDNMWnRyZnVRS2ZLOUFJQTZVdw?oc=5",
+      "date": "2026-11-02T16:00:00+00:00",
+      "description": "Beyond demand capture: Why performance marketers need brand marketing &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
