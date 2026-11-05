@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-11-05T11:33:14.272864+00:00",
+  "updatedAt": "2026-11-05T12:35:56.406321+00:00",
   "items": [
+    {
+      "title": "Google Explains How Redirects Affect Ranking Signals via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-explains-how-redirects-affect-ranking-signals/595967/",
+      "date": "2026-11-05T12:23:47+00:00",
+      "description": "Google clarifies how server-side redirects influence ranking signals and canonicalization. The post Google Explains How Redirects Affect Ranking Signals appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-redirects-seo-30.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Ads Gains A New Telemedicine Certification Option",
+      "link": "https://www.seroundtable.com/google-ads-telemedicine-certification-42460.html",
+      "date": "2026-11-05T12:05:00+00:00",
+      "description": "Google Ads announced that in addition to the original telemedicine certification options, Google is adding a new one from the National Association of Boards of Pharmacy (NABP)'s Healthcare Merchant Accreditation Program. This goes into effect this month, November 2026.",
+      "image": "https://images.seroundtable.com/google-stethoscope-sHNJJSaa.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "SERP Data Providers Say Google Is Throttling Goto Result Links via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-goto-result-links-throttling/595959/",
+      "date": "2026-11-05T11:48:21+00:00",
+      "description": "SERP data providers say Google throttles goto links per results page, so some rank data may store Google redirect links in place of page URLs. The post SERP Data Providers Say Google Is Throttling Goto Result Links appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-goto-links-hourglass.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "AI Visibility vs. Search Rankings: Is Your Agency Measuring the Wrong Thing For 2027?",
       "link": "https://www.searchenginejournal.com/ai-visibility-vs-search-rankings-is-your-agency-measuring-the-wrong-thing-for-2027-spa/594163/",
@@ -474,7 +511,7 @@
       "link": "https://www.seroundtable.com/google-performance-reports-spike-clicks-42448.html",
       "date": "2026-11-03T15:54:00+00:00",
       "description": "Google Search Console's performance report is showing a weird spike in clicks for some sites over the past couple of days. It is not impacting all sites, and it might be a bug, but some are seeing this huge increase in clicks reported by Search Console.",
-      "image": "https://images.seroundtable.com/google-performance-reports-spike-clicks2-4hmToMHB.jpg",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -487,7 +524,7 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWlmNERLU2YtVW91VTd2S09vQ0I2NUpZeC1OZDd1cm1xT0hiN0hia1dva2pNVmlBY005VjRVN3VJTUNWX1JuY0VFTlhkWHNCMkp1WlRJUURpNWU2YXh3WWRFdEdkVVliaXl4ZFozM0ZiYUI1VXdtV1JReThycXpWV0hKOXVQeW5mMWtHb3BuaVh1U2tsQ1JIX1ZnU1Ridm9LSnkzS0RFdGV0VGxwdC1SZTJRMXcyMXVHSWJHRkdB?oc=5",
       "date": "2026-11-03T15:43:23+00:00",
       "description": "Google Search Console is showing some huge spikes in clicks in the performance report &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -500,7 +537,7 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41Nnk0bGJXcW82Q0dkeDNFXzZhVlR2VXZJNlo5YTU3QmI5cVp0eFVqYVB5QldqdVlfNEZuSnlPQXN4SnVZWEtjLWlldWt2QUVLTWNUNFkwM2c1ODJ0UDVmaWhESW1OTFM5Qmc?oc=5",
       "date": "2026-11-03T15:26:22+00:00",
       "description": "How to write an article people want to read (in 7 steps) &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -560,19 +597,6 @@
       ]
     },
     {
-      "title": "How to use Google Ads attributed branded searches to measure brand impact - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWWd5V0xqd2FydXNxS2JUUHpOZzhGYUZEeDZkREZWeHVKZ2xaUUtQLWhxQW1CR3U1SE5MREJhV3hzU3lOT1RiN3g5Mk56cFN0UnA4X3hfTG1XYnA0MDVkSlY1am1zSTBWLTFaeFUtRWh3bzN1N2g1MmYwTk8yLWFNTGg4UFYzMnNoRDEzLUxGazR2SEppMU5wYjFhMA?oc=5",
-      "date": "2026-11-03T14:00:00+00:00",
-      "description": "How to use Google Ads attributed branded searches to measure brand impact &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "How To Scale AI Content Across 40 Markets Without Sounding The Same via @sejournal, @motokohunt",
       "link": "https://www.searchenginejournal.com/building-a-global-content-factory-with-ai-without-losing-the-human-touch/593904/",
       "date": "2026-11-03T13:00:01+00:00",
@@ -595,19 +619,6 @@
         "SEO",
         "Google",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Google AI Mode Biased: It Only Shows Links To Google Flights",
-      "link": "https://www.seroundtable.com/google-ai-mode-links-google-flights-42428.html",
-      "date": "2026-11-03T12:51:00+00:00",
-      "description": "Over the weekend, I tested out using Google AI Mode to get flight information and 100% of the time, the only links available within the AI Mode responses were to Google Flights. I am sure the Digital Markets Act (DMA) folks in Europe are going to like this.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -647,30 +658,6 @@
       ]
     },
     {
-      "title": "TikTok Search Ads Adds Brand And Category Keyword Packs via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/tiktok-search-ads-brand-category-keyword-packs/595682/",
-      "date": "2026-11-02T20:56:45+00:00",
-      "description": "TikTok is highlighting two impression share metrics for Search Ads and adding curated keyword packs. Here's what each does. The post TikTok Search Ads Adds Brand And Category Keyword Packs appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "AI Shopping: Get Your Products Found In Google & ChatGPT via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/ai-shopping-get-your-products-found-in-google-chatgpt-recap/594889/",
-      "date": "2026-11-02T20:41:45+00:00",
-      "description": "Chris Sachs & Aris Vrakas outlined 4 moves for AI shopping: make product pages retrievable, use shopper language, connect feeds with pages, test the results. The post AI Shopping: Get Your Products Found In Google &#038; ChatGPT appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "ChatGPT ads generate 64% less revenue per visit than Google Search: Study - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMGl6M05WQkZHU1hJb0I1bDg2UXROeXNWZXhQbXRzazhyR21uVkZ1Nng2UWZtNERWWW9MVmpsVWtlN2ZldG5PdnBteHpzd1V5ZTNBRGtqUXFiOEZEUE02LXlIYkZJSGZwVzBhVm9LQXhQMFY1eVE5V0JaZ1VjN3AwQUk1Q1k3bFFoNjVpOVlwc1VmdHVZU09MR2hOZkw2dW42NDV4cDRxZw?oc=5",
       "date": "2026-11-02T17:15:06+00:00",
@@ -701,6 +688,19 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43Z1YyaGJrU2VNRmhZTFNTOVNxNXN3d3JPZ2NKeDlzY3c5R0R5dnVJOEk2WXdkQzdKTWViNTdfWEI2VU9XdmdVQ1RUZDRyeEdyckR1d3dKem82Z0RUS09sTFF3NEhYTDN0VXVQTks3MHBPNUFGT19v?oc=5",
       "date": "2026-11-02T13:00:00+00:00",
       "description": "The quiet click: Why people read AI answers and click anyway &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google also gives publishers more control over how AI uses their content - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNakxxWFdVaVdCbkNOTndlN2I1OFRMRHNJdGFIVXQxNjdURHN3VXpkaFA4Y0RpMlhua1A3VnR3WWwyWnFqLTAxQTM4WWJ1YkFBWkwyOTJ0Y0ViQldoelhpTzhCOGdyTC1MR2dBdXBTdlhyb3Bab0R4RHVSOWZQbjZwc1p6UlhBaGo4N2lZdkdibl9MQk55ZU1XSjllZkJJQ3IzR1p1eTdnRnhlcHR6?oc=5",
+      "date": "2026-10-30T17:02:13+00:00",
+      "description": "Google also gives publishers more control over how AI uses their content &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
