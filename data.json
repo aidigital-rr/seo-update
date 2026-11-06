@@ -1,6 +1,110 @@
 {
-  "updatedAt": "2026-11-06T13:51:03.817114+00:00",
+  "updatedAt": "2026-11-06T14:56:26.951914+00:00",
   "items": [
+    {
+      "title": "How to make your Instagram videos easier to find in search - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxVGFzY3pSN3liTExJZVZsa1hkOTUyb2RJcWlEblF0MlB6Tm5hMGE2elN3NHI2UFU1SUpUVEwxS2Q5ZzNYQ21qUXdFODZnZHVFaGwtNklwVHNJcW1Nd01kMDNubS1yZ3BuQkkwMUJUNl84VmZ2VGc?oc=5",
+      "date": "2026-11-06T14:00:00+00:00",
+      "description": "How to make your Instagram videos easier to find in search &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Search News Buzz Video Recap: Google Scaled Content Abuse From Facebook, ChatGPT Search 20% Of Google & More SEO, PPC & Local",
+      "link": "https://www.seroundtable.com/video-11-06-2026-42469.html",
+      "date": "2026-11-06T13:01:00+00:00",
+      "description": "This week, we covered Facebook's latest AI-slop strategy that likely will get hit by Google's scaled content abuse policy. Google said important URLs can still show in Google Search even after a 400 status...",
+      "image": "https://img.youtube.com/vi/SsMgMzyytxU/maxresdefault.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Business Profiles Manage Offers Help Document",
+      "link": "https://www.seroundtable.com/google-business-profiles-manage-offers-42471.html",
+      "date": "2026-11-06T12:51:00+00:00",
+      "description": "Google has created a new help document named Manage offers on your Business Profile. Offers in Google Business Profiles is available only in select regions and languages and these can be created through Offers Post or special offers discovered through linked social media profiles.",
+      "image": "https://images.seroundtable.com/manage-offers-on-your-business-profile-google-business-profile-help-k5H9JFD5.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google AI Mode Asking Searchers To Continue With This Search",
+      "link": "https://www.seroundtable.com/google-ai-mode-continue-with-this-search-42475.html",
+      "date": "2026-11-06T12:42:00+00:00",
+      "description": "Google is now asking searchers to \"continue with this search\" when they go to AI Mode. This is a way to encourage searchers who started a search in AI Mode to continue and do more searches. You know, because Google needs more searches to show more ads, to make more money.",
+      "image": "https://images.seroundtable.com/google-ai-mode-continue-with-this-search-OzVSXh3X.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Shopping Dominating The European Product Search Results",
+      "link": "https://www.seroundtable.com/google-shopping-eu-dma-42456.html",
+      "date": "2026-11-06T12:41:00+00:00",
+      "description": "As you know, Google dropped its free product listings in Europe because of the Digital Markets Act. Google called it the biggest reduction in search quality in its history. But data from BrightEdge says that Google Shopping appears 16 to 35 times more often than the next",
+      "image": "https://images.seroundtable.com/brightedge-data-HpmSuF8a.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Pushing AI Mode Users To Opt In To Personal Intelligence",
+      "link": "https://www.seroundtable.com/google-personal-intelligence-popup-42468.html",
+      "date": "2026-11-06T12:31:00+00:00",
+      "description": "Google is throwing up pop-up notifications in AI Mode to encourage searchers to turn on Personal Intelligence. The pop-up says \"Supercharge Search with Personal Intelligence\" with a blue continue button to configure it.",
+      "image": "https://images.seroundtable.com/google-ai-mode-personal-intelligence-popup-WiAZ6rNg.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Bing Search AI Visual Summary Snippet",
+      "link": "https://www.seroundtable.com/bing-search-ai-visual-summary-42455.html",
+      "date": "2026-11-06T12:21:00+00:00",
+      "description": "Microsoft Bing has a new AI feature in its search results named \"AI visual summary.\" This AI visual summary button is appended to an individual search snippet and when you click on it, it loads a an AI-generated graphic summarizing the page's content.",
+      "image": "https://images.seroundtable.com/bing-search-ai-visual-summary-pdm8YnAc.gif",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Confirms Issues With Merchant Center, API & Feeds",
+      "link": "https://www.seroundtable.com/google-confirms-issues-with-merchant-center-42473.html",
+      "date": "2026-11-06T12:16:00+00:00",
+      "description": "Google has confirmed there is an ongoing issue right now with Google Merchant Center. The issue is with Merchant API, Merchant Center, and Feeds, Google posted at 5:26 am ET on the Google Merchant Center status page.",
+      "image": "https://images.seroundtable.com/google-merchant-center-slow-WyBzn5Sw.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google Expands Business Messaging To Google Maps On iOS & Android",
       "link": "https://www.seroundtable.com/google-maps-messaging-android-ios-42472.html",
@@ -281,45 +385,6 @@
       ]
     },
     {
-      "title": "Google Business Profiles Car Dealership Inventory Limited Pilot",
-      "link": "https://www.seroundtable.com/google-business-profiles-car-dealership-inventory-42465.html",
-      "date": "2026-11-05T12:15:00+00:00",
-      "description": "Google Business Profiles is testing a \"new feature pilot\" for car dealership inventory, which has limited availability. This seems different from Google's previous local car listings and inventory options. Google added this to the help documentation under the title \"Car dealership inventory (limited availability)\" within how to edit your profile.",
-      "image": "https://images.seroundtable.com/google-business-profiles-car-dealership-inventory-doc-RjACeTie.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Search Profiles Spotted Adding LinkedIn",
-      "link": "https://www.seroundtable.com/google-search-profiles-adds-linkedin-42458.html",
-      "date": "2026-11-05T12:11:00+00:00",
-      "description": "Google Search Profiles officially supports YouTube, TikTok, Instagram and X, plus you can also add Facebook and your website. But now some are seeing Google add LinkedIn as well.",
-      "image": "https://images.seroundtable.com/google-search-profiles-adds-linkedin-JEhaK1KF.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads Gains A New Telemedicine Certification Option",
-      "link": "https://www.seroundtable.com/google-ads-telemedicine-certification-42460.html",
-      "date": "2026-11-05T12:05:00+00:00",
-      "description": "Google Ads announced that in addition to the original telemedicine certification options, Google is adding a new one from the National Association of Boards of Pharmacy (NABP)'s Healthcare Merchant Accreditation Program. This goes into effect this month, November 2026.",
-      "image": "https://images.seroundtable.com/google-stethoscope-sHNJJSaa.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "SERP Data Providers Say Google Is Throttling Goto Result Links via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-goto-result-links-throttling/595959/",
       "date": "2026-11-05T11:48:21+00:00",
@@ -353,32 +418,6 @@
       "tags": [
         "SEO",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads Explains Difference With Search Terms Match Type (Keywords)",
-      "link": "https://www.seroundtable.com/google-ads-search-terms-match-type-keywords-42463.html",
-      "date": "2026-11-04T22:45:00+00:00",
-      "description": "Ginny Marvin, the Google Ads Liaison, explained why the Google Ads interface has two different metrics named search terms match type. One is named \"Search terms match type\" and the other is named \"Search terms match type (Keywords).\"",
-      "image": "https://images.seroundtable.com/google-ads-search-terms-match-type-keywords-N8fYuJnI.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Emails: Site Reputation Policy Manual Actions No Longer Impact EEA",
-      "link": "https://www.seroundtable.com/google-email-site-reputation-policy-eea-42462.html",
-      "date": "2026-11-04T21:19:00+00:00",
-      "description": "Google just sent out emails to some sites that have site reputation abuse policy manual actions that those manual actions won't impact the search results within the EEA, European Economic Area. This actually took effect on August 30, 2026, but now, two months later, Google is notifying site owners via Google Search Console.",
-      "image": "https://images.seroundtable.com/google-email-site-reputation-policy-eea-qj9MNXMx.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -456,19 +495,6 @@
       ]
     },
     {
-      "title": "Google organic click share reaches 15-month high: Report - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdWlKanpvbFJ4c0tDb1NQMXdSekt5aTFwOGFwR0M5SWRtbE15UFZTSFZiU0FvY21rekViVVZmWnNpeXFnSnRRVzBwUmtfY0piNkR0NDVOY2wwUURrdXc4bVBnci1RWDc4QUwwV2lucjdDX2RReXUwOWpSZlJKM0Nidjd4dmMxTFFBS3hV?oc=5",
-      "date": "2026-11-04T17:15:44+00:00",
-      "description": "Google organic click share reaches 15-month high: Report &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Product feeds are becoming the new ad creative in Google AI Mode - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR0h0QnExNFhuUWd5ZVVoN1M1dDRBNkxmQnhpZEdUNzlZcE9lLWJxMXh2U0J1NEFGNWZVWW1Rc1RQX0gwRmwwYkh3dkNQdnQ0ajQwcFBVNlFMVjd4dVU2VW9ESHZHaWRnWnJCZzk2eUFYZlF2OU9LZTN1dEk4QlFIaU94RFhZSDg?oc=5",
       "date": "2026-11-04T16:00:00+00:00",
@@ -486,25 +512,12 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zNGlEVGJsUnBuaGo5WEVhZ3d3V3JETTNyUFlUMTZmeGVOSFNBU096c1IxTEMzN3VScW8ySTVBajl3MWJSTUVEZnR4MTJ4Y3VYOWhVYks0RkpiUWNpRXpfZkhJdW9LNjNjNVhMU25SOVY?oc=5",
       "date": "2026-11-04T15:51:54+00:00",
       "description": "Is ChatGPT really handling 1 trillion searches a year? &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
         "Google",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Google Search Console Performance Report Multi-Select Device Filters",
-      "link": "https://www.seroundtable.com/google-performance-report-multi-select-device-filters-42457.html",
-      "date": "2026-11-04T15:01:00+00:00",
-      "description": "Google Search Console has rolled out the ability to select multiple device types within the performance report. Previously, Google added multi-select ability for countries in that report, and now we can do the same for device types.",
-      "image": "https://images.seroundtable.com/google-performance-report-multi-select-device-filters-PgctaKRB.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -517,19 +530,6 @@
       "tags": [
         "SEO",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Daily Search Forum Recap: November 4, 2026",
-      "link": "https://www.seroundtable.com/recap-11-04-2026-42452.html",
-      "date": "2026-11-04T15:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google Search Console's performance report is showing a spike in clicks for some websites...",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
