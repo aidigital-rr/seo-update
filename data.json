@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-11-06T11:30:33.438271+00:00",
+  "updatedAt": "2026-11-06T12:33:32.101111+00:00",
   "items": [
+    {
+      "title": "Google Expands Business Messaging To Google Maps On iOS & Android",
+      "link": "https://www.seroundtable.com/google-maps-messaging-android-ios-42472.html",
+      "date": "2026-11-06T12:11:00+00:00",
+      "description": "Google published its monthly \"Google Small Business Bulletin\" where it gives tips and recaps what new features launched in Google Maps and Google Business Profiles. We covered most of it but I think we missed that Google expanded messaging to Google Maps on iOS and Android.",
+      "image": "https://images.seroundtable.com/google-maps-ios-messaging-button-W4UAHALP.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "FTC Unseals Details In Amazon Ads Auction Surcharge Suit via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/ftc-unseals-details-amazon-ads-auction-surcharge-suit/596010/",
@@ -499,7 +512,7 @@
       "link": "https://www.searchenginejournal.com/the-11-seo-features-every-cms-should-ship-with-most-still-dont/594074/",
       "date": "2026-11-04T15:00:12+00:00",
       "description": "Cut recurring developer tickets with essential CMS SEO controls, smarter automation, and safeguards against indexing and redirect mistakes. The post Your CMS Is Still Failing SEO Basics – 11 Fixes To Demand appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/cms-63.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -543,19 +556,6 @@
         "SEO",
         "Google",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Microsoft Clarity With New Agentic Analytics & Ask Clarity",
-      "link": "https://www.seroundtable.com/microsoft-clarity-gains-agentic-analytics-and-ask-clarity-42449.html",
-      "date": "2026-11-04T14:00:00+00:00",
-      "description": "Microsoft Clarity added two, well, three, new features today, including agentic analytics, ask Clarity, and brand agent expansion. Microsoft also said, \"AI agents nearly doubled in three weeks to almost 2 million,\" 3 weeks!!!",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
