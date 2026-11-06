@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T21:46:06.628716+00:00",
+  "updatedAt": "2026-11-06T22:23:17.507297+00:00",
   "items": [
     {
       "title": "Brave Sells Its Search Index To AI, And Your Website Is Probably In It via @sejournal, @slobodanmanic",
@@ -346,19 +346,6 @@
       ]
     },
     {
-      "title": "Google Search clicks to news publishers rose 8x on Election Day - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObDVTUEFkOTdJWWxFNE5OVnBsVUxobVZJMVBtbkI1bm9QcjF1RGFINDE4bV9EZWxjdmVac1JicmxrRUhTN1pLYW9lZ21xZ1ZwZ0lqNjVvalRrSFlJaDcwa0RCWmZzWWJRZzhNV0xKV3puYXFiQl9Ud1F1U0QwZC1tb1BQSFRZRFhKQ3pLbFlR?oc=5",
-      "date": "2026-11-05T16:34:33+00:00",
-      "description": "Google Search clicks to news publishers rose 8x on Election Day &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Ads In Google AI Answers Concentrate In Apparel & Electronics via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-ai-answer-ads-apparel-electronics-report/595984/",
       "date": "2026-11-05T15:15:08+00:00",
@@ -367,6 +354,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Local grocery chain outranks Wikipedia on Google for ‘apples’ - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbnpfVDY4SjF5TkNseXlwYzFYWjRhVUNvallsVlpYc2JIV0U2ejJaM3JfbWNDQTNlcjVqOFlaQnJUWDNCVlhIcWxrS1Rub3U0SFc3a2VjQjRzS29LVGc1amh6UmZ0TlpSazA5T2tPUldVVXd6ZEpkUlhKcFE3Z0xGX3M4RGdPOHFaQWIyb1NzZUlDUQ?oc=5",
+      "date": "2026-11-05T15:01:28+00:00",
+      "description": "Local grocery chain outranks Wikipedia on Google for ‘apples’ &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -393,19 +393,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads may count offline conversions in the wrong accounts - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWFRQdEdFallYZkI4V3cxb2xuM3pwNGxsSDlJb1B6dC1sYUlfdmhGT3V5RC1UUzVIVER3UV9nYU9JalMwTFpScjlzSGVXMjZ0a3phcjlOSS1pTG1zbm9sTzZ1dzAzUXRoUUN1Rk9PMG5mY24zOTlCSGZ3RXhRWGNSQVRzdVpwVV9IU0xzVXlWS2VmZWk3aHFnRm9xOElWdjQ?oc=5",
-      "date": "2026-11-05T15:00:00+00:00",
-      "description": "Google Ads may count offline conversions in the wrong accounts &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     },
     {
@@ -515,7 +502,7 @@
       "link": "https://www.searchenginejournal.com/google-goto-result-links-throttling/595959/",
       "date": "2026-11-05T11:48:21+00:00",
       "description": "SERP data providers say Google throttles goto links per results page, so some rank data may store Google redirect links in place of page URLs. The post SERP Data Providers Say Google Is Throttling Goto Result Links appeared first on Search Engine Journal .",
-      "image": "",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-goto-links-hourglass.jpg",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -693,6 +680,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "What channels grow when organic search shrinks? - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb2hiMy16b0FjNF92WjBUbG9DbWhtUlRHSFZ4V2xpU0F3a1VqOHpEcms1OTM2VjB3TkFJbEdGdnZDRFNwc1dZVlFmMk1QRzlyZU1Wdzl0TUd4N01pd0lFLVBFLXZCMzJQZTRoYlFsOF8zRW9mazh2dzJDTl9Ubngwd0tQSlV5a1p6MFE?oc=5",
+      "date": "2026-11-04T13:00:00+00:00",
+      "description": "What channels grow when organic search shrinks? &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
