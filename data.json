@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T01:12:27.272311+00:00",
+  "updatedAt": "2026-11-07T01:59:53.248488+00:00",
   "items": [
     {
       "title": "Brave Sells Its Search Index To AI, And Your Website Is Probably In It via @sejournal, @slobodanmanic",
@@ -132,6 +132,19 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeFJrTndyU0YxbVJDNzFXWFlvVUpBSzVfYXBmd2ZkcEpLRTg0LTk5a2gtcHVnNGR5UTNFMEZVTERvVktXQzl4SlA5NnJyblh2cF8zU0xsdU0tekF5MmlCbkEzT21TVVgxLUgzemVpcERhdmNHY0VYR082QVVaSXdHQkU5SEFnZEJ5SEZsQXlIQTgyNDg?oc=5",
       "date": "2026-11-06T15:00:00+00:00",
       "description": "Why backlinks alone won’t save big brands in AI search &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How to make your Instagram videos easier to find in search - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxVGFzY3pSN3liTExJZVZsa1hkOTUyb2RJcWlEblF0MlB6Tm5hMGE2elN3NHI2UFU1SUpUVEwxS2Q5ZzNYQ21qUXdFODZnZHVFaGwtNklwVHNJcW1Nd01kMDNubS1yZ3BuQkkwMUJUNl84VmZ2VGc?oc=5",
+      "date": "2026-11-06T14:00:00+00:00",
+      "description": "How to make your Instagram videos easier to find in search &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -502,7 +515,7 @@
       "link": "https://www.searchenginejournal.com/google-goto-result-links-throttling/595959/",
       "date": "2026-11-05T11:48:21+00:00",
       "description": "SERP data providers say Google throttles goto links per results page, so some rank data may store Google redirect links in place of page URLs. The post SERP Data Providers Say Google Is Throttling Goto Result Links appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-goto-links-hourglass.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -680,19 +693,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "What channels grow when organic search shrinks? - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb2hiMy16b0FjNF92WjBUbG9DbWhtUlRHSFZ4V2xpU0F3a1VqOHpEcms1OTM2VjB3TkFJbEdGdnZDRFNwc1dZVlFmMk1QRzlyZU1Wdzl0TUd4N01pd0lFLVBFLXZCMzJQZTRoYlFsOF8zRW9mazh2dzJDTl9Ubngwd0tQSlV5a1p6MFE?oc=5",
-      "date": "2026-11-04T13:00:00+00:00",
-      "description": "What channels grow when organic search shrinks? &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
