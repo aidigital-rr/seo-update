@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T06:42:44.630055+00:00",
+  "updatedAt": "2026-11-08T13:51:39.369832+00:00",
   "items": [
     {
       "title": "Google Rank Data Issues, Lighthouse Update & AI Opt-Out – SEO Pulse via @sejournal, @MattGSouthern",
@@ -30,6 +30,19 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95UDVvcUYxU1NEVW00QWhMRmZfUXhQQVpSdk5wa05DTFBsdGJRZVdzVUhSaWRLcGdUbXhVT0dnNkhETjN3ME95azV3aWpLcG5YR0hvdzJQWGlGT25tWXc?oc=5",
       "date": "2026-11-06T19:42:01+00:00",
       "description": "How to calculate share of voice (+ Why it matters for SEO) &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How to conduct a backlink audit: Tips, tools, & examples - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRbERXWHFxN0NoaGpWcG85c3BfVFA3di01MDFFQVY3c2FOT2ptLUtMdUJHX2hXS2tVeTY0R0NtWjY0R1MtYXlUeGRoZ3lZVmdQN3ZPLWYtZTIxamw5QWkxaVVMbUNJX0hTQWY4ZXBlWQ?oc=5",
+      "date": "2026-11-06T19:21:45+00:00",
+      "description": "How to conduct a backlink audit: Tips, tools, & examples &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -176,19 +189,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "AI reasoning, refusals, and the case for SEO verification - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MSWFKZ3poUmRkLUxnWFBvZGZjYkpNME9QckhkUFhyU1NuQnJUWWRqOWVrVC0yWDlqX1djYjVDRWlEWm8zRUloOVloYm1jM052b2NEd0xUOWhpb0VnbGg5Q0g0N1pkYmNOU3NtUy1WX293ZXJzY3hPY1N1Y1hkWU0?oc=5",
-      "date": "2026-11-06T13:00:00+00:00",
-      "description": "AI reasoning, refusals, and the case for SEO verification &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     },
     {
@@ -345,6 +345,19 @@
       ]
     },
     {
+      "title": "AI knows what your brand does, but not who it’s for - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX2QxbGFGNXZjMU1nQ1huRjJYY0pTYUtZS3YxVlZfYXREN3BBLUV0bGdJZVVMWkxiMXN3Vk9DbTd4bXFfV2ZOSjNtTVpkWFdPMHE1c2FwWFVjaWM5N2tseVJteThWa1pwRFA5eUhhdlRaWlI1eEZKNHgzLTZZNjFrWTh3OHdBY0ppNkdkUFp3?oc=5",
+      "date": "2026-11-05T17:00:00+00:00",
+      "description": "AI knows what your brand does, but not who it’s for &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Most ChatGPT Ads In Beauty & Travel Ran On Research Prompts: Report via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-ai-answer-ads-apparel-electronics-report/595984/",
       "date": "2026-11-05T15:15:08+00:00",
@@ -353,6 +366,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Local grocery chain outranks Wikipedia on Google for ‘apples’ - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbnpfVDY4SjF5TkNseXlwYzFYWjRhVUNvallsVlpYc2JIV0U2ejJaM3JfbWNDQTNlcjVqOFlaQnJUWDNCVlhIcWxrS1Rub3U0SFc3a2VjQjRzS29LVGc1amh6UmZ0TlpSazA5T2tPUldVVXd6ZEpkUlhKcFE3Z0xGX3M4RGdPOHFaQWIyb1NzZUlDUQ?oc=5",
+      "date": "2026-11-05T15:01:28+00:00",
+      "description": "Local grocery chain outranks Wikipedia on Google for ‘apples’ &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -386,6 +412,19 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWFRQdEdFallYZkI4V3cxb2xuM3pwNGxsSDlJb1B6dC1sYUlfdmhGT3V5RC1UUzVIVER3UV9nYU9JalMwTFpScjlzSGVXMjZ0a3phcjlOSS1pTG1zbm9sTzZ1dzAzUXRoUUN1Rk9PMG5mY24zOTlCSGZ3RXhRWGNSQVRzdVpwVV9IU0xzVXlWS2VmZWk3aHFnRm9xOElWdjQ?oc=5",
       "date": "2026-11-05T15:00:00+00:00",
       "description": "Google Ads may count offline conversions in the wrong accounts &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google sends notifications for site reputation abuse policy manual actions that don't apply in the European Economic Area - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbEh0Y0UwTURyclp2VlNsQ3J0VFRDa3dHNXBJbll2WUoyZktiQ3RySFFaMzI5al9mai1kS2c2WHFQNE41WTF1a3prdnBJZEFIUGJlUnJJbFc2ckdRNEJibmJCUWJaTmEtWlJFZ0Y3Sl9rbFNBWkVWTXJvcnB4Q3RZQjVOWGxyVF9WUVJ4Z1ZwRVJHSTM1U09Dc25lNzFFcEsyajlkM1FSVW1ydFotRFlpR1BpZ3k0dmJ5cE16UmpTREFqVGFwZ1BBUWdaOFREckk0emhOS09XanU0Y1MxanprMkRwQjQ1M3JUdm9kNA?oc=5",
+      "date": "2026-11-05T14:40:59+00:00",
+      "description": "Google sends notifications for site reputation abuse policy manual actions that don't apply in the European Economic Area &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -476,7 +515,7 @@
       "link": "https://www.searchenginejournal.com/google-explains-how-redirects-affect-ranking-signals/595967/",
       "date": "2026-11-05T12:23:47+00:00",
       "description": "Google clarifies how server-side redirects influence ranking signals and canonicalization. The post Google Explains How Redirects Affect Ranking Signals appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-redirects-seo-30.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -488,7 +527,7 @@
       "link": "https://www.searchenginejournal.com/google-goto-result-links-throttling/595959/",
       "date": "2026-11-05T11:48:21+00:00",
       "description": "SERP data providers say Google throttles goto links per results page, so some rank data may store Google redirect links in place of page URLs. The post Google Appears To Limit How Fast Goto Result Links Can Be Followed appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-goto-links-hourglass.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -500,7 +539,7 @@
       "link": "https://www.searchenginejournal.com/ai-visibility-vs-search-rankings-is-your-agency-measuring-the-wrong-thing-for-2027-spa/594163/",
       "date": "2026-11-05T06:03:53+00:00",
       "description": "Measure AI visibility beyond rankings and citations. Use inclusion, framing, and endorsement to show clients what changed and what to do next. The post AI Visibility vs. Search Rankings: Is Your Agency Measuring the Wrong Thing For 2027? appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/webpros-partner-stories-featured-1600x832-443.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -556,6 +595,19 @@
       ]
     },
     {
+      "title": "Negative prompts have 2x impact on ChatGPT brand sentiment - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVkU3Qks1SmppcUhSTEdTRDEtMHRvTE93dzJFSEROcVBZbk53STlSOGZxc21Kajd3VmtjN0l1bzdZXzl1bkpmNUNHZE9JQmw3R3VTem5TaWNHLUFPVFU5Z0pyVEVUU2VyQlVNSGZkdW1ZMlF6aElQSElKUVdUbzJjTXRtblc5Yko3YjYxczhPbkhnYk0?oc=5",
+      "date": "2026-11-04T19:31:09+00:00",
+      "description": "Negative prompts have 2x impact on ChatGPT brand sentiment &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Reach Is No Longer The KPI: 4 Signals From Jupiter Festival Miami That Reset 2027 Media Budgets via @sejournal, @gregjarboe",
       "link": "https://www.searchenginejournal.com/reach-is-losing-as-a-paid-media-kpi-4-signals-from-jupiter-festival-miami-for-2027/595221/",
       "date": "2026-11-04T18:00:49+00:00",
@@ -568,10 +620,10 @@
       ]
     },
     {
-      "title": "Google organic click share reaches 15-month high: Report - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdWlKanpvbFJ4c0tDb1NQMXdSekt5aTFwOGFwR0M5SWRtbE15UFZTSFZiU0FvY21rekViVVZmWnNpeXFnSnRRVzBwUmtfY0piNkR0NDVOY2wwUURrdXc4bVBnci1RWDc4QUwwV2lucjdDX2RReXUwOWpSZlJKM0Nidjd4dmMxTFFBS3hV?oc=5",
-      "date": "2026-11-04T17:15:44+00:00",
-      "description": "Google organic click share reaches 15-month high: Report &nbsp;&nbsp; Search Engine Land",
+      "title": "Google AI Mode adds home services booking links - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSmtqTkFjWkZZbG96b1dLNHN4anlXVkVqV2N0a0d6ZHl4T3p1QnNrdl9vNzJrVVZILS1VbTNIVVQ1UVFPQk5mbUpJdDBJTlR0VkVPTEhpVG9zWFhsc3dOME41OURJcFVSOXlDZ016a0ZMNFpLeE53cnJ0NzRvYkhJci1XTUR1QUY1eHpn?oc=5",
+      "date": "2026-11-04T17:44:02+00:00",
+      "description": "Google AI Mode adds home services booking links &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -581,10 +633,10 @@
       ]
     },
     {
-      "title": "Product feeds are becoming the new ad creative in Google AI Mode - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR0h0QnExNFhuUWd5ZVVoN1M1dDRBNkxmQnhpZEdUNzlZcE9lLWJxMXh2U0J1NEFGNWZVWW1Rc1RQX0gwRmwwYkh3dkNQdnQ0ajQwcFBVNlFMVjd4dVU2VW9ESHZHaWRnWnJCZzk2eUFYZlF2OU9LZTN1dEk4QlFIaU94RFhZSDg?oc=5",
-      "date": "2026-11-04T16:00:00+00:00",
-      "description": "Product feeds are becoming the new ad creative in Google AI Mode &nbsp;&nbsp; Search Engine Land",
+      "title": "Google organic click share reaches 15-month high: Report - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdWlKanpvbFJ4c0tDb1NQMXdSekt5aTFwOGFwR0M5SWRtbE15UFZTSFZiU0FvY21rekViVVZmWnNpeXFnSnRRVzBwUmtfY0piNkR0NDVOY2wwUURrdXc4bVBnci1RWDc4QUwwV2lucjdDX2RReXUwOWpSZlJKM0Nidjd4dmMxTFFBS3hV?oc=5",
+      "date": "2026-11-04T17:15:44+00:00",
+      "description": "Google organic click share reaches 15-month high: Report &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -632,19 +684,6 @@
       ]
     },
     {
-      "title": "What channels grow when organic search shrinks? - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb2hiMy16b0FjNF92WjBUbG9DbWhtUlRHSFZ4V2xpU0F3a1VqOHpEcms1OTM2VjB3TkFJbEdGdnZDRFNwc1dZVlFmMk1QRzlyZU1Wdzl0TUd4N01pd0lFLVBFLXZCMzJQZTRoYlFsOF8zRW9mazh2dzJDTl9Ubngwd0tQSlV5a1p6MFE?oc=5",
-      "date": "2026-11-04T13:00:00+00:00",
-      "description": "What channels grow when organic search shrinks? &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Search Central Live in Zurich is back!",
       "link": "https://developers.google.com/search/blog/2026/11/search-central-live-zurich-2026",
       "date": "2026-11-04T00:00:00+00:00",
@@ -658,49 +697,10 @@
       ]
     },
     {
-      "title": "Is Google poisoning more than just search results? - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbG5jOFNOMVhCUGN0dnBIZDUtbkJVWlhoejRXVEdxUFVFQmlXM3R6ZzV2ZU12SXJNWXF1Ry1VYk5SdnUwakV4dWJmdlZNYzQwV1d3RTl3YjlfdkxmRVd6TWdVc25EaEI4ejdSNHEzVHc5UmZZYTgtcmJkUi1fbXR1UDluYw?oc=5",
-      "date": "2026-11-03T16:47:52+00:00",
-      "description": "Is Google poisoning more than just search results? &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Search Console is showing some huge spikes in clicks in the performance report - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWlmNERLU2YtVW91VTd2S09vQ0I2NUpZeC1OZDd1cm1xT0hiN0hia1dva2pNVmlBY005VjRVN3VJTUNWX1JuY0VFTlhkWHNCMkp1WlRJUURpNWU2YXh3WWRFdEdkVVliaXl4ZFozM0ZiYUI1VXdtV1JReThycXpWV0hKOXVQeW5mMWtHb3BuaVh1U2tsQ1JIX1ZnU1Ridm9LSnkzS0RFdGV0VGxwdC1SZTJRMXcyMXVHSWJHRkdB?oc=5",
-      "date": "2026-11-03T15:43:23+00:00",
-      "description": "Google Search Console is showing some huge spikes in clicks in the performance report &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to use Google Ads attributed branded searches to measure brand impact - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWWd5V0xqd2FydXNxS2JUUHpOZzhGYUZEeDZkREZWeHVKZ2xaUUtQLWhxQW1CR3U1SE5MREJhV3hzU3lOT1RiN3g5Mk56cFN0UnA4X3hfTG1XYnA0MDVkSlY1am1zSTBWLTFaeFUtRWh3bzN1N2g1MmYwTk8yLWFNTGg4UFYzMnNoRDEzLUxGazR2SEppMU5wYjFhMA?oc=5",
-      "date": "2026-11-03T14:00:00+00:00",
-      "description": "How to use Google Ads attributed branded searches to measure brand impact &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Managed SEO automation: Faster workflows, higher expectations - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52THExdFJoaFh3dG5vQlBYdVVqdjdjNHplNmVLMk1yUHp6Q2lWN3l2dUtIOXVjZzF4NTlHTFZPWkhDdmJFbWgzUUVaRjE4b3owR2xsazI4Y01HMDF1aUM1dE5KbWs5bmRmOWc?oc=5",
-      "date": "2026-11-03T13:00:00+00:00",
-      "description": "Managed SEO automation: Faster workflows, higher expectations &nbsp;&nbsp; Search Engine Land",
+      "title": "Reddit begins testing ads in search results - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tdXFKSS1iY1NQQUVYRU9OWjl3XzgxN2tTb1ZKVkxkRzhmRW14SFBwOFlDNTVwNGcwY0VGT1FZU2x4Q2RjTGU0aTkycmQxaVM5YmdSdXp5eTJDeW1jRjFhQXk0c1F1dVE5RGlxeW1zNnBIR0NYX2dMRg?oc=5",
+      "date": "2026-11-03T22:10:55+00:00",
+      "description": "Reddit begins testing ads in search results &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
