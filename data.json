@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T20:52:38.254345+00:00",
+  "updatedAt": "2026-11-08T00:32:50.301101+00:00",
   "items": [
     {
       "title": "Rank Data Problems, PageSpeed Scores & AI Training Opt-Out – SEO Pulse via @sejournal, @MattGSouthern",
@@ -30,19 +30,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95UDVvcUYxU1NEVW00QWhMRmZfUXhQQVpSdk5wa05DTFBsdGJRZVdzVUhSaWRLcGdUbXhVT0dnNkhETjN3ME95azV3aWpLcG5YR0hvdzJQWGlGT25tWXc?oc=5",
       "date": "2026-11-06T19:42:01+00:00",
       "description": "How to calculate share of voice (+ Why it matters for SEO) &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to conduct a backlink audit: Tips, tools, & examples - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRbERXWHFxN0NoaGpWcG85c3BfVFA3di01MDFFQVY3c2FOT2ptLUtMdUJHX2hXS2tVeTY0R0NtWjY0R1MtYXlUeGRoZ3lZVmdQN3ZPLWYtZTIxamw5QWkxaVVMbUNJX0hTQWY4ZXBlWQ?oc=5",
-      "date": "2026-11-06T19:21:45+00:00",
-      "description": "How to conduct a backlink audit: Tips, tools, & examples &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -320,6 +307,19 @@
       ]
     },
     {
+      "title": "ChatGPT Ads bidding options are changing on November 9th - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMjJJMWpYczE2cm54Q2podmZSSTdvcHFmTFZKMlhUdTVxVmJ4ZjVUalpSODc0blREMXY3eFMwX25SbldjemU4SW9sZHJlX0FSMklEYlFGYmt1TFM3d3lOVEh6Q1NlQ3VLSlhiNWJHT3NRS2gtWWp3aWpWVXl0QnZOajE0cUVyUUYtbDNSUG5sTjZlcl9GY1dn?oc=5",
+      "date": "2026-11-05T18:36:10+00:00",
+      "description": "ChatGPT Ads bidding options are changing on November 9th &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "OpenAI Updates ChatGPT Ads Bidding Options For Max Bid or Max CPC",
       "link": "https://www.seroundtable.com/openai-updates-chatgpt-ads-bidding-options-42470.html",
       "date": "2026-11-05T18:29:00+00:00",
@@ -383,19 +383,6 @@
       ]
     },
     {
-      "title": "Local grocery chain outranks Wikipedia on Google for ‘apples’ - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbnpfVDY4SjF5TkNseXlwYzFYWjRhVUNvallsVlpYc2JIV0U2ejJaM3JfbWNDQTNlcjVqOFlaQnJUWDNCVlhIcWxrS1Rub3U0SFc3a2VjQjRzS29LVGc1amh6UmZ0TlpSazA5T2tPUldVVXd6ZEpkUlhKcFE3Z0xGX3M4RGdPOHFaQWIyb1NzZUlDUQ?oc=5",
-      "date": "2026-11-05T15:01:28+00:00",
-      "description": "Local grocery chain outranks Wikipedia on Google for ‘apples’ &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Ask A PPC: How Do I Get Better Leads, Not Just More Conversions? via @sejournal, @navahf",
       "link": "https://www.searchenginejournal.com/ask-a-ppc-how-to-optimize-for-better-outcomes-not-just-conversions/594569/",
       "date": "2026-11-05T15:00:32+00:00",
@@ -425,19 +412,6 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWFRQdEdFallYZkI4V3cxb2xuM3pwNGxsSDlJb1B6dC1sYUlfdmhGT3V5RC1UUzVIVER3UV9nYU9JalMwTFpScjlzSGVXMjZ0a3phcjlOSS1pTG1zbm9sTzZ1dzAzUXRoUUN1Rk9PMG5mY24zOTlCSGZ3RXhRWGNSQVRzdVpwVV9IU0xzVXlWS2VmZWk3aHFnRm9xOElWdjQ?oc=5",
       "date": "2026-11-05T15:00:00+00:00",
       "description": "Google Ads may count offline conversions in the wrong accounts &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google sends notifications for site reputation abuse policy manual actions that don't apply in the European Economic Area - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbEh0Y0UwTURyclp2VlNsQ3J0VFRDa3dHNXBJbll2WUoyZktiQ3RySFFaMzI5al9mai1kS2c2WHFQNE41WTF1a3prdnBJZEFIUGJlUnJJbFc2ckdRNEJibmJCUWJaTmEtWlJFZ0Y3Sl9rbFNBWkVWTXJvcnB4Q3RZQjVOWGxyVF9WUVJ4Z1ZwRVJHSTM1U09Dc25lNzFFcEsyajlkM1FSVW1ydFotRFlpR1BpZ3k0dmJ5cE16UmpTREFqVGFwZ1BBUWdaOFREckk0emhOS09XanU0Y1MxanprMkRwQjQ1M3JUdm9kNA?oc=5",
-      "date": "2026-11-05T14:40:59+00:00",
-      "description": "Google sends notifications for site reputation abuse policy manual actions that don't apply in the European Economic Area &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -515,7 +489,7 @@
       "link": "https://www.seroundtable.com/google-ads-pmax-channel-report-search-42454.html",
       "date": "2026-11-05T12:41:00+00:00",
       "description": "Google updated its Definition: Performance Max channel help document to specify that channel definitions are coming to the Performance Max channel report for standard Search and Shopping reports in 2027.",
-      "image": "",
+      "image": "https://images.seroundtable.com/google-ads-channel-help-doc-note-KH4rqGjl.png",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -528,7 +502,7 @@
       "link": "https://www.searchenginejournal.com/google-explains-how-redirects-affect-ranking-signals/595967/",
       "date": "2026-11-05T12:23:47+00:00",
       "description": "Google clarifies how server-side redirects influence ranking signals and canonicalization. The post Google Explains How Redirects Affect Ranking Signals appeared first on Search Engine Journal .",
-      "image": "",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-redirects-seo-30.jpg",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -697,10 +671,36 @@
       ]
     },
     {
-      "title": "Reddit begins testing ads in search results - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tdXFKSS1iY1NQQUVYRU9OWjl3XzgxN2tTb1ZKVkxkRzhmRW14SFBwOFlDNTVwNGcwY0VGT1FZU2x4Q2RjTGU0aTkycmQxaVM5YmdSdXp5eTJDeW1jRjFhQXk0c1F1dVE5RGlxeW1zNnBIR0NYX2dMRg?oc=5",
-      "date": "2026-11-03T22:10:55+00:00",
-      "description": "Reddit begins testing ads in search results &nbsp;&nbsp; Search Engine Land",
+      "title": "Is Google poisoning more than just search results? - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbG5jOFNOMVhCUGN0dnBIZDUtbkJVWlhoejRXVEdxUFVFQmlXM3R6ZzV2ZU12SXJNWXF1Ry1VYk5SdnUwakV4dWJmdlZNYzQwV1d3RTl3YjlfdkxmRVd6TWdVc25EaEI4ejdSNHEzVHc5UmZZYTgtcmJkUi1fbXR1UDluYw?oc=5",
+      "date": "2026-11-03T16:47:52+00:00",
+      "description": "Is Google poisoning more than just search results? &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Search Console is showing some huge spikes in clicks in the performance report - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWlmNERLU2YtVW91VTd2S09vQ0I2NUpZeC1OZDd1cm1xT0hiN0hia1dva2pNVmlBY005VjRVN3VJTUNWX1JuY0VFTlhkWHNCMkp1WlRJUURpNWU2YXh3WWRFdEdkVVliaXl4ZFozM0ZiYUI1VXdtV1JReThycXpWV0hKOXVQeW5mMWtHb3BuaVh1U2tsQ1JIX1ZnU1Ridm9LSnkzS0RFdGV0VGxwdC1SZTJRMXcyMXVHSWJHRkdB?oc=5",
+      "date": "2026-11-03T15:43:23+00:00",
+      "description": "Google Search Console is showing some huge spikes in clicks in the performance report &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "7 technical SEO checks for vibe-coded websites - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMmJSU0oya3JQS0FDc3ZDelp1Y3VJaTY2dGZmZm9Zcm9sLVNOcHZob2pIdU5GOUlOX0pJaTRSZW1mT3ZqNnpIS3diSFU5bW1kazRxN0F2cFg3TTZDMXRka0VORjFqM0JDallZZmpFRHpfblZQUm5FRW9FUDh3cWFCWW93?oc=5",
+      "date": "2026-11-03T15:00:00+00:00",
+      "description": "7 technical SEO checks for vibe-coded websites &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
