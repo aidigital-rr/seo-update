@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-08T13:51:39.369832+00:00",
+  "updatedAt": "2026-11-08T18:49:19.983551+00:00",
   "items": [
+    {
+      "title": "Cloudflare CEO Likens AI Agent Optimization To A New Version Of SEO via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/cloudflare-ai-agent-optimization-new-seo/596248/",
+      "date": "2026-11-08T18:07:49+00:00",
+      "description": "Cloudflare's CEO says OpenAI pays for hints that tell its crawler when pages change, and sites may charge agents less when they explain their visits. The post Cloudflare CEO Likens AI Agent Optimization To A New Version Of SEO appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/cloudflare-openai-featured.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Google Rank Data Issues, Lighthouse Update & AI Opt-Out – SEO Pulse via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/seo-pulse-rank-data-problems-pagespeed-scores-ai-training-opt-out/596104/",
@@ -30,6 +42,19 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95UDVvcUYxU1NEVW00QWhMRmZfUXhQQVpSdk5wa05DTFBsdGJRZVdzVUhSaWRLcGdUbXhVT0dnNkhETjN3ME95azV3aWpLcG5YR0hvdzJQWGlGT25tWXc?oc=5",
       "date": "2026-11-06T19:42:01+00:00",
       "description": "How to calculate share of voice (+ Why it matters for SEO) &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "The latest jobs in search marketing - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
+      "date": "2026-11-06T19:28:43+00:00",
+      "description": "The latest jobs in search marketing &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -157,19 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeFJrTndyU0YxbVJDNzFXWFlvVUpBSzVfYXBmd2ZkcEpLRTg0LTk5a2gtcHVnNGR5UTNFMEZVTERvVktXQzl4SlA5NnJyblh2cF8zU0xsdU0tekF5MmlCbkEzT21TVVgxLUgzemVpcERhdmNHY0VYR082QVVaSXdHQkU5SEFnZEJ5SEZsQXlIQTgyNDg?oc=5",
       "date": "2026-11-06T15:00:00+00:00",
       "description": "Why backlinks alone won’t save big brands in AI search &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to make your Instagram videos easier to find in search - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxVGFzY3pSN3liTExJZVZsa1hkOTUyb2RJcWlEblF0MlB6Tm5hMGE2elN3NHI2UFU1SUpUVEwxS2Q5ZzNYQ21qUXdFODZnZHVFaGwtNklwVHNJcW1Nd01kMDNubS1yZ3BuQkkwMUJUNl84VmZ2VGc?oc=5",
-      "date": "2026-11-06T14:00:00+00:00",
-      "description": "How to make your Instagram videos easier to find in search &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -408,19 +420,6 @@
       ]
     },
     {
-      "title": "Google Ads may count offline conversions in the wrong accounts - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWFRQdEdFallYZkI4V3cxb2xuM3pwNGxsSDlJb1B6dC1sYUlfdmhGT3V5RC1UUzVIVER3UV9nYU9JalMwTFpScjlzSGVXMjZ0a3phcjlOSS1pTG1zbm9sTzZ1dzAzUXRoUUN1Rk9PMG5mY24zOTlCSGZ3RXhRWGNSQVRzdVpwVV9IU0xzVXlWS2VmZWk3aHFnRm9xOElWdjQ?oc=5",
-      "date": "2026-11-05T15:00:00+00:00",
-      "description": "Google Ads may count offline conversions in the wrong accounts &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google sends notifications for site reputation abuse policy manual actions that don't apply in the European Economic Area - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbEh0Y0UwTURyclp2VlNsQ3J0VFRDa3dHNXBJbll2WUoyZktiQ3RySFFaMzI5al9mai1kS2c2WHFQNE41WTF1a3prdnBJZEFIUGJlUnJJbFc2ckdRNEJibmJCUWJaTmEtWlJFZ0Y3Sl9rbFNBWkVWTXJvcnB4Q3RZQjVOWGxyVF9WUVJ4Z1ZwRVJHSTM1U09Dc25lNzFFcEsyajlkM1FSVW1ydFotRFlpR1BpZ3k0dmJ5cE16UmpTREFqVGFwZ1BBUWdaOFREckk0emhOS09XanU0Y1MxanprMkRwQjQ1M3JUdm9kNA?oc=5",
       "date": "2026-11-05T14:40:59+00:00",
@@ -438,6 +437,19 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYzBHVlhXU0ZUNU1GMzdqNWd1QjF2SjRhdDRFWDBmdWxWVmhocHA2WGhON0NoQzRybElaQVFVVHh4NXc3UHpUWkxxX2JnMnVJb2J1WVhYOVRwV2JaRWNGelcyeUd2MDFZbTZiZ2EyWTV4ZFJPN3d4ZnZQcWN2ZXBpUUxDSXpuWk5fdVRLLW83Z3R5UUZQV2Z1WFdIYzdXb2FUTEpZekNoQVM2Zw?oc=5",
       "date": "2026-11-05T14:32:36+00:00",
       "description": "Google Ads Search terms match type vs Search terms match type (Keywords) &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "SEO can’t fix a broken sales process - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2VWFmM3dMTjM4T2l5RVo0LThzOHFNNWJUd24tOFBHTEhKRW1JYlpDX09YemM1emR0ZkxNaGNqdzBRc0UxQ19EbnhPS2xoRUZUbXdCN0d4ci1yUGxFLVFVTnRWWGFkQVlMT3dpc2NDUVE0S2QxTmg4aE82NA?oc=5",
+      "date": "2026-11-05T14:00:00+00:00",
+      "description": "SEO can’t fix a broken sales process &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -502,7 +514,7 @@
       "link": "https://www.seroundtable.com/google-ads-pmax-channel-report-search-42454.html",
       "date": "2026-11-05T12:41:00+00:00",
       "description": "Google updated its Definition: Performance Max channel help document to specify that channel definitions are coming to the Performance Max channel report for standard Search and Shopping reports in 2027.",
-      "image": "https://images.seroundtable.com/google-ads-channel-help-doc-note-KH4rqGjl.png",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -659,14 +671,15 @@
       ]
     },
     {
-      "title": "Your CMS Is Still Failing SEO Basics – 11 Fixes To Demand via @sejournal, @sallymills",
-      "link": "https://www.searchenginejournal.com/the-11-seo-features-every-cms-should-ship-with-most-still-dont/594074/",
-      "date": "2026-11-04T15:00:12+00:00",
-      "description": "Cut recurring developer tickets with essential CMS SEO controls, smarter automation, and safeguards against indexing and redirect mistakes. The post Your CMS Is Still Failing SEO Basics – 11 Fixes To Demand appeared first on Search Engine Journal .",
+      "title": "3 in 4 homepages lost organic clicks: An analysis of 110 sites - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ULWc3N0VTRHpwbnlNZ2xjbi04ZUxvNkZrSkVob3doUmtLMjIxcXp4UWFCaEluZTdqQjNrQ1J2cDc2ZzRHZ3REdEFQMUM2bW4yTXlVSC1kVlBLZ0duQmpEWDd1MEd1ZkdSRFZMbEhBdDFGOVk5enpELVQyUGxxWE0?oc=5",
+      "date": "2026-11-04T15:00:00+00:00",
+      "description": "3 in 4 homepages lost organic clicks: An analysis of 110 sites &nbsp;&nbsp; Search Engine Land",
       "image": "",
-      "source": "Search Engine Journal",
+      "source": "Search Engine Land",
       "tags": [
         "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -694,19 +707,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "Reddit begins testing ads in search results - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tdXFKSS1iY1NQQUVYRU9OWjl3XzgxN2tTb1ZKVkxkRzhmRW14SFBwOFlDNTVwNGcwY0VGT1FZU2x4Q2RjTGU0aTkycmQxaVM5YmdSdXp5eTJDeW1jRjFhQXk0c1F1dVE5RGlxeW1zNnBIR0NYX2dMRg?oc=5",
-      "date": "2026-11-03T22:10:55+00:00",
-      "description": "Reddit begins testing ads in search results &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     },
     {
