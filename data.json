@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-09T02:38:38.463210+00:00",
+  "updatedAt": "2026-11-09T10:20:40.311687+00:00",
   "items": [
+    {
+      "title": "Google’s AI Features Sent One Site An Estimated 21% Of Its Clicks via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-ai-features-sent-one-site-an-estimated-21-of-its-clicks/596267/",
+      "date": "2026-11-09T09:00:00+00:00",
+      "description": "One site opted out of Google’s AI features to estimate its clicks from AI Overviews and AI Mode, plus a possible lift on regular listings. The post Google&#8217;s AI Features Sent One Site An Estimated 21% Of Its Clicks appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-clicks-featured.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Create More Helpful Content For AI Search With 9 Practical Workflows [Webinar] via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/create-more-helpful-content-for-ai-search-with-9-practical-workflows-webinar/596241/",
+      "date": "2026-11-09T06:03:22+00:00",
+      "description": "Use AI workflows to turn customer insights into helpful content for AI search and reduce manual publishing and reporting. Join us November 18 at 2 PM ET. The post Create More Helpful Content For AI Search With 9 Practical Workflows [Webinar] appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/callrail-ai-content-workflow-automation-announcement-sej.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Tripadvisor Says SEO Will Still Weigh On Growth In 2027 via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/tripadvisor-says-seo-will-still-weigh-on-growth-in-2027/596257/",
@@ -114,6 +138,19 @@
       ]
     },
     {
+      "title": "When does your ecommerce site need a new category page? - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBybEFLMjNwOGU3bkRPVDNBTlNxU29ONXF0RjQxUS1kOFR6S1FwVGxUeWduR2hXaTI2aWNHV2x6Z21sNGhRc0RsS3BjN3UtSE1LVTJOMHF2aUxWbmczYWdGODM4Z014dlZvT2ZGTzMyRHRwY3lsZ0x3?oc=5",
+      "date": "2026-11-06T16:00:00+00:00",
+      "description": "When does your ecommerce site need a new category page? &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "OpenAI testing business tools to track performance within ChatGPT - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM0x6dm1kMVdQdzg3QnB4Q2hjQWx0TVRTUXFDQkFjMnR5QXZfZTFPTnJneWRHR0EyempheTFrN0xUeUtXSDdfNWNOQTczSjVha3dteUtPQngxZXF5NjlCaHFwczdwTHdWRHJ0TmxjWVBnUDQzaUN5bGZpdnFKZjJwVFNqQWk5RzVIVGJvT0pDalZLX3poTWVpTzF4ZUFHU2xxUXIw?oc=5",
       "date": "2026-11-06T15:54:41+00:00",
@@ -190,6 +227,19 @@
       ]
     },
     {
+      "title": "How to make your Instagram videos easier to find in search - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxVGFzY3pSN3liTExJZVZsa1hkOTUyb2RJcWlEblF0MlB6Tm5hMGE2elN3NHI2UFU1SUpUVEwxS2Q5ZzNYQ21qUXdFODZnZHVFaGwtNklwVHNJcW1Nd01kMDNubS1yZ3BuQkkwMUJUNl84VmZ2VGc?oc=5",
+      "date": "2026-11-06T14:00:00+00:00",
+      "description": "How to make your Instagram videos easier to find in search &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Search News Buzz Video Recap: Google Scaled Content Abuse From Facebook, ChatGPT Search 20% Of Google & More SEO, PPC & Local",
       "link": "https://www.seroundtable.com/video-11-06-2026-42469.html",
       "date": "2026-11-06T13:01:00+00:00",
@@ -200,6 +250,19 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "AI reasoning, refusals, and the case for SEO verification - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MSWFKZ3poUmRkLUxnWFBvZGZjYkpNME9QckhkUFhyU1NuQnJUWWRqOWVrVC0yWDlqX1djYjVDRWlEWm8zRUloOVloYm1jM052b2NEd0xUOWhpb0VnbGg5Q0g0N1pkYmNOU3NtUy1WX293ZXJzY3hPY1N1Y1hkWU0?oc=5",
+      "date": "2026-11-06T13:00:00+00:00",
+      "description": "AI reasoning, refusals, and the case for SEO verification &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
@@ -381,19 +444,6 @@
       ]
     },
     {
-      "title": "Local grocery chain outranks Wikipedia on Google for ‘apples’ - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbnpfVDY4SjF5TkNseXlwYzFYWjRhVUNvallsVlpYc2JIV0U2ejJaM3JfbWNDQTNlcjVqOFlaQnJUWDNCVlhIcWxrS1Rub3U0SFc3a2VjQjRzS29LVGc1amh6UmZ0TlpSazA5T2tPUldVVXd6ZEpkUlhKcFE3Z0xGX3M4RGdPOHFaQWIyb1NzZUlDUQ?oc=5",
-      "date": "2026-11-05T15:01:28+00:00",
-      "description": "Local grocery chain outranks Wikipedia on Google for ‘apples’ &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Ask A PPC: How Do I Get Better Leads, Not Just More Conversions? via @sejournal, @navahf",
       "link": "https://www.searchenginejournal.com/ask-a-ppc-how-to-optimize-for-better-outcomes-not-just-conversions/594569/",
       "date": "2026-11-05T15:00:32+00:00",
@@ -423,32 +473,6 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWFRQdEdFallYZkI4V3cxb2xuM3pwNGxsSDlJb1B6dC1sYUlfdmhGT3V5RC1UUzVIVER3UV9nYU9JalMwTFpScjlzSGVXMjZ0a3phcjlOSS1pTG1zbm9sTzZ1dzAzUXRoUUN1Rk9PMG5mY24zOTlCSGZ3RXhRWGNSQVRzdVpwVV9IU0xzVXlWS2VmZWk3aHFnRm9xOElWdjQ?oc=5",
       "date": "2026-11-05T15:00:00+00:00",
       "description": "Google Ads may count offline conversions in the wrong accounts &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google sends notifications for site reputation abuse policy manual actions that don't apply in the European Economic Area - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbEh0Y0UwTURyclp2VlNsQ3J0VFRDa3dHNXBJbll2WUoyZktiQ3RySFFaMzI5al9mai1kS2c2WHFQNE41WTF1a3prdnBJZEFIUGJlUnJJbFc2ckdRNEJibmJCUWJaTmEtWlJFZ0Y3Sl9rbFNBWkVWTXJvcnB4Q3RZQjVOWGxyVF9WUVJ4Z1ZwRVJHSTM1U09Dc25lNzFFcEsyajlkM1FSVW1ydFotRFlpR1BpZ3k0dmJ5cE16UmpTREFqVGFwZ1BBUWdaOFREckk0emhOS09XanU0Y1MxanprMkRwQjQ1M3JUdm9kNA?oc=5",
-      "date": "2026-11-05T14:40:59+00:00",
-      "description": "Google sends notifications for site reputation abuse policy manual actions that don't apply in the European Economic Area &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads Search terms match type vs Search terms match type (Keywords) - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYzBHVlhXU0ZUNU1GMzdqNWd1QjF2SjRhdDRFWDBmdWxWVmhocHA2WGhON0NoQzRybElaQVFVVHh4NXc3UHpUWkxxX2JnMnVJb2J1WVhYOVRwV2JaRWNGelcyeUd2MDFZbTZiZ2EyWTV4ZFJPN3d4ZnZQcWN2ZXBpUUxDSXpuWk5fdVRLLW83Z3R5UUZQV2Z1WFdIYzdXb2FUTEpZekNoQVM2Zw?oc=5",
-      "date": "2026-11-05T14:32:36+00:00",
-      "description": "Google Ads Search terms match type vs Search terms match type (Keywords) &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -488,7 +512,7 @@
       "link": "https://www.searchenginejournal.com/geo-isnt-a-distraction-referral-data-misses-where-ai-shapes-buying-decisions/595730/",
       "date": "2026-11-05T13:00:43+00:00",
       "description": "GEO's low referral traffic can hide its influence on buying decisions, while cited research shows ChatGPT visitors convert nearly five times better than search visitors. The post GEO Isn&#8217;t A Distraction &#8211; AI Influence Doesn’t Show Up In Referral Data appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/referral-data-misses-746.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -500,7 +524,7 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NR0NCdTM3VVZYeWUtbXVkVGdjclBCcS1fOUI5bnRZcjlSbHc0N3ZxMVdlTXR0NmV6a2FmWENBMjhhRDhKRl9udnlDWkE1ek1ySl9OM1VrWW8tUUNBcG82dEdHaXB0OENSdXViOXNGZmU?oc=5",
       "date": "2026-11-05T13:00:00+00:00",
       "description": "AI visibility belongs in the marketing mix, but not where you think &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -595,56 +619,6 @@
       ]
     },
     {
-      "title": "Businesses Treat Your AI Agent 3 Different Ways via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/businesses-treat-your-ai-agent-3-different-ways/595483/",
-      "date": "2026-11-04T20:00:33+00:00",
-      "description": "If a website cannot tell an AI agent from the customer, it cannot treat the agent differently. Three steps to fix that before agents arrive. The post Businesses Treat Your AI Agent 3 Different Ways appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Adds Home Service Booking & Quote Links To AI Mode via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ai-mode-home-services-booking-quote-links/595871/",
-      "date": "2026-11-04T19:34:49+00:00",
-      "description": "AI Mode now links home service searches to booking and quote pages. Here's how businesses reach those pages and what partners say about lead fees. The post Google Adds Home Service Booking &amp; Quote Links To AI Mode appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Negative prompts have 2x impact on ChatGPT brand sentiment - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVkU3Qks1SmppcUhSTEdTRDEtMHRvTE93dzJFSEROcVBZbk53STlSOGZxc21Kajd3VmtjN0l1bzdZXzl1bkpmNUNHZE9JQmw3R3VTem5TaWNHLUFPVFU5Z0pyVEVUU2VyQlVNSGZkdW1ZMlF6aElQSElKUVdUbzJjTXRtblc5Yko3YjYxczhPbkhnYk0?oc=5",
-      "date": "2026-11-04T19:31:09+00:00",
-      "description": "Negative prompts have 2x impact on ChatGPT brand sentiment &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google AI Mode adds home services booking links - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSmtqTkFjWkZZbG96b1dLNHN4anlXVkVqV2N0a0d6ZHl4T3p1QnNrdl9vNzJrVVZILS1VbTNIVVQ1UVFPQk5mbUpJdDBJTlR0VkVPTEhpVG9zWFhsc3dOME41OURJcFVSOXlDZ016a0ZMNFpLeE53cnJ0NzRvYkhJci1XTUR1QUY1eHpn?oc=5",
-      "date": "2026-11-04T17:44:02+00:00",
-      "description": "Google AI Mode adds home services booking links &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google organic click share reaches 15-month high: Report - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdWlKanpvbFJ4c0tDb1NQMXdSekt5aTFwOGFwR0M5SWRtbE15UFZTSFZiU0FvY21rekViVVZmWnNpeXFnSnRRVzBwUmtfY0piNkR0NDVOY2wwUURrdXc4bVBnci1RWDc4QUwwV2lucjdDX2RReXUwOWpSZlJKM0Nidjd4dmMxTFFBS3hV?oc=5",
       "date": "2026-11-04T17:15:44+00:00",
@@ -684,19 +658,6 @@
       ]
     },
     {
-      "title": "Microsoft Clarity gains agentic analytics, brand agents and Ask Clarity - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ0FCeGRmR2Z4U0ZlY0RyUlZGTHptRzUxYjh4b1d1OVI3bGUzWjRob2pSWW44bWZQeU5paDIwMFBnMlNKQTJOTmlYSXZYRS12RTFBb1FjZHpSWVZ3UWxHWlRSaDlsaUFsVC1DRWk5WFUxLThxZEd1d3l6VUZYUVQ2eHU2Sk5yTWU0VzdxSkdnNGxKc1ByaDJHWE91bTNKTG53NTlJTFNxdGk4QQ?oc=5",
-      "date": "2026-11-04T14:00:00+00:00",
-      "description": "Microsoft Clarity gains agentic analytics, brand agents and Ask Clarity &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Search Central Live in Zurich is back!",
       "link": "https://developers.google.com/search/blog/2026/11/search-central-live-zurich-2026",
       "date": "2026-11-04T00:00:00+00:00",
@@ -707,6 +668,45 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "Reddit begins testing ads in search results - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tdXFKSS1iY1NQQUVYRU9OWjl3XzgxN2tTb1ZKVkxkRzhmRW14SFBwOFlDNTVwNGcwY0VGT1FZU2x4Q2RjTGU0aTkycmQxaVM5YmdSdXp5eTJDeW1jRjFhQXk0c1F1dVE5RGlxeW1zNnBIR0NYX2dMRg?oc=5",
+      "date": "2026-11-03T22:10:55+00:00",
+      "description": "Reddit begins testing ads in search results &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Search Console is showing some huge spikes in clicks in the performance report - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWlmNERLU2YtVW91VTd2S09vQ0I2NUpZeC1OZDd1cm1xT0hiN0hia1dva2pNVmlBY005VjRVN3VJTUNWX1JuY0VFTlhkWHNCMkp1WlRJUURpNWU2YXh3WWRFdEdkVVliaXl4ZFozM0ZiYUI1VXdtV1JReThycXpWV0hKOXVQeW5mMWtHb3BuaVh1U2tsQ1JIX1ZnU1Ridm9LSnkzS0RFdGV0VGxwdC1SZTJRMXcyMXVHSWJHRkdB?oc=5",
+      "date": "2026-11-03T15:43:23+00:00",
+      "description": "Google Search Console is showing some huge spikes in clicks in the performance report &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "7 technical SEO checks for vibe-coded websites - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMmJSU0oya3JQS0FDc3ZDelp1Y3VJaTY2dGZmZm9Zcm9sLVNOcHZob2pIdU5GOUlOX0pJaTRSZW1mT3ZqNnpIS3diSFU5bW1kazRxN0F2cFg3TTZDMXRka0VORjFqM0JDallZZmpFRHpfblZQUm5FRW9FUDh3cWFCWW93?oc=5",
+      "date": "2026-11-03T15:00:00+00:00",
+      "description": "7 technical SEO checks for vibe-coded websites &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
