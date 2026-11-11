@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-11-11T00:02:14.921480+00:00",
+  "updatedAt": "2026-11-11T06:08:21.441227+00:00",
   "items": [
+    {
+      "title": "Google Loses Another Round in Legal Battle Against SerpApi Over Scraping",
+      "link": "https://www.seroundtable.com/google-loses-again-against-serpapi-42508.html",
+      "date": "2026-11-11T00:09:00+00:00",
+      "description": "Google has lost again in SerpApi's scraping legal fight in court, with the court giving Google 21 days to amend its complaint. But this is a major win for SerpApi and this case seems like it might be coming to a close soon.",
+      "image": "https://images.seroundtable.com/ruling-doc-end-google-serpapi-VCl5ReRM.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Meta Paused Its New Business Terms, And Businesses Should Plan As If It Never Gets Better via @sejournal, @slobodanmanic",
       "link": "https://www.searchenginejournal.com/meta-paused-its-new-business-terms-and-businesses-should-plan-as-if-it-never-gets-better/596343/",
@@ -115,6 +128,19 @@
       ]
     },
     {
+      "title": "Google AI Mode for subscribers gains Gemini 4 Carbon - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcDdKZmM5QTJ3NmJvRkttRlZHRDgxWXlpRWxYWkQ0OTN2SlpJTUdFX0cwbHJFRlh5UlF0ZEZDMndoMTE4LUh6LUw1LVYzeWNSTFZ3cWRpaHVRWWpVRnJyWG1hc3ozNmZVaVVldURyb3I3aFlPTXVsSkNjdmU4eFFEel9jMDhoQ3pXelduWFZhbGppQQ?oc=5",
+      "date": "2026-11-10T17:00:45+00:00",
+      "description": "Google AI Mode for subscribers gains Gemini 4 Carbon &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Google Releases Modern Web Guidance 1.0 For AI Coding Agents via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-releases-modern-web-guidance-1-0-for-ai-coding-agents/596495/",
       "date": "2026-11-10T17:00:00+00:00",
@@ -140,10 +166,10 @@
       ]
     },
     {
-      "title": "Top five online reputation tools (Tried & tested) - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PdzJGemZ6WXdBZUxFbUlyVm1QNzRQNUxUMVR6R19vTlBKVjRFalc0NUdpY19jcnVyaV9TZTd4a29mVEVKOW40R0dDUTdYWGgyX1pLWDA3eWxqZC1DZkgyMzZ6NUIxSUEzZXVEY3RVN0NNVkNmVThJYw?oc=5",
-      "date": "2026-11-10T16:43:31+00:00",
-      "description": "Top five online reputation tools (Tried & tested) &nbsp;&nbsp; Search Engine Land",
+      "title": "Google Ads rolls out new pay-per-lead terms requiring advertiser opt-in - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXktQlVVdTNfNlIyMURZRUNqT2s2VHNVemJOQ21HTUZ1T2R3Yl85ZktqUkUtdWJvRHo0bUpvUUx3NXk4SkpubDNoRWZkOU42RTJjemJZTktFMjFtNDE4TE9jU1hfM0N4bTB6eDFWWEZuTnJxZEpkaUNKdEFCRnA3TVVFLW9ZSEtiNWdmZ3RHTEhwcnI2T2hPOXFDazhySHFZenNwSFVRV3ZUdTQ?oc=5",
+      "date": "2026-11-10T16:40:11+00:00",
+      "description": "Google Ads rolls out new pay-per-lead terms requiring advertiser opt-in &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -396,10 +422,10 @@
       ]
     },
     {
-      "title": "Paid Search Is Moving Up The Funnel – Google Admits AI Mode Pays Less via @sejournal, @gregjarboe",
+      "title": "Google Ads Are Reaching Upper-Funnel Searches – But AI Mode Pays Less via @sejournal, @gregjarboe",
       "link": "https://www.searchenginejournal.com/paid-search-is-moving-up-the-funnel-google-admits-ai-mode-pays-less/595875/",
       "date": "2026-11-09T20:00:13+00:00",
-      "description": "Protect PPC budgets as Google's AI Mode pushes search earlier in the buying journey, with four account changes to test whether discovery pays. The post Paid Search Is Moving Up The Funnel – Google Admits AI Mode Pays Less appeared first on Search Engine Journal .",
+      "description": "Protect PPC budgets as Google's AI Mode pushes search earlier in the buying journey, with four account changes to test whether discovery pays. The post Google Ads Are Reaching Upper-Funnel Searches – But AI Mode Pays Less appeared first on Search Engine Journal .",
       "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/top-funnel-952.png",
       "source": "Search Engine Journal",
       "tags": [
@@ -487,7 +513,7 @@
       "link": "https://www.seroundtable.com/recap-11-09-2026-42485.html",
       "date": "2026-11-09T15:00:00+00:00",
       "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. OpenAI is working on a ChatGPT like Search Console, we have a screenshot...",
-      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -500,7 +526,7 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ21Fek5ldFhabWlWSmpzWXJCaGQ2SkhhMW84OXVyUnJMRFpCaHZBcDRmdVZkZ05VcTc5OWxLSVFfZ29XUGxSQWU0OXhHYzhHS0czcGgxdHdnZVdRODBhMVFMNzJueTNQbUxfQkZxNlFRRFM3THZCMDVJMHRMeE9GZ3pxSEhPVVd1V3dsVVFlRk5kUENzSkZRVWoxWlRjTHZuQUVhNg?oc=5",
       "date": "2026-11-09T15:00:00+00:00",
       "description": "AI search activity is nearly invisible in Google Ads search terms reports: Study &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -551,19 +577,6 @@
       "link": "https://www.seroundtable.com/google-ai-mode-multiturn-ads-42478.html",
       "date": "2026-11-09T12:51:00+00:00",
       "description": "A couple of weeks ago, Google announced Multiturn ads, ads show up on responses to follow-up user queries. Well, those ads seem live. I was testing AI Mode on Friday afternoon and here are screenshots and videos of Multiturn ads in AI Mode.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Adding Booking Links To Business Profiles Automatically?",
-      "link": "https://www.seroundtable.com/google-business-profiles-adding-booking-links-42477.html",
-      "date": "2026-11-09T12:41:00+00:00",
-      "description": "Google may automatically add booking links to some local business profile listings. I noticed that on my own profile, I had a booking link added and Brandon Schmidt, Joy Hawkins and Syed Amir posted on Friday that this seems to be happening for more businesses. And in some cases, the booking links break and go to a 500 error on Google's website.",
       "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
@@ -675,19 +688,6 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRbERXWHFxN0NoaGpWcG85c3BfVFA3di01MDFFQVY3c2FOT2ptLUtMdUJHX2hXS2tVeTY0R0NtWjY0R1MtYXlUeGRoZ3lZVmdQN3ZPLWYtZTIxamw5QWkxaVVMbUNJX0hTQWY4ZXBlWQ?oc=5",
       "date": "2026-11-06T19:21:45+00:00",
       "description": "How to conduct a backlink audit: Tips, tools, & examples &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "YouTube description updates linked to 359% rise in AI retrievals - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQblkxbUFPTjdrTDRLM2xCOV9iYnB6aWJsTmRSWnJwWTZtenZ4THotby1KVWFZYmVhaldYOEJSMHNERU9HWjhyX3NlQnAtbjZYd0RLOEYxZDVOSUZqV1V6ZDE0ZzlGSGkxNmxsUFp6VDU4aW9OUHAwSTVIcDNrNHQ5NGNjN2g3dTdHV2VV?oc=5",
-      "date": "2026-11-06T16:13:16+00:00",
-      "description": "YouTube description updates linked to 359% rise in AI retrievals &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
