@@ -1,6 +1,109 @@
 {
-  "updatedAt": "2026-11-11T06:08:21.441227+00:00",
+  "updatedAt": "2026-11-11T14:14:16.695976+00:00",
   "items": [
+    {
+      "title": "Google Ads Gives You More Channel Control – But Not As Much As You Think via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-ads-gives-you-more-channel-control-but-not-as-much-as-you-think/596266/",
+      "date": "2026-11-11T13:00:37+00:00",
+      "description": "Curb unwanted Google Ads spending without losing valuable conversions by understanding where channel priorities and budget allocation limits give you control. The post Google Ads Gives You More Channel Control – But Not As Much As You Think appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ads-control-374.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How software buyers use AI - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNRm5oOFNESWFGUW8wUS14OE1hNUNkRlo5VGdacmx1LXgzTWFzb1VfazJsOENUWXJOVVRLcndrU2xtY2JEZ3JTTEgyd0xUUldna295RjRGM0ZHazA5a09aRl9Oa2E3eFhiMEhLMU9JNA?oc=5",
+      "date": "2026-11-11T13:00:00+00:00",
+      "description": "How software buyers use AI &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "New Google Ads Overview Page: Customer Journey Insights",
+      "link": "https://www.seroundtable.com/google-ads-customer-journey-insights-42510.html",
+      "date": "2026-11-11T12:51:00+00:00",
+      "description": "Google Ads posted a new help document about customer journey insights. \"Customer Journey Insights is a new Google Ads Overview page reporting card pilot for eligible advertisers. It provides transparency into how your campaigns move users across conversion journey stages,\" Google wrote.",
+      "image": "https://images.seroundtable.com/google-ads-customer-journey-insights-mo3agKkG.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Crawled/Discovered - Currently Not Indexed A Site Quality Issue",
+      "link": "https://www.seroundtable.com/google-crawled-discovered-currently-not-indexed-42507.html",
+      "date": "2026-11-11T12:41:00+00:00",
+      "description": "This is not new, but hey, John Mueller from Google said it again, getting a status of Crawled/Discovered - Currently Not Indexed within Google Search Console's page indexing report may be a sign that Google doesn't think your site or those pages are high-quality enough to index.",
+      "image": "https://images.seroundtable.com/john-bluesky-e0lvIeyW.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Visit Site Link In Mobile Search Ad Description",
+      "link": "https://www.seroundtable.com/google-ads-visit-site-description-42444.html",
+      "date": "2026-11-11T12:31:00+00:00",
+      "description": "Google Ads is also adding the Visit site link in the mobile ad descriptions for search ads. We saw them on the desktop ads with a Visit site button and also on organic results search and now also as a plain text anchor link in the mobile ad descriptions.",
+      "image": "https://images.seroundtable.com/google-ads-mobile-visit-site-description-link-sUdKUgp6.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Merchant Loyalty Program New Eligibility Requirements",
+      "link": "https://www.seroundtable.com/google-merchant-loyalty-program-eligibility-42495.html",
+      "date": "2026-11-11T12:21:00+00:00",
+      "description": "Google has posted new eligibility requirements for the merchant loyalty program. As a reminder, Loyalty is an add-on feature in the Merchant Center for merchants with an existing loyalty program who want to showcase its benefits on Google.",
+      "image": "https://images.seroundtable.com/google-merchant-loyalty-eligibility-j9hTPAo2.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Performance Max Page Feeds Updated",
+      "link": "https://www.seroundtable.com/google-ads-performance-max-page-feeds-update-42503.html",
+      "date": "2026-11-11T12:11:00+00:00",
+      "description": "Google Ads has updated its Page feeds section for Performance Max campaigns to help advertisers understand how it works. These changes look like they should make it easier for advertisers to know which pages to feed to the ad algorithms.",
+      "image": "https://images.seroundtable.com/google-ads-performance-max-page-feeds-update-tsZhPTEJ.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Brand Lists Global Brand Library",
+      "link": "https://www.seroundtable.com/google-ads-brand-lists-library-42506.html",
+      "date": "2026-11-11T12:05:00+00:00",
+      "description": "Google updated its About brand settings for Search and Performance Max help document to clarify how to manage brands within your brand list. Specifically, Google said, \"Google's brand library uses single, global canonical brands rather than individual localized or regional variants.\"",
+      "image": "https://images.seroundtable.com/google-ads-brand-list-doc-change-XEmOTfR9.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google Loses Another Round in Legal Battle Against SerpApi Over Scraping",
       "link": "https://www.seroundtable.com/google-loses-again-against-serpapi-42508.html",
@@ -163,6 +266,19 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "Top five online reputation tools (Tried & tested) - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PdzJGemZ6WXdBZUxFbUlyVm1QNzRQNUxUMVR6R19vTlBKVjRFalc0NUdpY19jcnVyaV9TZTd4a29mVEVKOW40R0dDUTdYWGgyX1pLWDA3eWxqZC1DZkgyMzZ6NUIxSUEzZXVEY3RVN0NNVkNmVThJYw?oc=5",
+      "date": "2026-11-10T16:43:31+00:00",
+      "description": "Top five online reputation tools (Tried & tested) &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
@@ -346,32 +462,6 @@
       ]
     },
     {
-      "title": "Bing Shopping Personalizing Search Results With Questions",
-      "link": "https://www.seroundtable.com/bing-shopping-personalize-questions-42487.html",
-      "date": "2026-11-10T12:21:00+00:00",
-      "description": "Microsoft Bing is testing asking searchers questions to personalize the shopping search results. In a test, Bing will show you questions and say, \"Let's personalize your results,\" then ask you a number of questions to fine-tune your shopping search results.",
-      "image": "https://images.seroundtable.com/bing-shopping-personalize-results-questions-w45rTdmc.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Filter Google Product Results For Non-Incentivized Reviews",
-      "link": "https://www.seroundtable.com/google-product-non-incentivized-reviews-42491.html",
-      "date": "2026-11-10T12:11:00+00:00",
-      "description": "You can now filter your product results to show non-incentivized reviews only. When you click on a product in the search results, either normal search or AI Mode, the product listing detail panel will show up on the right, and for there, you can filter the reviews to show \"Non-incentivized only.\"",
-      "image": "https://images.seroundtable.com/google-non-incentivized-filter-reviews-products-HkM6CLin.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "The drivers of local AI visibility for multi-location brands - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQVNsWVlpS1BXZjc3bE1oUGt2ZmROX2FjVlRDYXJsQUc5RjhyZ3FodkRTdWhZSjkzZ0ZHLUVvUDFnMW1yNFNWZEVJWHhUd19CQkJZR0dfUzdEZkZRVTN2QnlwS2tTNnJObUUyaUFqU1VCZ3VrMl83SHBsR1I0bl9VSlpSR3o1YzdtZjhfcVh3b04wejBtQW1Db0VqUWo?oc=5",
       "date": "2026-11-10T12:10:00+00:00",
@@ -394,19 +484,6 @@
       "tags": [
         "SEO",
         "AI Search"
-      ]
-    },
-    {
-      "title": "ChatGPT Ads While It Creates Your Image Live",
-      "link": "https://www.seroundtable.com/openai-chatgpt-ads-visual-ads-42493.html",
-      "date": "2026-11-10T10:45:00+00:00",
-      "description": "OpenAI announced a month ago that it would release a \"new visual ad format in ChatGPT\" to show ads while ChatGPT makes images for users. Well, that ad format seems to be live - because if you ask ChatGPT to make an image, it will show an ad while the image is being generated.",
-      "image": "https://images.seroundtable.com/visual-chatgpt-ads-while-you-wait-RyeRh5de.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -438,7 +515,7 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNm5YNnpNTHNYYkZRTFdIM0REVk9MZGF3Mk9YMGFhTnl0T1hLbmxTYm13dGxxa2pBUE1nZzl5V2ZYOGRFYmREbmZHaEpETVlQUkFtSlc4RER2X09XcEtnaktTSmIwajdqdm9WQUJvOXVVNGFRemVqQ2dGdTFQR1lMTW9COHh3b0owTk02WA?oc=5",
       "date": "2026-11-09T17:51:16+00:00",
       "description": "Google AI Mode multiturn ads are now rolling out &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -451,7 +528,20 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95bTNJSy1tb1gxOEg1NGc4Xzc5QUl6RU1Qd3Y3YmdwOWVFUzhDQ1RYb29ORFZtOTNCYVJUNGxYeW9BbF9VN3VXOG9leEVhNlNCWUJZR0VVR05jc01COGpsY3k4cDZOajFiejBHT0dmTFhDQlpELW9xOEU0SQ?oc=5",
       "date": "2026-11-09T17:19:38+00:00",
       "description": "Google AI Overviews in France: Big click losses, but not for everyone &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Title tags and page titles: How to write them (+ Steal our free formula templates) - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZVkNic0VXQWpzR09veHZXclV6cnBmbFBmVXduT2lZNFpFT2RwUlo1aVN4c0lob3YxTjlKMVJzLWZBRnJ2aEV3NjJYZElCNFd1aXpGZ3AzMC0?oc=5",
+      "date": "2026-11-09T17:15:39+00:00",
+      "description": "Title tags and page titles: How to write them (+ Steal our free formula templates) &nbsp;&nbsp; Search Engine Land",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -464,7 +554,7 @@
       "link": "https://www.searchenginejournal.com/google-ads-tests-asset-activity-page-with-weekly-ai-insights/596442/",
       "date": "2026-11-09T16:30:00+00:00",
       "description": "Some Google Ads accounts show an Asset activity page that uses AI to deliver weekly insight cards on ad creative, including headline ideas to test. The post Google Ads Tests A Weekly AI Report Card For Your Ad Creative appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ads-asset-activity-featured-1600x840-1.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -476,7 +566,7 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX05JQzNTdnB2YUhTcVZLdDFYOUJOU1BUVE1GVEV5dzRzQ0JDNFZRQ0stenA2a1dCRi11djZCUlBLTHRicGZmRXBPZVM0Umd6UzkwVVBLOGR6Q3k5TXc3Y2RvZldtMlBVYVlSM096NHI3dUE4QWtCbUctYmhVVkk0MVQySGk1anM?oc=5",
       "date": "2026-11-09T16:00:00+00:00",
       "description": "Website migrations can hurt SEO even when URLs don’t change &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -489,7 +579,7 @@
       "link": "https://www.searchenginejournal.com/seo-split-testing-prove-change-worked/594529/",
       "date": "2026-11-09T15:00:42+00:00",
       "description": "Separate real SEO gains from Google's shifts with fair controls, clear decision rules, and results stakeholders can tie to revenue. The post SEO Split Testing In 2027: How To Prove A Change Actually Worked appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/split-testing-685.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -501,7 +591,7 @@
       "link": "https://www.searchenginejournal.com/ai-76-billion-monthly-sessions-search-comparison/596389/",
       "date": "2026-11-09T15:00:00+00:00",
       "description": "Graphite estimates AI assistants reached 76 billion monthly sessions worldwide and says it can no longer reliably compare AI search use with search engines. The post Why An AI Usage Report Stopped Comparing AI With Search Engines appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-assistant-app-icons.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -509,23 +599,23 @@
       ]
     },
     {
-      "title": "Daily Search Forum Recap: November 9, 2026",
-      "link": "https://www.seroundtable.com/recap-11-09-2026-42485.html",
-      "date": "2026-11-09T15:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. OpenAI is working on a ChatGPT like Search Console, we have a screenshot...",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "AI search activity is nearly invisible in Google Ads search terms reports: Study - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ21Fek5ldFhabWlWSmpzWXJCaGQ2SkhhMW84OXVyUnJMRFpCaHZBcDRmdVZkZ05VcTc5OWxLSVFfZ29XUGxSQWU0OXhHYzhHS0czcGgxdHdnZVdRODBhMVFMNzJueTNQbUxfQkZxNlFRRFM3THZCMDVJMHRMeE9GZ3pxSEhPVVd1V3dsVVFlRk5kUENzSkZRVWoxWlRjTHZuQUVhNg?oc=5",
       "date": "2026-11-09T15:00:00+00:00",
       "description": "AI search activity is nearly invisible in Google Ads search terms reports: Study &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How to measure the full value of paid media beyond ROAS - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Ta2JSdnE1TTdpaW9CRmVtaWJqNloyeXdRWVRWeVFfLVo3MGtIUHY5Zk4zMjlwNkpaQ0t1MGdyY0FPekFTQkdQeGxhSmlIeWFkU09lNnBKalU1Q0REZnVEQkRCbTl1WHRPNWFqRlpBMi0za1k3YkRTdWlR?oc=5",
+      "date": "2026-11-09T14:00:00+00:00",
+      "description": "How to measure the full value of paid media beyond ROAS &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -544,45 +634,6 @@
       "tags": [
         "SEO",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Don’t wait for the SEO report to tell clients something’s wrong - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IMXlYd1BNMm90MzJXTlh5ak1EUXpNcjM2LWMyU3dOU0NQTG8zWHpxSTVPRlFHdFh1SDR6R3kzY1RpM1NlTTVZT01veXFpNE5ucWMtVFl4QTVxMmVmWHVRSXctelNZdnEzakY0?oc=5",
-      "date": "2026-11-09T13:00:00+00:00",
-      "description": "Don’t wait for the SEO report to tell clients something’s wrong &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Search Ranking Volatility Status: Update November 8th/9th?",
-      "link": "https://www.seroundtable.com/google-search-ranking-volatility-november-9th-42486.html",
-      "date": "2026-11-09T12:55:00+00:00",
-      "description": "It's been about two weeks since we reported on a Google Search ranking update, whether confirmed or unconfirmed. But the truth is, the October 27th update lingered on for like a full week. Since then, ranking volatility has been relatively calm, but that may be changing over the past 24 hours.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google AI Mode Multiturn Ads Are Live - Follow-Up Query Ads",
-      "link": "https://www.seroundtable.com/google-ai-mode-multiturn-ads-42478.html",
-      "date": "2026-11-09T12:51:00+00:00",
-      "description": "A couple of weeks ago, Google announced Multiturn ads, ads show up on responses to follow-up user queries. Well, those ads seem live. I was testing AI Mode on Friday afternoon and here are screenshots and videos of Multiturn ads in AI Mode.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -642,57 +693,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Rank Data Issues, Lighthouse Update & AI Opt-Out – SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-rank-data-problems-pagespeed-scores-ai-training-opt-out/596104/",
-      "date": "2026-11-07T13:00:00+00:00",
-      "description": "Rank data may carry one-word results and redirect URLs. Other updates cover PageSpeed lab scores, a shared AI training opt-out, technical SEO and AI search. The post Google Rank Data Issues, Lighthouse Update &amp; AI Opt-Out – SEO Pulse appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to calculate share of voice (+ Why it matters for SEO) - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95UDVvcUYxU1NEVW00QWhMRmZfUXhQQVpSdk5wa05DTFBsdGJRZVdzVUhSaWRLcGdUbXhVT0dnNkhETjN3ME95azV3aWpLcG5YR0hvdzJQWGlGT25tWXc?oc=5",
-      "date": "2026-11-06T19:42:01+00:00",
-      "description": "How to calculate share of voice (+ Why it matters for SEO) &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "The latest jobs in search marketing - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
-      "date": "2026-11-06T19:28:43+00:00",
-      "description": "The latest jobs in search marketing &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to conduct a backlink audit: Tips, tools, & examples - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRbERXWHFxN0NoaGpWcG85c3BfVFA3di01MDFFQVY3c2FOT2ptLUtMdUJHX2hXS2tVeTY0R0NtWjY0R1MtYXlUeGRoZ3lZVmdQN3ZPLWYtZTIxamw5QWkxaVVMbUNJX0hTQWY4ZXBlWQ?oc=5",
-      "date": "2026-11-06T19:21:45+00:00",
-      "description": "How to conduct a backlink audit: Tips, tools, & examples &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
