@@ -1,6 +1,121 @@
 {
-  "updatedAt": "2026-11-11T14:14:16.695976+00:00",
+  "updatedAt": "2026-11-11T21:25:34.604972+00:00",
   "items": [
+    {
+      "title": "Google Ads API Version 26.2 Now Out Available",
+      "link": "https://www.seroundtable.com/google-ads-api-version-262-42517.html",
+      "date": "2026-11-11T20:45:00+00:00",
+      "description": "Google Ads has just released a minor update to its Google Ads API - version 26.2. This update touches on assets, campaigns, reporting, and more general updates.",
+      "image": "https://images.seroundtable.com/google-ads-api-v262-pUYIr42S.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Search AI Overview Definitions Expanded By Default",
+      "link": "https://www.seroundtable.com/google-expanding-definitions-42514.html",
+      "date": "2026-11-11T19:51:00+00:00",
+      "description": "Google is expanding the AI Overviews for definitions by default, where you no longer have to click on \"Show more\" to see the full version of the AI Overview. This is similar to when Google confirmed it dynamically expands some AI Overviews based on the query, but now Google is doing this for all definition searches.",
+      "image": "https://images.seroundtable.com/google-search-ai-overview-definitions-expanded-K5gj8NIJ.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads introduces new ValueTrack parameter to identify AI Max traffic - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSzNtQzh6UXNGYmstcVgxaWMtcGFkaHZzdzd4ZTI4Unp5WkZ1Sl9YQWlkRV9fNE56Z0F1LXFtbWxSWkUwand6dHBWOTA4OS1jR2g0TEdWblVaMFk4RzhBQ0U2X1Y3MUtiRnF1OGZhNjN5Wm5pNC1kbVBLQjRDeFM4cE5iQlZLWUFoVUVfaXZvZkU1dVI4SmVlVXZDVHZWckZ5UlpPRGZtbTJZY0djckE?oc=5",
+      "date": "2026-11-11T16:35:30+00:00",
+      "description": "Google Ads introduces new ValueTrack parameter to identify AI Max traffic &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Tyler Jordan - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GU09UX0EwTlpuN3RTc242Q2FfUEJ0MU9mRjdjMHgxZWUwdzV1NE8zdDRrbWs3WlQ4Ry1mMGRlOWNQSXNmSklQNWRFeUZ6V1JKZWp3VzRvWlQtcHFy?oc=5",
+      "date": "2026-11-11T16:00:00+00:00",
+      "description": "Tyler Jordan &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google: How Moving to a CDN Can Accidentally Overwhelm Your Website",
+      "link": "https://www.seroundtable.com/google-search-cdn-42511.html",
+      "date": "2026-11-11T15:55:00+00:00",
+      "description": "Gary Illyes and Chery Prommawin released the final video in the Non-Canonical Cabinet series, this one is on CDNs, content delivery networks. They discuss why migrating a website to a CDN can suddenly increase Googlebot crawling activity, why this may overload your origin server, and how to avoid accidentally blocking Google's crawlers.",
+      "image": "https://images.seroundtable.com/gary-cherry-fire-cdn-XyQ1HHqs.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Visibility Gets You On The List, Evidence Helps You Stay There via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/visibility-gets-you-on-the-list-evidence-helps-you-stay-there/592127/",
+      "date": "2026-11-11T15:00:59+00:00",
+      "description": "AI visibility can hide evidence gaps that weaken recommendations as buyers evaluate integrations, workflows, and outcomes. The post Visibility Gets You On The List, Evidence Helps You Stay There appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/visibility-814.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: November 11, 2026",
+      "link": "https://www.seroundtable.com/recap-11-11-2026-42509.html",
+      "date": "2026-11-11T15:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google has begun the rollout of the November 2026 core update...",
+      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Discovers Unexpected Patterns In AI Image Generation via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-discovers-unexpected-patterns-in-ai-image-generation/596745/",
+      "date": "2026-11-11T14:18:51+00:00",
+      "description": "Google analyzed millions of Nano Banana prompts and found how businesses are using it for marketing. The post Google Discovers Unexpected Patterns In AI Image Generation appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-nano-banana-314.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How to build an SEO content roadmap around revenue - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYVRnY3A2eVlkUEMyV0FGblUzdHFlV19YTGZxNkFIY2VPU2YzZk11clBWN2tQdW5xYU1DZmFmbFJRT0NoUmp0YkJyVURFYkdqR1kwOW1nc25mZmMzRXlWMGdKSy1fdnI1Q1Q1bzNQQnJPTVJyMXBTOTlteW1JTmtsSWl3?oc=5",
+      "date": "2026-11-11T14:00:00+00:00",
+      "description": "How to build an SEO content roadmap around revenue &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
     {
       "title": "Google Ads Gives You More Channel Control – But Not As Much As You Think via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/google-ads-gives-you-more-channel-control-but-not-as-much-as-you-think/596266/",
@@ -118,6 +233,19 @@
       ]
     },
     {
+      "title": "Moving to a CDN without overwhelming your origin (or blocking Googlebot)",
+      "link": "https://developers.google.com/search/blog/2026/11/crawling-cdn",
+      "date": "2026-11-11T00:00:00+00:00",
+      "description": "Deploying a Content Delivery Network (CDN) to distribute your site&#39;s assets across fast, globally distributed edge servers closer to users can be a major upgrade for any growing site: it lowers visitor latency and shields your origin server (the backend source of truth holding your original content) from heavy traffic.",
+      "image": "https://developers.google.com/static/search/blog/images/social-share-blog.png",
+      "source": "Google Search Central",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
       "title": "Meta Paused Its New Business Terms, And Businesses Should Plan As If It Never Gets Better via @sejournal, @slobodanmanic",
       "link": "https://www.searchenginejournal.com/meta-paused-its-new-business-terms-and-businesses-should-plan-as-if-it-never-gets-better/596343/",
       "date": "2026-11-10T20:00:25+00:00",
@@ -142,10 +270,10 @@
       ]
     },
     {
-      "title": "Google Expands Ads In AI Mode To 10+ Countries, Adds Multiturn Ads via @sejournal, @brookeosmundson",
+      "title": "Google Ads Now Runs In AI Mode Across 10 More Countries via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/google-expands-ads-in-ai-mode-multiturn-ads/596540/",
       "date": "2026-11-10T19:08:34+00:00",
-      "description": "Google is rolling out English-language ads in AI Mode to more than 10 new countries and launching multiturn ads for follow-up queries in the U.S. The post Google Expands Ads In AI Mode To 10+ Countries, Adds Multiturn Ads appeared first on Search Engine Journal .",
+      "description": "Google is rolling out English-language ads in AI Mode to more than 10 new countries and launching multiturn ads for follow-up queries in the U.S. The post Google Ads Now Runs In AI Mode Across 10 More Countries appeared first on Search Engine Journal .",
       "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ai-mode-goes-global-112.png",
       "source": "Search Engine Journal",
       "tags": [
@@ -269,36 +397,10 @@
       ]
     },
     {
-      "title": "Top five online reputation tools (Tried & tested) - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PdzJGemZ6WXdBZUxFbUlyVm1QNzRQNUxUMVR6R19vTlBKVjRFalc0NUdpY19jcnVyaV9TZTd4a29mVEVKOW40R0dDUTdYWGgyX1pLWDA3eWxqZC1DZkgyMzZ6NUIxSUEzZXVEY3RVN0NNVkNmVThJYw?oc=5",
-      "date": "2026-11-10T16:43:31+00:00",
-      "description": "Top five online reputation tools (Tried & tested) &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google Ads rolls out new pay-per-lead terms requiring advertiser opt-in - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXktQlVVdTNfNlIyMURZRUNqT2s2VHNVemJOQ21HTUZ1T2R3Yl85ZktqUkUtdWJvRHo0bUpvUUx3NXk4SkpubDNoRWZkOU42RTJjemJZTktFMjFtNDE4TE9jU1hfM0N4bTB6eDFWWEZuTnJxZEpkaUNKdEFCRnA3TVVFLW9ZSEtiNWdmZ3RHTEhwcnI2T2hPOXFDazhySHFZenNwSFVRV3ZUdTQ?oc=5",
       "date": "2026-11-10T16:40:11+00:00",
       "description": "Google Ads rolls out new pay-per-lead terms requiring advertiser opt-in &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "SEO consultants guide: When to hire and what to expect - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fazdDU01teG5UUTFiR1JvV3dEbGFRaVl2dV9aSmU2R21QOXNFaWt5eUFtVm5kLWdzUkRmUUFES1l5eVRHal9pOWptMjc2akdYeklscUNiNWxkMEZnODRN?oc=5",
-      "date": "2026-11-10T16:34:57+00:00",
-      "description": "SEO consultants guide: When to hire and what to expect &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -347,19 +449,6 @@
       ]
     },
     {
-      "title": "Yahoo Scout out of beta and Yahoo adds Pivot Search - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSm1mLXdfaU9kTktZcDFJUEtVZTdLdmJBSC1yQnhjNnh1VHJqbU0yZkQ3emlKLUR6WF9MU004N29ZUGdhRGtSSTdDQlRkTXFpYzJMX1l2T3ZMbGFaX3BsNHRIUFhkY3ptOWw0OExiTXhNZ0pmcTRxQnRmSGZMTEttWWN0Zi1XVVNRZTVqM21KUlE?oc=5",
-      "date": "2026-11-10T15:38:57+00:00",
-      "description": "Yahoo Scout out of beta and Yahoo adds Pivot Search &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Good Vs. Bad pSEO: Learnings From A Decade Of Building Scalable Content Engines via @sejournal, @_nitman",
       "link": "https://www.searchenginejournal.com/good-vs-bad-pseo-learnings-from-a-decade-of-building-scalable-content-engines/594204/",
       "date": "2026-11-10T15:00:54+00:00",
@@ -372,23 +461,23 @@
       ]
     },
     {
-      "title": "Daily Search Forum Recap: November 10, 2026",
-      "link": "https://www.seroundtable.com/recap-11-10-2026-42494.html",
-      "date": "2026-11-10T15:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google said it can take time for search to understand the unique value of new websites...",
-      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "ChatGPT ads: Advertisers surge, average spending falls, and big spenders dominate - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY2w3a0FWYjR4WkdEQk0xUjY2bmM0bG1YYjZPUmVDYTVvREdjbTVQSlc3THltZTJaMDhBWnpNc1lvMmo1cUoybXVlT0t2T2hrUXJOOWh4N0VSbXhXSkFxN1kzaFhWZ0dmWnBWMTBSdG54TXNOT1pmWFcyd1Vud1JuTnlFbEVHZ29wUDZYOU16WVlKdmZVazRPbjNoczRrdHYwSkRHTXJjMUI0VHVWeng0?oc=5",
       "date": "2026-11-10T15:00:00+00:00",
       "description": "ChatGPT ads: Advertisers surge, average spending falls, and big spenders dominate &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "When Google stops sending traffic, paid search picks up the slack - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOE9iYXdxaHJrR2lkVnZOdFBMUmxiSUZDOEx2Ulk2TXFEM24yTW1SQjE5MnFiVHdRZHUyb2lJX3VrTDl1akpYTjRCODQyU1YtbzZJcXFTMFltTHoxbU1QUktDeUxlTDFZVUYtMnluN3MydGFoN0dFSjJtWkFMcFI4NVRR?oc=5",
+      "date": "2026-11-10T14:00:00+00:00",
+      "description": "When Google stops sending traffic, paid search picks up the slack &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -410,19 +499,6 @@
       ]
     },
     {
-      "title": "Google: It Can Take Time To Understand The Unique Value Of New Websites",
-      "link": "https://www.seroundtable.com/google-new-sites-time-value-42489.html",
-      "date": "2026-11-10T12:51:00+00:00",
-      "description": "Google's John Mueller said it can take Google Search some time to understand a new site's \"unique value\" and then rank it accordingly. He said on Bluesky in response to a new site not being fully indexed quickly enough, \"It's a fairly new site, and you've been busy with content - it can take time for the systems to understand the unique value of it all.\"",
-      "image": "https://images.seroundtable.com/blueksy-u7bswZIn.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "ChatGPT visual ads are rolling out - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LemQ4RlJRNzJUeFUzdHl0dHBHNFdtN3cyekFCQVlYZ0FpTGNiUjdsUlA4SnhNdVdfUnY0c2pSTzZEQ3d3Rm9pNEM2QWM1M2NKZHlDYkFfTGpfUy1uRmJERXc4Mjg3N1lTdVY2c3NqRGZZRUZ2X0pNTlhn?oc=5",
       "date": "2026-11-10T12:48:03+00:00",
@@ -436,37 +512,11 @@
       ]
     },
     {
-      "title": "Google AI Overview Local Pack Dropping Action Buttons, Photos & Reviews",
-      "link": "https://www.seroundtable.com/google-ai-overview-local-pack-action-buttons-42483.html",
-      "date": "2026-11-10T12:41:00+00:00",
-      "description": "Google is testing removing the action buttons, reviews, photos, etc from the AI Overview version of the local pack. This makes it harder for searchers to visit your website, call your business, get directions and so on, from Google Search.",
-      "image": "https://images.seroundtable.com/google-ai-overview-local-pack-no-buttons-BgWXgaPf.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads: Ads With Pay-Per-Lead Goals Terms",
-      "link": "https://www.seroundtable.com/google-ads-with-pay-per-lead-goals-terms-42490.html",
-      "date": "2026-11-10T12:31:00+00:00",
-      "description": "Google Ads is rolling out a new option named \"Ads with pay-per-lead goals terms.\" Advertisers must opt into this setting to activate it.",
-      "image": "https://images.seroundtable.com/google-ads-with-pay-per-lead-goals-terms-A04N8hr8.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "The drivers of local AI visibility for multi-location brands - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQVNsWVlpS1BXZjc3bE1oUGt2ZmROX2FjVlRDYXJsQUc5RjhyZ3FodkRTdWhZSjkzZ0ZHLUVvUDFnMW1yNFNWZEVJWHhUd19CQkJZR0dfUzdEZkZRVTN2QnlwS2tTNnJObUUyaUFqU1VCZ3VrMl83SHBsR1I0bl9VSlpSR3o1YzdtZjhfcVh3b04wejBtQW1Db0VqUWo?oc=5",
       "date": "2026-11-10T12:10:00+00:00",
       "description": "The drivers of local AI visibility for multi-location brands &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -479,7 +529,7 @@
       "link": "https://www.searchenginejournal.com/meta-pauses-updated-business-ad-terms/596493/",
       "date": "2026-11-10T11:30:00+00:00",
       "description": "Meta paused its updated business and ad terms, leaving existing crawl rights in place for advertisers. The post Meta Pauses Its Updated Business And Ad Terms Due Nov. 20 appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/meta-headquarters-featured-1600x840-1.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -491,7 +541,7 @@
       "link": "https://www.searchenginejournal.com/chatgpt-ads-is-replacing-max-bid-max-cpc-with-cost-targets/596491/",
       "date": "2026-11-10T10:09:01+00:00",
       "description": "ChatGPT Ads is replacing manual bid caps with average cost targets, with separate dates for new campaigns, existing campaigns and API partners. The post ChatGPT Ads Is Replacing Max Bid &#038; Max CPC With Cost Targets appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-ads-cost-targets-featured.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -503,7 +553,7 @@
       "link": "https://www.searchenginejournal.com/paid-search-is-moving-up-the-funnel-google-admits-ai-mode-pays-less/595875/",
       "date": "2026-11-09T20:00:13+00:00",
       "description": "Protect PPC budgets as Google's AI Mode pushes search earlier in the buying journey, with four account changes to test whether discovery pays. The post Google Ads Are Reaching Upper-Funnel Searches – But AI Mode Pays Less appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/top-funnel-952.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -528,19 +578,6 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95bTNJSy1tb1gxOEg1NGc4Xzc5QUl6RU1Qd3Y3YmdwOWVFUzhDQ1RYb29ORFZtOTNCYVJUNGxYeW9BbF9VN3VXOG9leEVhNlNCWUJZR0VVR05jc01COGpsY3k4cDZOajFiejBHT0dmTFhDQlpELW9xOEU0SQ?oc=5",
       "date": "2026-11-09T17:19:38+00:00",
       "description": "Google AI Overviews in France: Big click losses, but not for everyone &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Title tags and page titles: How to write them (+ Steal our free formula templates) - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZVkNic0VXQWpzR09veHZXclV6cnBmbFBmVXduT2lZNFpFT2RwUlo1aVN4c0lob3YxTjlKMVJzLWZBRnJ2aEV3NjJYZElCNFd1aXpGZ3AzMC0?oc=5",
-      "date": "2026-11-09T17:15:39+00:00",
-      "description": "Title tags and page titles: How to write them (+ Steal our free formula templates) &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -673,30 +710,6 @@
       ]
     },
     {
-      "title": "Tripadvisor Says SEO Will Still Weigh On Growth In 2027 via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/tripadvisor-says-seo-will-still-weigh-on-growth-in-2027/596257/",
-      "date": "2026-11-08T19:09:13+00:00",
-      "description": "Tripadvisor tied a writedown largely to search changes, expects SEO to weigh on growth next year, and says marketing takes more of its revenue. The post Tripadvisor Says SEO Will Still Weigh On Growth In 2027 appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Cloudflare CEO Likens AI Agent Optimization To A New Version Of SEO via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/cloudflare-ai-agent-optimization-new-seo/596248/",
-      "date": "2026-11-08T18:07:49+00:00",
-      "description": "Cloudflare's CEO says OpenAI pays for hints that tell its crawler when pages change, and sites may charge agents less when they explain their visits. The post Cloudflare CEO Likens AI Agent Optimization To A New Version Of SEO appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Search Central Live in Zurich is back!",
       "link": "https://developers.google.com/search/blog/2026/11/search-central-live-zurich-2026",
       "date": "2026-11-04T00:00:00+00:00",
@@ -805,19 +818,6 @@
       "link": "https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide",
       "date": "2026-07-29T00:00:00+00:00",
       "description": "Earlier this month, we announced platform properties for Search Console, allowing you to track how your social and video posts on Instagram, TikTok, X, and YouTube perform on Google Search, Discover, and Google News. Today, platform properties are globally available to everyone.",
-      "image": "",
-      "source": "Google Search Central",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "See how content from social and video platforms performs on Google Search",
-      "link": "https://developers.google.com/search/blog/2026/07/search-console-social-video-platforms",
-      "date": "2026-07-07T00:00:00+00:00",
-      "description": "Content creators and publishers use many channels beyond their own websites to reach their audiences. As people gravitate toward firsthand perspectives and different content formats, we want to make it easier for site owners and creators&amp;mdash;even those without their own website&amp;mdash;to get a consolidated view of how all of their content is getting discovered on Search.",
       "image": "",
       "source": "Google Search Central",
       "tags": [
