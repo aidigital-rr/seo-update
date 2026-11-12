@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-11-11T21:25:34.604972+00:00",
+  "updatedAt": "2026-11-12T02:31:22.552990+00:00",
   "items": [
+    {
+      "title": "Google Placing Source Icons At Bottom Of AI Overviews",
+      "link": "https://www.seroundtable.com/google-ai-overview-source-icons-bottom-42519.html",
+      "date": "2026-11-12T01:15:00+00:00",
+      "description": "Google is testing moving the citations or sources icons to the very bottom of the AI Overviews. Previously, these icons appeared at the top of the AI Overview; now Google is testing placing them at the bottom, which may make it even harder to find the sources of the answers Google generates in these AI Overviews and could reduce clicks to your site even more.",
+      "image": "https://images.seroundtable.com/google-ai-overview-citations-sources-bottom-jW7J1wXt.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google Ads API Version 26.2 Now Out Available",
       "link": "https://www.seroundtable.com/google-ads-api-version-262-42517.html",
@@ -25,6 +38,19 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "Six best enterprise SEO tools for optimizing at scale - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZSnRNWURyNGZUTFp6Y1JJWDl6T090ZTYycnluVlFYaU1Hai1Rejg2TWkya0pqUlRKVlBFMjMtcUFQalBnUUc3cWwzMVAtWkNNVHl0S0tpUVl3cVNxR1d3RUI0RmJNQXRqeGJKZg?oc=5",
+      "date": "2026-11-11T18:39:22+00:00",
+      "description": "Six best enterprise SEO tools for optimizing at scale &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
@@ -92,6 +118,19 @@
       ]
     },
     {
+      "title": "How to sell upper-funnel campaigns to performance-driven clients - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVDN6N2JGdC1jeHgwa2dxZHVYUmUtOTlUTEFhbVJZamFobGNQMWdWeDZ0WDlGdmpMcWlFUUpMZEJQa0pDejZibWhwZGp3VTc2Rm1mT09VTWZBU2tRUV9wLWVvcGR2T0ZoY1lMVFkzUGtZRFE4RTEzVUY3Y3ZyeklFZTRZX29nZkt6NllaUFpYZnluSWRG?oc=5",
+      "date": "2026-11-11T15:00:00+00:00",
+      "description": "How to sell upper-funnel campaigns to performance-driven clients &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Google Discovers Unexpected Patterns In AI Image Generation via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-discovers-unexpected-patterns-in-ai-image-generation/596745/",
       "date": "2026-11-11T14:18:51+00:00",
@@ -100,19 +139,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to build an SEO content roadmap around revenue - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYVRnY3A2eVlkUEMyV0FGblUzdHFlV19YTGZxNkFIY2VPU2YzZk11clBWN2tQdW5xYU1DZmFmbFJRT0NoUmp0YkJyVURFYkdqR1kwOW1nc25mZmMzRXlWMGdKSy1fdnI1Q1Q1bzNQQnJPTVJyMXBTOTlteW1JTmtsSWl3?oc=5",
-      "date": "2026-11-11T14:00:00+00:00",
-      "description": "How to build an SEO content roadmap around revenue &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
@@ -436,19 +462,6 @@
       ]
     },
     {
-      "title": "Yahoo Search Launches Pivot Search, Yahoo Scout App & More",
-      "link": "https://www.seroundtable.com/yahoo-pivot-search-yahoo-scout-42501.html",
-      "date": "2026-11-10T15:50:00+00:00",
-      "description": "Yahoo announced updates across Yahoo Search and Yahoo Scout including that Yahoo Scout is now out of beta and Yahoo Search added Pivot Search. Plus, Scout has now processed over 3 billion answers since it launched earlier this year.",
-      "image": "https://images.seroundtable.com/yahoo-pivot-0C64P3ey.gif",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Good Vs. Bad pSEO: Learnings From A Decade Of Building Scalable Content Engines via @sejournal, @_nitman",
       "link": "https://www.searchenginejournal.com/good-vs-bad-pseo-learnings-from-a-decade-of-building-scalable-content-engines/594204/",
       "date": "2026-11-10T15:00:54+00:00",
@@ -503,7 +516,7 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LemQ4RlJRNzJUeFUzdHl0dHBHNFdtN3cyekFCQVlYZ0FpTGNiUjdsUlA4SnhNdVdfUnY0c2pSTzZEQ3d3Rm9pNEM2QWM1M2NKZHlDYkFfTGpfUy1uRmJERXc4Mjg3N1lTdVY2c3NqRGZZRUZ2X0pNTlhn?oc=5",
       "date": "2026-11-10T12:48:03+00:00",
       "description": "ChatGPT visual ads are rolling out &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -640,19 +653,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ21Fek5ldFhabWlWSmpzWXJCaGQ2SkhhMW84OXVyUnJMRFpCaHZBcDRmdVZkZ05VcTc5OWxLSVFfZ29XUGxSQWU0OXhHYzhHS0czcGgxdHdnZVdRODBhMVFMNzJueTNQbUxfQkZxNlFRRFM3THZCMDVJMHRMeE9GZ3pxSEhPVVd1V3dsVVFlRk5kUENzSkZRVWoxWlRjTHZuQUVhNg?oc=5",
       "date": "2026-11-09T15:00:00+00:00",
       "description": "AI search activity is nearly invisible in Google Ads search terms reports: Study &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to measure the full value of paid media beyond ROAS - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Ta2JSdnE1TTdpaW9CRmVtaWJqNloyeXdRWVRWeVFfLVo3MGtIUHY5Zk4zMjlwNkpaQ0t1MGdyY0FPekFTQkdQeGxhSmlIeWFkU09lNnBKalU1Q0REZnVEQkRCbTl1WHRPNWFqRlpBMi0za1k3YkRTdWlR?oc=5",
-      "date": "2026-11-09T14:00:00+00:00",
-      "description": "How to measure the full value of paid media beyond ROAS &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
