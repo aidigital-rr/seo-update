@@ -1,6 +1,80 @@
 {
-  "updatedAt": "2026-11-12T18:36:04.897979+00:00",
+  "updatedAt": "2026-11-12T23:53:08.703764+00:00",
   "items": [
+    {
+      "title": "How to create a trend-aware content calendar for AI search - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaGJ6b0J0VE5YUUJVMDVYVUNEOWh3NUM1RHdLbURyeDBmdTB6aXRMbWJLenJmYUpSMzZudV9PVUpCak1XSVIyRTBlWWd2Z2dEVlV0aDBGQjhqWV9qN1EyQ0gxOTUxQV9ZX0lsbWdkRnI5NTNLUDZnemp6V0hUdXN4U1JXa0NhbkdKbE1EMFBfNFd4Zw?oc=5",
+      "date": "2026-11-12T22:28:49+00:00",
+      "description": "How to create a trend-aware content calendar for AI search &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Ads Rolls Out New Invalid Traffic Overview Card via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-ads-rolls-out-new-invalid-traffic-overview-card/597098/",
+      "date": "2026-11-12T21:01:44+00:00",
+      "description": "Google Ads introduces an Invalid Traffic Overview Card showing estimated savings, post-billing credits, and campaign-level reports. Here's what advertisers need to know. The post Google Ads Rolls Out New Invalid Traffic Overview Card appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/shutterstock_2385982941_1600x840-215.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Makes Gemini 4 Hydrogen The Default Model In AI Mode via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-gemini-4-hydrogen-default-ai-mode/597096/",
+      "date": "2026-11-12T20:09:18+00:00",
+      "description": "Google made Gemini 4 Hydrogen the default model in AI Mode worldwide and is using it for the hardest AI Overview questions. The post Google Makes Gemini 4 Hydrogen The Default Model In AI Mode appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-gemini-4-hydrogen-launch-featured-1600x840-1.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Does The Affiliate Model Survive Checkout Inside AI Mode And Gemini? – Ask An SEO via @sejournal, @rollerblader",
+      "link": "https://www.searchenginejournal.com/does-the-affiliate-model-survive-checkout-inside-ai-mode-and-gemini-ask-an-seo/585080/",
+      "date": "2026-11-12T20:00:07+00:00",
+      "description": "Affiliate links still help protect your commissions as AI checkout grows, but stronger tracking and better program choices add crucial layers of protection. The post Does The Affiliate Model Survive Checkout Inside AI Mode And Gemini? – Ask An SEO appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2024/06/ask-an-seo-adam-riemer-376.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Search Console Generative AI Performance Report Data Bug Nov 9 - 11",
+      "link": "https://www.seroundtable.com/google-generative-ai-performance-report-data-bug-42527.html",
+      "date": "2026-11-12T19:55:00+00:00",
+      "description": "Google has confirmed a data logging bug in the Search Console Generative AI performance report in Search between the dates of November 9 and November 11, 2026 which resulted in a decrease in impressions.",
+      "image": "https://images.seroundtable.com/google-ai-performance-report-data-issue-15iLccGQ.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Visits To The Top Million Websites Fell 12%, Data Shows via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/visits-to-the-top-million-websites-fell-12-data-shows/597085/",
+      "date": "2026-11-12T18:43:03+00:00",
+      "description": "Data shows visits to the world's top million websites declined from an earlier peak, visits going to sites outside the top 100 barely changed. The post Visits To The Top Million Websites Fell 12%, Data Shows appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/9e28404b-6124-44e3-a880-98e7c62cf229-889.jpeg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Google Search Gets Massive Upgrade With Gemini 4 Hydrogen",
       "link": "https://www.seroundtable.com/google-search-gemini-4-hydrogen-42526.html",
@@ -50,19 +124,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "Email marketing: The definitive guide - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KQndxTVdOSW13SlQ3S3ZzUGdIeDlaNldLX2dGaDVPbEVEdFZqdFBYQ081QkNxV3ZSYnIzMHp3VjJ5d2xYX0x6XzB2RDRteU9uWnEzRUFEYU5lR3psU3lzZFAxbjQ4QmM?oc=5",
-      "date": "2026-11-12T16:13:39+00:00",
-      "description": "Email marketing: The definitive guide &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     },
     {
@@ -335,10 +396,10 @@
       ]
     },
     {
-      "title": "The SEO services report - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JbEthRW5oTzdYY3UzYktLamFtU2pSZmRXWmJWdVhmbXpJdWdZYXNJTFpqMG9wME9nemRRdl9mWTkwOWtHZF80QXR5bklseDdfMURVRk10RUpYYURpWTFEODdaemlwNUF4X0E?oc=5",
-      "date": "2026-11-11T19:46:19+00:00",
-      "description": "The SEO services report &nbsp;&nbsp; Search Engine Land",
+      "title": "Six best enterprise SEO tools for optimizing at scale - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZSnRNWURyNGZUTFp6Y1JJWDl6T090ZTYycnluVlFYaU1Hai1Rejg2TWkya0pqUlRKVlBFMjMtcUFQalBnUUc3cWwzMVAtWkNNVHl0S0tpUVl3cVNxR1d3RUI0RmJNQXRqeGJKZg?oc=5",
+      "date": "2026-11-11T18:39:22+00:00",
+      "description": "Six best enterprise SEO tools for optimizing at scale &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -348,10 +409,10 @@
       ]
     },
     {
-      "title": "Six best enterprise SEO tools for optimizing at scale - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZSnRNWURyNGZUTFp6Y1JJWDl6T090ZTYycnluVlFYaU1Hai1Rejg2TWkya0pqUlRKVlBFMjMtcUFQalBnUUc3cWwzMVAtWkNNVHl0S0tpUVl3cVNxR1d3RUI0RmJNQXRqeGJKZg?oc=5",
-      "date": "2026-11-11T18:39:22+00:00",
-      "description": "Six best enterprise SEO tools for optimizing at scale &nbsp;&nbsp; Search Engine Land",
+      "title": "Google Ads introduces clearer audience reach controls with warnings for restricted targeting - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWHhlZmdZc0pSSkdTVnVxZGZUcmQtXzFDTHkzbFN1bnpYNWFoZDBORmZaRmh5MkFmOGY4UWNhd3N6T1Z4RXdIOHZUTjIwemoxTFp5R0E5RVdrVE5MbU9sNnF6X09qRU4tUjVVNlRfS2kyb3FWQVphMjV1QmdKX2dtN2lzcU1YX1ZRYVBWVzZFZG1Rb2ZVemxuQnY4SW1QUWZJTnlwcUFmUG5nZUQ2UFdScnhrOEZ5Um1YeG9QWE1pQjdOaXhuc19Z?oc=5",
+      "date": "2026-11-11T16:42:16+00:00",
+      "description": "Google Ads introduces clearer audience reach controls with warnings for restricted targeting &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -387,10 +448,10 @@
       ]
     },
     {
-      "title": "Tyler Jordan - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GU09UX0EwTlpuN3RTc242Q2FfUEJ0MU9mRjdjMHgxZWUwdzV1NE8zdDRrbWs3WlQ4Ry1mMGRlOWNQSXNmSklQNWRFeUZ6V1JKZWp3VzRvWlQtcHFy?oc=5",
-      "date": "2026-11-11T16:00:00+00:00",
-      "description": "Tyler Jordan &nbsp;&nbsp; Search Engine Land",
+      "title": "Google SEO advice on moving to a CDN – content delivery network - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRmtlRm00alBqZklsVV9WRzZTYVBDMUQ4a01DZEdiLU5fRDJrcUREWG51WjdIYXVjb3gyVXdsSlNscGsycjJtZEUwOC1LNUI5YURuc2czLUFNa3IxekpMaGlheTh6ZGFDQVgzcFp4ZEFLSDNVOFdqdFUwa2xXV0N2SG05a1NqT2c1aHlSbXNDZjBRUWU1SDl2ZFd4dEptZw?oc=5",
+      "date": "2026-11-11T16:09:08+00:00",
+      "description": "Google SEO advice on moving to a CDN – content delivery network &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -400,16 +461,16 @@
       ]
     },
     {
-      "title": "Google: How Moving to a CDN Can Accidentally Overwhelm Your Website",
-      "link": "https://www.seroundtable.com/google-search-cdn-42511.html",
-      "date": "2026-11-11T15:55:00+00:00",
-      "description": "Gary Illyes and Chery Prommawin released the final video in the Non-Canonical Cabinet series, this one is on CDNs, content delivery networks. They discuss why migrating a website to a CDN can suddenly increase Googlebot crawling activity, why this may overload your origin server, and how to avoid accidentally blocking Google's crawlers.",
-      "image": "https://images.seroundtable.com/gary-cherry-fire-cdn-XyQ1HHqs.jpg",
-      "source": "Search Engine Roundtable",
+      "title": "ChatGPT ads vs. Google Ads: 6 key differences to know - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONktHTnNZbngzQ0hmbnRsMkhxdUJaUHRTNlVSajc1NFBfXzRPZW1XVW9kcUVqbXZpSldvVnF6NTRKZ2o5ZDBZUkdDWVhmc2h2OXZDTDJzWFN1QThzbzIyM1BXc2Q5NEF3NzdWU3FWd1RZbjFxMk1wa2o5VVQ2c0hycDBocw?oc=5",
+      "date": "2026-11-11T16:00:00+00:00",
+      "description": "ChatGPT ads vs. Google Ads: 6 key differences to know &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
       "tags": [
-        "Google",
         "SEO",
-        "Technical"
+        "Google",
+        "AI Search"
       ]
     },
     {
@@ -454,7 +515,7 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYVRnY3A2eVlkUEMyV0FGblUzdHFlV19YTGZxNkFIY2VPU2YzZk11clBWN2tQdW5xYU1DZmFmbFJRT0NoUmp0YkJyVURFYkdqR1kwOW1nc25mZmMzRXlWMGdKSy1fdnI1Q1Q1bzNQQnJPTVJyMXBTOTlteW1JTmtsSWl3?oc=5",
       "date": "2026-11-11T14:00:00+00:00",
       "description": "How to build an SEO content roadmap around revenue &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -467,7 +528,7 @@
       "link": "https://www.searchenginejournal.com/google-ads-gives-you-more-channel-control-but-not-as-much-as-you-think/596266/",
       "date": "2026-11-11T13:00:37+00:00",
       "description": "Curb unwanted Google Ads spending without losing valuable conversions by understanding where channel priorities and budget allocation limits give you control. The post Google Ads Channel Priorities Have Limits – What PMax Still Won’t Let You Split appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ads-control-374.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -479,7 +540,7 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNRm5oOFNESWFGUW8wUS14OE1hNUNkRlo5VGdacmx1LXgzTWFzb1VfazJsOENUWXJOVVRLcndrU2xtY2JEZ3JTTEgyd0xUUldna295RjRGM0ZHazA5a09aRl9Oa2E3eFhiMEhLMU9JNA?oc=5",
       "date": "2026-11-11T13:00:00+00:00",
       "description": "How software buyers use AI &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -492,7 +553,7 @@
       "link": "https://developers.google.com/search/blog/2026/11/crawling-cdn",
       "date": "2026-11-11T00:00:00+00:00",
       "description": "Deploying a Content Delivery Network (CDN) to distribute your site&#39;s assets across fast, globally distributed edge servers closer to users can be a major upgrade for any growing site: it lowers visitor latency and shields your origin server (the backend source of truth holding your original content) from heavy traffic.",
-      "image": "https://developers.google.com/static/search/blog/images/social-share-blog.png",
+      "image": "",
       "source": "Google Search Central",
       "tags": [
         "Google",
@@ -505,7 +566,7 @@
       "link": "https://www.searchenginejournal.com/meta-paused-its-new-business-terms-and-businesses-should-plan-as-if-it-never-gets-better/596343/",
       "date": "2026-11-10T20:00:25+00:00",
       "description": "A business that gets its customers through Meta should plan as if Meta will never get better for it. Start building other channels. The post Meta Paused Its New Business Terms, And Businesses Should Plan As If It Never Gets Better appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/meta-paused-255.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -625,19 +686,6 @@
       ]
     },
     {
-      "title": "ChatGPT ads: Advertisers surge, average spending falls, and big spenders dominate - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY2w3a0FWYjR4WkdEQk0xUjY2bmM0bG1YYjZPUmVDYTVvREdjbTVQSlc3THltZTJaMDhBWnpNc1lvMmo1cUoybXVlT0t2T2hrUXJOOWh4N0VSbXhXSkFxN1kzaFhWZ0dmWnBWMTBSdG54TXNOT1pmWFcyd1Vud1JuTnlFbEVHZ29wUDZYOU16WVlKdmZVazRPbjNoczRrdHYwSkRHTXJjMUI0VHVWeng0?oc=5",
-      "date": "2026-11-10T15:00:00+00:00",
-      "description": "ChatGPT ads: Advertisers surge, average spending falls, and big spenders dominate &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Jon Miller On AI And The Future Of Marketing Automation via @sejournal, @hethr_campbell",
       "link": "https://www.searchenginejournal.com/jon-miller-ai-marketing-automation/596446/",
       "date": "2026-11-10T13:00:26+00:00",
@@ -654,54 +702,6 @@
       "link": "https://www.searchenginejournal.com/meta-pauses-updated-business-ad-terms/596493/",
       "date": "2026-11-10T11:30:00+00:00",
       "description": "Meta paused its updated business and ad terms, leaving existing crawl rights in place for advertisers. The post Meta Pauses Its Updated Business And Ad Terms Due Nov. 20 appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "ChatGPT Ads Is Replacing Max Bid & Max CPC With Cost Targets via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-ads-is-replacing-max-bid-max-cpc-with-cost-targets/596491/",
-      "date": "2026-11-10T10:09:01+00:00",
-      "description": "ChatGPT Ads is replacing manual bid caps with average cost targets, with separate dates for new campaigns, existing campaigns and API partners. The post ChatGPT Ads Is Replacing Max Bid &#038; Max CPC With Cost Targets appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads Are Reaching Upper-Funnel Searches – But AI Mode Pays Less via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/paid-search-is-moving-up-the-funnel-google-admits-ai-mode-pays-less/595875/",
-      "date": "2026-11-09T20:00:13+00:00",
-      "description": "Protect PPC budgets as Google's AI Mode pushes search earlier in the buying journey, with four account changes to test whether discovery pays. The post Google Ads Are Reaching Upper-Funnel Searches – But AI Mode Pays Less appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads Tests A Weekly AI Report Card For Your Ad Creative via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ads-tests-asset-activity-page-with-weekly-ai-insights/596442/",
-      "date": "2026-11-09T16:30:00+00:00",
-      "description": "Some Google Ads accounts show an Asset activity page that uses AI to deliver weekly insight cards on ad creative, including headline ideas to test. The post Google Ads Tests A Weekly AI Report Card For Your Ad Creative appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "SEO Split Testing In 2027: How To Prove A Change Actually Worked",
-      "link": "https://www.searchenginejournal.com/seo-split-testing-prove-change-worked/594529/",
-      "date": "2026-11-09T15:00:42+00:00",
-      "description": "Separate real SEO gains from Google's shifts with fair controls, clear decision rules, and results stakeholders can tie to revenue. The post SEO Split Testing In 2027: How To Prove A Change Actually Worked appeared first on Search Engine Journal .",
       "image": "",
       "source": "Search Engine Journal",
       "tags": [
