@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-11-13T14:54:43.139602+00:00",
+  "updatedAt": "2026-11-13T21:25:15.883043+00:00",
   "items": [
+    {
+      "title": "AI Bot Management: Why SEOs Need More Than Block Lists via @sejournal, @chrisgreenseo",
+      "link": "https://www.searchenginejournal.com/ai-bot-management-why-seos-need-more-than-block-lists/597148/",
+      "date": "2026-11-13T20:00:48+00:00",
+      "description": "Blocking an AI training crawler isn’t the same as blocking a retrieval bot. Here’s why SEO needs deliberate bot policies, not block lists. The post AI Bot Management: Why SEOs Need More Than Block Lists appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/bot-management-410.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Tests Dropping AI Mode From Search Bar & Ask Anything",
+      "link": "https://www.seroundtable.com/google-dropping-ai-mode-again-42534.html",
+      "date": "2026-11-13T19:45:00+00:00",
+      "description": "Google is testing removing AI Mode from the search tab bar within Google Search and also removing the Ask anything follow-up box within the AI Overviews in Google Search. This follows our reports of Google removing the AI Mode buttons from the Google homepage.",
+      "image": "https://images.seroundtable.com/google-search-ai-mode-tab-missing-UOZpUMqP.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Microsoft 365 Outage Impact On Microsoft Advertising",
+      "link": "https://www.seroundtable.com/microsoft-365-outages-microsoft-ads-42533.html",
+      "date": "2026-11-13T19:29:00+00:00",
+      "description": "As you know, Microsoft had a major Microsoft 365 outage yesterday and into today, affecting many businesses and users. But it didn't seem to directly affect Microsoft Advertising or ads in Bing Search.",
+      "image": "https://images.seroundtable.com/microsoft-ads-outage-365-Q9czK1nD.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Says Target Frequency Can Mix Non-Skippable Ads & Shorts via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-target-frequency-non-skippable-shorts/597333/",
+      "date": "2026-11-13T18:26:51+00:00",
+      "description": "Target frequency campaigns can pair non-skippable ads with Shorts and in-feed ads, an updated help page says. Here's what changed and where the limits are. The post Google Says Target Frequency Can Mix Non-Skippable Ads &#038; Shorts appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/youtube-shorts-featured.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "72% Of Worker’s Say Their AI Skills Are Untested – Here’s How PPC Managers Prove Theirs via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/72-of-workers-say-their-ai-skills-are-untested-heres-how-ppc-managers-prove-theirs/596205/",
+      "date": "2026-11-13T18:00:02+00:00",
+      "description": "Turn Google Ads automation decisions into proof of your AI skills, with a practical record of overrides, checks, and campaign results. The post 72% Of Worker&#8217;s Say Their AI Skills Are Untested – Here&#8217;s How PPC Managers Prove Theirs appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ppc-skill-957.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "6 ways to stay on budget with Google Ads Smart Bidding - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUWxreVJqbUgyQkplSS1xWUMyQnBXS1hNOEJxdUtVdS1FZlJuOHpvTTZVcVVPMXVuN1hLX3M0THYxdkZkakJydlplNE1QY0JTVkd4THlwcDkzQVhiSEtvTlhpWnl6NTB2WVlIRFZETWdnRE8wSlJzOTMydlgyamJ0Mw?oc=5",
+      "date": "2026-11-13T16:00:00+00:00",
+      "description": "6 ways to stay on budget with Google Ads Smart Bidding &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: November 13, 2026",
+      "link": "https://www.seroundtable.com/recap-11-13-2026-42531.html",
+      "date": "2026-11-13T15:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google says it has pushed its biggest model update to Google Search yet with Gemini 4 Hydrogen - yes...",
+      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Search News Buzz Video Recap: Google November Core Update Is Here, ChatGPT Business Hub Gives Us Clicks, Yahoo Pivot Search & Google Ads Invalid Traffic",
       "link": "https://www.seroundtable.com/video-11-13-2026-42523.html",
@@ -105,6 +193,19 @@
       ]
     },
     {
+      "title": "Dreambeans: Google turns your private life into personalized content - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeXl4R2NKMzVIdFNhOVFLdHlfb1JqYkluazkzVGZSSmRaRHdDNmJNVFNEaWN5V1NRUkY5ZFhnTENUU01NbWVaVENiS3h6TVdvX1JYeGhtc3M4Tk9GMGZ0R1lzOXRlTURnNExER3BGTVVUelV0MmVYZW5XRUM0NmNLLW5sbWRVU2IzczN2dEJTS2JETXFGWHpMT2FNVGpLaGFPRzZOQVFR?oc=5",
+      "date": "2026-11-13T12:00:00+00:00",
+      "description": "Dreambeans: Google turns your private life into personalized content &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "How to create a trend-aware content calendar for AI search - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaGJ6b0J0VE5YUUJVMDVYVUNEOWh3NUM1RHdLbURyeDBmdTB6aXRMbWJLenJmYUpSMzZudV9PVUpCak1XSVIyRTBlWWd2Z2dEVlV0aDBGQjhqWV9qN1EyQ0gxOTUxQV9ZX0lsbWdkRnI5NTNLUDZnemp6V0hUdXN4U1JXa0NhbkdKbE1EMFBfNFd4Zw?oc=5",
       "date": "2026-11-12T22:28:49+00:00",
@@ -180,10 +281,10 @@
       ]
     },
     {
-      "title": "Visits To The Top Million Websites Fell 12%, Data Shows via @sejournal, @MattGSouthern",
+      "title": "Top Million Sites Lost 12% Of Visits; Top 100’s Share Barely Moved via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/visits-to-the-top-million-websites-fell-12-data-shows/597085/",
       "date": "2026-11-12T18:43:03+00:00",
-      "description": "Data shows visits to the world's top million websites declined from an earlier peak, visits going to sites outside the top 100 barely changed. The post Visits To The Top Million Websites Fell 12%, Data Shows appeared first on Search Engine Journal .",
+      "description": "Data shows visits to the world's top million websites declined from an earlier peak, visits going to sites outside the top 100 barely changed. The post Top Million Sites Lost 12% Of Visits; Top 100&#8217;s Share Barely Moved appeared first on Search Engine Journal .",
       "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/9e28404b-6124-44e3-a880-98e7c62cf229-889.jpeg",
       "source": "Search Engine Journal",
       "tags": [
@@ -359,6 +460,19 @@
       ]
     },
     {
+      "title": "Google Ads Editor 2.14 rolls out with AI Max defaults and new retention controls - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVhVcmFVZ2hNWjdwNkVCNV9HRmhwMDhTQ1hMNHhWbUJRRHlUVlU0STU0NW5nVXh1aGY1ZDc1NWZSVTV6MDRDTUQzWXYzcDZfV3ZnTGh6Vzk0SVVvN1U5emExeEVfMEpGT0kzdFE2Y1JvQXM3YVkxUWlTRWtlNHJCeHh4SF90U2xGU0VvZG1JWmsySEk2aEVhZGwxcGJfUkVzNmpPNERYemFLM19jNkNHWkpoSENodW8?oc=5",
+      "date": "2026-11-12T14:25:00+00:00",
+      "description": "Google Ads Editor 2.14 rolls out with AI Max defaults and new retention controls &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Google Ads launches Invalid Traffic Overview Card - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZWNCcm1aN0QtNXRfTGU4R0dBcEdtRTJqVXRnM1l3dkkzeGFQcDJkb0VCLVVoeDBRQXUxS25GZk10bVlaSnVKaUxzZGtESFBtdERpTm9wM2tab2NzaVBhd3JBS0RMcWRDS1ZBS25LdGR4QjltbE9ybVV0SWhDZTdLVHJTWVFpSEZnTEFjVmJR?oc=5",
       "date": "2026-11-12T13:17:28+00:00",
@@ -396,50 +510,11 @@
       ]
     },
     {
-      "title": "Google Ads New Invalid Traffic (IVT) Overview Card",
-      "link": "https://www.seroundtable.com/google-ads-invalid-traffic-ivt-overview-card-42513.html",
-      "date": "2026-11-12T13:00:00+00:00",
-      "description": "Google Ads announced a new Invalid Traffic (IVT) overview card within Google Search. Google's Keerat Sharma wrote, \"We're rolling out the Invalid Traffic Overview Card in Google Ads to give advertisers front-end transparency into how we protect their campaigns.\"",
-      "image": "https://images.seroundtable.com/invalid-traffic-card-google-ads-kwOdAB4L.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads Disallows Impersonate Public Figures With AI Even If Disclosed",
-      "link": "https://www.seroundtable.com/google-ads-disallows-impersonate-public-figures-ai-42512.html",
-      "date": "2026-11-12T12:51:00+00:00",
-      "description": "Google Ads clarified in its unacceptable Business Practices policy that impersonating public figures using AI isn't allowed, even if they disclose that they were generated or edited using AI.",
-      "image": "https://images.seroundtable.com/google-doc-change-hAyqlNeM.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads Disallows Targeting Users Based On Prohibited Content Interests",
-      "link": "https://www.seroundtable.com/google-ads-prohibits-targeting-users-42518.html",
-      "date": "2026-11-12T12:41:00+00:00",
-      "description": "Google Ads has added a single line to the Restricted targeting in Personalized advertising policy. Google wrote, \"Additionally, advertisers are not allowed to target users based on an interest in categories prohibited in Google's ad network.\"",
-      "image": "https://images.seroundtable.com/google-ads-doc-change-K7s10KTk.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Connecting with shoppers when the buyer Is not human - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRkxjVk1DSjFEd0tNYkNhQ1NJajEzcmZTcTJVSHFFOFhIWHRESG1UenJBSjhKaFRWV2xCSE91czJ5bV83VFczX0NERXY4X1Z5ZGh1X2lIZnlxQWl5M3pOTUdsNDZyV1RwLTNkMWFiY2lUOWV4T1lKSlh2RlhhT3hMM09IeG5rQ2MwamlYcGZFTU1CUQ?oc=5",
       "date": "2026-11-12T12:00:00+00:00",
       "description": "Connecting with shoppers when the buyer Is not human &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -452,7 +527,7 @@
       "link": "https://www.searchenginejournal.com/fix-ai-shopping-errors-writesonic-spa/595790/",
       "date": "2026-11-12T06:00:23+00:00",
       "description": "Explore the future of retail with AI shopping. Understand how AI affects product visibility and decision-making for consumers. The post AI Shopping Errors: What To Fix To Help Shoppers Choose Your Products appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/writesonic-partner-stories-featured-1600x832-887.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -464,7 +539,20 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZSnRNWURyNGZUTFp6Y1JJWDl6T090ZTYycnluVlFYaU1Hai1Rejg2TWkya0pqUlRKVlBFMjMtcUFQalBnUUc3cWwzMVAtWkNNVHl0S0tpUVl3cVNxR1d3RUI0RmJNQXRqeGJKZg?oc=5",
       "date": "2026-11-11T18:39:22+00:00",
       "description": "Six best enterprise SEO tools for optimizing at scale &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Ads introduces clearer audience reach controls with warnings for restricted targeting - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWHhlZmdZc0pSSkdTVnVxZGZUcmQtXzFDTHkzbFN1bnpYNWFoZDBORmZaRmh5MkFmOGY4UWNhd3N6T1Z4RXdIOHZUTjIwemoxTFp5R0E5RVdrVE5MbU9sNnF6X09qRU4tUjVVNlRfS2kyb3FWQVphMjV1QmdKX2dtN2lzcU1YX1ZRYVBWVzZFZG1Rb2ZVemxuQnY4SW1QUWZJTnlwcUFmUG5nZUQ2UFdScnhrOEZ5Um1YeG9QWE1pQjdOaXhuc19Z?oc=5",
+      "date": "2026-11-11T16:42:16+00:00",
+      "description": "Google Ads introduces clearer audience reach controls with warnings for restricted targeting &nbsp;&nbsp; Search Engine Land",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -477,7 +565,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSzNtQzh6UXNGYmstcVgxaWMtcGFkaHZzdzd4ZTI4Unp5WkZ1Sl9YQWlkRV9fNE56Z0F1LXFtbWxSWkUwand6dHBWOTA4OS1jR2g0TEdWblVaMFk4RzhBQ0U2X1Y3MUtiRnF1OGZhNjN5Wm5pNC1kbVBLQjRDeFM4cE5iQlZLWUFoVUVfaXZvZkU1dVI4SmVlVXZDVHZWckZ5UlpPRGZtbTJZY0djckE?oc=5",
       "date": "2026-11-11T16:35:30+00:00",
       "description": "Google Ads introduces new ValueTrack parameter to identify AI Max traffic &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -490,7 +578,7 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWnFONkVhYW1SYl80ZHE3TUdDQmd0TWRNVjRMVmdqLTVaV3hWTExqSkdkRGtZa1pYUFE2SHBYeGhuQXlmV1RYYm0zejdlMEt3RDRrN1VfYlhVYVVlTkt3alB1dWFCZ05OdlZrZHVVSTNtSGJBM3RWM2dGUllJajFHb0k5RVIzNGdZTHJXNVhHemVsVXNCbjdYMElzUQ?oc=5",
       "date": "2026-11-11T16:24:05+00:00",
       "description": "Google Ads shortens Smart Bidding learning status to 7 days &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -503,7 +591,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRmtlRm00alBqZklsVV9WRzZTYVBDMUQ4a01DZEdiLU5fRDJrcUREWG51WjdIYXVjb3gyVXdsSlNscGsycjJtZEUwOC1LNUI5YURuc2czLUFNa3IxekpMaGlheTh6ZGFDQVgzcFp4ZEFLSDNVOFdqdFUwa2xXV0N2SG05a1NqT2c1aHlSbXNDZjBRUWU1SDl2ZFd4dEptZw?oc=5",
       "date": "2026-11-11T16:09:08+00:00",
       "description": "Google SEO advice on moving to a CDN – content delivery network &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -537,19 +625,6 @@
       ]
     },
     {
-      "title": "How to sell upper-funnel campaigns to performance-driven clients - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVDN6N2JGdC1jeHgwa2dxZHVYUmUtOTlUTEFhbVJZamFobGNQMWdWeDZ0WDlGdmpMcWlFUUpMZEJQa0pDejZibWhwZGp3VTc2Rm1mT09VTWZBU2tRUV9wLWVvcGR2T0ZoY1lMVFkzUGtZRFE4RTEzVUY3Y3ZyeklFZTRZX29nZkt6NllaUFpYZnluSWRG?oc=5",
-      "date": "2026-11-11T15:00:00+00:00",
-      "description": "How to sell upper-funnel campaigns to performance-driven clients &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google Discovers Unexpected Patterns In AI Image Generation via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-discovers-unexpected-patterns-in-ai-image-generation/596745/",
       "date": "2026-11-11T14:18:51+00:00",
@@ -562,19 +637,6 @@
       ]
     },
     {
-      "title": "How to build an SEO content roadmap around revenue - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYVRnY3A2eVlkUEMyV0FGblUzdHFlV19YTGZxNkFIY2VPU2YzZk11clBWN2tQdW5xYU1DZmFmbFJRT0NoUmp0YkJyVURFYkdqR1kwOW1nc25mZmMzRXlWMGdKSy1fdnI1Q1Q1bzNQQnJPTVJyMXBTOTlteW1JTmtsSWl3?oc=5",
-      "date": "2026-11-11T14:00:00+00:00",
-      "description": "How to build an SEO content roadmap around revenue &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google Ads Channel Priorities Have Limits – What PMax Still Won’t Let You Split via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/google-ads-gives-you-more-channel-control-but-not-as-much-as-you-think/596266/",
       "date": "2026-11-11T13:00:37+00:00",
@@ -583,19 +645,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How software buyers use AI - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNRm5oOFNESWFGUW8wUS14OE1hNUNkRlo5VGdacmx1LXgzTWFzb1VfazJsOENUWXJOVVRLcndrU2xtY2JEZ3JTTEgyd0xUUldna295RjRGM0ZHazA5a09aRl9Oa2E3eFhiMEhLMU9JNA?oc=5",
-      "date": "2026-11-11T13:00:00+00:00",
-      "description": "How software buyers use AI &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
@@ -649,59 +698,10 @@
       ]
     },
     {
-      "title": "ChatGPT Business Hub is now live - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xNHM1VGlCUjNSNnljSnBlakVTZWFwckk5eVdfWGFpbU1iSEpKdDBXNWYzNlBnRnNINTR4UklXbUF6czB1dldudmNrM1Q0OG9EZTlRWGZ1QUNmV2dPTGpjb1o5NTZEY25ZRjIzWmRpa1N2Y3pvTExV?oc=5",
-      "date": "2026-11-10T19:06:37+00:00",
-      "description": "ChatGPT Business Hub is now live &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "“F*** Keywords” – Well, What Are You Replacing Them With? via @sejournal, @chrisgreenseo",
       "link": "https://www.searchenginejournal.com/forget-keywords-well-what-are-you-replacing-them-with/596349/",
       "date": "2026-11-10T18:00:42+00:00",
       "description": "Declaring keywords dead is easy. Explaining what you’ll track, how you’ll govern content, and what stakeholders buy into is the harder part. The post &#8220;F*** Keywords&#8221; – Well, What Are You Replacing Them With? appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Releases Modern Web Guidance 1.0 For AI Coding Agents via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-releases-modern-web-guidance-1-0-for-ai-coding-agents/596495/",
-      "date": "2026-11-10T17:00:00+00:00",
-      "description": "Google’s Modern Web Guidance 1.0 adds a codebase audit to its free skill set for AI coding agents. The post Google Releases Modern Web Guidance 1.0 For AI Coding Agents appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Good Vs. Bad pSEO: Learnings From A Decade Of Building Scalable Content Engines via @sejournal, @_nitman",
-      "link": "https://www.searchenginejournal.com/good-vs-bad-pseo-learnings-from-a-decade-of-building-scalable-content-engines/594204/",
-      "date": "2026-11-10T15:00:54+00:00",
-      "description": "Build programmatic SEO pages that earn their place with unique data, clear publishing standards, and pruning rules that keep scale from becoming spam. The post Good Vs. Bad pSEO: Learnings From A Decade Of Building Scalable Content Engines appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Jon Miller On AI And The Future Of Marketing Automation via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/jon-miller-ai-marketing-automation/596446/",
-      "date": "2026-11-10T13:00:26+00:00",
-      "description": "Jon Miller joins Heather Campbell to discuss how AI could reshape marketing automation, buying groups, and the decisions marketers face before renewing legacy platforms. The post Jon Miller On AI And The Future Of Marketing Automation appeared first on Search Engine Journal .",
       "image": "",
       "source": "Search Engine Journal",
       "tags": [
