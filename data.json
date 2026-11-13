@@ -1,6 +1,109 @@
 {
-  "updatedAt": "2026-11-13T06:37:04.576618+00:00",
+  "updatedAt": "2026-11-13T14:54:43.139602+00:00",
   "items": [
+    {
+      "title": "Search News Buzz Video Recap: Google November Core Update Is Here, ChatGPT Business Hub Gives Us Clicks, Yahoo Pivot Search & Google Ads Invalid Traffic",
+      "link": "https://www.seroundtable.com/video-11-13-2026-42523.html",
+      "date": "2026-11-13T13:01:00+00:00",
+      "description": "Google has begun the rollout of the November 2026 core update. Google also had search ranking volatility on November 8th and 9th. Google released a major update to Google Search with Gemini 4 Hydrogen days after Gemini 4 Carbon came out...",
+      "image": "https://img.youtube.com/vi/mL6y0SDQJ-c/maxresdefault.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "What Reddit Reviews Reveals About Your Products via @sejournal, @brentcsutoras",
+      "link": "https://www.searchenginejournal.com/what-reddit-reviews-reveals-about-your-products/596963/",
+      "date": "2026-11-13T13:00:09+00:00",
+      "description": "Spot recurring product complaints and competitor comparisons with Reddit Reviews, then check source comments for the context behind the summaries. The post What Reddit Reviews Reveals About Your Products appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/reddit-reviews-598.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Yahoo Scout To Pay Publishers Through The ILC For Using Content In AI Answers",
+      "link": "https://www.seroundtable.com/ilc-yahoo-42528.html",
+      "date": "2026-11-13T12:51:00+00:00",
+      "description": "The Internet Licensing Collective, a nonprofit, publisher-led licensing collective for Internet publishers and creators, launched the other day with Yahoo Scout as its first commercial partner. Yahoo Scout, through the ILC will pay publishers for using their content in its AI responses.",
+      "image": "https://images.seroundtable.com/yahoo-notepad-NCBsnTZz.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google AI Overviews AI-Generated Images Have Returned For Some",
+      "link": "https://www.seroundtable.com/google-ai-overviews-ai-generated-images-back-42532.html",
+      "date": "2026-11-13T12:42:00+00:00",
+      "description": "Google seems to be bringing back the ability for Google Search to generate images on the fly within Google Search. Google initially announced this back in July of this year and then paused the test the next month after some controversy. Now, it seems to be coming back for some searchers.",
+      "image": "https://images.seroundtable.com/google-ai-overview-image-gen-back-example-tHaqvp1C.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Merchant Center Promotions Titles Now Disallows Redemption Dates",
+      "link": "https://www.seroundtable.com/google-merchant-center-promotions-titles-date-42488.html",
+      "date": "2026-11-13T12:41:00+00:00",
+      "description": "Google has updated the editorial requirements for Merchant Center titles saying you can no longer \"include dates in any format\" within the title of the listing in the redemption section. Previously, the document allowed some date formats, I believe.",
+      "image": "https://images.seroundtable.com/google-merchant-center-title-redemption-dates-new-w84mY89d.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Merchant Center Deal Ends Annotation No Longer Experimental",
+      "link": "https://www.seroundtable.com/google-merchant-center-deal-ends-annotation-removes-experimental-42522.html",
+      "date": "2026-11-13T12:31:00+00:00",
+      "description": "Google has dropped the \"experimental\" label from the Deal Ends annotation for Google Merchant Center Product Listing Ads. Google has also said this feature is no longer available in India; previously, it was.",
+      "image": "https://images.seroundtable.com/google-sale-store-5h6lJq2C.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Updates Conversion Lift Set Up Documentation",
+      "link": "https://www.seroundtable.com/google-ads-conversion-lift-set-up-doc-update-42530.html",
+      "date": "2026-11-13T12:21:00+00:00",
+      "description": "Google Ads updated its Conversion Lift help documentation primarily to provide more detailed technical requirements and troubleshooting guidance for advertisers setting up incrementality studies. There are a lot of changes to the document but here are the big ones.",
+      "image": "https://images.seroundtable.com/text-compare-google-ads-doc-bFB1eO3l.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Shopping Section Named Highlighted On The Web",
+      "link": "https://www.seroundtable.com/google-shopping-highlighted-on-the-web-42376.html",
+      "date": "2026-11-13T12:11:00+00:00",
+      "description": "Google has added a section to the mobile version of Google Shopping (maybe desktop as well) named \"Highlighted on the web.\" I can see this section when I search for product in Google Shopping on mobile, but I do not see it on the desktop interface.",
+      "image": "https://images.seroundtable.com/google-shopping-highlighted-on-the-web-7F9UOZnq.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "How to create a trend-aware content calendar for AI search - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaGJ6b0J0VE5YUUJVMDVYVUNEOWh3NUM1RHdLbURyeDBmdTB6aXRMbWJLenJmYUpSMzZudV9PVUpCak1XSVIyRTBlWWd2Z2dEVlV0aDBGQjhqWV9qN1EyQ0gxOTUxQV9ZX0lsbWdkRnI5NTNLUDZnemp6V0hUdXN4U1JXa0NhbkdKbE1EMFBfNFd4Zw?oc=5",
@@ -35,6 +138,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Search Console performance report data bug Nov 9 -11 - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQk13Q0NFWDN5QlU0MFVwTWFmSVNrcjJ1c2RvUnNZc0gwd2F3eDZmdE55djNaVjlMUUgxUkt0by0wLTNuTG53ek1EVlk3Wm9kdENOaW1pRE9ENWtLWDJPWms1dnJVdGt1Rm1vTWtpT3NfQlR4WmJMRlpyaTdBbEd2QVByS29DR2c3alRsUEpmVjlGc2Q1OHJ2dVpn?oc=5",
+      "date": "2026-11-12T20:05:30+00:00",
+      "description": "Google Search Console performance report data bug Nov 9 -11 &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -153,10 +269,36 @@
       ]
     },
     {
+      "title": "Email marketing: The definitive guide - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KQndxTVdOSW13SlQ3S3ZzUGdIeDlaNldLX2dGaDVPbEVEdFZqdFBYQ081QkNxV3ZSYnIzMHp3VjJ5d2xYX0x6XzB2RDRteU9uWnEzRUFEYU5lR3psU3lzZFAxbjQ4QmM?oc=5",
+      "date": "2026-11-12T16:13:39+00:00",
+      "description": "Email marketing: The definitive guide &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Google Ads details new Data Strength Uplift metric - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbllCTHpfeUM4WHdxWWd6eVBQbS03OHVnbTdlTVdlQ1ctd2hLNTU5OWtWOGFDWjlaUk81Q0J5WXNnV2RKNEtZa3pOeGVjNFM2T0ZzQTZSQnBaMEdxcXl0S2V3aGMxS3hiMENCS08zU3VfZC1NaGZjZGNGcXc4ekxES3oxYjFGbmdtQmFDQi1ucw?oc=5",
       "date": "2026-11-12T15:36:34+00:00",
       "description": "Google Ads details new Data Strength Uplift metric &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How to promote products on YouTube: Selling tips for 2026 - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5cm5EcWR1YU1JeGVBcFZxcmhQM3JXZXdzUW5ZUnIzUUFselpDQlo4OWpUMlBHYUJrbEdEUkFBYngtQ0xyWll5NTI4V09pOTBpU2VhemwtakwxLV9GRWNv?oc=5",
+      "date": "2026-11-12T15:09:40+00:00",
+      "description": "How to promote products on YouTube: Selling tips for 2026 &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -293,58 +435,6 @@
       ]
     },
     {
-      "title": "Google Ads 'Found On Site' Icon & More Pages Label On Sponsored Results",
-      "link": "https://www.seroundtable.com/google-ads-found-on-site-label-42496.html",
-      "date": "2026-11-12T12:31:00+00:00",
-      "description": "Google is testing a new label on its sponsored results on Google Ads named \"Found on site.\" The label also has a text with a magnifying glass icon next to it. Next to the label is a site link that you can click on.",
-      "image": "https://images.seroundtable.com/google-ads-found-on-site-label-MKi4d2uP.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads Editor Version 2.14 Is Now Available",
-      "link": "https://www.seroundtable.com/google-ads-editor-version-2-14-42515.html",
-      "date": "2026-11-12T12:21:00+00:00",
-      "description": "Google has released version 2.14 of the Google Ads Editor, which includes 10 new features.",
-      "image": "https://images.seroundtable.com/agency-worker-1TxqUpX9.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads Data Strength Uplift Metric Doc",
-      "link": "https://www.seroundtable.com/google-ads-data-strength-uplift-metric-42516.html",
-      "date": "2026-11-12T12:11:00+00:00",
-      "description": "Google Ads has posted a new help document about the data strength uplift metric. This comes a month after Google posted another help document on Data Strength Best Practices. \"The data strength uplift metric gives you a clearer picture of the value your first-party data setup delivers in Google Ads,\" Google wrote.",
-      "image": "https://images.seroundtable.com/google-ads-data-strength-uplift-metric-dBuSw9m6.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Bing Touts Two Methods To Turn Off AI In Search But It's Not A Search Setting",
-      "link": "https://www.seroundtable.com/bing-turn-off-ai-search-setting-42520.html",
-      "date": "2026-11-12T12:05:00+00:00",
-      "description": "Microsoft announced, again, that there are ways to turn off AI features in Bing Search. We covered it twice before, but the first time we covered it, Bing had a search setting to disable AI Search (aka Copilot) from showing up in Bing. The second time, Bing removed that setting and asked people to download a browser extension or add -ai to the query to disable AI search features.",
-      "image": "https://s3.amazonaws.com/images.seroundtable.com/bing-turn-off-microsoft-copilot-setting-1715949565.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Connecting with shoppers when the buyer Is not human - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRkxjVk1DSjFEd0tNYkNhQ1NJajEzcmZTcTJVSHFFOFhIWHRESG1UenJBSjhKaFRWV2xCSE91czJ5bV83VFczX0NERXY4X1Z5ZGh1X2lIZnlxQWl5M3pOTUdsNDZyV1RwLTNkMWFiY2lUOWV4T1lKSlh2RlhhT3hMM09IeG5rQ2MwamlYcGZFTU1CUQ?oc=5",
       "date": "2026-11-12T12:00:00+00:00",
@@ -370,62 +460,10 @@
       ]
     },
     {
-      "title": "Google Placing Source Icons At Bottom Of AI Overviews",
-      "link": "https://www.seroundtable.com/google-ai-overview-source-icons-bottom-42519.html",
-      "date": "2026-11-12T01:15:00+00:00",
-      "description": "Google is testing moving the citations or sources icons to the very bottom of the AI Overviews. Previously, these icons appeared at the top of the AI Overview; now Google is testing placing them at the bottom, which may make it even harder to find the sources of the answers Google generates in these AI Overviews and could reduce clicks to your site even more.",
-      "image": "https://images.seroundtable.com/google-ai-overview-citations-sources-bottom-jW7J1wXt.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads API Version 26.2 Now Out Available",
-      "link": "https://www.seroundtable.com/google-ads-api-version-262-42517.html",
-      "date": "2026-11-11T20:45:00+00:00",
-      "description": "Google Ads has just released a minor update to its Google Ads API - version 26.2. This update touches on assets, campaigns, reporting, and more general updates.",
-      "image": "https://images.seroundtable.com/google-ads-api-v262-pUYIr42S.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Search AI Overview Definitions Expanded By Default",
-      "link": "https://www.seroundtable.com/google-expanding-definitions-42514.html",
-      "date": "2026-11-11T19:51:00+00:00",
-      "description": "Google is expanding the AI Overviews for definitions by default, where you no longer have to click on \"Show more\" to see the full version of the AI Overview. This is similar to when Google confirmed it dynamically expands some AI Overviews based on the query, but now Google is doing this for all definition searches.",
-      "image": "https://images.seroundtable.com/google-search-ai-overview-definitions-expanded-K5gj8NIJ.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Six best enterprise SEO tools for optimizing at scale - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZSnRNWURyNGZUTFp6Y1JJWDl6T090ZTYycnluVlFYaU1Hai1Rejg2TWkya0pqUlRKVlBFMjMtcUFQalBnUUc3cWwzMVAtWkNNVHl0S0tpUVl3cVNxR1d3RUI0RmJNQXRqeGJKZg?oc=5",
       "date": "2026-11-11T18:39:22+00:00",
       "description": "Six best enterprise SEO tools for optimizing at scale &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads introduces clearer audience reach controls with warnings for restricted targeting - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWHhlZmdZc0pSSkdTVnVxZGZUcmQtXzFDTHkzbFN1bnpYNWFoZDBORmZaRmh5MkFmOGY4UWNhd3N6T1Z4RXdIOHZUTjIwemoxTFp5R0E5RVdrVE5MbU9sNnF6X09qRU4tUjVVNlRfS2kyb3FWQVphMjV1QmdKX2dtN2lzcU1YX1ZRYVBWVzZFZG1Rb2ZVemxuQnY4SW1QUWZJTnlwcUFmUG5nZUQ2UFdScnhrOEZ5Um1YeG9QWE1pQjdOaXhuc19Z?oc=5",
-      "date": "2026-11-11T16:42:16+00:00",
-      "description": "Google Ads introduces clearer audience reach controls with warnings for restricted targeting &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -478,7 +516,7 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONktHTnNZbngzQ0hmbnRsMkhxdUJaUHRTNlVSajc1NFBfXzRPZW1XVW9kcUVqbXZpSldvVnF6NTRKZ2o5ZDBZUkdDWVhmc2h2OXZDTDJzWFN1QThzbzIyM1BXc2Q5NEF3NzdWU3FWd1RZbjFxMk1wa2o5VVQ2c0hycDBocw?oc=5",
       "date": "2026-11-11T16:00:00+00:00",
       "description": "ChatGPT ads vs. Google Ads: 6 key differences to know &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -491,7 +529,7 @@
       "link": "https://www.searchenginejournal.com/visibility-gets-you-on-the-list-evidence-helps-you-stay-there/592127/",
       "date": "2026-11-11T15:00:59+00:00",
       "description": "AI visibility can hide evidence gaps that weaken recommendations as buyers evaluate integrations, workflows, and outcomes. The post Visibility Gets You On The List, Evidence Helps You Stay There appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/visibility-814.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -503,7 +541,7 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVDN6N2JGdC1jeHgwa2dxZHVYUmUtOTlUTEFhbVJZamFobGNQMWdWeDZ0WDlGdmpMcWlFUUpMZEJQa0pDejZibWhwZGp3VTc2Rm1mT09VTWZBU2tRUV9wLWVvcGR2T0ZoY1lMVFkzUGtZRFE4RTEzVUY3Y3ZyeklFZTRZX29nZkt6NllaUFpYZnluSWRG?oc=5",
       "date": "2026-11-11T15:00:00+00:00",
       "description": "How to sell upper-funnel campaigns to performance-driven clients &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -624,19 +662,6 @@
       ]
     },
     {
-      "title": "Google November 2026 core update rolling out now - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSjkwclo1dU0yQzdYSkV6YWhsQTkxN0hNeVJtVUJhaDhDNmJOdDFLeEdtV0RsYkpjaW9xLWIxejRXRFItQnhjSE5GOGx1NVhZazY2a3RHYW5ZQkcxalRGQmROWTFhX1JraDY5Q3lKMk9Mc3BicGtnQWVJNS16VmhZelpMbzJhbmQ2UzNqZA?oc=5",
-      "date": "2026-11-10T18:16:47+00:00",
-      "description": "Google November 2026 core update rolling out now &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "“F*** Keywords” – Well, What Are You Replacing Them With? via @sejournal, @chrisgreenseo",
       "link": "https://www.searchenginejournal.com/forget-keywords-well-what-are-you-replacing-them-with/596349/",
       "date": "2026-11-10T18:00:42+00:00",
@@ -645,19 +670,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads gives Performance Max page feeds a makeover with clearer URL controls - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY3N0S2lDZ25ONUtkc3lMNkg0dGd5UWFCNlNQVHhFN0Q1VHJzZjFuMkQ5emRxQXBIQ01QYmNGNy0xRE1GSllPMV9tdEllVkhLQWx1U2tBQ1hzOU1SUGVIT3lqWkJtS2ZiV0kzMGlhdGhRTmZKNFZkX2hURXl1b1FHWVpWa3VDT2ZEWHFQNFFjTXVxNjBfLW4yN0RzMmkzcHdVdWl3d1p6dE5zV0tzS2xFdkJwbGtsNzQ?oc=5",
-      "date": "2026-11-10T17:30:34+00:00",
-      "description": "Google Ads gives Performance Max page feeds a makeover with clearer URL controls &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
@@ -690,18 +702,6 @@
       "link": "https://www.searchenginejournal.com/jon-miller-ai-marketing-automation/596446/",
       "date": "2026-11-10T13:00:26+00:00",
       "description": "Jon Miller joins Heather Campbell to discuss how AI could reshape marketing automation, buying groups, and the decisions marketers face before renewing legacy platforms. The post Jon Miller On AI And The Future Of Marketing Automation appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Meta Pauses Its Updated Business And Ad Terms Due Nov. 20 via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/meta-pauses-updated-business-ad-terms/596493/",
-      "date": "2026-11-10T11:30:00+00:00",
-      "description": "Meta paused its updated business and ad terms, leaving existing crawl rights in place for advertisers. The post Meta Pauses Its Updated Business And Ad Terms Due Nov. 20 appeared first on Search Engine Journal .",
       "image": "",
       "source": "Search Engine Journal",
       "tags": [
