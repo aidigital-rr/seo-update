@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-13T21:25:15.883043+00:00",
+  "updatedAt": "2026-11-14T01:47:12.141155+00:00",
   "items": [
+    {
+      "title": "Google Explains How To Find Search Traffic In Analytics & Logs via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-search-traffic-analytics-logs/597382/",
+      "date": "2026-11-14T00:02:10+00:00",
+      "description": "A Google Search help page lists the referrer values Search traffic sends, why some visits arrive with none, and why counts differ from Search Console. The post Google Explains How To Find Search Traffic In Analytics &#038; Logs appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-search-traffic-analytics-logs.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "AI Bot Management: Why SEOs Need More Than Block Lists via @sejournal, @chrisgreenseo",
       "link": "https://www.searchenginejournal.com/ai-bot-management-why-seos-need-more-than-block-lists/597148/",
@@ -370,19 +382,6 @@
       ]
     },
     {
-      "title": "Email marketing: The definitive guide - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KQndxTVdOSW13SlQ3S3ZzUGdIeDlaNldLX2dGaDVPbEVEdFZqdFBYQ081QkNxV3ZSYnIzMHp3VjJ5d2xYX0x6XzB2RDRteU9uWnEzRUFEYU5lR3psU3lzZFAxbjQ4QmM?oc=5",
-      "date": "2026-11-12T16:13:39+00:00",
-      "description": "Email marketing: The definitive guide &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google Ads details new Data Strength Uplift metric - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbllCTHpfeUM4WHdxWWd6eVBQbS03OHVnbTdlTVdlQ1ctd2hLNTU5OWtWOGFDWjlaUk81Q0J5WXNnV2RKNEtZa3pOeGVjNFM2T0ZzQTZSQnBaMEdxcXl0S2V3aGMxS3hiMENCS08zU3VfZC1NaGZjZGNGcXc4ekxES3oxYjFGbmdtQmFDQi1ucw?oc=5",
       "date": "2026-11-12T15:36:34+00:00",
@@ -431,6 +430,19 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "Are we chasing AI visibility at the expense of business results? - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcWZrZlF0Z2dyM244SzdReGdybUpNWFZJT09LWDV4OXFPNEtpLUphcHF1OHRydTJ2MFR5cjNJWk5vSDJyS3BpWEpnRXZ4Y29BcVhKVFRDUXl5RVBpMzhRZW5zQU9MVERvbURIdWpBcUszNlRpRTNzdTU3MlRYV29pRDJmaXdVenplU2RtNEkxeFBvaWZNMTY5REFRbG8xbkpX?oc=5",
+      "date": "2026-11-12T15:00:00+00:00",
+      "description": "Are we chasing AI visibility at the expense of business results? &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
@@ -502,7 +514,7 @@
       "link": "https://www.searchenginejournal.com/dont-let-a-tool-lead-your-ai-search-strategy-own-your-data-instead/596538/",
       "date": "2026-11-12T13:00:43+00:00",
       "description": "Keep your AI search strategy independent of unstable tools by owning your prompts, raw data, and measures of brand visibility. The post Why A Dashboard Cannot Define Your Brand&#8217;s AI Visibility Strategy appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ai-data-872.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -531,19 +543,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Six best enterprise SEO tools for optimizing at scale - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZSnRNWURyNGZUTFp6Y1JJWDl6T090ZTYycnluVlFYaU1Hai1Rejg2TWkya0pqUlRKVlBFMjMtcUFQalBnUUc3cWwzMVAtWkNNVHl0S0tpUVl3cVNxR1d3RUI0RmJNQXRqeGJKZg?oc=5",
-      "date": "2026-11-11T18:39:22+00:00",
-      "description": "Six best enterprise SEO tools for optimizing at scale &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
@@ -625,6 +624,19 @@
       ]
     },
     {
+      "title": "How to sell upper-funnel campaigns to performance-driven clients - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVDN6N2JGdC1jeHgwa2dxZHVYUmUtOTlUTEFhbVJZamFobGNQMWdWeDZ0WDlGdmpMcWlFUUpMZEJQa0pDejZibWhwZGp3VTc2Rm1mT09VTWZBU2tRUV9wLWVvcGR2T0ZoY1lMVFkzUGtZRFE4RTEzVUY3Y3ZyeklFZTRZX29nZkt6NllaUFpYZnluSWRG?oc=5",
+      "date": "2026-11-11T15:00:00+00:00",
+      "description": "How to sell upper-funnel campaigns to performance-driven clients &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Google Discovers Unexpected Patterns In AI Image Generation via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-discovers-unexpected-patterns-in-ai-image-generation/596745/",
       "date": "2026-11-11T14:18:51+00:00",
@@ -690,18 +702,6 @@
       "link": "https://www.searchenginejournal.com/google-expands-ads-in-ai-mode-multiturn-ads/596540/",
       "date": "2026-11-10T19:08:34+00:00",
       "description": "Google is rolling out English-language ads in AI Mode to more than 10 new countries and launching multiturn ads for follow-up queries in the U.S. The post Google Ads Now Runs In AI Mode Across 10 More Countries appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "“F*** Keywords” – Well, What Are You Replacing Them With? via @sejournal, @chrisgreenseo",
-      "link": "https://www.searchenginejournal.com/forget-keywords-well-what-are-you-replacing-them-with/596349/",
-      "date": "2026-11-10T18:00:42+00:00",
-      "description": "Declaring keywords dead is easy. Explaining what you’ll track, how you’ll govern content, and what stakeholders buy into is the harder part. The post &#8220;F*** Keywords&#8221; – Well, What Are You Replacing Them With? appeared first on Search Engine Journal .",
       "image": "",
       "source": "Search Engine Journal",
       "tags": [
