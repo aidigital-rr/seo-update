@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-14T08:04:16.049156+00:00",
+  "updatedAt": "2026-11-14T15:01:43.281685+00:00",
   "items": [
+    {
+      "title": "Core Update, ChatGPT Business Hub & AI Mode’s New Model – SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-core-update-chatgpt-business-hub-ai-modes-new-model/597135/",
+      "date": "2026-11-14T13:00:00+00:00",
+      "description": "A core update rolls out, AI search gets a new default model, ChatGPT shares mention and click counts, and sites plan for less search traffic. The post Core Update, ChatGPT Business Hub &#038; AI Mode&#8217;s New Model &#8211; SEO Pulse appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/seo-pulse-november-12-2026.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "United Requires Permission For AI Agents, Keeps Search Indexing Open via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/united-ai-agents-permission-search-indexing/597418/",
+      "date": "2026-11-14T10:00:14+00:00",
+      "description": "An airline's updated terms let search engines index public pages but require written permission for AI agents and bar AI grounding on its data. The post United Requires Permission For AI Agents, Keeps Search Indexing Open appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/united-ai-agents-featured.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Meta’s Muse Now Sends Most AI Agent Requests One Security Firm Sees via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/meta-muse-ai-agent-requests-human-security/597388/",
@@ -420,36 +444,10 @@
       ]
     },
     {
-      "title": "Email marketing: The definitive guide - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KQndxTVdOSW13SlQ3S3ZzUGdIeDlaNldLX2dGaDVPbEVEdFZqdFBYQ081QkNxV3ZSYnIzMHp3VjJ5d2xYX0x6XzB2RDRteU9uWnEzRUFEYU5lR3psU3lzZFAxbjQ4QmM?oc=5",
-      "date": "2026-11-12T16:13:39+00:00",
-      "description": "Email marketing: The definitive guide &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google Ads details new Data Strength Uplift metric - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbllCTHpfeUM4WHdxWWd6eVBQbS03OHVnbTdlTVdlQ1ctd2hLNTU5OWtWOGFDWjlaUk81Q0J5WXNnV2RKNEtZa3pOeGVjNFM2T0ZzQTZSQnBaMEdxcXl0S2V3aGMxS3hiMENCS08zU3VfZC1NaGZjZGNGcXc4ekxES3oxYjFGbmdtQmFDQi1ucw?oc=5",
       "date": "2026-11-12T15:36:34+00:00",
       "description": "Google Ads details new Data Strength Uplift metric &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to promote products on YouTube: Selling tips for 2026 - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5cm5EcWR1YU1JeGVBcFZxcmhQM3JXZXdzUW5ZUnIzUUFselpDQlo4OWpUMlBHYUJrbEdEUkFBYngtQ0xyWll5NTI4V09pOTBpU2VhemwtakwxLV9GRWNv?oc=5",
-      "date": "2026-11-12T15:09:40+00:00",
-      "description": "How to promote products on YouTube: Selling tips for 2026 &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -523,19 +521,6 @@
       ]
     },
     {
-      "title": "Google Ads Editor 2.14 rolls out with AI Max defaults and new retention controls - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVhVcmFVZ2hNWjdwNkVCNV9HRmhwMDhTQ1hMNHhWbUJRRHlUVlU0STU0NW5nVXh1aGY1ZDc1NWZSVTV6MDRDTUQzWXYzcDZfV3ZnTGh6Vzk0SVVvN1U5emExeEVfMEpGT0kzdFE2Y1JvQXM3YVkxUWlTRWtlNHJCeHh4SF90U2xGU0VvZG1JWmsySEk2aEVhZGwxcGJfUkVzNmpPNERYemFLM19jNkNHWkpoSENodW8?oc=5",
-      "date": "2026-11-12T14:25:00+00:00",
-      "description": "Google Ads Editor 2.14 rolls out with AI Max defaults and new retention controls &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google Ads launches Invalid Traffic Overview Card - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZWNCcm1aN0QtNXRfTGU4R0dBcEdtRTJqVXRnM1l3dkkzeGFQcDJkb0VCLVVoeDBRQXUxS25GZk10bVlaSnVKaUxzZGtESFBtdERpTm9wM2tab2NzaVBhd3JBS0RMcWRDS1ZBS25LdGR4QjltbE9ybVV0SWhDZTdLVHJTWVFpSEZnTEFjVmJR?oc=5",
       "date": "2026-11-12T13:17:28+00:00",
@@ -569,19 +554,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Connecting with shoppers when the buyer Is not human - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRkxjVk1DSjFEd0tNYkNhQ1NJajEzcmZTcTJVSHFFOFhIWHRESG1UenJBSjhKaFRWV2xCSE91czJ5bV83VFczX0NERXY4X1Z5ZGh1X2lIZnlxQWl5M3pOTUdsNDZyV1RwLTNkMWFiY2lUOWV4T1lKSlh2RlhhT3hMM09IeG5rQ2MwamlYcGZFTU1CUQ?oc=5",
-      "date": "2026-11-12T12:00:00+00:00",
-      "description": "Connecting with shoppers when the buyer Is not human &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
@@ -624,10 +596,10 @@
       ]
     },
     {
-      "title": "Google Ads shortens Smart Bidding learning status to 7 days - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWnFONkVhYW1SYl80ZHE3TUdDQmd0TWRNVjRMVmdqLTVaV3hWTExqSkdkRGtZa1pYUFE2SHBYeGhuQXlmV1RYYm0zejdlMEt3RDRrN1VfYlhVYVVlTkt3alB1dWFCZ05OdlZrZHVVSTNtSGJBM3RWM2dGUllJajFHb0k5RVIzNGdZTHJXNVhHemVsVXNCbjdYMElzUQ?oc=5",
-      "date": "2026-11-11T16:24:05+00:00",
-      "description": "Google Ads shortens Smart Bidding learning status to 7 days &nbsp;&nbsp; Search Engine Land",
+      "title": "ChatGPT ads vs. Google Ads: 6 key differences to know - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONktHTnNZbngzQ0hmbnRsMkhxdUJaUHRTNlVSajc1NFBfXzRPZW1XVW9kcUVqbXZpSldvVnF6NTRKZ2o5ZDBZUkdDWVhmc2h2OXZDTDJzWFN1QThzbzIyM1BXc2Q5NEF3NzdWU3FWd1RZbjFxMk1wa2o5VVQ2c0hycDBocw?oc=5",
+      "date": "2026-11-11T16:00:00+00:00",
+      "description": "ChatGPT ads vs. Google Ads: 6 key differences to know &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -661,6 +633,19 @@
       ]
     },
     {
+      "title": "How to build an SEO content roadmap around revenue - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYVRnY3A2eVlkUEMyV0FGblUzdHFlV19YTGZxNkFIY2VPU2YzZk11clBWN2tQdW5xYU1DZmFmbFJRT0NoUmp0YkJyVURFYkdqR1kwOW1nc25mZmMzRXlWMGdKSy1fdnI1Q1Q1bzNQQnJPTVJyMXBTOTlteW1JTmtsSWl3?oc=5",
+      "date": "2026-11-11T14:00:00+00:00",
+      "description": "How to build an SEO content roadmap around revenue &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Google Ads Channel Priorities Have Limits – What PMax Still Won’t Let You Split via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/google-ads-gives-you-more-channel-control-but-not-as-much-as-you-think/596266/",
       "date": "2026-11-11T13:00:37+00:00",
@@ -669,6 +654,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How software buyers use AI - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNRm5oOFNESWFGUW8wUS14OE1hNUNkRlo5VGdacmx1LXgzTWFzb1VfazJsOENUWXJOVVRLcndrU2xtY2JEZ3JTTEgyd0xUUldna295RjRGM0ZHazA5a09aRl9Oa2E3eFhiMEhLMU9JNA?oc=5",
+      "date": "2026-11-11T13:00:00+00:00",
+      "description": "How software buyers use AI &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -686,26 +684,28 @@
       ]
     },
     {
-      "title": "Meta Paused Its New Business Terms, And Businesses Should Plan As If It Never Gets Better via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/meta-paused-its-new-business-terms-and-businesses-should-plan-as-if-it-never-gets-better/596343/",
-      "date": "2026-11-10T20:00:25+00:00",
-      "description": "A business that gets its customers through Meta should plan as if Meta will never get better for it. Start building other channels. The post Meta Paused Its New Business Terms, And Businesses Should Plan As If It Never Gets Better appeared first on Search Engine Journal .",
+      "title": "ChatGPT Business Hub is now live - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xNHM1VGlCUjNSNnljSnBlakVTZWFwckk5eVdfWGFpbU1iSEpKdDBXNWYzNlBnRnNINTR4UklXbUF6czB1dldudmNrM1Q0OG9EZTlRWGZ1QUNmV2dPTGpjb1o5NTZEY25ZRjIzWmRpa1N2Y3pvTExV?oc=5",
+      "date": "2026-11-10T19:06:37+00:00",
+      "description": "ChatGPT Business Hub is now live &nbsp;&nbsp; Search Engine Land",
       "image": "",
-      "source": "Search Engine Journal",
+      "source": "Search Engine Land",
       "tags": [
         "SEO",
+        "Google",
         "AI Search"
       ]
     },
     {
-      "title": "Google’s November 2026 Core Update Starts Rolling Out via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-november-2026-core-update/596614/",
-      "date": "2026-11-10T19:55:01+00:00",
-      "description": "Google has begun rolling out its November 2026 core update globally and says it may take up to two weeks to complete. The post Google&#8217;s November 2026 Core Update Starts Rolling Out appeared first on Search Engine Journal .",
+      "title": "Google November 2026 core update rolling out now - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSjkwclo1dU0yQzdYSkV6YWhsQTkxN0hNeVJtVUJhaDhDNmJOdDFLeEdtV0RsYkpjaW9xLWIxejRXRFItQnhjSE5GOGx1NVhZazY2a3RHYW5ZQkcxalRGQmROWTFhX1JraDY5Q3lKMk9Mc3BicGtnQWVJNS16VmhZelpMbzJhbmQ2UzNqZA?oc=5",
+      "date": "2026-11-10T18:16:47+00:00",
+      "description": "Google November 2026 core update rolling out now &nbsp;&nbsp; Search Engine Land",
       "image": "",
-      "source": "Search Engine Journal",
+      "source": "Search Engine Land",
       "tags": [
         "SEO",
+        "Google",
         "AI Search"
       ]
     },
