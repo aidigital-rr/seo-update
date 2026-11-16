@@ -1,6 +1,199 @@
 {
-  "updatedAt": "2026-11-16T06:21:06.531949+00:00",
+  "updatedAt": "2026-11-16T16:25:52.266792+00:00",
   "items": [
+    {
+      "title": "Google Ads clarifies how URL exclusions work in AI Max for Search campaigns - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQckdhU0VSZUJFUlZkcnFGQzRIY3dRSktFbllhcFFwbHctb21WYmtVd0JwYVNLcDIxdUJOY21VeFk0ZzB1OEMtb3BsT3hqMkZta0R2c1k3OWI1QXlTT3NpVXlRV2pTUC1YcVpxMVFwLWhNQjg1OW1GSlpNLXlYZjg5eUh3Wm5iN0M3dUt1ZDlPUFVKX09tenN5ZnFpdkphTnI2WlBwV1VKZzJQYjRrTHdWYQ?oc=5",
+      "date": "2026-11-16T16:08:35+00:00",
+      "description": "Google Ads clarifies how URL exclusions work in AI Max for Search campaigns &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "ChatGPT citation drops look like unannounced Google core updates - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaXQ3UmM2cGRKazJHa1owTk9OT3U3T1FnN3R5Q1BhRHZZTUpWNV9YQTlpS2h4UjdKUFhzREhnc25jRFpzRDNYSW9lSHlPN3pmMklUdFdBTW4yeXZNblFjYlFEdlZNdkZ0d1FCeklEVmdxNnR0OHczYzRRS3hGdUVqeGNCR2k1QlpjTXhqaVhoU0J4RHIy?oc=5",
+      "date": "2026-11-16T16:00:00+00:00",
+      "description": "ChatGPT citation drops look like unannounced Google core updates &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Microsoft Advertising adds AI Max landing page insights - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN2FtV1pBS2hFYTZsdzUwVFNJQjRENi03MlZSSmRyZDkzSi1ZS0VJYTE5MUQ1aWtaaTctSDZNZGtOQXdzMGJuUlp5SUJtRFdtMUpneEJvZEFYOEtPNHhyUkVkOU9JWUtqdXdVU2hzaHZEMmRvQVRzTC1XTnRkNXFMSGZTT0R6MUxERnVvb19idkRTa19TTHc?oc=5",
+      "date": "2026-11-16T15:26:13+00:00",
+      "description": "Microsoft Advertising adds AI Max landing page insights &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "When The WordPress Plugin Update Is The Security Risk: Why SEOs Should Pay Attention via @sejournal, @cshel",
+      "link": "https://www.searchenginejournal.com/when-the-wordpress-plugin-update-is-the-security-risk-why-seos-should-pay-attention/595622/",
+      "date": "2026-11-16T15:00:34+00:00",
+      "description": "Compromised WordPress plugins can introduce security threats and SEO problems. Recent supply-chain attacks reveal why software updates, vendor trust, and verification deserve closer scrutiny. The post When The WordPress Plugin Update Is The Security Risk: Why SEOs Should Pay Attention appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/wp-update-296.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Why SEO testing matters more as AI makes execution easier - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sRFRNU1IyUGF5VGdybnk4ZV9YOWZlXzA0M091Qnpyc25EZ0hDNVJRSWU1YllZWENRUkZMTk1mN1dzbzVrenZjNC1nVms5elR1OFNxbWZlWHo0OEV2T29UMXNicjFxcEhZcUZaYg?oc=5",
+      "date": "2026-11-16T15:00:00+00:00",
+      "description": "Why SEO testing matters more as AI makes execution easier &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Search Analytics API gains new filters and reporting - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFRfbEFlR1pYUWs0REdrOHhMU0tBNWdSclVBMUdnM216SHNtM3J6QXJBYlBZQXAyZGpJRmZpckY5NzZiZjJWUV96Vl9GbUZrc3ljZUs1ZE1naXFOcnN2dzBNcnJ6ZXZZTnQ0OGZpbjVtUnpXVTNzZlJvLXZybVhncU85NGtodVF1TGJST3RjSjJJWXpkVE95dmNmYw?oc=5",
+      "date": "2026-11-16T14:51:20+00:00",
+      "description": "Google Search Analytics API gains new filters and reporting &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How to build a content intelligence strategy for AI search - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLURCWExFMHd1M1dDSXZQQ1JHNE9JLUFrTkRrLWwxNXJVOV9rQmFPMnNqZHdxOE9xbDVaQzhVbllSZjVkUGRacnhkbGhwNVpkTUV5emo5UlJUaHhqVTIwNml6T1MzbEs2MHUtVGZnQzN2ZV9Sc0p3Rll1S3NXM1hmWA?oc=5",
+      "date": "2026-11-16T14:00:00+00:00",
+      "description": "How to build a content intelligence strategy for AI search &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "ChatGPT Ads Vs. Google Search Ads: What Early Data Shows via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-ads-vs-google-search-ads-early-data/597125/",
+      "date": "2026-11-16T13:00:58+00:00",
+      "description": "Early ChatGPT Ads data shows competition for ad budgets, while performance comparisons depend on click prices, attribution and outcomes. The post ChatGPT Ads Vs. Google Search Ads: What Early Data Shows appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-google-search-ads-1600x840-1.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How to make AI agents work for your PPC campaigns - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PUUs2VFc3dHZkVmhDSTZ1a29OMHItR1pzRGR6WGwwa1AxQlJpNGZ0WWloY1VoT3prMjhJVkRYdXlROW9MTGNPdkk1VlpvcEZ1V1JVeEJkYTRLQi1CT0s3cUkwV1daM2Uxck8ydHpCT1lRWENXd1JpdQ?oc=5",
+      "date": "2026-11-16T13:00:00+00:00",
+      "description": "How to make AI agents work for your PPC campaigns &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "ChatGPT Tests Web Results, See More & Other Search Results Formats",
+      "link": "https://www.seroundtable.com/chatgpt-search-result-tests-42537.html",
+      "date": "2026-11-16T12:41:00+00:00",
+      "description": "OpenAI is testing variations of web only search results in ChatGPT, plus a see more result button for the AI answer and other variations in its chat interface.",
+      "image": "https://images.seroundtable.com/chatgpt-web-only-results-ef8X6C2l.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "OpenAI ChatGPT Business Agent - First Look",
+      "link": "https://www.seroundtable.com/openai-chatgpt-business-agent-42536.html",
+      "date": "2026-11-16T12:31:00+00:00",
+      "description": "As you know, OpenAI launched the ChatGPT Business Hub last week and with that was the ChatGPT Agent builder. I don't have access yet, but some are starting to see this feature roll out in the ChatGPT interface and the ChatGPT Business Hub.",
+      "image": "https://images.seroundtable.com/chewy-chatgpt-business-agent-kuvsURfi.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google AI Mode Start Temporary Thread",
+      "link": "https://www.seroundtable.com/google-ai-mode-temporary-thread-42539.html",
+      "date": "2026-11-16T12:21:00+00:00",
+      "description": "Google is testing the option to start a temporary thread within AI Mode. This has been a feature in the Gemini interface for over a year now, but it might now be coming to Google AI Mode.",
+      "image": "https://images.seroundtable.com/google-ai-mode-temporary-thread-B0BaVHJB.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Bing Tests Web Mode Tab To Show Only Web Page Results",
+      "link": "https://www.seroundtable.com/bing-web-mode-42535.html",
+      "date": "2026-11-16T12:11:00+00:00",
+      "description": "Microsoft is testing a \"Web Mode\" tab in Bing Search to show only web pages in the search results. This seems to work like the Google Web filter that launched in May 2024 after the internet wanted out of the AI Overview results. Now, Bing is doing the same thing but instead of calling it just \"Web,\" they call it \"Web Mode.\"",
+      "image": "https://images.seroundtable.com/bing-web-mode-tab-J8Mw4n6o.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Before agents can write like your brand, the process has to live somewhere - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0VyQURXU0R0WEVpNFZMVEpaa0p3OTNMbGJUX2U3YzVIbmNIdHV1WWlESVdsemdaVlQ1VVpNd1cwb0pEbGpqdUo3aWFVZlB6YU9oQlB1VnJzMHNNZWJWLVVDUDhLdDY4WkhXM2FBMktYNFZBa2VudE5LMzFhWTdHdXllSUJCWWVrcjJMWG53czBMazk3VWF4aDNfaFNMREREZk5SYWh5Y3NiXzVLeUE?oc=5",
+      "date": "2026-11-16T12:00:00+00:00",
+      "description": "Before agents can write like your brand, the process has to live somewhere &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "New filtering and reporting capabilities in the Search Analytics API",
+      "link": "https://developers.google.com/search/blog/2026/11/search-analytics-api-update",
+      "date": "2026-11-16T00:00:00+00:00",
+      "description": "Over the past year, we introduced several updates to the Search Console Performance report to help you better slice and understand your traffic, including the branded queries filter, web multimodal search reporting, and multi-country and multi-device filtering.",
+      "image": "https://developers.google.com/static/search/blog/images/social-share-blog.png",
+      "source": "Google Search Central",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Higher Spend Came With Pricier Clicks For 14 B2B Google Advertisers via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/b2b-google-ads-keywords-cost-more-agency-data/597426/",
@@ -188,6 +381,19 @@
       ]
     },
     {
+      "title": "SEO best practice, passing fad, or timeless tactic? How to tell the difference - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16bU9FLWRzSEhhNmQ5Z1UwM2VfZmt4SHVrRmdwSlpTdTBEWXdXbVVIZFd2a1Q5ZW9QWThVTl95a3hSNGgzOTQxd1Y4UGstRHVFaENVNElEa0NxTDV1Sl9GRDlzU24zTnZETDFhWGVkenBJUlkxVGVOcWNjcW9rdw?oc=5",
+      "date": "2026-11-13T15:00:00+00:00",
+      "description": "SEO best practice, passing fad, or timeless tactic? How to tell the difference &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Your SEO share of voice doesn’t tell you if AI recommends your brand - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqRW9OYV8zaWZCNFUtTEtyVDAtTlVTMEhIMEdDTUx1S244ckNZX0RQS1RVbzV6bk15bTdUeXcwT3psRlpkeHdDLTRUMFQyR1FNYUNERHViMFI0QmtLYVltMFljdFlYSUhLNjdMTEMxN0JvYnNzT1l6R1NSNDdCUQ?oc=5",
       "date": "2026-11-13T14:00:00+00:00",
@@ -308,7 +514,7 @@
       "link": "https://www.seroundtable.com/google-shopping-highlighted-on-the-web-42376.html",
       "date": "2026-11-13T12:11:00+00:00",
       "description": "Google has added a section to the mobile version of Google Shopping (maybe desktop as well) named \"Highlighted on the web.\" I can see this section when I search for product in Google Shopping on mobile, but I do not see it on the desktop interface.",
-      "image": "https://images.seroundtable.com/google-shopping-highlighted-on-the-web-7F9UOZnq.png",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -317,24 +523,11 @@
       ]
     },
     {
-      "title": "How to create a trend-aware content calendar for AI search - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaGJ6b0J0VE5YUUJVMDVYVUNEOWh3NUM1RHdLbURyeDBmdTB6aXRMbWJLenJmYUpSMzZudV9PVUpCak1XSVIyRTBlWWd2Z2dEVlV0aDBGQjhqWV9qN1EyQ0gxOTUxQV9ZX0lsbWdkRnI5NTNLUDZnemp6V0hUdXN4U1JXa0NhbkdKbE1EMFBfNFd4Zw?oc=5",
-      "date": "2026-11-12T22:28:49+00:00",
-      "description": "How to create a trend-aware content calendar for AI search &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google Ads Rolls Out New Invalid Traffic Overview Card via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/google-ads-rolls-out-new-invalid-traffic-overview-card/597098/",
       "date": "2026-11-12T21:01:44+00:00",
       "description": "Google Ads introduces an Invalid Traffic Overview Card showing estimated savings, post-billing credits, and campaign-level reports. Here's what advertisers need to know. The post Google Ads Rolls Out New Invalid Traffic Overview Card appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/shutterstock_2385982941_1600x840-215.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -346,7 +539,7 @@
       "link": "https://www.searchenginejournal.com/google-gemini-4-hydrogen-default-ai-mode/597096/",
       "date": "2026-11-12T20:09:18+00:00",
       "description": "Google made Gemini 4 Hydrogen the default model in AI Mode worldwide and is using it for the hardest AI Overview questions. The post Google Makes Gemini 4 Hydrogen The Default Model In AI Mode appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-gemini-4-hydrogen-launch-featured-1600x840-1.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -358,7 +551,7 @@
       "link": "https://www.searchenginejournal.com/does-the-affiliate-model-survive-checkout-inside-ai-mode-and-gemini-ask-an-seo/585080/",
       "date": "2026-11-12T20:00:07+00:00",
       "description": "Affiliate links still help protect your commissions as AI checkout grows, but stronger tracking and better program choices add crucial layers of protection. The post Does The Affiliate Model Survive Checkout Inside AI Mode And Gemini? – Ask An SEO appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2024/06/ask-an-seo-adam-riemer-376.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -370,7 +563,7 @@
       "link": "https://www.seroundtable.com/google-generative-ai-performance-report-data-bug-42527.html",
       "date": "2026-11-12T19:55:00+00:00",
       "description": "Google has confirmed a data logging bug in the Search Console Generative AI performance report in Search between the dates of November 9 and November 11, 2026 which resulted in a decrease in impressions.",
-      "image": "https://images.seroundtable.com/google-ai-performance-report-data-issue-15iLccGQ.png",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -383,7 +576,7 @@
       "link": "https://www.searchenginejournal.com/visits-to-the-top-million-websites-fell-12-data-shows/597085/",
       "date": "2026-11-12T18:43:03+00:00",
       "description": "Data shows visits to the world's top million websites declined from an earlier peak, visits going to sites outside the top 100 barely changed. The post Top Million Sites Lost 12% Of Visits; Top 100&#8217;s Share Barely Moved appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/9e28404b-6124-44e3-a880-98e7c62cf229-889.jpeg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -395,7 +588,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYTJlelI2cWwtaFlMci1xSTctbEozeVlCclYtbm5MUG5GZzM2eXlpWGNUaGlOSVBpVW1jUlBSUUF2dmZHVVREV3ZiT0RzSVhVVmotVHpnV1VhcTZRYmhnZXV0NGhCTU1MVWFJMTRlZFdpcXVwUnFaMDBXdnNFOGZpWGx5QkhJdFY1OTltWVpUczlGb0plekE?oc=5",
       "date": "2026-11-12T18:31:38+00:00",
       "description": "Google Search gets major upgrade with Gemini 4 Hydrogen &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -404,24 +597,11 @@
       ]
     },
     {
-      "title": "Google Search Gets Massive Upgrade With Gemini 4 Hydrogen",
-      "link": "https://www.seroundtable.com/google-search-gemini-4-hydrogen-42526.html",
-      "date": "2026-11-12T18:20:00+00:00",
-      "description": "Google Search has received a \"massive upgrade with Gemini 4 Hydrogen,\" said Nick Fox of Google. \"The biggest model upgrade to Search yet has landed,\" said Robby Stein of Google. It is super fast, has better understanding, improved query fan-out and linking, more visual responses and richer language understanding.",
-      "image": "https://images.seroundtable.com/gemini4hydrogen-02-sneakers-fullwidth-2000format-webp-JPSE9ufL.webp",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Microsoft Advertising Updates UI Following Advertiser Feedback via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/microsoft-advertising-updates-ui-following-advertiser-feedback/597078/",
       "date": "2026-11-12T17:45:26+00:00",
       "description": "Microsoft Advertising announces UI improvements addressing advertiser feedback, including easier navigation, expanded reporting, sign-in troubleshooting, and account access management. The post Microsoft Advertising Updates UI Following Advertiser Feedback appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/shutterstock_2719898567_1600x840-739.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -429,29 +609,16 @@
       ]
     },
     {
-      "title": "New Google Help Doc Explains How To Identifying Traffic From Google Search",
-      "link": "https://www.seroundtable.com/identify-traffic-from-google-search-42525.html",
-      "date": "2026-11-12T17:08:00+00:00",
-      "description": "Google has published a new help document named Identify Google Search traffic in your web analytics or server logs. This document explains how to see if Google Search is sending you traffic in your own web analytics system or server logs by inspecting the HTTP Referer header.",
-      "image": "https://images.seroundtable.com/google-search-identify-traffic-doc-rfWPxGun.png",
-      "source": "Search Engine Roundtable",
+      "title": "How to build content clusters around bottom-of-funnel pages - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdnFuandCNzA4WGlxQ3ZXVjFhQk1TVnBuOUFIUjFEY2dLbkdXNGpiMDlUZmpJYUpMa1lDXzNvRlg5OGRYTHNxWTVab3NKS2l2dER1dkFlY0t3T3dUcHBqWDcyc1gwd0tkd0Q5Qkt5dmt3WUhqZDB6eXBNOEFsVjQ1Q1Fmd3Y4THZlcUtILXV2amEtQlhUTVJQYTV6VQ?oc=5",
+      "date": "2026-11-12T16:00:00+00:00",
+      "description": "How to build content clusters around bottom-of-funnel pages &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
       "tags": [
-        "Google",
         "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "OpenAI ChatGPT Ads Updates: Intelligent Bidding, New Cost Targets, Geo-Flexibility & Product Set Filters",
-      "link": "https://www.seroundtable.com/openai-chatgpt-ads-updates-42524.html",
-      "date": "2026-11-12T16:38:00+00:00",
-      "description": "OpenAI just sent out its weekly ChatGPT Ads update email announcing a number of updates including intelligent bidding, new cost targets in Ads Manager, more geographic flexibility for product feed campaigns and more flexible product set filters.",
-      "image": "https://images.seroundtable.com/openai-chatgpt-ads-email-2M3xNDto.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
         "Google",
-        "SEO",
-        "Technical"
+        "AI Search"
       ]
     },
     {
@@ -459,7 +626,7 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbllCTHpfeUM4WHdxWWd6eVBQbS03OHVnbTdlTVdlQ1ctd2hLNTU5OWtWOGFDWjlaUk81Q0J5WXNnV2RKNEtZa3pOeGVjNFM2T0ZzQTZSQnBaMEdxcXl0S2V3aGMxS3hiMENCS08zU3VfZC1NaGZjZGNGcXc4ekxES3oxYjFGbmdtQmFDQi1ucw?oc=5",
       "date": "2026-11-12T15:36:34+00:00",
       "description": "Google Ads details new Data Strength Uplift metric &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -472,7 +639,7 @@
       "link": "https://www.searchenginejournal.com/the-traffic-pool-is-shrinking-and-which-channel-fills-it-matters-less-than-we-think/596346/",
       "date": "2026-11-12T15:00:53+00:00",
       "description": "For traffic-dependent businesses, the visit was only a step toward the sale. Agents now finish that job, and the work starts with the offer. The post The Traffic Pool Is Shrinking, And Which Channel Fills It Matters Less Than We Think appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/duane-forrester-decodes-traffic-pool-527.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -480,24 +647,11 @@
       ]
     },
     {
-      "title": "Daily Search Forum Recap: November 12, 2026",
-      "link": "https://www.seroundtable.com/recap-11-12-2026-42521.html",
-      "date": "2026-11-12T15:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today...",
-      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Are we chasing AI visibility at the expense of business results? - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcWZrZlF0Z2dyM244SzdReGdybUpNWFZJT09LWDV4OXFPNEtpLUphcHF1OHRydTJ2MFR5cjNJWk5vSDJyS3BpWEpnRXZ4Y29BcVhKVFRDUXl5RVBpMzhRZW5zQU9MVERvbURIdWpBcUszNlRpRTNzdTU3MlRYV29pRDJmaXdVenplU2RtNEkxeFBvaWZNMTY5REFRbG8xbkpX?oc=5",
       "date": "2026-11-12T15:00:00+00:00",
       "description": "Are we chasing AI visibility at the expense of business results? &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -530,22 +684,10 @@
       ]
     },
     {
-      "title": "AI Shopping Errors: What To Fix To Help Shoppers Choose Your Products",
-      "link": "https://www.searchenginejournal.com/fix-ai-shopping-errors-writesonic-spa/595790/",
-      "date": "2026-11-12T06:00:23+00:00",
-      "description": "Explore the future of retail with AI shopping. Understand how AI affects product visibility and decision-making for consumers. The post AI Shopping Errors: What To Fix To Help Shoppers Choose Your Products appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads introduces new ValueTrack parameter to identify AI Max traffic - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSzNtQzh6UXNGYmstcVgxaWMtcGFkaHZzdzd4ZTI4Unp5WkZ1Sl9YQWlkRV9fNE56Z0F1LXFtbWxSWkUwand6dHBWOTA4OS1jR2g0TEdWblVaMFk4RzhBQ0U2X1Y3MUtiRnF1OGZhNjN5Wm5pNC1kbVBLQjRDeFM4cE5iQlZLWUFoVUVfaXZvZkU1dVI4SmVlVXZDVHZWckZ5UlpPRGZtbTJZY0djckE?oc=5",
-      "date": "2026-11-11T16:35:30+00:00",
-      "description": "Google Ads introduces new ValueTrack parameter to identify AI Max traffic &nbsp;&nbsp; Search Engine Land",
+      "title": "Connecting with shoppers when the buyer Is not human - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRkxjVk1DSjFEd0tNYkNhQ1NJajEzcmZTcTJVSHFFOFhIWHRESG1UenJBSjhKaFRWV2xCSE91czJ5bV83VFczX0NERXY4X1Z5ZGh1X2lIZnlxQWl5M3pOTUdsNDZyV1RwLTNkMWFiY2lUOWV4T1lKSlh2RlhhT3hMM09IeG5rQ2MwamlYcGZFTU1CUQ?oc=5",
+      "date": "2026-11-12T12:00:00+00:00",
+      "description": "Connecting with shoppers when the buyer Is not human &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -555,35 +697,10 @@
       ]
     },
     {
-      "title": "Google Ads shortens Smart Bidding learning status to 7 days - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWnFONkVhYW1SYl80ZHE3TUdDQmd0TWRNVjRMVmdqLTVaV3hWTExqSkdkRGtZa1pYUFE2SHBYeGhuQXlmV1RYYm0zejdlMEt3RDRrN1VfYlhVYVVlTkt3alB1dWFCZ05OdlZrZHVVSTNtSGJBM3RWM2dGUllJajFHb0k5RVIzNGdZTHJXNVhHemVsVXNCbjdYMElzUQ?oc=5",
-      "date": "2026-11-11T16:24:05+00:00",
-      "description": "Google Ads shortens Smart Bidding learning status to 7 days &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Visibility Gets You On The List, Evidence Helps You Stay There via @sejournal, @billhunt",
-      "link": "https://www.searchenginejournal.com/visibility-gets-you-on-the-list-evidence-helps-you-stay-there/592127/",
-      "date": "2026-11-11T15:00:59+00:00",
-      "description": "AI visibility can hide evidence gaps that weaken recommendations as buyers evaluate integrations, workflows, and outcomes. The post Visibility Gets You On The List, Evidence Helps You Stay There appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How software buyers use AI - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNRm5oOFNESWFGUW8wUS14OE1hNUNkRlo5VGdacmx1LXgzTWFzb1VfazJsOENUWXJOVVRLcndrU2xtY2JEZ3JTTEgyd0xUUldna295RjRGM0ZHazA5a09aRl9Oa2E3eFhiMEhLMU9JNA?oc=5",
-      "date": "2026-11-11T13:00:00+00:00",
-      "description": "How software buyers use AI &nbsp;&nbsp; Search Engine Land",
+      "title": "The SEO services report - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JbEthRW5oTzdYY3UzYktLamFtU2pSZmRXWmJWdVhmbXpJdWdZYXNJTFpqMG9wME9nemRRdl9mWTkwOWtHZF80QXR5bklseDdfMURVRk10RUpYYURpWTFEODdaemlwNUF4X0E?oc=5",
+      "date": "2026-11-11T19:46:19+00:00",
+      "description": "The SEO services report &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -603,71 +720,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "Google November 2026 core update rolling out now - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSjkwclo1dU0yQzdYSkV6YWhsQTkxN0hNeVJtVUJhaDhDNmJOdDFLeEdtV0RsYkpjaW9xLWIxejRXRFItQnhjSE5GOGx1NVhZazY2a3RHYW5ZQkcxalRGQmROWTFhX1JraDY5Q3lKMk9Mc3BicGtnQWVJNS16VmhZelpMbzJhbmQ2UzNqZA?oc=5",
-      "date": "2026-11-10T18:16:47+00:00",
-      "description": "Google November 2026 core update rolling out now &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google AI Mode for subscribers gains Gemini 4 Carbon - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcDdKZmM5QTJ3NmJvRkttRlZHRDgxWXlpRWxYWkQ0OTN2SlpJTUdFX0cwbHJFRlh5UlF0ZEZDMndoMTE4LUh6LUw1LVYzeWNSTFZ3cWRpaHVRWWpVRnJyWG1hc3ozNmZVaVVldURyb3I3aFlPTXVsSkNjdmU4eFFEel9jMDhoQ3pXelduWFZhbGppQQ?oc=5",
-      "date": "2026-11-10T17:00:45+00:00",
-      "description": "Google AI Mode for subscribers gains Gemini 4 Carbon &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "When Google stops sending traffic, paid search picks up the slack - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOE9iYXdxaHJrR2lkVnZOdFBMUmxiSUZDOEx2Ulk2TXFEM24yTW1SQjE5MnFiVHdRZHUyb2lJX3VrTDl1akpYTjRCODQyU1YtbzZJcXFTMFltTHoxbU1QUktDeUxlTDFZVUYtMnluN3MydGFoN0dFSjJtWkFMcFI4NVRR?oc=5",
-      "date": "2026-11-10T14:00:00+00:00",
-      "description": "When Google stops sending traffic, paid search picks up the slack &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "AI search activity is nearly invisible in Google Ads search terms reports: Study - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ21Fek5ldFhabWlWSmpzWXJCaGQ2SkhhMW84OXVyUnJMRFpCaHZBcDRmdVZkZ05VcTc5OWxLSVFfZ29XUGxSQWU0OXhHYzhHS0czcGgxdHdnZVdRODBhMVFMNzJueTNQbUxfQkZxNlFRRFM3THZCMDVJMHRMeE9GZ3pxSEhPVVd1V3dsVVFlRk5kUENzSkZRVWoxWlRjTHZuQUVhNg?oc=5",
-      "date": "2026-11-09T15:00:00+00:00",
-      "description": "AI search activity is nearly invisible in Google Ads search terms reports: Study &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "OpenAI testing business tools to track performance within ChatGPT - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM0x6dm1kMVdQdzg3QnB4Q2hjQWx0TVRTUXFDQkFjMnR5QXZfZTFPTnJneWRHR0EyempheTFrN0xUeUtXSDdfNWNOQTczSjVha3dteUtPQngxZXF5NjlCaHFwczdwTHdWRHJ0TmxjWVBnUDQzaUN5bGZpdnFKZjJwVFNqQWk5RzVIVGJvT0pDalZLX3poTWVpTzF4ZUFHU2xxUXIw?oc=5",
-      "date": "2026-11-06T15:54:41+00:00",
-      "description": "OpenAI testing business tools to track performance within ChatGPT &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     },
     {
@@ -694,19 +746,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "Generative Engine Optimization (GEO): What It Is & How to Do It in 2026 - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzVfRGlQSnVUV1N3cVc2Y1ZrOHkyWDhzT3RvdFlMSWxwbGg3S0dBX2ZvamVQb1NQZmFkei0wREJrUFV5OTNLWHhHaW5ZOU9VX1lobHhFbUJjOFRpQ1BvQTlxUUo2bUdGU3VkQlJpVVlWU09fR1RUbkppdkVnZVVUaUpITm0?oc=5",
-      "date": "2026-10-20T07:00:00+00:00",
-      "description": "Generative Engine Optimization (GEO): What It Is & How to Do It in 2026 &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     },
     {
@@ -785,45 +824,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "Google sets AI Max migration timeline for Search campaigns - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS3FhVnNwbWtmNFpJb2k0WGs5SW9DZk5tNFpZT2NJTGd0aU9pX2NJSm1PRjg1eHlLM3p5NnFpMVdhblhMLUZ3N1BHOVEwX0ZSUHNaQzlUd29LT2Z6Skk0QmVHQ0dOQzRVM1JYZ2ZLM1EyaHh4aGVOdTBZSGNPSDRZbkFqOXFDc1FoTHh1NHdFSTN0UWF6czByR2t3?oc=5",
-      "date": "2026-08-14T07:00:00+00:00",
-      "description": "Google sets AI Max migration timeline for Search campaigns &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Platform properties roll out globally, plus a new social and video performance guide",
-      "link": "https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide",
-      "date": "2026-07-29T00:00:00+00:00",
-      "description": "Earlier this month, we announced platform properties for Search Console, allowing you to track how your social and video posts on Instagram, TikTok, X, and YouTube perform on Google Search, Discover, and Google News. Today, platform properties are globally available to everyone.",
-      "image": "",
-      "source": "Google Search Central",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google zero-click searches hit 68% in early 2026: Study - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83STZOejJVS0pYSGJ0RVVyNEdWMmdneEo4SGVTNjRCMGQ4UTJtNFBSWG5kU3JHV0RybFV5MVdHUm1XcHNJUk1HelY5UmdhWC1LNGQwN1Q3MGpod1ZsU25ZNDdWZ0JxcURLUnlaMmFXWU5WTlJQU05BcjdVSVhfQQ?oc=5",
-      "date": "2026-06-09T07:00:00+00:00",
-      "description": "Google zero-click searches hit 68% in early 2026: Study &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     }
   ],
