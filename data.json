@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-17T00:29:20.520573+00:00",
+  "updatedAt": "2026-11-17T08:29:15.677744+00:00",
   "items": [
+    {
+      "title": "Google Adds Branded & Multimodal Data To Search Console API via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-branded-multimodal-search-console-api/597693/",
+      "date": "2026-11-17T08:00:55+00:00",
+      "description": "The Search Analytics API now supports branded query classification, multimodal search data, and filters for several countries or devices in one request. The post Google Adds Branded &#038; Multimodal Data To Search Console API appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-search-console-featured-1600x840-1.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google’s Ask Maps Starts Finding Appointments & Calling Businesses via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ask-maps-appointments-business-calls/597678/",
+      "date": "2026-11-17T01:13:51+00:00",
+      "description": "Ask Maps is starting to find appointments online and call local businesses for customers. Here's what Business Profile says about Google's automated calls. The post Google&#8217;s Ask Maps Starts Finding Appointments &#038; Calling Businesses appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ask-maps-featured-1600x840-1.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Google Business Profiles Now Lets You Add Facebook Messenger Number",
       "link": "https://www.seroundtable.com/google-business-profiles-facebook-messenger-42549.html",
@@ -27,11 +51,24 @@
       ]
     },
     {
+      "title": "Google Ads: Not every ad featuring a politician needs verification - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTmh5VS1Kbm8zbnFDMjV0bWVmODdSck5rOVhTVDV1ZFk1eUh2N3I4N0JHcWFHcTRTSHZjWC1NdS1xY1ZESXcyb1BVNTV4dW1HSDNOTFpKSTFEcXdqYVM0SVV2di1QbDZoZFpMbzNQVGRkTGZaNlFDQ21XQXU5cERIZW9lWEhCamhEU2tZSXBEWFZVYW96VjNXTzhIRDBPVDdCenZOeUxPOGNoV05YTnNGQjUxLXdTQUVrbmZUOXAxaw?oc=5",
+      "date": "2026-11-16T18:26:34+00:00",
+      "description": "Google Ads: Not every ad featuring a politician needs verification &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Google Ads details 4 restrictions on personalized ad targeting - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaHZXMEgwMnZjcng4cU05SEhKLXlNUENCVk9kbmFNbzJ6clE3ZXBsU0NUdlRFdlBhQnpsWjJhRGFKUEx6a3J1N0ItQ0lSZ3RkcDJwS1N4emtzWFhsRlJJdlc5aW9EaXQxVG5hUGNLTTNnVC1YLVE4TG9vNEZ4QmdWcW90RXdndWNraW9uR0hTc2d3TWd6Y1ZyNmp0TTlYSlRwVjQtOER5eXFPNHhBb3VvSmt0bTY?oc=5",
       "date": "2026-11-16T18:13:50+00:00",
       "description": "Google Ads details 4 restrictions on personalized ad targeting &nbsp;&nbsp; Search Engine Land",
-      "image": "",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -44,7 +81,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQckdhU0VSZUJFUlZkcnFGQzRIY3dRSktFbllhcFFwbHctb21WYmtVd0JwYVNLcDIxdUJOY21VeFk0ZzB1OEMtb3BsT3hqMkZta0R2c1k3OWI1QXlTT3NpVXlRV2pTUC1YcVpxMVFwLWhNQjg1OW1GSlpNLXlYZjg5eUh3Wm5iN0M3dUt1ZDlPUFVKX09tenN5ZnFpdkphTnI2WlBwV1VKZzJQYjRrTHdWYQ?oc=5",
       "date": "2026-11-16T16:08:35+00:00",
       "description": "Google clarifies how AI Max URL exclusions really work &nbsp;&nbsp; Search Engine Land",
-      "image": "",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -57,7 +94,7 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaXQ3UmM2cGRKazJHa1owTk9OT3U3T1FnN3R5Q1BhRHZZTUpWNV9YQTlpS2h4UjdKUFhzREhnc25jRFpzRDNYSW9lSHlPN3pmMklUdFdBTW4yeXZNblFjYlFEdlZNdkZ0d1FCeklEVmdxNnR0OHczYzRRS3hGdUVqeGNCR2k1QlpjTXhqaVhoU0J4RHIy?oc=5",
       "date": "2026-11-16T16:00:00+00:00",
       "description": "ChatGPT citation drops look like unannounced Google core updates &nbsp;&nbsp; Search Engine Land",
-      "image": "",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -70,7 +107,7 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN2FtV1pBS2hFYTZsdzUwVFNJQjRENi03MlZSSmRyZDkzSi1ZS0VJYTE5MUQ1aWtaaTctSDZNZGtOQXdzMGJuUlp5SUJtRFdtMUpneEJvZEFYOEtPNHhyUkVkOU9JWUtqdXdVU2hzaHZEMmRvQVRzTC1XTnRkNXFMSGZTT0R6MUxERnVvb19idkRTa19TTHc?oc=5",
       "date": "2026-11-16T15:26:13+00:00",
       "description": "Microsoft Advertising adds AI Max landing page reporting &nbsp;&nbsp; Search Engine Land",
-      "image": "",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -108,7 +145,7 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sRFRNU1IyUGF5VGdybnk4ZV9YOWZlXzA0M091Qnpyc25EZ0hDNVJRSWU1YllZWENRUkZMTk1mN1dzbzVrenZjNC1nVms5elR1OFNxbWZlWHo0OEV2T29UMXNicjFxcEhZcUZaYg?oc=5",
       "date": "2026-11-16T15:00:00+00:00",
       "description": "Why SEO testing matters more as AI makes execution easier &nbsp;&nbsp; Search Engine Land",
-      "image": "",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -121,7 +158,7 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFRfbEFlR1pYUWs0REdrOHhMU0tBNWdSclVBMUdnM216SHNtM3J6QXJBYlBZQXAyZGpJRmZpckY5NzZiZjJWUV96Vl9GbUZrc3ljZUs1ZE1naXFOcnN2dzBNcnJ6ZXZZTnQ0OGZpbjVtUnpXVTNzZlJvLXZybVhncU85NGtodVF1TGJST3RjSjJJWXpkVE95dmNmYw?oc=5",
       "date": "2026-11-16T14:51:20+00:00",
       "description": "Google Search Analytics API gains new filters and reporting &nbsp;&nbsp; Search Engine Land",
-      "image": "",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -172,7 +209,7 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PUUs2VFc3dHZkVmhDSTZ1a29OMHItR1pzRGR6WGwwa1AxQlJpNGZ0WWloY1VoT3prMjhJVkRYdXlROW9MTGNPdkk1VlpvcEZ1V1JVeEJkYTRLQi1CT0s3cUkwV1daM2Uxck8ydHpCT1lRWENXd1JpdQ?oc=5",
       "date": "2026-11-16T13:00:00+00:00",
       "description": "How to make AI agents work for your PPC campaigns &nbsp;&nbsp; Search Engine Land",
-      "image": "",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -449,7 +486,7 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUWxreVJqbUgyQkplSS1xWUMyQnBXS1hNOEJxdUtVdS1FZlJuOHpvTTZVcVVPMXVuN1hLX3M0THYxdkZkakJydlplNE1QY0JTVkd4THlwcDkzQVhiSEtvTlhpWnl6NTB2WVlIRFZETWdnRE8wSlJzOTMydlgyamJ0Mw?oc=5",
       "date": "2026-11-13T16:00:00+00:00",
       "description": "6 ways to stay on budget with Google Ads Smart Bidding &nbsp;&nbsp; Search Engine Land",
-      "image": "",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -488,7 +525,7 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqRW9OYV8zaWZCNFUtTEtyVDAtTlVTMEhIMEdDTUx1S244ckNZX0RQS1RVbzV6bk15bTdUeXcwT3psRlpkeHdDLTRUMFQyR1FNYUNERHViMFI0QmtLYVltMFljdFlYSUhLNjdMTEMxN0JvYnNzT1l6R1NSNDdCUQ?oc=5",
       "date": "2026-11-13T14:00:00+00:00",
       "description": "Your SEO share of voice doesn’t tell you if AI recommends your brand &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -501,7 +538,7 @@
       "link": "https://www.seroundtable.com/video-11-13-2026-42523.html",
       "date": "2026-11-13T13:01:00+00:00",
       "description": "Google has begun the rollout of the November 2026 core update. Google also had search ranking volatility on November 8th and 9th. Google released a major update to Google Search with Gemini 4 Hydrogen days after Gemini 4 Carbon came out...",
-      "image": "https://img.youtube.com/vi/mL6y0SDQJ-c/maxresdefault.jpg",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -673,43 +710,6 @@
       ]
     },
     {
-      "title": "Google Ads details new Data Strength Uplift metric - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbllCTHpfeUM4WHdxWWd6eVBQbS03OHVnbTdlTVdlQ1ctd2hLNTU5OWtWOGFDWjlaUk81Q0J5WXNnV2RKNEtZa3pOeGVjNFM2T0ZzQTZSQnBaMEdxcXl0S2V3aGMxS3hiMENCS08zU3VfZC1NaGZjZGNGcXc4ekxES3oxYjFGbmdtQmFDQi1ucw?oc=5",
-      "date": "2026-11-12T15:36:34+00:00",
-      "description": "Google Ads details new Data Strength Uplift metric &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "The Traffic Pool Is Shrinking, And Which Channel Fills It Matters Less Than We Think via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/the-traffic-pool-is-shrinking-and-which-channel-fills-it-matters-less-than-we-think/596346/",
-      "date": "2026-11-12T15:00:53+00:00",
-      "description": "For traffic-dependent businesses, the visit was only a step toward the sale. Agents now finish that job, and the work starts with the offer. The post The Traffic Pool Is Shrinking, And Which Channel Fills It Matters Less Than We Think appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to Submit Your Website to ChatGPT Business Hub via @sejournal, @vahandev",
-      "link": "https://www.searchenginejournal.com/submit-website-chatgpt/596785/",
-      "date": "2026-11-12T13:10:15+00:00",
-      "description": "Learn how to claim your business in ChatGPT, verify your website and identity, and interpret Business Hub insights. The post How to Submit Your Website to ChatGPT Business Hub appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Moving to a CDN without overwhelming your origin (or blocking Googlebot)",
       "link": "https://developers.google.com/search/blog/2026/11/crawling-cdn",
       "date": "2026-11-11T00:00:00+00:00",
@@ -850,7 +850,7 @@
       "name": "Search Engine Land",
       "ok": true,
       "count": 20,
-      "method": "Google News RSS title fallback",
+      "method": "Google News RSS fallback",
       "fallback": true,
       "limited_to": 20
     }
