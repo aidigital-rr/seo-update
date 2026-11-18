@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-11-17T17:53:20.454569+00:00",
+  "updatedAt": "2026-11-18T00:56:34.192793+00:00",
   "items": [
+    {
+      "title": "6.9% Of ChatGPT Conversations Showed Purchase Intent In U.S. Panel via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-purchase-intent-us-panel/597857/",
+      "date": "2026-11-17T21:42:30+00:00",
+      "description": "U.S. data finds few ChatGPT conversations show intent to buy and most responses name no brand. New insight for teams weighing ChatGPT visibility and ads. The post 6.9% Of ChatGPT Conversations Showed Purchase Intent In U.S. Panel appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/chatgpt-purchase-intent-featured.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Ads Surcharges Rise To 3% In France And Italy – Local US Advertisers Can Be Billed Too via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/google-ads-surcharges-rise-to-3-in-france-and-italy-local-us-advertisers-can-be-billed-too/596938/",
+      "date": "2026-11-17T20:00:06+00:00",
+      "description": "Check where your Google Ads run: default location settings can expose local campaigns to surcharges in France and Italy. The post Google Ads Surcharges Rise To 3% In France And Italy – Local US Advertisers Can Be Billed Too appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/surcharge-854.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Date: Confirmed, Rating: Meets Expectations, Comments: None via @sejournal, @pedrodias",
+      "link": "https://www.searchenginejournal.com/date-confirmed-rating-meets-expectations-comments-none/597709/",
+      "date": "2026-11-17T18:01:21+00:00",
+      "description": "What did the core update change for your site? Nobody outside Google can say. Here’s the question worth asking instead. The post Date: Confirmed, Rating: Meets Expectations, Comments: None appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-core-update-157.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Optimizely Says Attacker Used A Signup Flaw To Inject Malware via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/optimizely-signup-flaw-malware/597839/",
@@ -220,10 +256,10 @@
       ]
     },
     {
-      "title": "Google Adds Branded & Multimodal Data To Search Console API via @sejournal, @MattGSouthern",
+      "title": "Branded Query Data Is Now In The Google Search Console API via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-branded-multimodal-search-console-api/597693/",
       "date": "2026-11-17T08:00:55+00:00",
-      "description": "The Search Analytics API now supports branded query classification, multimodal search data, and filters for several countries or devices in one request. The post Google Adds Branded &#038; Multimodal Data To Search Console API appeared first on Search Engine Journal .",
+      "description": "The Search Analytics API now supports branded query classification, multimodal search data, and filters for several countries or devices in one request. The post Branded Query Data Is Now In The Google Search Console API appeared first on Search Engine Journal .",
       "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-search-console-featured-1600x840-1.jpg",
       "source": "Search Engine Journal",
       "tags": [
@@ -479,7 +515,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0VyQURXU0R0WEVpNFZMVEpaa0p3OTNMbGJUX2U3YzVIbmNIdHV1WWlESVdsemdaVlQ1VVpNd1cwb0pEbGpqdUo3aWFVZlB6YU9oQlB1VnJzMHNNZWJWLVVDUDhLdDY4WkhXM2FBMktYNFZBa2VudE5LMzFhWTdHdXllSUJCWWVrcjJMWG53czBMazk3VWF4aDNfaFNMREREZk5SYWh5Y3NiXzVLeUE?oc=5",
       "date": "2026-11-16T12:00:00+00:00",
       "description": "Before agents can write like your brand, the process has to live somewhere &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -492,7 +528,7 @@
       "link": "https://developers.google.com/search/blog/2026/11/search-analytics-api-update",
       "date": "2026-11-16T00:00:00+00:00",
       "description": "Over the past year, we introduced several updates to the Search Console Performance report to help you better slice and understand your traffic, including the branded queries filter, web multimodal search reporting, and multi-country and multi-device filtering.",
-      "image": "https://developers.google.com/static/search/blog/images/social-share-blog.png",
+      "image": "",
       "source": "Google Search Central",
       "tags": [
         "Google",
@@ -505,7 +541,7 @@
       "link": "https://www.searchenginejournal.com/b2b-google-ads-keywords-cost-more-agency-data/597426/",
       "date": "2026-11-15T11:30:33+00:00",
       "description": "One agency's data on 14 B2B advertisers finds the same non-brand Google Ads keywords cost more per click, even after controlling for their own spending. The post Higher Spend Came With Pricier Clicks For 14 B2B Google Advertisers appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/b2b-google-ads-cpc-featured.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -661,18 +697,6 @@
       ]
     },
     {
-      "title": "What Reddit Reviews Reveals About Your Products via @sejournal, @brentcsutoras",
-      "link": "https://www.searchenginejournal.com/what-reddit-reviews-reveals-about-your-products/596963/",
-      "date": "2026-11-13T13:00:09+00:00",
-      "description": "Spot recurring product complaints and competitor comparisons with Reddit Reviews, then check source comments for the context behind the summaries. The post What Reddit Reviews Reveals About Your Products appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Why AI search is bringing SEO and brand marketing together - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TS2tBa041U0NRaGdFMDNFUjE5TXBFWFpVc0RkSDJMalI5Ync1V2xNZDMxYmtlX1FydDVqT1NTWlZkOGd1Q2w2Qjc0aEQ1a1JMLTlwSGlZUnplaDVOLWV1TXg4Y0NfVzEtMU1PaDRmRkZoby1mYk5Mbk5CMDVrcjQ?oc=5",
       "date": "2026-11-13T13:00:00+00:00",
@@ -682,30 +706,6 @@
       "tags": [
         "SEO",
         "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads Rolls Out New Invalid Traffic Overview Card via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-ads-rolls-out-new-invalid-traffic-overview-card/597098/",
-      "date": "2026-11-12T21:01:44+00:00",
-      "description": "Google Ads introduces an Invalid Traffic Overview Card showing estimated savings, post-billing credits, and campaign-level reports. Here's what advertisers need to know. The post Google Ads Rolls Out New Invalid Traffic Overview Card appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Makes Gemini 4 Hydrogen The Default Model In AI Mode via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-gemini-4-hydrogen-default-ai-mode/597096/",
-      "date": "2026-11-12T20:09:18+00:00",
-      "description": "Google made Gemini 4 Hydrogen the default model in AI Mode worldwide and is using it for the hardest AI Overview questions. The post Google Makes Gemini 4 Hydrogen The Default Model In AI Mode appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
         "AI Search"
       ]
     },
