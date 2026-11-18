@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-11-18T00:56:34.192793+00:00",
+  "updatedAt": "2026-11-18T08:30:35.723192+00:00",
   "items": [
+    {
+      "title": "Google AI Overviews With Unfaded Citation Block",
+      "link": "https://www.seroundtable.com/google-ai-overviews-with-unfaded-citations-42563.html",
+      "date": "2026-11-18T01:36:00+00:00",
+      "description": "Google seems to have rolled out an update to the AI Overviews on the Google Search page where the citation cards or blocks on the right side are not faded out. Instead, the citations are fully visible, and you don't need to click into the AI Overview to view them fully.",
+      "image": "https://images.seroundtable.com/google-ai-overview-not-faded-8obDMm4P.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Tag & Google Tag Manager Unification",
+      "link": "https://www.seroundtable.com/google-tag-manager-unification-42562.html",
+      "date": "2026-11-18T01:16:00+00:00",
+      "description": "This past August, Google announced the unification of Google tag and Google Tag Manager. Well, today Google posted a Google Tag Manager release not about the unification. It is titled Google tag and Google Tag Manager unification and dated on November 17, 2026.",
+      "image": "https://images.seroundtable.com/google-tag-k6PuBSFm.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "6.9% Of ChatGPT Conversations Showed Purchase Intent In U.S. Panel via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/chatgpt-purchase-intent-us-panel/597857/",
@@ -268,10 +294,10 @@
       ]
     },
     {
-      "title": "Google’s Ask Maps Starts Finding Appointments & Calling Businesses via @sejournal, @MattGSouthern",
+      "title": "Google Adds Appointment Finding & Business Calls To Ask Maps via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-ask-maps-appointments-business-calls/597678/",
       "date": "2026-11-17T01:13:51+00:00",
-      "description": "Ask Maps is starting to find appointments online and call local businesses for customers. Here's what Business Profile says about Google's automated calls. The post Google&#8217;s Ask Maps Starts Finding Appointments &#038; Calling Businesses appeared first on Search Engine Journal .",
+      "description": "Ask Maps is starting to find appointments online and call local businesses for customers. Here's what Business Profile says about Google's automated calls. The post Google Adds Appointment Finding &amp; Business Calls To Ask Maps appeared first on Search Engine Journal .",
       "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ask-maps-featured-1600x840-1.jpg",
       "source": "Search Engine Journal",
       "tags": [
@@ -301,19 +327,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads: Not every ad featuring a politician needs verification - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTmh5VS1Kbm8zbnFDMjV0bWVmODdSck5rOVhTVDV1ZFk1eUh2N3I4N0JHcWFHcTRTSHZjWC1NdS1xY1ZESXcyb1BVNTV4dW1HSDNOTFpKSTFEcXdqYVM0SVV2di1QbDZoZFpMbzNQVGRkTGZaNlFDQ21XQXU5cERIZW9lWEhCamhEU2tZSXBEWFZVYW96VjNXTzhIRDBPVDdCenZOeUxPOGNoV05YTnNGQjUxLXdTQUVrbmZUOXAxaw?oc=5",
-      "date": "2026-11-16T18:26:34+00:00",
-      "description": "Google Ads: Not every ad featuring a politician needs verification &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
@@ -408,19 +421,6 @@
       ]
     },
     {
-      "title": "Google Search Analytics API gains new filters and reporting - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFRfbEFlR1pYUWs0REdrOHhMU0tBNWdSclVBMUdnM216SHNtM3J6QXJBYlBZQXAyZGpJRmZpckY5NzZiZjJWUV96Vl9GbUZrc3ljZUs1ZE1naXFOcnN2dzBNcnJ6ZXZZTnQ0OGZpbjVtUnpXVTNzZlJvLXZybVhncU85NGtodVF1TGJST3RjSjJJWXpkVE95dmNmYw?oc=5",
-      "date": "2026-11-16T14:51:20+00:00",
-      "description": "Google Search Analytics API gains new filters and reporting &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google Search Analytics API Adds Branded Queries, Multimodal & Country/Devices Filters",
       "link": "https://www.seroundtable.com/google-search-analytics-api-addition-42544.html",
       "date": "2026-11-16T14:40:00+00:00",
@@ -485,50 +485,11 @@
       ]
     },
     {
-      "title": "Google AI Mode Drops Gemini Label & Rolls Out Gemini 4 Carbon To Pro Subs",
-      "link": "https://www.seroundtable.com/google-ai-mode-drops-gemini-label-42540.html",
-      "date": "2026-11-16T12:51:00+00:00",
-      "description": "Google no longer shows the Gemini model used in AI Mode in the AI Mode interface header. Plus, Google has rolled out Gemini 4 Carbon to Pro subscribers in AI Mode; it was previously only available to Ultra subscribers. These were confirmed by Rajan Patel of Google after being spotted by Gagan Ghotra.",
-      "image": "https://images.seroundtable.com/google-ai-mode-model-label-gone-8u8bEop9.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "ChatGPT Tests Web Results, See More & Other Search Results Formats",
-      "link": "https://www.seroundtable.com/chatgpt-search-result-tests-42537.html",
-      "date": "2026-11-16T12:41:00+00:00",
-      "description": "OpenAI is testing variations of web only search results in ChatGPT, plus a see more result button for the AI answer and other variations in its chat interface.",
-      "image": "https://images.seroundtable.com/chatgpt-web-only-results-ef8X6C2l.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Before agents can write like your brand, the process has to live somewhere - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0VyQURXU0R0WEVpNFZMVEpaa0p3OTNMbGJUX2U3YzVIbmNIdHV1WWlESVdsemdaVlQ1VVpNd1cwb0pEbGpqdUo3aWFVZlB6YU9oQlB1VnJzMHNNZWJWLVVDUDhLdDY4WkhXM2FBMktYNFZBa2VudE5LMzFhWTdHdXllSUJCWWVrcjJMWG53czBMazk3VWF4aDNfaFNMREREZk5SYWh5Y3NiXzVLeUE?oc=5",
-      "date": "2026-11-16T12:00:00+00:00",
-      "description": "Before agents can write like your brand, the process has to live somewhere &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "New filtering and reporting capabilities in the Search Analytics API",
       "link": "https://developers.google.com/search/blog/2026/11/search-analytics-api-update",
       "date": "2026-11-16T00:00:00+00:00",
       "description": "Over the past year, we introduced several updates to the Search Console Performance report to help you better slice and understand your traffic, including the branded queries filter, web multimodal search reporting, and multi-country and multi-device filtering.",
-      "image": "",
+      "image": "https://developers.google.com/static/search/blog/images/social-share-blog.png",
       "source": "Google Search Central",
       "tags": [
         "Google",
@@ -541,7 +502,7 @@
       "link": "https://www.searchenginejournal.com/b2b-google-ads-keywords-cost-more-agency-data/597426/",
       "date": "2026-11-15T11:30:33+00:00",
       "description": "One agency's data on 14 B2B advertisers finds the same non-brand Google Ads keywords cost more per click, even after controlling for their own spending. The post Higher Spend Came With Pricier Clicks For 14 B2B Google Advertisers appeared first on Search Engine Journal .",
-      "image": "",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/b2b-google-ads-cpc-featured.jpg",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -701,6 +662,45 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TS2tBa041U0NRaGdFMDNFUjE5TXBFWFpVc0RkSDJMalI5Ync1V2xNZDMxYmtlX1FydDVqT1NTWlZkOGd1Q2w2Qjc0aEQ1a1JMLTlwSGlZUnplaDVOLWV1TXg4Y0NfVzEtMU1PaDRmRkZoby1mYk5Mbk5CMDVrcjQ?oc=5",
       "date": "2026-11-13T13:00:00+00:00",
       "description": "Why AI search is bringing SEO and brand marketing together &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Dreambeans: Google turns your private life into personalized content - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeXl4R2NKMzVIdFNhOVFLdHlfb1JqYkluazkzVGZSSmRaRHdDNmJNVFNEaWN5V1NRUkY5ZFhnTENUU01NbWVaVENiS3h6TVdvX1JYeGhtc3M4Tk9GMGZ0R1lzOXRlTURnNExER3BGTVVUelV0MmVYZW5XRUM0NmNLLW5sbWRVU2IzczN2dEJTS2JETXFGWHpMT2FNVGpLaGFPRzZOQVFR?oc=5",
+      "date": "2026-11-13T12:00:00+00:00",
+      "description": "Dreambeans: Google turns your private life into personalized content &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "16 key affiliate marketing statistics - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6ZURGaTRRSGs0UDdlNEgzbUhwU19COGJ3TWRRMVoxNzJ3RTlvbTlrOXJBdDl4NzZJc0dGUzMyWFhzc0RSanRjTVN0aFV6UlNjVm9jekNnQ0hta1hFXzduc1ZSSzNvUWZUTUNCbDhLUloxbjQ?oc=5",
+      "date": "2026-11-12T18:49:33+00:00",
+      "description": "16 key affiliate marketing statistics &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Search gets major upgrade with Gemini 4 Hydrogen - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYTJlelI2cWwtaFlMci1xSTctbEozeVlCclYtbm5MUG5GZzM2eXlpWGNUaGlOSVBpVW1jUlBSUUF2dmZHVVREV3ZiT0RzSVhVVmotVHpnV1VhcTZRYmhnZXV0NGhCTU1MVWFJMTRlZFdpcXVwUnFaMDBXdnNFOGZpWGx5QkhJdFY1OTltWVpUczlGb0plekE?oc=5",
+      "date": "2026-11-12T18:31:38+00:00",
+      "description": "Google Search gets major upgrade with Gemini 4 Hydrogen &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
