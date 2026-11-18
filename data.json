@@ -1,16 +1,51 @@
 {
-  "updatedAt": "2026-11-18T17:33:18.422292+00:00",
+  "updatedAt": "2026-11-18T23:35:23.666052+00:00",
   "items": [
     {
-      "title": "Google AdMob introduces AI tools to automate monetization and ad management - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON3kzUWk2emx3ZkNOd05rU1JmSktrNm91MG1sWmpCdXNqTmFZUUJuaWlCRVZHeDVoVmVFNkhESHdJV3pzWGFWU1VzS2FvdmI0U0N0eFBtU3lWcXJ2RVFVNGx6LVFaaDBCQVZLLTFnTS1wTUdlTGl6bW4wc1FUNW5ZcmNlMUFuUWtuVjJEUVZLRlJwT1ktWkM0aC1mSWw2eThVQ3c4Ym8yYXNDcDdGdG8ycQ?oc=5",
-      "date": "2026-11-18T17:06:14+00:00",
-      "description": "Google AdMob introduces AI tools to automate monetization and ad management &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
+      "title": "OpenAI Publishes Prompting Guidance For GPT-6.2 Astra via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/openai-gpt-6-2-astra-prompting-guidance/597877/",
+      "date": "2026-11-18T22:26:21+00:00",
+      "description": "OpenAI's GPT-6.2 guide says Astra writes more concisely by default, suggests revisiting \"be concise\" prompts and flags an API change for edited history. The post OpenAI Publishes Prompting Guidance For GPT-6.2 Astra appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/openai-gpt-6-2-astra-featured.jpg",
+      "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Robots.txt Guide – Best Practices For Search & AI Crawlers via @sejournal, @vahandev",
+      "link": "https://www.searchenginejournal.com/technical-seo/robots-txt-guide-best-practices-for-search-ai-crawlers/",
+      "date": "2026-11-18T20:00:31+00:00",
+      "description": "Learn how to configure robots.txt, avoid crawl and indexing mistakes, and manage AI training, search crawlers, and user-requested visits separately. The post Robots.txt Guide – Best Practices For Search &#038; AI Crawlers appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2024/09/best-practices-for-setting-up-meta-robots-tags-robots.txt-584-e1726145406885.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Microsoft Rolls Out Its Biggest Bidding Upgrade In A Decade via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/microsoft-rolls-out-its-biggest-bidding-upgrade-in-a-decade/597963/",
+      "date": "2026-11-18T18:19:49+00:00",
+      "description": "Microsoft Advertising is automatically updating its bidding models, reporting faster target adjustments, smoother budget pacing, and best practices for CPA and ROAS campaigns. The post Microsoft Rolls Out Its Biggest Bidding Upgrade In A Decade appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/shutterstock_2714845689_1600x840-358.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How I’m Approaching AI Search (And How You Should To)",
+      "link": "https://www.searchenginejournal.com/how-im-approaching-ai-search-and-how-you-should-to/597775/",
+      "date": "2026-11-18T18:00:01+00:00",
+      "description": "Citation tactics miss the point. Build a brand worth recommending and a business that benefits whether the citation comes or not. The post How I’m Approaching AI Search (And How You Should To) appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/approach-to-ai-search-7.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
         "AI Search"
       ]
     },
@@ -40,6 +75,19 @@
       ]
     },
     {
+      "title": "Your AI visibility problem is probably a marketing problem - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOU1Zelg1dVdQMXV6NjB3Y2FaN3RDZVNCUXgxSTB3VTJ3Y0E4VldJNDFwbndYc2VsTE5iZDQtUlY5Q29HWk9kVXRhNXZJSklaWHZJWGJEbjhmWmtzNmwzTU9EcHp1VlpQQkpub3luZk9xM3VDd0RuVnlxenJvNDZJRTdNMzlCWVMtZndubmo2QjZCdml4cHhNOWJB?oc=5",
+      "date": "2026-11-18T15:00:00+00:00",
+      "description": "Your AI visibility problem is probably a marketing problem &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Your Schema Markup Has a New Job. Is It Ready? via @sejournal, @marthavanberkel",
       "link": "https://www.searchenginejournal.com/schema-markup-ai-search-schemapp/596440/",
       "date": "2026-11-18T14:54:34+00:00",
@@ -48,19 +96,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads Journey-Aware Bidding: How it works and what to know - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zNHNWcWQ3aE1TZXhRYlBza09nUjVKLXJzRzZQYm13bmVOcnhpMW53d0dfamVORTNqb25QY3hSZXJ4MldrOWV5Nm1rUHBEdEhfZXNhUVJRajZiZFd6QlFOYVBzSE5ZckFwdy0tdklLTkVXa3hnRV9j?oc=5",
-      "date": "2026-11-18T14:00:00+00:00",
-      "description": "Google Ads Journey-Aware Bidding: How it works and what to know &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
@@ -279,19 +314,6 @@
       ]
     },
     {
-      "title": "Google Local Services Ads historical reports are now available to download - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa1FEWW9tZnItdHFwdnl4RDNRcUowYmlyS0owVDJLbzQyQ3k3MUYzVUZnN3R0UXJLMndIdWpLYXRENmxwWVJ5bkpoNzJ1RUdadjNtZUdBSmRFNEdTS2t2ZnNRT1RMTktVZzQzV1ljcEtWUjdYbXd3UUo3NTQ4X25RaUFpVmdrbEFMWUdjcm9vYWk1SjJoaXlFbWhtUHNCb0ltb255bUh0QXdidXVtdXNz?oc=5",
-      "date": "2026-11-17T16:44:23+00:00",
-      "description": "Google Local Services Ads historical reports are now available to download &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "AI Visibility Data: Avoid 4 Traps & Prioritize The Right Work",
       "link": "https://www.searchenginejournal.com/ai-visibility-data-traps-transperfectdigital-spa/597627/",
       "date": "2026-11-17T16:11:24+00:00",
@@ -327,19 +349,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "How to use SEO insights to connect teams and engage audiences - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHoyUmJQczJjeU9lUnRSaVpRcTdBQlprNHdxQ1ZmZjhlNTJEX2FGWTBSaDc0Ql9obTNsLXI4M25MTDlRVUJTMU54bFJKWHhUUUJhRUtyNjQxeE03MDh0bmV2eHpKLWhEaFBDVlVFOFpOcjlNSkt2Q1paYV9PRFp1YUlJMi12Zw?oc=5",
-      "date": "2026-11-17T15:00:00+00:00",
-      "description": "How to use SEO insights to connect teams and engage audiences &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     },
     {
@@ -499,7 +508,7 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTmh5VS1Kbm8zbnFDMjV0bWVmODdSck5rOVhTVDV1ZFk1eUh2N3I4N0JHcWFHcTRTSHZjWC1NdS1xY1ZESXcyb1BVNTV4dW1HSDNOTFpKSTFEcXdqYVM0SVV2di1QbDZoZFpMbzNQVGRkTGZaNlFDQ21XQXU5cERIZW9lWEhCamhEU2tZSXBEWFZVYW96VjNXTzhIRDBPVDdCenZOeUxPOGNoV05YTnNGQjUxLXdTQUVrbmZUOXAxaw?oc=5",
       "date": "2026-11-16T18:26:34+00:00",
       "description": "Google Ads: Not every ad featuring a politician needs verification &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -623,6 +632,19 @@
       ]
     },
     {
+      "title": "Before agents can write like your brand, the process has to live somewhere - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0VyQURXU0R0WEVpNFZMVEpaa0p3OTNMbGJUX2U3YzVIbmNIdHV1WWlESVdsemdaVlQ1VVpNd1cwb0pEbGpqdUo3aWFVZlB6YU9oQlB1VnJzMHNNZWJWLVVDUDhLdDY4WkhXM2FBMktYNFZBa2VudE5LMzFhWTdHdXllSUJCWWVrcjJMWG53czBMazk3VWF4aDNfaFNMREREZk5SYWh5Y3NiXzVLeUE?oc=5",
+      "date": "2026-11-16T12:00:00+00:00",
+      "description": "Before agents can write like your brand, the process has to live somewhere &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "New filtering and reporting capabilities in the Search Analytics API",
       "link": "https://developers.google.com/search/blog/2026/11/search-analytics-api-update",
       "date": "2026-11-16T00:00:00+00:00",
@@ -633,54 +655,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "Higher Spend Came With Pricier Clicks For 14 B2B Google Advertisers via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/b2b-google-ads-keywords-cost-more-agency-data/597426/",
-      "date": "2026-11-15T11:30:33+00:00",
-      "description": "One agency's data on 14 B2B advertisers finds the same non-brand Google Ads keywords cost more per click, even after controlling for their own spending. The post Higher Spend Came With Pricier Clicks For 14 B2B Google Advertisers appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "YouTube’s Clips Tool Turns Podcast Episodes Into Shorts via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/youtube-studio-clips-podcast-episodes-shorts/597408/",
-      "date": "2026-11-15T10:00:48+00:00",
-      "description": "YouTube expanded its Studio video clips tool to Shorts, letting creators turn segments of long-form videos, like podcast episodes, into vertical Shorts. The post YouTube&#8217;s Clips Tool Turns Podcast Episodes Into Shorts appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Core Update, ChatGPT Business Hub & AI Mode’s New Model – SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-core-update-chatgpt-business-hub-ai-modes-new-model/597135/",
-      "date": "2026-11-14T13:00:00+00:00",
-      "description": "A core update rolls out, AI search gets a new default model, ChatGPT shares mention and click counts, and sites plan for less search traffic. The post Core Update, ChatGPT Business Hub &#038; AI Mode&#8217;s New Model &#8211; SEO Pulse appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "United Lets Search Engines Index Its Site, Makes AI Agents Ask First via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/united-ai-agents-permission-search-indexing/597418/",
-      "date": "2026-11-14T10:00:14+00:00",
-      "description": "An airline's updated terms let search engines index public pages but require written permission for AI agents and bar AI grounding on its data. The post United Lets Search Engines Index Its Site, Makes AI Agents Ask First appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
       ]
     },
     {
@@ -701,6 +675,32 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
       "date": "2026-11-13T19:34:30+00:00",
       "description": "The latest jobs in search marketing &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "6 ways to stay on budget with Google Ads Smart Bidding - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUWxreVJqbUgyQkplSS1xWUMyQnBXS1hNOEJxdUtVdS1FZlJuOHpvTTZVcVVPMXVuN1hLX3M0THYxdkZkakJydlplNE1QY0JTVkd4THlwcDkzQVhiSEtvTlhpWnl6NTB2WVlIRFZETWdnRE8wSlJzOTMydlgyamJ0Mw?oc=5",
+      "date": "2026-11-13T16:00:00+00:00",
+      "description": "6 ways to stay on budget with Google Ads Smart Bidding &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Your SEO share of voice doesn’t tell you if AI recommends your brand - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqRW9OYV8zaWZCNFUtTEtyVDAtTlVTMEhIMEdDTUx1S244ckNZX0RQS1RVbzV6bk15bTdUeXcwT3psRlpkeHdDLTRUMFQyR1FNYUNERHViMFI0QmtLYVltMFljdFlYSUhLNjdMTEMxN0JvYnNzT1l6R1NSNDdCUQ?oc=5",
+      "date": "2026-11-13T14:00:00+00:00",
+      "description": "Your SEO share of voice doesn’t tell you if AI recommends your brand &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
