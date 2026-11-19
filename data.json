@@ -1,6 +1,109 @@
 {
-  "updatedAt": "2026-11-19T04:30:35.379547+00:00",
+  "updatedAt": "2026-11-19T13:54:16.209404+00:00",
   "items": [
+    {
+      "title": "WordPress 7.2 Arrives Dec. 8 – Last-Minute Changes Still Being Made via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/wordpress-7-2-seo-ai-changes/597616/",
+      "date": "2026-11-19T13:00:50+00:00",
+      "description": "WordPress 7.2 plans a default-on random post redirect with no settings toggle. Here's what changes, what can wait, and what's still undecided before release. The post WordPress 7.2 Arrives Dec. 8 – Last-Minute Changes Still Being Made appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/wordpress-7-2-featured.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Introducing SEO+ reporting - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01S2t1MVpLaXRqbzI4aGZ6NUNsMUVfR2pfc0V2ZEVObERIT3BQR3hCSENUaEV5Q0VFWXhWdnFtYTV1M0xYT1oyVHNFUUtrcTZpWWNsVHQxejlGaDhhYTNhLUk0LUs?oc=5",
+      "date": "2026-11-19T13:00:00+00:00",
+      "description": "Introducing SEO+ reporting &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Search What People Are Saying AI-Generated Emojis",
+      "link": "https://www.seroundtable.com/google-ai-generated-emojis-42569.html",
+      "date": "2026-11-19T12:51:00+00:00",
+      "description": "Google seems to be placing emojis in the AI-generated \"What people are saying\" box in Google Search. Google does show emojis in its search results, but these emojis are not coming from the website it is referencing, but rather from Google Search and its AI-generated descriptions.",
+      "image": "https://images.seroundtable.com/google-what-people-are-saying-ai-generated-emojis-w6hdvR4X.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Hotel Search Listings With Continue On Google To Book",
+      "link": "https://www.seroundtable.com/google-hotel-continue-on-google-42568.html",
+      "date": "2026-11-19T12:41:00+00:00",
+      "description": "Google seems to be rolling out hotel booking directly on Google in Google Search but through AI Mode. So when you search on Google and Google shows you the hotels, you can now click on a button that says \"Continue on Google\" and it then takes you through the AI Mode hotel booking feature to book using your Google account.",
+      "image": "https://images.seroundtable.com/google-hotel-booking-search-to-ai-mode-rqZVwKPC.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Search Tests \"Show Original Results\" Button",
+      "link": "https://www.seroundtable.com/google-search-show-original-results-button-42574.html",
+      "date": "2026-11-19T12:31:00+00:00",
+      "description": "Google Search is testing a new button in the search results named \"Show original results.\" It seems this button does something similar to the \"Search instead for\" link, where Google will auto correct or adapt your query when it thinks you have a typo in your query or you meant to search for something else.",
+      "image": "https://images.seroundtable.com/google-search-show-original-result-0JlQRYgW.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Data Feed Validation Tool Has Been Turned Down",
+      "link": "https://www.seroundtable.com/google-data-feed-validation-tool-gone-42572.html",
+      "date": "2026-11-19T12:21:00+00:00",
+      "description": "Google has \"turned down\" its Data Feed validation tool and has removed references to it from the Book actions (Book) structured data help documentation. I am not sure when this tool surfaced but likely sometime between October 2016 and December 2017 alongside the broader Actions on Google developer platform.",
+      "image": "https://images.seroundtable.com/google-validation-book-schema-old-h1lLGhk2.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Images Results With Lens To AI Mode Feature",
+      "link": "https://www.seroundtable.com/google-images-lens-to-ai-mode-42570.html",
+      "date": "2026-11-19T12:11:00+00:00",
+      "description": "Google image search results now let you click a Google Lens button, which takes you into an AI Overview follow-up query or even an AI Mode follow-up query. This is different from when Google added the Google Lens button to image search results.",
+      "image": "https://images.seroundtable.com/google-images-lens-ai-overview-dXQzWjd8.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google AdSense Unifying Policies Into AdSense For Search Publishers Policy",
+      "link": "https://www.seroundtable.com/google-adsense-for-search-publishers-policy-42573.html",
+      "date": "2026-11-19T12:05:00+00:00",
+      "description": "Google announced it will update and merge the AdSense for Search (AFS) policies and Search ads policies into a single, unified policy set for AdSense for Search publishers. This will happen on January 17, 2027. Google posted a copy of the new, unified policy.",
+      "image": "https://images.seroundtable.com/google-policies-documents-CYqBfetF.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "OpenAI Publishes Prompting Guidance For GPT-6.2 Astra via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/openai-gpt-6-2-astra-prompting-guidance/597877/",
@@ -232,7 +335,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcmltM3pUWXpSZVdIVWVBTkNITy04Qm9UVkd5SWRPUWF4M0t0UmZHQmVBNWNSakZ1cU5uV1ctRXpIVlNtSlgtOFpPNF9lT3ppLVVRcEJMT25yNGV0VHUwclFVZnYxZjU2WjNSTjA0X2U4M3lsbkRFZXFucGp2NjNQR3h3YlVFQ0k2Z3VBSERvVlA4ZXUwQ1JOeFZiUy05WWtiSTJ2bGc1NG5SQ2dKRXVLeHpxWHVvMTNVUURn?oc=5",
       "date": "2026-11-18T12:17:30+00:00",
       "description": "Microsoft Advertising upgrades automated bidding for faster, more consistent results &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -270,6 +373,19 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcVNqZkQ5d3VhTjVZMVRXVEI2QW9obVlOSzVKMG5STktqMV9VLU9SOUV5c3FRbXRCbmZQZjN3b2NLZVBOa0xubVBRekxGbXh2SEZhRU54N3VUeEduZ0dIN21reC1nMUhnU21VdE9ZQTA5aGI4LXM2a3NlRjBWM0xlNmVNS3E3NjNt?oc=5",
       "date": "2026-11-18T12:00:00+00:00",
       "description": "The link between organic rankings and AI Overview citations in pharma &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Matt Lowe - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qOV9MLWFENlBCU1RxamxfOHZLMWZUWGtfd3oxRFJlZzRNdjNZdDNwUHhLdk52aFdkbFRoS0RxMHBkR0pxQkdjdGxNZlE2STNHNE5mek9MSHM?oc=5",
+      "date": "2026-11-18T12:00:00+00:00",
+      "description": "Matt Lowe &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -391,11 +507,24 @@
       ]
     },
     {
+      "title": "How to use SEO insights to connect teams and engage audiences - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHoyUmJQczJjeU9lUnRSaVpRcTdBQlprNHdxQ1ZmZjhlNTJEX2FGWTBSaDc0Ql9obTNsLXI4M25MTDlRVUJTMU54bFJKWHhUUUJhRUtyNjQxeE03MDh0bmV2eHpKLWhEaFBDVlVFOFpOcjlNSkt2Q1paYV9PRFp1YUlJMi12Zw?oc=5",
+      "date": "2026-11-17T15:00:00+00:00",
+      "description": "How to use SEO insights to connect teams and engage audiences &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Patrick Reinhart On The Golden Metric In AI Search: Brand Recommendations via @sejournal, @lorenbaker",
       "link": "https://www.searchenginejournal.com/patrick-reinhart-on-the-golden-metric-in-ai-search-brand-recommendations/597056/",
       "date": "2026-11-17T13:00:47+00:00",
       "description": "Your brand got cited, but did AI recommend you? Patrick Reinhart of Conductor shares what enterprise teams should measure and fix first. The post Patrick Reinhart On The Golden Metric In AI Search: Brand Recommendations appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/pat-reinhart-loren-baker-ai-search-podcast-sej.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -407,7 +536,7 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZUEIya0ZWaXBfUEloRDE3a1dsVGF1cDRFdjRUMWFiWk1scC05a0J3UHBVdlRlNE9nS0cxWGJxUWVkUGlxd3NqV3V4eDVYdDdOTWtwNTJUX2RMU1hndzVlTExsd2tSVFlFWW85ZkZVYnNHLWg1STZpRjVZRGtXUQ?oc=5",
       "date": "2026-11-17T13:00:00+00:00",
       "description": "When everyone can do SEO, what makes an expert? &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -416,89 +545,11 @@
       ]
     },
     {
-      "title": "FBI: SEO Poisoning Led To $28 Million In Ransomware Payments",
-      "link": "https://www.seroundtable.com/fbi-says-seo-poisoning-led-to-28-million-in-ransomware-payments-42546.html",
-      "date": "2026-11-17T12:51:00+00:00",
-      "description": "The FBI, Federal Bureau of Investigation, has a newsletter named the FBI FLASH, and in the November 16th edition, it highlighted SEO poisoning through Gootloader malware. This resulted in \"over 1000 infected WordPress sites and 216 domains controlled by the Gootloader administrator, which led to over $28 million in ransomware payments,\" the FBI said.",
-      "image": "https://images.seroundtable.com/fbi-gootloader-seo-newsletter-1SpTPt1U.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google: A Site Move Doesn't Improve A Site's Overall Quality",
-      "link": "https://www.seroundtable.com/google-site-move-quality-42545.html",
-      "date": "2026-11-17T12:41:00+00:00",
-      "description": "John Mueller from Google said that simply moving a site to a new domain does not improve a site's overall quality. He wrote this on Bluesky, \"A site move doesn't improve the site's overall quality.\" I mean, this is pretty obvious, but sometimes I like to cover the obvious.",
-      "image": "https://images.seroundtable.com/site-move-quality-google-johnmu-uMT5q36E.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google On Why Serving A 200 Status Code When Your Site Is Down Is Bad",
-      "link": "https://www.seroundtable.com/google-200-status-code-site-down-42542.html",
-      "date": "2026-11-17T12:31:00+00:00",
-      "description": "Google's John Mueller posted two reasons why it would be bad to serve a 200 status code to Googlebot when your site or web pages are down. He said that if your site is down and the page says an error message, that message will be shown in the Google Search results and also, if the same text is on all your pages, Google can de-duplicate the pages and your pages can drop out of the index.",
-      "image": "https://images.seroundtable.com/google-john-mueller-200-offline-2Yh5zs1z.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Local Services Ads Historical Reports Can Now Be Downloaded",
-      "link": "https://www.seroundtable.com/google-local-services-ads-historical-reports-available-for-download-42560.html",
-      "date": "2026-11-17T12:21:00+00:00",
-      "description": "You can now download your historical Google Local Services Ads reports on the redirection page of Google Local Services Ads. Previously, Google said the download feature was coming and now Google said it is finally here.",
-      "image": "https://images.seroundtable.com/google-lsa-download-historical-LhA2FABU.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "New Google Ads Search Journey Awareness Help Document",
-      "link": "https://www.seroundtable.com/google-ads-search-journey-awareness-doc-42551.html",
-      "date": "2026-11-17T12:15:00+00:00",
-      "description": "Google Ads posted a new help document named About Search Journey Awareness. Journey-Aware Bidding is not new, but I believe this help document is new. Google explained, \"Search Journey Awareness is an improvement to Google Ads Smart Bidding.\"",
-      "image": "https://images.seroundtable.com/about-search-journey-awareness-google-ads-help-jyXm6Td4.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads Brand Guidelines New Add Visual Guidelines",
-      "link": "https://www.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines-42538.html",
-      "date": "2026-11-17T12:11:00+00:00",
-      "description": "Google Ads added a new option under the brand guidelines for Performance Max campaigns to add visual guidelines. This says, \"Now you can add style references and preferences to help steer how images are created and enhanced for your ads.\"",
-      "image": "https://images.seroundtable.com/google-ads-brand-guidelines-add-visual-guidelines-0THDLrxs.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Branded Query Data Is Now In The Google Search Console API via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-branded-multimodal-search-console-api/597693/",
       "date": "2026-11-17T08:00:55+00:00",
       "description": "The Search Analytics API now supports branded query classification, multimodal search data, and filters for several countries or devices in one request. The post Branded Query Data Is Now In The Google Search Console API appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-search-console-featured-1600x840-1.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -534,19 +585,6 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTmh5VS1Kbm8zbnFDMjV0bWVmODdSck5rOVhTVDV1ZFk1eUh2N3I4N0JHcWFHcTRTSHZjWC1NdS1xY1ZESXcyb1BVNTV4dW1HSDNOTFpKSTFEcXdqYVM0SVV2di1QbDZoZFpMbzNQVGRkTGZaNlFDQ21XQXU5cERIZW9lWEhCamhEU2tZSXBEWFZVYW96VjNXTzhIRDBPVDdCenZOeUxPOGNoV05YTnNGQjUxLXdTQUVrbmZUOXAxaw?oc=5",
       "date": "2026-11-16T18:26:34+00:00",
       "description": "Google Ads: Not every ad featuring a politician needs verification &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google clarifies how AI Max URL exclusions really work - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQckdhU0VSZUJFUlZkcnFGQzRIY3dRSktFbllhcFFwbHctb21WYmtVd0JwYVNLcDIxdUJOY21VeFk0ZzB1OEMtb3BsT3hqMkZta0R2c1k3OWI1QXlTT3NpVXlRV2pTUC1YcVpxMVFwLWhNQjg1OW1GSlpNLXlYZjg5eUh3Wm5iN0M3dUt1ZDlPUFVKX09tenN5ZnFpdkphTnI2WlBwV1VKZzJQYjRrTHdWYQ?oc=5",
-      "date": "2026-11-16T16:08:35+00:00",
-      "description": "Google clarifies how AI Max URL exclusions really work &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -607,48 +645,10 @@
       ]
     },
     {
-      "title": "Google Search Analytics API gains new filters and reporting - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFRfbEFlR1pYUWs0REdrOHhMU0tBNWdSclVBMUdnM216SHNtM3J6QXJBYlBZQXAyZGpJRmZpckY5NzZiZjJWUV96Vl9GbUZrc3ljZUs1ZE1naXFOcnN2dzBNcnJ6ZXZZTnQ0OGZpbjVtUnpXVTNzZlJvLXZybVhncU85NGtodVF1TGJST3RjSjJJWXpkVE95dmNmYw?oc=5",
-      "date": "2026-11-16T14:51:20+00:00",
-      "description": "Google Search Analytics API gains new filters and reporting &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "How to build a content intelligence strategy for AI search - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLURCWExFMHd1M1dDSXZQQ1JHNE9JLUFrTkRrLWwxNXJVOV9rQmFPMnNqZHdxOE9xbDVaQzhVbllSZjVkUGRacnhkbGhwNVpkTUV5emo5UlJUaHhqVTIwNml6T1MzbEs2MHUtVGZnQzN2ZV9Sc0p3Rll1S3NXM1hmWA?oc=5",
       "date": "2026-11-16T14:00:00+00:00",
       "description": "How to build a content intelligence strategy for AI search &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "ChatGPT Ads Vs. Google Search Ads: What Early Data Shows via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-ads-vs-google-search-ads-early-data/597125/",
-      "date": "2026-11-16T13:00:58+00:00",
-      "description": "Early ChatGPT Ads data shows competition for ad budgets, while performance comparisons depend on click prices, attribution and outcomes. The post ChatGPT Ads Vs. Google Search Ads: What Early Data Shows appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to make AI agents work for your PPC campaigns - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PUUs2VFc3dHZkVmhDSTZ1a29OMHItR1pzRGR6WGwwa1AxQlJpNGZ0WWloY1VoT3prMjhJVkRYdXlROW9MTGNPdkk1VlpvcEZ1V1JVeEJkYTRLQi1CT0s3cUkwV1daM2Uxck8ydHpCT1lRWENXd1JpdQ?oc=5",
-      "date": "2026-11-16T13:00:00+00:00",
-      "description": "How to make AI agents work for your PPC campaigns &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
