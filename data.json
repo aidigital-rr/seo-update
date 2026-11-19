@@ -1,6 +1,93 @@
 {
-  "updatedAt": "2026-11-19T13:54:16.209404+00:00",
+  "updatedAt": "2026-11-19T22:08:09.327399+00:00",
   "items": [
+    {
+      "title": "21 Alternative Search Engines You Can Use Instead of Google via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/21-alternative-search-engines-you-can-use-instead-of-google/596605/",
+      "date": "2026-11-19T20:00:05+00:00",
+      "description": "Compare 21 Google alternatives for everyday search, private search, AI answers, specialist research, and regional results. The post 21 Alternative Search Engines You Can Use Instead of Google appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/01/search-engine-383.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Search Officially Rolls Out Collapsible Sidebar",
+      "link": "https://www.seroundtable.com/google-search-rolls-out-ai-mode-sidebar-42580.html",
+      "date": "2026-11-19T19:38:00+00:00",
+      "description": "Google is now officially rolling out what it calls the \"collapsible sidebar\" within Google Search. We spotted this a few weeks ago and we called it then the AI Mode sidebar in Google Search. Robby Stein from Google said \"New on the Google desktop homepage globally: we're rolling out a collapsible sidebar to easily find & jump back into your recent AI searches.\"",
+      "image": "https://images.seroundtable.com/google-ai-mode-sidebar-0z5ygkqF.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google’s Next Update Won’t Touch The Index, And Nobody Will Announce It via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/googles-next-update-wont-touch-the-index-and-nobody-will-announce-it/597481/",
+      "date": "2026-11-19T18:00:31+00:00",
+      "description": "Stop matching traffic drops to update dates. Sample what AI assistants say about your company on a schedule and track which facts drift. The post Google’s Next Update Won’t Touch The Index, And Nobody Will Announce It appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/duane-forrester-decodes-google-update-543.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Microsoft Confirms Ads Are In AI Overviews On Bing Search",
+      "link": "https://www.seroundtable.com/microsoft-ads-in-ai-overviews-on-bing-42578.html",
+      "date": "2026-11-19T15:24:00+00:00",
+      "description": "Microsoft has just confirmed that it is now shows ads in AI Overviews in Bing Search. We started seeing ads in Bing AI Overviews about three weeks ago, and Microsoft has now confirmed this on the Microsoft Advertising blog.",
+      "image": "https://images.seroundtable.com/bing-ai-overview-microsoft-ads-Un5QSMZG.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Your WordPress Sitemap Isn’t Broken – Chrome 158 Has Dropped XSLT via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/your-wordpress-sitemap-isnt-broken-chrome-158-has-dropped-xslt/597549/",
+      "date": "2026-11-19T15:00:06+00:00",
+      "description": "Chrome dropping XSLT makes WordPress sitemaps display as raw XML. Skip the unnecessary fixes and use Google Search Console to verify crawlers still read them. The post Your WordPress Sitemap Isn’t Broken – Chrome 158 Has Dropped XSLT appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/wp-sitemap-1-14.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: November 19, 2026",
+      "link": "https://www.seroundtable.com/recap-11-19-2026-42575.html",
+      "date": "2026-11-19T15:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today...",
+      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "WordPress 7.1.5 Security Release Fixes 18 Vulnerabilities via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wordpress-7-1-5-security-release-fixes-18-vulnerabilities/598080/",
+      "date": "2026-11-19T14:40:05+00:00",
+      "description": "WordPress 7.1.5 fixes 18 vulnerabilities and adds two security improvements, including an unauthenticated flaw that could lead to RCE. The post WordPress 7.1.5 Security Release Fixes 18 Vulnerabilities appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/wordpress-security-release-729.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "WordPress 7.2 Arrives Dec. 8 – Last-Minute Changes Still Being Made via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/wordpress-7-2-seo-ai-changes/597616/",
@@ -10,19 +97,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Introducing SEO+ reporting - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01S2t1MVpLaXRqbzI4aGZ6NUNsMUVfR2pfc0V2ZEVObERIT3BQR3hCSENUaEV5Q0VFWXhWdnFtYTV1M0xYT1oyVHNFUUtrcTZpWWNsVHQxejlGaDhhYTNhLUk0LUs?oc=5",
-      "date": "2026-11-19T13:00:00+00:00",
-      "description": "Introducing SEO+ reporting &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
@@ -129,10 +203,10 @@
       ]
     },
     {
-      "title": "Microsoft Rolls Out Its Biggest Bidding Upgrade In A Decade via @sejournal, @brookeosmundson",
+      "title": "Microsoft Rebuilds Its Smart Bidding Prediction Models, Rolling Out Automatically via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/microsoft-rolls-out-its-biggest-bidding-upgrade-in-a-decade/597963/",
       "date": "2026-11-18T18:19:49+00:00",
-      "description": "Microsoft Advertising is automatically updating its bidding models, reporting faster target adjustments, smoother budget pacing, and best practices for CPA and ROAS campaigns. The post Microsoft Rolls Out Its Biggest Bidding Upgrade In A Decade appeared first on Search Engine Journal .",
+      "description": "Microsoft Advertising is automatically updating its bidding models, reporting faster target adjustments, smoother budget pacing, and best practices for CPA and ROAS campaigns. The post Microsoft Rebuilds Its Smart Bidding Prediction Models, Rolling Out Automatically appeared first on Search Engine Journal .",
       "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/shutterstock_2714845689_1600x840-358.png",
       "source": "Search Engine Journal",
       "tags": [
@@ -166,19 +240,6 @@
       ]
     },
     {
-      "title": "Google AdMob introduces AI tools to automate monetization and ad management - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON3kzUWk2emx3ZkNOd05rU1JmSktrNm91MG1sWmpCdXNqTmFZUUJuaWlCRVZHeDVoVmVFNkhESHdJV3pzWGFWU1VzS2FvdmI0U0N0eFBtU3lWcXJ2RVFVNGx6LVFaaDBCQVZLLTFnTS1wTUdlTGl6bW4wc1FUNW5ZcmNlMUFuUWtuVjJEUVZLRlJwT1ktWkM0aC1mSWw2eThVQ3c4Ym8yYXNDcDdGdG8ycQ?oc=5",
-      "date": "2026-11-18T17:06:14+00:00",
-      "description": "Google AdMob introduces AI tools to automate monetization and ad management &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "How To Find The Questions Your Customers Ask AI (And Your Keyword Tools Miss)",
       "link": "https://www.searchenginejournal.com/how-to-find-the-questions-your-customers-ask-ai-and-your-keyword-tools-miss/596522/",
       "date": "2026-11-18T15:00:12+00:00",
@@ -201,19 +262,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "Your AI visibility problem is probably a marketing problem - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOU1Zelg1dVdQMXV6NjB3Y2FaN3RDZVNCUXgxSTB3VTJ3Y0E4VldJNDFwbndYc2VsTE5iZDQtUlY5Q29HWk9kVXRhNXZJSklaWHZJWGJEbjhmWmtzNmwzTU9EcHp1VlpQQkpub3luZk9xM3VDd0RuVnlxenJvNDZJRTdNMzlCWVMtZndubmo2QjZCdml4cHhNOWJB?oc=5",
-      "date": "2026-11-18T15:00:00+00:00",
-      "description": "Your AI visibility problem is probably a marketing problem &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     },
     {
@@ -254,10 +302,10 @@
       ]
     },
     {
-      "title": "Google Ads AI Max Is Making More Decisions For You – Here’s What To Audit Now via @sejournal, @brookeosmundson",
+      "title": "Google Ads AI Max Is Making More Decisions For You – 6 Settings To Audit Now via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/google-ads-ai-max-is-making-more-decisions-for-you-heres-what-to-audit-now/596972/",
       "date": "2026-11-18T13:00:42+00:00",
-      "description": "Audit Google Ads AI Max settings to catch unwanted searches, review generated ad copy, and keep landing pages aligned with campaign goals. The post Google Ads AI Max Is Making More Decisions For You – Here&#8217;s What To Audit Now appeared first on Search Engine Journal .",
+      "description": "Audit Google Ads AI Max settings to catch unwanted searches, review generated ad copy, and keep landing pages aligned with campaign goals. The post Google Ads AI Max Is Making More Decisions For You – 6 Settings To Audit Now appeared first on Search Engine Journal .",
       "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ads-ai-max-882.png",
       "source": "Search Engine Journal",
       "tags": [
@@ -335,7 +383,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcmltM3pUWXpSZVdIVWVBTkNITy04Qm9UVkd5SWRPUWF4M0t0UmZHQmVBNWNSakZ1cU5uV1ctRXpIVlNtSlgtOFpPNF9lT3ppLVVRcEJMT25yNGV0VHUwclFVZnYxZjU2WjNSTjA0X2U4M3lsbkRFZXFucGp2NjNQR3h3YlVFQ0k2Z3VBSERvVlA4ZXUwQ1JOeFZiUy05WWtiSTJ2bGc1NG5SQ2dKRXVLeHpxWHVvMTNVUURn?oc=5",
       "date": "2026-11-18T12:17:30+00:00",
       "description": "Microsoft Advertising upgrades automated bidding for faster, more consistent results &nbsp;&nbsp; Search Engine Land",
-      "image": "",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -379,45 +427,6 @@
         "SEO",
         "Google",
         "AI Search"
-      ]
-    },
-    {
-      "title": "Matt Lowe - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qOV9MLWFENlBCU1RxamxfOHZLMWZUWGtfd3oxRFJlZzRNdjNZdDNwUHhLdk52aFdkbFRoS0RxMHBkR0pxQkdjdGxNZlE2STNHNE5mek9MSHM?oc=5",
-      "date": "2026-11-18T12:00:00+00:00",
-      "description": "Matt Lowe &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google AI Overviews With Unfaded Citation Block",
-      "link": "https://www.seroundtable.com/google-ai-overviews-with-unfaded-citations-42563.html",
-      "date": "2026-11-18T01:36:00+00:00",
-      "description": "Google seems to have rolled out an update to the AI Overviews on the Google Search page where the citation cards or blocks on the right side are not faded out. Instead, the citations are fully visible, and you don't need to click into the AI Overview to view them fully.",
-      "image": "https://images.seroundtable.com/google-ai-overview-not-faded-8obDMm4P.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Tag & Google Tag Manager Unification",
-      "link": "https://www.seroundtable.com/google-tag-manager-unification-42562.html",
-      "date": "2026-11-18T01:16:00+00:00",
-      "description": "This past August, Google announced the unification of Google tag and Google Tag Manager. Well, today Google posted a Google Tag Manager release not about the unification. It is titled Google tag and Google Tag Manager unification and dated on November 17, 2026.",
-      "image": "https://images.seroundtable.com/google-tag-k6PuBSFm.jpg",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -494,23 +503,23 @@
       ]
     },
     {
-      "title": "Daily Search Forum Recap: November 17, 2026",
-      "link": "https://www.seroundtable.com/recap-11-17-2026-42558.html",
-      "date": "2026-11-17T15:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. The FBI posted an alert about SEO poisoning through malware. Moving a site does not and should not improve a site's quality...",
-      "image": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "How to use SEO insights to connect teams and engage audiences - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHoyUmJQczJjeU9lUnRSaVpRcTdBQlprNHdxQ1ZmZjhlNTJEX2FGWTBSaDc0Ql9obTNsLXI4M25MTDlRVUJTMU54bFJKWHhUUUJhRUtyNjQxeE03MDh0bmV2eHpKLWhEaFBDVlVFOFpOcjlNSkt2Q1paYV9PRFp1YUlJMi12Zw?oc=5",
       "date": "2026-11-17T15:00:00+00:00",
       "description": "How to use SEO insights to connect teams and engage audiences &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How to prioritize SEO and GEO work when everything feels urgent - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3Um5uVnF0dlBPb1Q5WTRFblZ2UGw3OXlMNFZvZDhRQU91RE9JWUtEam1mQ0lOVzMyTWNWaHdKWXVIb1hzN3JVRUR6bXE4bDc0MnhmazBEMXF4SjF4Q3hTLTZYa2tLMVppMTVnX1ZrVEp5MVM4?oc=5",
+      "date": "2026-11-17T14:00:00+00:00",
+      "description": "How to prioritize SEO and GEO work when everything feels urgent &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -536,55 +545,6 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZUEIya0ZWaXBfUEloRDE3a1dsVGF1cDRFdjRUMWFiWk1scC05a0J3UHBVdlRlNE9nS0cxWGJxUWVkUGlxd3NqV3V4eDVYdDdOTWtwNTJUX2RMU1hndzVlTExsd2tSVFlFWW85ZkZVYnNHLWg1STZpRjVZRGtXUQ?oc=5",
       "date": "2026-11-17T13:00:00+00:00",
       "description": "When everyone can do SEO, what makes an expert? &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Branded Query Data Is Now In The Google Search Console API via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-branded-multimodal-search-console-api/597693/",
-      "date": "2026-11-17T08:00:55+00:00",
-      "description": "The Search Analytics API now supports branded query classification, multimodal search data, and filters for several countries or devices in one request. The post Branded Query Data Is Now In The Google Search Console API appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Adds Appointment Finding & Business Calls To Ask Maps via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ask-maps-appointments-business-calls/597678/",
-      "date": "2026-11-17T01:13:51+00:00",
-      "description": "Ask Maps is starting to find appointments online and call local businesses for customers. Here's what Business Profile says about Google's automated calls. The post Google Adds Appointment Finding &amp; Business Calls To Ask Maps appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "CMS Market Share Trends: Top Content Management Systems (Nov 2026) via @sejournal, @theshelleywalsh",
-      "link": "https://www.searchenginejournal.com/cms-market-share-trends-top-content-management-systems-nov-2026/596729/",
-      "date": "2026-11-16T20:00:27+00:00",
-      "description": "The CMS market is fragmenting, and platform choice now carries direct implications for scalability, SEO, and revenue growth. The post CMS Market Share Trends: Top Content Management Systems (Nov 2026) appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads: Not every ad featuring a politician needs verification - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTmh5VS1Kbm8zbnFDMjV0bWVmODdSck5rOVhTVDV1ZFk1eUh2N3I4N0JHcWFHcTRTSHZjWC1NdS1xY1ZESXcyb1BVNTV4dW1HSDNOTFpKSTFEcXdqYVM0SVV2di1QbDZoZFpMbzNQVGRkTGZaNlFDQ21XQXU5cERIZW9lWEhCamhEU2tZSXBEWFZVYW96VjNXTzhIRDBPVDdCenZOeUxPOGNoV05YTnNGQjUxLXdTQUVrbmZUOXAxaw?oc=5",
-      "date": "2026-11-16T18:26:34+00:00",
-      "description": "Google Ads: Not every ad featuring a politician needs verification &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -620,35 +580,10 @@
       ]
     },
     {
-      "title": "When The WordPress Plugin Update Is The Security Risk: Why SEOs Should Pay Attention via @sejournal, @cshel",
-      "link": "https://www.searchenginejournal.com/when-the-wordpress-plugin-update-is-the-security-risk-why-seos-should-pay-attention/595622/",
-      "date": "2026-11-16T15:00:34+00:00",
-      "description": "Compromised WordPress plugins can introduce security threats and SEO problems. Recent supply-chain attacks reveal why software updates, vendor trust, and verification deserve closer scrutiny. The post When The WordPress Plugin Update Is The Security Risk: Why SEOs Should Pay Attention appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Why SEO testing matters more as AI makes execution easier - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sRFRNU1IyUGF5VGdybnk4ZV9YOWZlXzA0M091Qnpyc25EZ0hDNVJRSWU1YllZWENRUkZMTk1mN1dzbzVrenZjNC1nVms5elR1OFNxbWZlWHo0OEV2T29UMXNicjFxcEhZcUZaYg?oc=5",
       "date": "2026-11-16T15:00:00+00:00",
       "description": "Why SEO testing matters more as AI makes execution easier &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to build a content intelligence strategy for AI search - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLURCWExFMHd1M1dDSXZQQ1JHNE9JLUFrTkRrLWwxNXJVOV9rQmFPMnNqZHdxOE9xbDVaQzhVbllSZjVkUGRacnhkbGhwNVpkTUV5emo5UlJUaHhqVTIwNml6T1MzbEs2MHUtVGZnQzN2ZV9Sc0p3Rll1S3NXM1hmWA?oc=5",
-      "date": "2026-11-16T14:00:00+00:00",
-      "description": "How to build a content intelligence strategy for AI search &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -697,10 +632,36 @@
       ]
     },
     {
-      "title": "The latest jobs in search marketing - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
-      "date": "2026-11-13T19:34:30+00:00",
-      "description": "The latest jobs in search marketing &nbsp;&nbsp; Search Engine Land",
+      "title": "6 ways to stay on budget with Google Ads Smart Bidding - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUWxreVJqbUgyQkplSS1xWUMyQnBXS1hNOEJxdUtVdS1FZlJuOHpvTTZVcVVPMXVuN1hLX3M0THYxdkZkakJydlplNE1QY0JTVkd4THlwcDkzQVhiSEtvTlhpWnl6NTB2WVlIRFZETWdnRE8wSlJzOTMydlgyamJ0Mw?oc=5",
+      "date": "2026-11-13T16:00:00+00:00",
+      "description": "6 ways to stay on budget with Google Ads Smart Bidding &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Search gets major upgrade with Gemini 4 Hydrogen - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYTJlelI2cWwtaFlMci1xSTctbEozeVlCclYtbm5MUG5GZzM2eXlpWGNUaGlOSVBpVW1jUlBSUUF2dmZHVVREV3ZiT0RzSVhVVmotVHpnV1VhcTZRYmhnZXV0NGhCTU1MVWFJMTRlZFdpcXVwUnFaMDBXdnNFOGZpWGx5QkhJdFY1OTltWVpUczlGb0plekE?oc=5",
+      "date": "2026-11-12T18:31:38+00:00",
+      "description": "Google Search gets major upgrade with Gemini 4 Hydrogen &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How to build an SEO content roadmap around revenue - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYVRnY3A2eVlkUEMyV0FGblUzdHFlV19YTGZxNkFIY2VPU2YzZk11clBWN2tQdW5xYU1DZmFmbFJRT0NoUmp0YkJyVURFYkdqR1kwOW1nc25mZmMzRXlWMGdKSy1fdnI1Q1Q1bzNQQnJPTVJyMXBTOTlteW1JTmtsSWl3?oc=5",
+      "date": "2026-11-11T14:00:00+00:00",
+      "description": "How to build an SEO content roadmap around revenue &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -720,6 +681,19 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "Google November 2026 core update rolling out now - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSjkwclo1dU0yQzdYSkV6YWhsQTkxN0hNeVJtVUJhaDhDNmJOdDFLeEdtV0RsYkpjaW9xLWIxejRXRFItQnhjSE5GOGx1NVhZazY2a3RHYW5ZQkcxalRGQmROWTFhX1JraDY5Q3lKMk9Mc3BicGtnQWVJNS16VmhZelpMbzJhbmQ2UzNqZA?oc=5",
+      "date": "2026-11-10T08:00:00+00:00",
+      "description": "Google November 2026 core update rolling out now &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
@@ -749,6 +723,19 @@
       ]
     },
     {
+      "title": "Semrush confirms ‘poisoned’ Google results are impacting SEO tools - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTnNyYmZtd0FjRVY2MVJjMlpXLWpEcmx2UG9nakFtTnVTLWJ6NFpFZEVOc1JqRXFDYjBZbzg3Ujc0Q2N2dWg2cFpSNkxYVUhwV2kzRHRsVHdPREVoVFpUWnVfNThGQVFNdXkyZUtSQzhNRmtOcW1Zdm4wMjlLZGZ0YW13?oc=5",
+      "date": "2026-10-27T07:00:00+00:00",
+      "description": "Semrush confirms ‘poisoned’ Google results are impacting SEO tools &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "New learning paths: curated YouTube playlists for Search fundamentals and Technical SEO",
       "link": "https://developers.google.com/search/blog/2026/10/seo-learning-paths",
       "date": "2026-10-06T00:00:00+00:00",
@@ -759,6 +746,19 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "Google’s /goto change: The latest challenge for third-party SEO data - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hVVRlNy1wTnU0d2hNZWFjR25CWUhfU0dmdGFwbHpELWVlOFVJRll1bXJTb0NvNWdiY1MxS2t0RkVsekp1ekJ1MTdkeVhHeXVIV1RRR3VianZqVXRXcWJoYlZtMEV1N01nNHFRaVo0RjBnSW8xMUJLbTNqLVM5UQ?oc=5",
+      "date": "2026-09-24T07:00:00+00:00",
+      "description": "Google’s /goto change: The latest challenge for third-party SEO data &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
