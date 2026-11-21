@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-21T08:15:37.570626+00:00",
+  "updatedAt": "2026-11-21T16:09:59.803528+00:00",
   "items": [
+    {
+      "title": "WordPress Random Redirects, Branded API Data & CDN Advice – SEO Pulse via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/seo-pulse-wordpress-random-redirects-branded-api-data-cdn-advice/598173/",
+      "date": "2026-11-21T13:00:00+00:00",
+      "description": "This week's SEO Pulse covers WordPress's random redirect, branded data in Search Console API, Google's CDN guidance, and who controls access for bots and agents. The post WordPress Random Redirects, Branded API Data &#038; CDN Advice – SEO Pulse appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/seo-pulse-november-19-featured-1600x840-1.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Salesforce CEO Says ‘Goodbye SEO.’ Salesforce’s SEO Guide Disagrees via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/salesforce-ceo-goodbye-seo-salesforce-seo-guide/598343/",
@@ -359,6 +371,19 @@
       ]
     },
     {
+      "title": "Are your website pop-ups doing more harm than good? - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdEg5Rm5uYkF4Ml9HMG5xMEJiOEhucl80dzFFaUlqZ3lKanNnNjE0eEhjUG5VYkxpbm95ZnNXV2d4TDFTZmVWVjVRcXN0U0NDN2M1QVd4NkFxU1RuQmt0WlpUcDd2VmItcGJvWTV6RkpCaDZueW10SFd4LTZDQml6TnVyMnRtVGRIWGJzUzhuUQ?oc=5",
+      "date": "2026-11-19T16:00:00+00:00",
+      "description": "Are your website pop-ups doing more harm than good? &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Microsoft Confirms Ads Are In AI Overviews On Bing Search",
       "link": "https://www.seroundtable.com/microsoft-ads-in-ai-overviews-on-bing-42578.html",
       "date": "2026-11-19T15:24:00+00:00",
@@ -490,7 +515,7 @@
       "link": "https://www.seroundtable.com/google-search-show-original-results-button-42574.html",
       "date": "2026-11-19T12:31:00+00:00",
       "description": "Google Search is testing a new button in the search results named \"Show original results.\" It seems this button does something similar to the \"Search instead for\" link, where Google will auto correct or adapt your query when it thinks you have a typo in your query or you meant to search for something else.",
-      "image": "https://images.seroundtable.com/google-search-show-original-result-0JlQRYgW.png",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -503,7 +528,7 @@
       "link": "https://www.seroundtable.com/google-data-feed-validation-tool-gone-42572.html",
       "date": "2026-11-19T12:21:00+00:00",
       "description": "Google has \"turned down\" its Data Feed validation tool and has removed references to it from the Book actions (Book) structured data help documentation. I am not sure when this tool surfaced but likely sometime between October 2016 and December 2017 alongside the broader Actions on Google developer platform.",
-      "image": "https://images.seroundtable.com/google-validation-book-schema-old-h1lLGhk2.png",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -636,19 +661,6 @@
       ]
     },
     {
-      "title": "Google Ads Journey-Aware Bidding: How it works and what to know - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zNHNWcWQ3aE1TZXhRYlBza09nUjVKLXJzRzZQYm13bmVOcnhpMW53d0dfamVORTNqb25QY3hSZXJ4MldrOWV5Nm1rUHBEdEhfZXNhUVJRajZiZFd6QlFOYVBzSE5ZckFwdy0tdklLTkVXa3hnRV9j?oc=5",
-      "date": "2026-11-18T14:00:00+00:00",
-      "description": "Google Ads Journey-Aware Bidding: How it works and what to know &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Rank Math SEO WordPress Plugin Hit By 16 Vulnerabilities In 2026 via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/rank-math-seo-wordpress-plugin-hit-by-16-vulnerabilities-in-2026/597932/",
       "date": "2026-11-18T13:55:11+00:00",
@@ -677,18 +689,6 @@
       "link": "https://www.searchenginejournal.com/google-explains-how-to-avoid-cdn-migration-seo-problems/597888/",
       "date": "2026-11-18T12:16:03+00:00",
       "description": "Google explains how to get the best SEO outcome from a CDN migration and avoid unexpected crawling problems. The post Google Explains How To Avoid CDN Migration SEO Problems appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "6.9% Of ChatGPT Conversations Showed Purchase Intent In U.S. Panel via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-purchase-intent-us-panel/597857/",
-      "date": "2026-11-17T21:42:30+00:00",
-      "description": "U.S. data finds few ChatGPT conversations show intent to buy and most responses name no brand. New insight for teams weighing ChatGPT visibility and ads. The post 6.9% Of ChatGPT Conversations Showed Purchase Intent In U.S. Panel appeared first on Search Engine Journal .",
       "image": "",
       "source": "Search Engine Journal",
       "tags": [
