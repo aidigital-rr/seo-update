@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T00:49:09.168874+00:00",
+  "updatedAt": "2026-11-21T08:15:37.570626+00:00",
   "items": [
     {
       "title": "Salesforce CEO Says ‘Goodbye SEO.’ Salesforce’s SEO Guide Disagrees via @sejournal, @MattGSouthern",
@@ -104,10 +104,10 @@
       ]
     },
     {
-      "title": "Google Told CMOs To Stop ‘Top 10’ Listicles. Here’s Its Example via @sejournal, @MattGSouthern",
+      "title": "Google’s ‘Top 10’ Line For CMOs Points At Generic Tips Posts via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-told-cmos-to-stop-top-10-listicles/598310/",
       "date": "2026-11-20T16:17:43+00:00",
-      "description": "Google's marketing account told CMOs to replace generic tips posts with content grounded in first-hand expertise. The post Google Told CMOs To Stop &#8216;Top 10&#8217; Listicles. Here&#8217;s Its Example appeared first on Search Engine Journal .",
+      "description": "Google's marketing account told CMOs to replace generic tips posts with content grounded in first-hand expertise. The post Google&#8217;s &#8216;Top 10&#8217; Line For CMOs Points At Generic Tips Posts appeared first on Search Engine Journal .",
       "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-listicle-guidance-featured.jpg",
       "source": "Search Engine Journal",
       "tags": [
@@ -410,19 +410,6 @@
       ]
     },
     {
-      "title": "Deleting blog posts hurt AI visibility, but organic clicks told a different story - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVTN0ZElOcXRxV0lrM1Zzb1lTWGxENmI5bC1zRENMYnlhMFg3QlF0eHNkeXRYMElwazJ2SzJaYkJ2aW52MzdxUzdLZ19vTkxnUm5jaDlad2wtd2xlVlFhYVhDWWYza3VJQWJZcGZxOWkzRlE0dzAxdTd4WmgwOVZhSzg3aHRtTnFiYUpuSk9PUGJuWFk?oc=5",
-      "date": "2026-11-19T15:00:00+00:00",
-      "description": "Deleting blog posts hurt AI visibility, but organic clicks told a different story &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "WordPress 7.1.5 Security Release Fixes 18 Vulnerabilities via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/wordpress-7-1-5-security-release-fixes-18-vulnerabilities/598080/",
       "date": "2026-11-19T14:40:05+00:00",
@@ -516,7 +503,7 @@
       "link": "https://www.seroundtable.com/google-data-feed-validation-tool-gone-42572.html",
       "date": "2026-11-19T12:21:00+00:00",
       "description": "Google has \"turned down\" its Data Feed validation tool and has removed references to it from the Book actions (Book) structured data help documentation. I am not sure when this tool surfaced but likely sometime between October 2016 and December 2017 alongside the broader Actions on Google developer platform.",
-      "image": "",
+      "image": "https://images.seroundtable.com/google-validation-book-schema-old-h1lLGhk2.png",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -645,6 +632,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Ads Journey-Aware Bidding: How it works and what to know - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zNHNWcWQ3aE1TZXhRYlBza09nUjVKLXJzRzZQYm13bmVOcnhpMW53d0dfamVORTNqb25QY3hSZXJ4MldrOWV5Nm1rUHBEdEhfZXNhUVJRajZiZFd6QlFOYVBzSE5ZckFwdy0tdklLTkVXa3hnRV9j?oc=5",
+      "date": "2026-11-18T14:00:00+00:00",
+      "description": "Google Ads Journey-Aware Bidding: How it works and what to know &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
