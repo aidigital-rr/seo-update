@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T17:07:28.304012+00:00",
+  "updatedAt": "2026-11-22T22:27:58.889212+00:00",
   "items": [
     {
       "title": "WordPress Random Redirects, Branded API Data & CDN Advice – SEO Pulse via @sejournal, @MattGSouthern",
@@ -42,58 +42,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTC1UOVc0N3U2M2ppbmF5SzBaamRjY1JrR3ZJR2w4dHc4OEVXWFoxX1NEaE9Fcmx2MXRYRzdkTUZHX2VsYktMbFp2MU5EQTFxdkExdE9MdWd6T1lSWVhSekhoQkZOTE80Vm51VU9kcllJWnctaUtHaEFlT1pKMFcxVW1jdGdVR18ybjhLYTZpSWVXNncxX3ZoU2htN29OQQ?oc=5",
       "date": "2026-11-20T18:00:01+00:00",
       "description": "Microsoft Advertising adds URL inclusions to AI Max campaigns &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads automation drift: Why better performance numbers don't always mean better results - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ25jM1Z0cWVXZUJ2LWNjVmVSWXlOZHc4RXR5Nm42YWJnSzlUcWY1by1sdGdabmdZRlY3YkxwdFNVcUNEOWVzbnhyeFRXbTZVZy15ak52YlEzdVNQbXZ5QW1ndEw4LS1JU1Nod1dJYnh2X0VDZFBLbUpPbzhWa0NqbnlaclZnZ2Z0OURlWGJQOUZaUjdBWk5xRnE2VTdfblRCZFRUQ0JZbnBuWFgwbVo4MUNJRDZtSHJuYVpVb04yWE4yVUdq?oc=5",
-      "date": "2026-11-20T17:21:44+00:00",
-      "description": "Google Ads automation drift: Why better performance numbers don't always mean better results &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to measure SEO performance and results - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBITG9KMVdHOF90NEZPYUczbGU4UWRrOHIzMXNTb0ItZDlnb21kbFREcHlCWjNZV0RscUVnS0R6eVI5S0JoeTlndFFDMmFfRHlPZjRQTk9pR2l4UQ?oc=5",
-      "date": "2026-11-20T16:57:07+00:00",
-      "description": "How to measure SEO performance and results &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Microsoft Advertising brings ads to AI Overviews on Bing - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWlE0bEpmY0ZTblgtUFAtTEtNUkR1QnNuRlBJZTl5S3ZhOG9RVzlhRXd1N2dydTNxTWVTalZqS0V1QmhqUUhJWUdSS090c1ZnTkx2Uno0M3Q5bFZhV2thQ0lPZ2RDc1J6ckpqSjBMRVRqXzJrY2VJZDd0MGotUHUwOFJHaGlJcm00RElqWlk5WnI3TzJaWjJj?oc=5",
-      "date": "2026-11-20T16:50:10+00:00",
-      "description": "Microsoft Advertising brings ads to AI Overviews on Bing &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Microsoft Ads introduces ‘Made with AI’ labels to AI-generated ad images - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHBBQXJ0WGliaEItYklRXzRET2tEVjFHeG1rYkZKM3NENUh5YkRPX2NHeXo4TDhuZ3NrLUFWRXlmQnVacWdvSl9VMjR5Y2FOdWc0dlB2aWZJNUtBSjU4YmdYLWlYT0JoRGJFNDZVV3NDZGhwOHVubllZTU10UDZlT0xvcmJCXzZ4bjVqc3NmYnZPTjM0X1VERC0xaFhsZ1lBcmc?oc=5",
-      "date": "2026-11-20T16:35:14+00:00",
-      "description": "Microsoft Ads introduces ‘Made with AI’ labels to AI-generated ad images &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -170,19 +118,6 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HTXM0LTdkNnQ4LTM3cWtlbjZJLUYyd0tnOEZjZF80THY4dVh1a3lNczBEdklQRXlUNzNHWEpGTlhHejFBXzMycUpxY3dzam9KUXJjeGxEWTRYVUhvTGswaW9TT2MwaVF3d2NHS2c0VWVURTBmQndsZlBaXzA?oc=5",
       "date": "2026-11-20T14:39:06+00:00",
       "description": "Google’s AI search advice sparks backlash from SEOs &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google’s November Knowledge Graph update dropped 10% of person entities overnight. Here’s who survived - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNmtGUWhsOVQ4UFByUkhLZzdRa3draVhIQy1IM0NwYVpSanJ2LWVaV3A2VjBvZGdCSFIzcjhFdW1yLXBqcnhlM3d6QzFMYnJocnFFajNsV3F1QU1qbTNiQW9fM1NlX3Bqa3ZmcWtqUTFXYnRfLWtyY2p3TU4zYXlzdnpDMWVIZw?oc=5",
-      "date": "2026-11-20T14:00:00+00:00",
-      "description": "Google’s November Knowledge Graph update dropped 10% of person entities overnight. Here’s who survived &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -515,7 +450,7 @@
       "link": "https://www.seroundtable.com/google-data-feed-validation-tool-gone-42572.html",
       "date": "2026-11-19T12:21:00+00:00",
       "description": "Google has \"turned down\" its Data Feed validation tool and has removed references to it from the Book actions (Book) structured data help documentation. I am not sure when this tool surfaced but likely sometime between October 2016 and December 2017 alongside the broader Actions on Google developer platform.",
-      "image": "",
+      "image": "https://images.seroundtable.com/google-validation-book-schema-old-h1lLGhk2.png",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -528,7 +463,7 @@
       "link": "https://www.seroundtable.com/google-images-lens-to-ai-mode-42570.html",
       "date": "2026-11-19T12:11:00+00:00",
       "description": "Google image search results now let you click a Google Lens button, which takes you into an AI Overview follow-up query or even an AI Mode follow-up query. This is different from when Google added the Google Lens button to image search results.",
-      "image": "",
+      "image": "https://images.seroundtable.com/google-images-lens-ai-overview-dXQzWjd8.png",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -541,7 +476,7 @@
       "link": "https://www.searchenginejournal.com/openai-gpt-6-2-astra-prompting-guidance/597877/",
       "date": "2026-11-18T22:26:21+00:00",
       "description": "OpenAI's GPT-6.2 guide says Astra writes more concisely by default, suggests revisiting \"be concise\" prompts and flags an API change for edited history. The post OpenAI Publishes Prompting Guidance For GPT-6.2 Astra appeared first on Search Engine Journal .",
-      "image": "",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/openai-gpt-6-2-astra-featured.jpg",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -553,7 +488,7 @@
       "link": "https://www.searchenginejournal.com/technical-seo/robots-txt-guide-best-practices-for-search-ai-crawlers/",
       "date": "2026-11-18T20:00:31+00:00",
       "description": "Learn how to configure robots.txt, avoid crawl and indexing mistakes, and manage AI training, search crawlers, and user-requested visits separately. The post Robots.txt Guide – Best Practices For Search &#038; AI Crawlers appeared first on Search Engine Journal .",
-      "image": "",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2024/09/best-practices-for-setting-up-meta-robots-tags-robots.txt-584-e1726145406885.jpg",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -565,7 +500,7 @@
       "link": "https://www.searchenginejournal.com/microsoft-rolls-out-its-biggest-bidding-upgrade-in-a-decade/597963/",
       "date": "2026-11-18T18:19:49+00:00",
       "description": "Microsoft Advertising is automatically updating its bidding models, reporting faster target adjustments, smoother budget pacing, and best practices for CPA and ROAS campaigns. The post Microsoft Rebuilds Its Smart Bidding Prediction Models, Rolling Out Automatically appeared first on Search Engine Journal .",
-      "image": "",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/shutterstock_2714845689_1600x840-358.png",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -581,19 +516,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google AdMob introduces AI tools to automate monetization and ad management - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON3kzUWk2emx3ZkNOd05rU1JmSktrNm91MG1sWmpCdXNqTmFZUUJuaWlCRVZHeDVoVmVFNkhESHdJV3pzWGFWU1VzS2FvdmI0U0N0eFBtU3lWcXJ2RVFVNGx6LVFaaDBCQVZLLTFnTS1wTUdlTGl6bW4wc1FUNW5ZcmNlMUFuUWtuVjJEUVZLRlJwT1ktWkM0aC1mSWw2eThVQ3c4Ym8yYXNDcDdGdG8ycQ?oc=5",
-      "date": "2026-11-18T17:06:14+00:00",
-      "description": "Google AdMob introduces AI tools to automate monetization and ad management &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
@@ -684,10 +606,10 @@
       ]
     },
     {
-      "title": "Vibe web marketing: How to manage your own AI team - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OcWpld2pwSGgtbE1WM0pOb0sxekNWLTk5Q2hWUmRIMzBfWWZvdnhCR09fMkRkdGNyNlYxNVIxYWlYODczX05Mb2pxenU5ZmNxT2lRMEVEcEp3b0hLdk03S0lwN25mamMtdjByMWFDQQ?oc=5",
-      "date": "2026-11-17T16:00:00+00:00",
-      "description": "Vibe web marketing: How to manage your own AI team &nbsp;&nbsp; Search Engine Land",
+      "title": "When everyone can do SEO, what makes an expert? - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZUEIya0ZWaXBfUEloRDE3a1dsVGF1cDRFdjRUMWFiWk1scC05a0J3UHBVdlRlNE9nS0cxWGJxUWVkUGlxd3NqV3V4eDVYdDdOTWtwNTJUX2RMU1hndzVlTExsd2tSVFlFWW85ZkZVYnNHLWg1STZpRjVZRGtXUQ?oc=5",
+      "date": "2026-11-17T13:00:00+00:00",
+      "description": "When everyone can do SEO, what makes an expert? &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -710,6 +632,32 @@
       ]
     },
     {
+      "title": "6 ways to stay on budget with Google Ads Smart Bidding - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUWxreVJqbUgyQkplSS1xWUMyQnBXS1hNOEJxdUtVdS1FZlJuOHpvTTZVcVVPMXVuN1hLX3M0THYxdkZkakJydlplNE1QY0JTVkd4THlwcDkzQVhiSEtvTlhpWnl6NTB2WVlIRFZETWdnRE8wSlJzOTMydlgyamJ0Mw?oc=5",
+      "date": "2026-11-13T08:00:00+00:00",
+      "description": "6 ways to stay on budget with Google Ads Smart Bidding &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Search gets major upgrade with Gemini 4 Hydrogen - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYTJlelI2cWwtaFlMci1xSTctbEozeVlCclYtbm5MUG5GZzM2eXlpWGNUaGlOSVBpVW1jUlBSUUF2dmZHVVREV3ZiT0RzSVhVVmotVHpnV1VhcTZRYmhnZXV0NGhCTU1MVWFJMTRlZFdpcXVwUnFaMDBXdnNFOGZpWGx5QkhJdFY1OTltWVpUczlGb0plekE?oc=5",
+      "date": "2026-11-12T08:00:00+00:00",
+      "description": "Google Search gets major upgrade with Gemini 4 Hydrogen &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Moving to a CDN without overwhelming your origin (or blocking Googlebot)",
       "link": "https://developers.google.com/search/blog/2026/11/crawling-cdn",
       "date": "2026-11-11T00:00:00+00:00",
@@ -720,6 +668,19 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "Google November 2026 core update rolling out now - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSjkwclo1dU0yQzdYSkV6YWhsQTkxN0hNeVJtVUJhaDhDNmJOdDFLeEdtV0RsYkpjaW9xLWIxejRXRFItQnhjSE5GOGx1NVhZazY2a3RHYW5ZQkcxalRGQmROWTFhX1JraDY5Q3lKMk9Mc3BicGtnQWVJNS16VmhZelpMbzJhbmQ2UzNqZA?oc=5",
+      "date": "2026-11-10T08:00:00+00:00",
+      "description": "Google November 2026 core update rolling out now &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
@@ -749,6 +710,19 @@
       ]
     },
     {
+      "title": "Semrush confirms ‘poisoned’ Google results are impacting SEO tools - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTnNyYmZtd0FjRVY2MVJjMlpXLWpEcmx2UG9nakFtTnVTLWJ6NFpFZEVOc1JqRXFDYjBZbzg3Ujc0Q2N2dWg2cFpSNkxYVUhwV2kzRHRsVHdPREVoVFpUWnVfNThGQVFNdXkyZUtSQzhNRmtOcW1Zdm4wMjlLZGZ0YW13?oc=5",
+      "date": "2026-10-27T07:00:00+00:00",
+      "description": "Semrush confirms ‘poisoned’ Google results are impacting SEO tools &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "New learning paths: curated YouTube playlists for Search fundamentals and Technical SEO",
       "link": "https://developers.google.com/search/blog/2026/10/seo-learning-paths",
       "date": "2026-10-06T00:00:00+00:00",
@@ -762,6 +736,19 @@
       ]
     },
     {
+      "title": "Google’s /goto change: The latest challenge for third-party SEO data - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hVVRlNy1wTnU0d2hNZWFjR25CWUhfU0dmdGFwbHpELWVlOFVJRll1bXJTb0NvNWdiY1MxS2t0RkVsekp1ekJ1MTdkeVhHeXVIV1RRR3VianZqVXRXcWJoYlZtMEV1N01nNHFRaVo0RjBnSW8xMUJLbTNqLVM5UQ?oc=5",
+      "date": "2026-09-24T07:00:00+00:00",
+      "description": "Google’s /goto change: The latest challenge for third-party SEO data &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Announcing web multimodal Search performance reporting in Search Console",
       "link": "https://developers.google.com/search/blog/2026/09/web-multimodal-in-sc",
       "date": "2026-09-24T00:00:00+00:00",
@@ -772,6 +759,19 @@
         "Google",
         "SEO",
         "Technical"
+      ]
+    },
+    {
+      "title": "Google AI Overviews now appear in 39% of U.S. desktop searches - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GY3pIenNxY21IdGhRc1RNdDJydmZ0UXUzWjBJeVB0c2tkYl9FMjFOem5EeGdMZGV3TlVlMzl5Vk4zdUU2TGhUZEEtTHlfa2tOS0V4dXUzZzFCR3F4c25ONFVfUXJRSVR1V2xvRzNfZUdidkJvRUV5SXVqT0Rjdw?oc=5",
+      "date": "2026-09-22T07:00:00+00:00",
+      "description": "Google AI Overviews now appear in 39% of U.S. desktop searches &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
       ]
     },
     {
