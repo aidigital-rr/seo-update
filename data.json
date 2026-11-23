@@ -1,6 +1,45 @@
 {
-  "updatedAt": "2026-11-22T22:27:58.889212+00:00",
+  "updatedAt": "2026-11-23T03:08:02.548271+00:00",
   "items": [
+    {
+      "title": "Google StarSearch, AIGC, Zero-History Discovery, Feed Ranking & More",
+      "link": "https://www.seroundtable.com/google-starsearch-42594.html",
+      "date": "2026-11-23T00:30:00+00:00",
+      "description": "Google has posted a new job listing for a Senior Software Engineer, Discover Feed Recommendations. And in that job listing, it lists a number of interesting Google Search tidbits, including something called \"StarSearch,\" as well as AIGC, Zero-History Discovery, Feed Ranking, and more.",
+      "image": "https://images.seroundtable.com/senior-software-engineer-discover-feed-recommendations-google-careers-11-22-2026-07-31-pm-nlkvaTG2.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "You Can Connect ChatGPT Business Hub With ChatGPT Ad Account",
+      "link": "https://www.seroundtable.com/chatgpt-business-hub-ad-account-42592.html",
+      "date": "2026-11-22T23:24:00+00:00",
+      "description": "Did you know that you can connect your ChatGPT Ads account in your new ChatGPT Business Hub? There is a button at the top of the ChatGPT Business Hub that says, \"Connect an ad account,\" and adds, \"This will let you promote your business and reach more customers across ChatGPT.\"",
+      "image": "https://images.seroundtable.com/chatgpt-business-hub-connect-ad-account-0-6njrIAFj.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Search Profiles Is Rolling Out Globally",
+      "link": "https://www.seroundtable.com/google-search-profiles-global-42591.html",
+      "date": "2026-11-22T22:33:00+00:00",
+      "description": "Google seems to have rolled out Search Profiles globally, this has not yet been announced but now folks outside of the United States, Canada and India can now claim their profile without having to go through VPNs to pretend they are in those countries.",
+      "image": "https://images.seroundtable.com/google-profile-card-o9tqvFGF.jpg",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "WordPress Random Redirects, Branded API Data & CDN Advice – SEO Pulse via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/seo-pulse-wordpress-random-redirects-branded-api-data-cdn-advice/598173/",
@@ -433,45 +472,6 @@
       ]
     },
     {
-      "title": "Google Search Tests \"Show Original Results\" Button",
-      "link": "https://www.seroundtable.com/google-search-show-original-results-button-42574.html",
-      "date": "2026-11-19T12:31:00+00:00",
-      "description": "Google Search is testing a new button in the search results named \"Show original results.\" It seems this button does something similar to the \"Search instead for\" link, where Google will auto correct or adapt your query when it thinks you have a typo in your query or you meant to search for something else.",
-      "image": "https://images.seroundtable.com/google-search-show-original-result-0JlQRYgW.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Data Feed Validation Tool Has Been Turned Down",
-      "link": "https://www.seroundtable.com/google-data-feed-validation-tool-gone-42572.html",
-      "date": "2026-11-19T12:21:00+00:00",
-      "description": "Google has \"turned down\" its Data Feed validation tool and has removed references to it from the Book actions (Book) structured data help documentation. I am not sure when this tool surfaced but likely sometime between October 2016 and December 2017 alongside the broader Actions on Google developer platform.",
-      "image": "https://images.seroundtable.com/google-validation-book-schema-old-h1lLGhk2.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Images Results With Lens To AI Mode Feature",
-      "link": "https://www.seroundtable.com/google-images-lens-to-ai-mode-42570.html",
-      "date": "2026-11-19T12:11:00+00:00",
-      "description": "Google image search results now let you click a Google Lens button, which takes you into an AI Overview follow-up query or even an AI Mode follow-up query. This is different from when Google added the Google Lens button to image search results.",
-      "image": "https://images.seroundtable.com/google-images-lens-ai-overview-dXQzWjd8.png",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "OpenAI Publishes Prompting Guidance For GPT-6.2 Astra via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/openai-gpt-6-2-astra-prompting-guidance/597877/",
       "date": "2026-11-18T22:26:21+00:00",
@@ -516,6 +516,19 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google unifies Google tag and Tag Manager with new tagging and debugging features - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQTBqX2hNVEJxcjBwdFFJTnBMNFVXZjBzb0ZyMmMxY3B0czkxVzlUaFlRQXdHU3ltUDV1N3hqdGNFVTg1bnlFcElMSkNfaWtzMl9YOUlORkRMWmdxZmRJcXE0MUlQN09OMjVzSTh1bVZSakJtZDZ6alVmSmxKR3dTVkxOYzBReHJjZXpDUldUQlUxQXVscC1jNnFraXoyTVNkTklya0RhQ29QM1ZER2UwN0F4eU1aMGJm?oc=5",
+      "date": "2026-11-18T17:30:40+00:00",
+      "description": "Google unifies Google tag and Tag Manager with new tagging and debugging features &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
         "AI Search"
       ]
     },
@@ -606,10 +619,10 @@
       ]
     },
     {
-      "title": "When everyone can do SEO, what makes an expert? - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZUEIya0ZWaXBfUEloRDE3a1dsVGF1cDRFdjRUMWFiWk1scC05a0J3UHBVdlRlNE9nS0cxWGJxUWVkUGlxd3NqV3V4eDVYdDdOTWtwNTJUX2RMU1hndzVlTExsd2tSVFlFWW85ZkZVYnNHLWg1STZpRjVZRGtXUQ?oc=5",
-      "date": "2026-11-17T13:00:00+00:00",
-      "description": "When everyone can do SEO, what makes an expert? &nbsp;&nbsp; Search Engine Land",
+      "title": "Google Search Analytics API gains new filters and reporting - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFRfbEFlR1pYUWs0REdrOHhMU0tBNWdSclVBMUdnM216SHNtM3J6QXJBYlBZQXAyZGpJRmZpckY5NzZiZjJWUV96Vl9GbUZrc3ljZUs1ZE1naXFOcnN2dzBNcnJ6ZXZZTnQ0OGZpbjVtUnpXVTNzZlJvLXZybVhncU85NGtodVF1TGJST3RjSjJJWXpkVE95dmNmYw?oc=5",
+      "date": "2026-11-16T14:51:20+00:00",
+      "description": "Google Search Analytics API gains new filters and reporting &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -759,19 +772,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "Google AI Overviews now appear in 39% of U.S. desktop searches - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GY3pIenNxY21IdGhRc1RNdDJydmZ0UXUzWjBJeVB0c2tkYl9FMjFOem5EeGdMZGV3TlVlMzl5Vk4zdUU2TGhUZEEtTHlfa2tOS0V4dXUzZzFCR3F4c25ONFVfUXJRSVR1V2xvRzNfZUdidkJvRUV5SXVqT0Rjdw?oc=5",
-      "date": "2026-09-22T07:00:00+00:00",
-      "description": "Google AI Overviews now appear in 39% of U.S. desktop searches &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
       ]
     },
     {
