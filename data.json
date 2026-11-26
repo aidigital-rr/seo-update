@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-11-26T04:59:33.286695+00:00",
+  "updatedAt": "2026-11-26T15:08:28.035956+00:00",
   "items": [
+    {
+      "title": "The Missing Step In Prompt Tracking Was Written Down In 1995 via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/the-missing-step-in-prompt-tracking-was-written-down-in-1995/598461/",
+      "date": "2026-11-26T15:00:36+00:00",
+      "description": "Competency questions, a 30-year-old knowledge engineering method, define which questions matter and what a correct answer is. The post The Missing Step In Prompt Tracking Was Written Down In 1995 appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/duane-forrester-tracking-featured-598461-1600x840-1.webp",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "What SEOs Can Be Thankful For: 8 Wins To Celebrate In 2026 via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/what-seos-can-be-thankful-for-2026/598921/",
+      "date": "2026-11-26T13:00:22+00:00",
+      "description": "A Thanksgiving roundup of eight search changes from this year worth a thank-you, from AI visibility data and social reports to a back button policy. The post What SEOs Can Be Thankful For: 8 Wins To Celebrate In 2026 appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/thanksgiving-toast-2680903279.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Local Pack No Reviews Bug",
+      "link": "https://www.seroundtable.com/google-local-pack-no-reviews-bug-42624.html",
+      "date": "2026-11-26T12:12:00+00:00",
+      "description": "Google is not showing reviews in the local pack for some business listings that do indeed have reviews. Google shows \"No reviews\" with no stars in the local pack for these businesses, but when you click on the listing, Google does show that these businesses have reviews.",
+      "image": "https://images.seroundtable.com/google-local-panel-no-reviews-bug-EYbUGAxd.png",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "OpenAI Isn’t Planning Prompt-Level Reports For ChatGPT Ads via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/openai-isnt-planning-prompt-level-reports-for-chatgpt-ads/599126/",
@@ -358,6 +395,19 @@
       ]
     },
     {
+      "title": "Are Google AI Mode and AI Overviews ad clicks more valuable? - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRmpXRnJQSlRVSUhydHZ1R0tmNlpCRk5VS0lqcURWTXNtR0RseUV5Mm12cWNrQnZJNXQwNjdCbmVFdU82YUtCbjJsamg2SUZsMWdwWTBNMEZoTGFjcTV5dF9rRGdhVE9SS19tWmFwclFVLVI2Z0M0X0QyNUltTVFUR0k4RXB2QQ?oc=5",
+      "date": "2026-11-24T16:00:00+00:00",
+      "description": "Are Google AI Mode and AI Overviews ad clicks more valuable? &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Google preannounces December 2026 core update - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSDhhNGx6OHJwVExGVkdLaXFPN2t3bFNhZnBkclNfMVVCZjB0UUpqaGNkUWFjcFdTRXF2YUY1Z3BiT2RjU3llRWdhbmpVUlZzX1pBYUNRcHdVX0kxM1FsT1V6STJQbmFPZGc2WlAzZjRUWThqdVEzNDhwZzRYSUZKQzFQQURVQmtpeGtmUnlKSkZBNnVmNU9oTEpUeW1uVTN0RWZzNy1iOTNmVlpuTS1ZU0k0REpTLXp0Znc?oc=5",
       "date": "2026-11-24T15:44:34+00:00",
@@ -463,7 +513,7 @@
       "link": "https://www.seroundtable.com/google-november-2026-core-update-done-42571.html",
       "date": "2026-11-24T14:10:00+00:00",
       "description": "Google's November 2026 broad core update has officially completed rolling out. Google updated the Search Status Dashboard to document the rollout completed on November 24, 2026 at 9:03 am ET. The rollout took 14 days, and here is what we have documented about this update so far.",
-      "image": "https://images.seroundtable.com/volatility/cognitiveseo-2026-10-25-lg.png?v=1793008900",
+      "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -476,7 +526,7 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWnhWSXJoVHk1Z1RYTXJjQ3RTZzJiV1JGbk5nTFBkVnlwVHNyWWNPMTZWYWZUOFE1ZzRlNTUxcGhPNUdIcW9EbjV3d2lPWE1OOGlHc3k4WDN0MHdQckJTck5pelhCbDdIbWIzNGI4bDB1dmpnYmNWWkw4QUdMMEZMeDVyU3U2b1lyaTBR?oc=5",
       "date": "2026-11-24T14:00:00+00:00",
       "description": "How many products does an ecommerce category page need? Data from 100 stores &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -489,7 +539,7 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdEpOYmhad2lTLUF6TmU1dk5kakVCaDNwRHg5cXlKbWFEdHB0SkxKbUxFVkUwSm1aMms3V3NNQlhrRXBxM1JHLTdlMXlzOWh2Y05WX2FNMXhSMWx3dlRzcjlQRl9pMTYwUHFzWDk3LVVwMkZIQUpTcVEzaWNEclpsLVg5MHg1ck55R3JxT094UmZFdXFUcEJnZTlJUTRJMmpaT2NSZ0lKbEhHdVdGcjZOa3RTcDJrRjBz?oc=5",
       "date": "2026-11-24T13:16:44+00:00",
       "description": "Google documents a number of previously undocumented Google crawlers and fetchers &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -502,23 +552,10 @@
       "link": "https://www.searchenginejournal.com/what-bings-ai-actually-cites-883000-citations-analyzed/595708/",
       "date": "2026-11-24T13:00:08+00:00",
       "description": "An analysis of 883,000 Bing AI citations shows overlooked PDFs, app pages, and support content earn citations and deserve a place in content audits. The post Bing’s AI Cites Support Pages, PDFs &amp; Staff Bios – 883,313 Citations Analyzed appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/bing-ai-306.png",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "How to use prediction intervals to forecast organic traffic - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWTdOSTM3dE5wV29aYjRyd0lDT0JEQ1lrcTROOWlwblZUX2RRMHZmQUZYWVFuUEVTTllNTlRoRUk5QmlZX3BIcFlzNnVQWVJzWnlyN3dUdkE5cE42aXh5X2pnVjR1Qmc1ZDN5REVRSnlabXA1dVFuUFprN0pQeHgzYkt1ZnV2X2lq?oc=5",
-      "date": "2026-11-24T13:00:00+00:00",
-      "description": "How to use prediction intervals to forecast organic traffic &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
@@ -527,19 +564,6 @@
       "link": "https://www.seroundtable.com/bing-ai-generated-answer-42598.html",
       "date": "2026-11-24T12:51:00+00:00",
       "description": "Microsoft Bing is testing a new flavor of AI-generated answers that are labeled \"AI-Generated answer\" and seem to be different from the Bing AI Overviews and Copilot Search boxes.",
-      "image": "",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Business Profiles Appeals Simplified Into A Single Form",
-      "link": "https://www.seroundtable.com/google-business-profiles-appeals-form-simplified-42593.html",
-      "date": "2026-11-24T12:41:00+00:00",
-      "description": "Google has updated the appeals form in Google Business Profiles to a single form, replacing the previous multi-step workflow. This makes the process of submitting an appeal faster and simpler.",
       "image": "",
       "source": "Search Engine Roundtable",
       "tags": [
@@ -585,19 +609,6 @@
       ]
     },
     {
-      "title": "Google Analytics for Firebase adds AI agent skills for app tracking - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV19SUjJBaEpvVnlDTHpFWFVKQTA5a3k1Vk9ZYnFNdWJlSXZ2UnhSRnJwdWFKTy1XVFFFWDlqUTRDczcwdWdpNm1yQU1SUGRJWWVRV0VwWTByeUpqSm9vU1M2ZTNXejVEV09wZjd2eUlWTEJrVFd6RjlueTlxTml1SF83cFBzcTVvSjl4S0dEMFhTblRYc1NUQzdidGJ4YkljVDQwRU5n?oc=5",
-      "date": "2026-11-23T18:32:54+00:00",
-      "description": "Google Analytics for Firebase adds AI agent skills for app tracking &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google Says Back Button Hijacking Policy Covers Social Visits via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-back-button-hijacking-policy-social-visits/598592/",
       "date": "2026-11-23T18:00:23+00:00",
@@ -606,19 +617,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "SEO forecasting and predictive analytics: How to estimate traffic and revenue - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdjhGd2FWNVBHblBvR0doSkNEQ3djYXNGVWVXLTNZVmRYVXFKR2dXWkxTVDlmQmd4eFBRd3FaTTdfTXJlRnVPSWl4b3VQOGh2YzRBcEEwVXRUZ01PUEZrRVJpb0ZES3Vsd0lkM2xDY1J0Rm1welppX09ZS2pFa24zcA?oc=5",
-      "date": "2026-11-23T17:59:51+00:00",
-      "description": "SEO forecasting and predictive analytics: How to estimate traffic and revenue &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
@@ -649,6 +647,19 @@
       ]
     },
     {
+      "title": "Google AI Mode dive deeper is now live - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IUUtvdkhuRlRxcEhLVTRSSEtZMjM4TU9aMm5BSUdobUVRN0FSeVdxWU1PV0pFZFVPR2hILWpUa3dqbndxbEhuSGlDWlVaZ05zMXZWU2w2Ujgwd2NBTDVXcTFRRnZIclBTUXd2dGFJYUh3akd1dF94OXJ4clEyWkE?oc=5",
+      "date": "2026-11-23T16:11:21+00:00",
+      "description": "Google AI Mode dive deeper is now live &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "The Final Ad Checklist Before BFCM – What To Fix Now & What To Leave via @sejournal, @tonyadam",
       "link": "https://www.searchenginejournal.com/the-final-ad-checklist-before-bfcm-what-to-fix-now-what-to-leave/597701/",
       "date": "2026-11-23T15:00:32+00:00",
@@ -661,34 +672,23 @@
       ]
     },
     {
+      "title": "AI Overviews changed what content needs to do: Here’s how to adapt - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QaEJSRkJSZFRSdnNVQVZEZm10eE92MnhlamU4bFFMNnozU25yQjVMeXBoVnY5eVVOTE8zdW5WR0NCX2J3SC0zZW1rV011TmpIcGhlSGZQcWpKaGp1X3RxdkRad1UwMU1YTWQ3Z3BnZw?oc=5",
+      "date": "2026-11-23T15:00:00+00:00",
+      "description": "AI Overviews changed what content needs to do: Here’s how to adapt &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Google Publishes Guidance For Google-Agent Crawler via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-publishes-guidance-for-google-agent-crawler/598526/",
       "date": "2026-11-23T13:12:32+00:00",
       "description": "Google explains how website owners and SEOs can identify legitimate Google-Agent requests and prevent security systems from blocking them. The post Google Publishes Guidance For Google-Agent Crawler appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "35 AI Prompts & Examples For SEO (Updated November 2026) via @sejournal, @theshelleywalsh",
-      "link": "https://www.searchenginejournal.com/ai-prompts-examples-for-seo-2026/596734/",
-      "date": "2026-11-23T13:00:17+00:00",
-      "description": "Use these SEO prompts with verified data, native AI tools, and connected sources to get deeper insights from tool data. The post 35 AI Prompts &#038; Examples For SEO (Updated November 2026) appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Check Your Nov. 18 Rank Data Before Blaming The Core Update via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/check-your-nov-18-rank-data-before-blaming-the-core-update/598449/",
-      "date": "2026-11-23T09:00:04+00:00",
-      "description": "A rank tracker received about a tenth of its usual Google results for hours during the core update, with a sign-in page among the blocks. The post Check Your Nov. 18 Rank Data Before Blaming The Core Update appeared first on Search Engine Journal .",
       "image": "",
       "source": "Search Engine Journal",
       "tags": [
