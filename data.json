@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T01:40:39.649853+00:00",
+  "updatedAt": "2026-11-28T09:27:03.242239+00:00",
   "items": [
     {
       "title": "Know What To Fix Before Scaling AI Agents For AEO In 2027 via @sejournal, @hethr_campbell",
@@ -14,10 +14,10 @@
       ]
     },
     {
-      "title": "Google’s 404 Guide Says 410s Generally Get Crawled Less Often via @sejournal, @MattGSouthern",
+      "title": "Google Moves 404 Guidance To Search Central, Adds A 410 Crawl Note via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-404-guide-410-crawl-frequency/599287/",
       "date": "2026-11-27T20:26:24+00:00",
-      "description": "Google moved its 404 guidance into Search Central and now says 410s generally get crawled less often, while treating both codes the same for indexing. The post Google&#8217;s 404 Guide Says 410s Generally Get Crawled Less Often appeared first on Search Engine Journal .",
+      "description": "Google moved its 404 guidance into Search Central and now says 410s generally get crawled less often, while treating both codes the same for indexing. The post Google Moves 404 Guidance To Search Central, Adds A 410 Crawl Note appeared first on Search Engine Journal .",
       "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-404-shutterstock-2645018491-featured.jpg",
       "source": "Search Engine Journal",
       "tags": [
@@ -26,10 +26,10 @@
       ]
     },
     {
-      "title": "Google Adds Shopping Campaigns To Promotion Mode Eligibility via @sejournal, @MattGSouthern",
+      "title": "Google Says Promotion Mode Now Supports Shopping Campaigns via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-adds-shopping-campaigns-to-promotion-mode-eligibility/599279/",
       "date": "2026-11-27T19:57:15+00:00",
-      "description": "Standard Shopping campaigns can use Promotion Mode to lower Target ROAS for short sales, with an optional extra daily budget, an updated help page says. The post Google Adds Shopping Campaigns To Promotion Mode Eligibility appeared first on Search Engine Journal .",
+      "description": "Standard Shopping campaigns can use Promotion Mode to lower Target ROAS for short sales, with an optional extra daily budget, an updated help page says. The post Google Says Promotion Mode Now Supports Shopping Campaigns appeared first on Search Engine Journal .",
       "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-shopping-promotion-mode-featured.jpg",
       "source": "Search Engine Journal",
       "tags": [
@@ -328,32 +328,6 @@
       ]
     },
     {
-      "title": "Google Merchant Center adds Ads opportunities tab for agencies - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQmotQ2ZrVmFBQTRoejVsSFNUcUxpcmdmdENCREplcFJTbzZDTzRxdzdCNXhMV3A0aWtFeEZLeG1CNGNHV1Z5S1ZNQ2UwckVEMUlmR3pETExnNTlDcXMzNEZFd3JvUF9XbExIYVBCaldGS1luRURaZjVPbGViYWx3VVZaQUNCZHMwY1N1c1RGbXpBeF9HM2V5eGJ0QjQzS0k?oc=5",
-      "date": "2026-11-25T16:44:37+00:00",
-      "description": "Google Merchant Center adds Ads opportunities tab for agencies &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "ChatGPT Ads to enable third-party partner app access by default - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQk4zY01zSndHOTdFQUhlbVpYMllEMlN6ejM4X2dXejByR283aXhMVTRTNDI5N0FyVTM2UmliYTU2ekVwTzllSlJ3QWhOS3FhZlFFWHY2dE50dEU5eEEwRmNMVEZsLVVKSVUzbkUwdjltVXJwQVhKMnZwMjVkbmwxVjZhR1ZjVjRsOGZaU2ZjRHFzNmt0czVQMHhwSlVSTERT?oc=5",
-      "date": "2026-11-25T16:20:31+00:00",
-      "description": "ChatGPT Ads to enable third-party partner app access by default &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "6 agentic SEO workflows that go beyond prompting - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yYXMzS3ZhYWROdU5YNFE2S3JyTWtLcGpYUzhmak1CMEJOVFZvMm9JeEFfb0RKT2VBZ2JuQ2d0TVFoWC13bjREanhjblRNU0RtbFlPekhadUVyT0luQy1WZURwdjhzVnBYLTVEZHRjMVlxd3k5SFFmU1hzMWtrTXc?oc=5",
       "date": "2026-11-25T16:00:00+00:00",
@@ -510,7 +484,7 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRmpXRnJQSlRVSUhydHZ1R0tmNlpCRk5VS0lqcURWTXNtR0RseUV5Mm12cWNrQnZJNXQwNjdCbmVFdU82YUtCbjJsamg2SUZsMWdwWTBNMEZoTGFjcTV5dF9rRGdhVE9SS19tWmFwclFVLVI2Z0M0X0QyNUltTVFUR0k4RXB2QQ?oc=5",
       "date": "2026-11-24T16:00:00+00:00",
       "description": "Are Google AI Mode and AI Overviews ad clicks more valuable? &nbsp;&nbsp; Search Engine Land",
-      "image": "",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -523,7 +497,7 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSDhhNGx6OHJwVExGVkdLaXFPN2t3bFNhZnBkclNfMVVCZjB0UUpqaGNkUWFjcFdTRXF2YUY1Z3BiT2RjU3llRWdhbmpVUlZzX1pBYUNRcHdVX0kxM1FsT1V6STJQbmFPZGc2WlAzZjRUWThqdVEzNDhwZzRYSUZKQzFQQURVQmtpeGtmUnlKSkZBNnVmNU9oTEpUeW1uVTN0RWZzNy1iOTNmVlpuTS1ZU0k0REpTLXp0Znc?oc=5",
       "date": "2026-11-24T15:44:34+00:00",
       "description": "Google preannounces December 2026 core update &nbsp;&nbsp; Search Engine Land",
-      "image": "",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -594,19 +568,6 @@
       ]
     },
     {
-      "title": "Google documents a number of previously undocumented Google crawlers and fetchers - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdEpOYmhad2lTLUF6TmU1dk5kakVCaDNwRHg5cXlKbWFEdHB0SkxKbUxFVkUwSm1aMms3V3NNQlhrRXBxM1JHLTdlMXlzOWh2Y05WX2FNMXhSMWx3dlRzcjlQRl9pMTYwUHFzWDk3LVVwMkZIQUpTcVEzaWNEclpsLVg5MHg1ck55R3JxT094UmZFdXFUcEJnZTlJUTRJMmpaT2NSZ0lKbEhHdVdGcjZOa3RTcDJrRjBz?oc=5",
-      "date": "2026-11-24T13:16:44+00:00",
-      "description": "Google documents a number of previously undocumented Google crawlers and fetchers &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Bing’s AI Cites Support Pages, PDFs & Staff Bios – 883,313 Citations Analyzed via @sejournal, @dodgejd",
       "link": "https://www.searchenginejournal.com/what-bings-ai-actually-cites-883000-citations-analyzed/595708/",
       "date": "2026-11-24T13:00:08+00:00",
@@ -615,32 +576,6 @@
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Analytics for Firebase adds AI agent skills for app tracking - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV19SUjJBaEpvVnlDTHpFWFVKQTA5a3k1Vk9ZYnFNdWJlSXZ2UnhSRnJwdWFKTy1XVFFFWDlqUTRDczcwdWdpNm1yQU1SUGRJWWVRV0VwWTByeUpqSm9vU1M2ZTNXejVEV09wZjd2eUlWTEJrVFd6RjlueTlxTml1SF83cFBzcTVvSjl4S0dEMFhTblRYc1NUQzdidGJ4YkljVDQwRU5n?oc=5",
-      "date": "2026-11-23T18:32:54+00:00",
-      "description": "Google Analytics for Firebase adds AI agent skills for app tracking &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "SEO forecasting and predictive analytics: How to estimate traffic and revenue - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdjhGd2FWNVBHblBvR0doSkNEQ3djYXNGVWVXLTNZVmRYVXFKR2dXWkxTVDlmQmd4eFBRd3FaTTdfTXJlRnVPSWl4b3VQOGh2YzRBcEEwVXRUZ01PUEZrRVJpb0ZES3Vsd0lkM2xDY1J0Rm1welppX09ZS2pFa24zcA?oc=5",
-      "date": "2026-11-23T17:59:51+00:00",
-      "description": "SEO forecasting and predictive analytics: How to estimate traffic and revenue &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
         "AI Search"
       ]
     },
@@ -684,10 +619,75 @@
       ]
     },
     {
+      "title": "Google AI Mode dive deeper is now live - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IUUtvdkhuRlRxcEhLVTRSSEtZMjM4TU9aMm5BSUdobUVRN0FSeVdxWU1PV0pFZFVPR2hILWpUa3dqbndxbEhuSGlDWlVaZ05zMXZWU2w2Ujgwd2NBTDVXcTFRRnZIclBTUXd2dGFJYUh3akd1dF94OXJ4clEyWkE?oc=5",
+      "date": "2026-11-23T16:11:21+00:00",
+      "description": "Google AI Mode dive deeper is now live &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "AI Overviews changed what content needs to do: Here’s how to adapt - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QaEJSRkJSZFRSdnNVQVZEZm10eE92MnhlamU4bFFMNnozU25yQjVMeXBoVnY5eVVOTE8zdW5WR0NCX2J3SC0zZW1rV011TmpIcGhlSGZQcWpKaGp1X3RxdkRad1UwMU1YTWQ3Z3BnZw?oc=5",
       "date": "2026-11-23T15:00:00+00:00",
       "description": "AI Overviews changed what content needs to do: Here’s how to adapt &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google AI cites social media 52% more, ChatGPT 44% less: Study - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaHlrLUl1b1hxSEFoV0hucGVfd3BMaEN3d19md2xMdllXbmVoR2hNMW9LbjRiQ1RFcjk2b1ltQ1JKRUl2VGtzaXN4VXVLUHNDdXZXWXpzalJYVFRCbHFSNXhVWW1IYnFHZEpzUXd3bnFXd055WGFyUFZMT0RhcExhcTJObG9VWUtLRnJDS3FULTNtZw?oc=5",
+      "date": "2026-11-23T14:51:46+00:00",
+      "description": "Google AI cites social media 52% more, ChatGPT 44% less: Study &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Multi-location SEO: Why one strategy doesn’t fit every location - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRFlDVl9uOGc0MS16b2ZkZ3lEbG5oVEViVmpNXzJBcWVIcHdyZ2hkUWdTNXd0WE5DNlJCdHhrVXlPdDdWNGVCTERURE44endnSUUtcUxHNHloUWQ4VkFlVnZMcThmclNkcm90TW5hYUpsRHkxR3lOZkM5NWlLRkNTdWdxNWVhc3RBTmc?oc=5",
+      "date": "2026-11-23T14:00:00+00:00",
+      "description": "Multi-location SEO: Why one strategy doesn’t fit every location &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "The latest jobs in search marketing - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWpwS0I4dzBFQWN1Z3Bxend4bmIzTWxqZEZRVW1qckh5LUNBamliSGc1Sko2ckplUDFOaHdFSEw4ZTdpNjRLSVhQVGZQMmtjMlpUOUFCZW9TamQxWkZBYkw5Rl9ISEFFc0ZYbWw1V3phV21fbUE?oc=5",
+      "date": "2026-11-20T18:06:49+00:00",
+      "description": "The latest jobs in search marketing &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "How to measure SEO performance and results - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBITG9KMVdHOF90NEZPYUczbGU4UWRrOHIzMXNTb0ItZDlnb21kbFREcHlCWjNZV0RscUVnS0R6eVI5S0JoeTlndFFDMmFfRHlPZjRQTk9pR2l4UQ?oc=5",
+      "date": "2026-11-20T16:57:07+00:00",
+      "description": "How to measure SEO performance and results &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
