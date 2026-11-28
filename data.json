@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-11-27T18:27:27.777389+00:00",
+  "updatedAt": "2026-11-28T01:40:39.649853+00:00",
   "items": [
+    {
+      "title": "Know What To Fix Before Scaling AI Agents For AEO In 2027 via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/know-what-to-fix-before-scaling-ai-agents-for-aeo-in-2027/598837/",
+      "date": "2026-11-27T22:41:34+00:00",
+      "description": "Join us on December 2 to learn where enterprise AI agent programs stall and how to choose your AEO data, measurement, and investment priorities for 2027. The post Know What To Fix Before Scaling AI Agents For AEO In 2027 appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/agentic-aeo-magnifying-glass-sej.png",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google’s 404 Guide Says 410s Generally Get Crawled Less Often via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-404-guide-410-crawl-frequency/599287/",
+      "date": "2026-11-27T20:26:24+00:00",
+      "description": "Google moved its 404 guidance into Search Central and now says 410s generally get crawled less often, while treating both codes the same for indexing. The post Google&#8217;s 404 Guide Says 410s Generally Get Crawled Less Often appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-404-shutterstock-2645018491-featured.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Adds Shopping Campaigns To Promotion Mode Eligibility via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-adds-shopping-campaigns-to-promotion-mode-eligibility/599279/",
+      "date": "2026-11-27T19:57:15+00:00",
+      "description": "Standard Shopping campaigns can use Promotion Mode to lower Target ROAS for short sales, with an optional extra daily budget, an updated help page says. The post Google Adds Shopping Campaigns To Promotion Mode Eligibility appeared first on Search Engine Journal .",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-shopping-promotion-mode-featured.jpg",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search"
+      ]
+    },
     {
       "title": "Google On When To Fix 404 Errors & Updates 404 & Sitemaps Docs",
       "link": "https://www.seroundtable.com/google-404-and-sitemaps-docs-42634.html",
@@ -155,6 +191,19 @@
       ]
     },
     {
+      "title": "Google’s Smart Bidding shake-up: Did advertisers overreact? - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMlI4aDF6YlJFTmpOc2w2SGhDWlB4TEVRQTFDY19VNURwN2MxdUhGclFTMkgyM3ZpelZwZGxfdGE0eG40Y1J6ZW9RenZJVFFrVmF4TlBoc01KbnNzU3pRUkpsck1ZTVVBNXBIVGpRZUJFUTRjM05CSDZEaU5xNXpQMmhkYzFZSE5Ra2g4WGZyVTB3MHVSRVJr?oc=5",
+      "date": "2026-11-27T00:11:01+00:00",
+      "description": "Google’s Smart Bidding shake-up: Did advertisers overreact? &nbsp;&nbsp; Search Engine Land",
+      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "ChatGPT Ads adds audience metrics and expands Business Agents - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOUNQNm9SSXJqd09NMVdLSUtJSXVSLThWb2Q4TWNEdjVRdmx5TWhLRy1lMWpmaDFwUFJJUEN3aGYydkVycHd5emRhSEx6dS1Ta1l1LXR0dmJFVWV1NGNtdm93a21YOTRaRjVveE8xSFl4dmtPOUtBNHVmMUNmWThaRWdkQ09MNGNtUmVVTUJ2cGFGeExyT2t1YjZ2TENoQQ?oc=5",
       "date": "2026-11-26T20:30:43+00:00",
@@ -296,19 +345,6 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQk4zY01zSndHOTdFQUhlbVpYMllEMlN6ejM4X2dXejByR283aXhMVTRTNDI5N0FyVTM2UmliYTU2ekVwTzllSlJ3QWhOS3FhZlFFWHY2dE50dEU5eEEwRmNMVEZsLVVKSVUzbkUwdjltVXJwQVhKMnZwMjVkbmwxVjZhR1ZjVjRsOGZaU2ZjRHFzNmt0czVQMHhwSlVSTERT?oc=5",
       "date": "2026-11-25T16:20:31+00:00",
       "description": "ChatGPT Ads to enable third-party partner app access by default &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google Ads encourages dynamic conversion values to improve Smart Bidding - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWEJRV2FuN0F3OHktRnhCb1BNdExVNTJ6cGpSLUZ4OEltTHlNU05MemNvQ01sd2RSb2FCcTBkV0Njazh2QmdsNlRCZkxrY2RjUGFNRC1NLUVCYy1iMWRfdHJyMzVRc0d4M2RjQ3hOMjQzODB0MjJYTHE4VGoxNUJwdnR2d0Rwb0F0Ty1wVGM2V3RCeVg1dms5Z09GMHJJSnZ5ZW1panVMR1hjeVpw?oc=5",
-      "date": "2026-11-25T16:07:16+00:00",
-      "description": "Google Ads encourages dynamic conversion values to improve Smart Bidding &nbsp;&nbsp; Search Engine Land",
       "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "source": "Search Engine Land",
       "tags": [
@@ -470,11 +506,24 @@
       ]
     },
     {
+      "title": "Are Google AI Mode and AI Overviews ad clicks more valuable? - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRmpXRnJQSlRVSUhydHZ1R0tmNlpCRk5VS0lqcURWTXNtR0RseUV5Mm12cWNrQnZJNXQwNjdCbmVFdU82YUtCbjJsamg2SUZsMWdwWTBNMEZoTGFjcTV5dF9rRGdhVE9SS19tWmFwclFVLVI2Z0M0X0QyNUltTVFUR0k4RXB2QQ?oc=5",
+      "date": "2026-11-24T16:00:00+00:00",
+      "description": "Are Google AI Mode and AI Overviews ad clicks more valuable? &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
       "title": "Google preannounces December 2026 core update - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSDhhNGx6OHJwVExGVkdLaXFPN2t3bFNhZnBkclNfMVVCZjB0UUpqaGNkUWFjcFdTRXF2YUY1Z3BiT2RjU3llRWdhbmpVUlZzX1pBYUNRcHdVX0kxM1FsT1V6STJQbmFPZGc2WlAzZjRUWThqdVEzNDhwZzRYSUZKQzFQQURVQmtpeGtmUnlKSkZBNnVmNU9oTEpUeW1uVTN0RWZzNy1iOTNmVlpuTS1ZU0k0REpTLXp0Znc?oc=5",
       "date": "2026-11-24T15:44:34+00:00",
       "description": "Google preannounces December 2026 core update &nbsp;&nbsp; Search Engine Land",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "image": "",
       "source": "Search Engine Land",
       "tags": [
         "SEO",
@@ -487,7 +536,7 @@
       "link": "https://www.searchenginejournal.com/google-december-2026-core-update/598760/",
       "date": "2026-11-24T15:10:30+00:00",
       "description": "Google announced a December core update focused on ranking relevant content for longer questions and improving results when personalization is on. The post Google Announces December 2026 Core Update Ahead Of Rollout appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-core-update-featured.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -499,7 +548,7 @@
       "link": "https://www.searchenginejournal.com/wordpress-drops-to-38-5-of-the-web-down-nearly-5-points-in-a-year/598175/",
       "date": "2026-11-24T15:00:28+00:00",
       "description": "WordPress fell to 38.4% of all websites as the share with no detected CMS rose to 33.0%. The post WordPress Drops To 38.4% Of The Web, Down Nearly 5 Points In A Year appeared first on Search Engine Journal .",
-      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/wordpress-usage-decline-featured-598175.jpg",
+      "image": "",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -570,42 +619,6 @@
       ]
     },
     {
-      "title": "Google’s Expansion Of Personal Intelligence Will Change SEO via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/googles-expansion-of-personal-intelligence-will-change-seo/598724/",
-      "date": "2026-11-24T11:55:13+00:00",
-      "description": "Google's expanded Personal Intelligence represents a change in the relationship between Search and SEO. The post Google&#8217;s Expansion Of Personal Intelligence Will Change SEO appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Report Flags Most Reddit Users Rating AEO Tools As Likely Promoters via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/check-whos-posting-before-you-trust-reddit-on-aeo-tools/598641/",
-      "date": "2026-11-23T22:52:42+00:00",
-      "description": "An analysis of subreddits flagged most users weighing in on AEO tools as likely promoters. Among the rest, accuracy was the top feature complaint. The post Report Flags Most Reddit Users Rating AEO Tools As Likely Promoters appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "I Blind-Tested 3 Gemini Models On Real SEO Questions – Neon Won 5 Of 6 via @sejournal, @marie_haynes",
-      "link": "https://www.searchenginejournal.com/blind-test-of-gemini-4-neon-vs-hydrogen-vs-3-8-flash-on-real-seo-questions-here-is-what-won-and-what-it-costs/598384/",
-      "date": "2026-11-23T20:00:33+00:00",
-      "description": "Here's how Marie Haynes blind-tested Gemini 4 Neon, Hydrogen, and 3.8 Flash on six SEO questions, plus what each model really costs per prompt. The post I Blind-Tested 3 Gemini Models On Real SEO Questions – Neon Won 5 Of 6 appeared first on Search Engine Journal .",
-      "image": "",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search"
-      ]
-    },
-    {
       "title": "Google Analytics for Firebase adds AI agent skills for app tracking - Search Engine Land",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV19SUjJBaEpvVnlDTHpFWFVKQTA5a3k1Vk9ZYnFNdWJlSXZ2UnhSRnJwdWFKTy1XVFFFWDlqUTRDczcwdWdpNm1yQU1SUGRJWWVRV0VwWTByeUpqSm9vU1M2ZTNXejVEV09wZjd2eUlWTEJrVFd6RjlueTlxTml1SF83cFBzcTVvSjl4S0dEMFhTblRYc1NUQzdidGJ4YkljVDQwRU5n?oc=5",
       "date": "2026-11-23T18:32:54+00:00",
@@ -623,6 +636,19 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdjhGd2FWNVBHblBvR0doSkNEQ3djYXNGVWVXLTNZVmRYVXFKR2dXWkxTVDlmQmd4eFBRd3FaTTdfTXJlRnVPSWl4b3VQOGh2YzRBcEEwVXRUZ01PUEZrRVJpb0ZES3Vsd0lkM2xDY1J0Rm1welppX09ZS2pFa24zcA?oc=5",
       "date": "2026-11-23T17:59:51+00:00",
       "description": "SEO forecasting and predictive analytics: How to estimate traffic and revenue &nbsp;&nbsp; Search Engine Land",
+      "image": "",
+      "source": "Search Engine Land",
+      "tags": [
+        "SEO",
+        "Google",
+        "AI Search"
+      ]
+    },
+    {
+      "title": "Google Ads introduces purchase volume badges for Shopping ads - Search Engine Land",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZFZKWDlnZ3ktMzZaR2tCbWMwU09JX0s4THVmd2hsd2J5RFBfZVE2N2dzVWpibzl3NFowenRoTHgyZGhnbVlZaG1HTWRtZmxRWXduUE5pY3U0TkJUQW40ek13b3p4OW5Ea3ZnZGVTcktDT3R2Y09qdWFHU3ZhbWFuNUpMdUJpNkRMQ0NrTE5jWVBRcUQ1Q1RLUF9oUC1XUQ?oc=5",
+      "date": "2026-11-23T16:59:05+00:00",
+      "description": "Google Ads introduces purchase volume badges for Shopping ads &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
@@ -662,32 +688,6 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QaEJSRkJSZFRSdnNVQVZEZm10eE92MnhlamU4bFFMNnozU25yQjVMeXBoVnY5eVVOTE8zdW5WR0NCX2J3SC0zZW1rV011TmpIcGhlSGZQcWpKaGp1X3RxdkRad1UwMU1YTWQ3Z3BnZw?oc=5",
       "date": "2026-11-23T15:00:00+00:00",
       "description": "AI Overviews changed what content needs to do: Here’s how to adapt &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Google AI cites social media 52% more, ChatGPT 44% less: Study - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaHlrLUl1b1hxSEFoV0hucGVfd3BMaEN3d19md2xMdllXbmVoR2hNMW9LbjRiQ1RFcjk2b1ltQ1JKRUl2VGtzaXN4VXVLUHNDdXZXWXpzalJYVFRCbHFSNXhVWW1IYnFHZEpzUXd3bnFXd055WGFyUFZMT0RhcExhcTJObG9VWUtLRnJDS3FULTNtZw?oc=5",
-      "date": "2026-11-23T14:51:46+00:00",
-      "description": "Google AI cites social media 52% more, ChatGPT 44% less: Study &nbsp;&nbsp; Search Engine Land",
-      "image": "",
-      "source": "Search Engine Land",
-      "tags": [
-        "SEO",
-        "Google",
-        "AI Search"
-      ]
-    },
-    {
-      "title": "Multi-location SEO: Why one strategy doesn’t fit every location - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRFlDVl9uOGc0MS16b2ZkZ3lEbG5oVEViVmpNXzJBcWVIcHdyZ2hkUWdTNXd0WE5DNlJCdHhrVXlPdDdWNGVCTERURE44endnSUUtcUxHNHloUWQ4VkFlVnZMcThmclNkcm90TW5hYUpsRHkxR3lOZkM5NWlLRkNTdWdxNWVhc3RBTmc?oc=5",
-      "date": "2026-11-23T14:00:00+00:00",
-      "description": "Multi-location SEO: Why one strategy doesn’t fit every location &nbsp;&nbsp; Search Engine Land",
       "image": "",
       "source": "Search Engine Land",
       "tags": [
